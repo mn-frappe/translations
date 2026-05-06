@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgstr "Project-Id-Version: erpnext\nReport-Msgid-Bugs-To: developers@frappe.io\nPOT-Creation-Date: 2026-05-06 01:05+0000\nPO-Revision-Date: 2026-05-06 01:05+0000\nLast-Translator: developers@frappe.io\nLanguage-Team: Mongolian\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.16.0\nPlural-Forms: nplurals=2; plural=(n != 1);\nLanguage: mn\n"
 "Project-Id-Version: erpnext\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2026-05-06 01:05+0000\n"
@@ -611,7 +611,7 @@ msgstr ""
 
 #: erpnext/assets/doctype/asset/asset.py:541
 msgid "<b>Cannot create asset.</b><br><br>You're trying to create <b>{0} asset(s)</b> from {2} {3}.<br>However, only <b>{1} item(s)</b> were purchased and <b>{4} asset(s)</b> already exist against {5}."
-msgstr "<b>Хөрөнгө үүсгэх боломжгүй.</b><br><br>Та {2} {3}-с <b>{0} өмч(үүд)</b> үүсгэхийг оролдож байна.<br>Гэхдээ үүнийг зөвхөн <b>PH11__ худалдан авсан бөгөөд эдгээрийг __PH10</b> авсан1 <b>PH14__ өмч(үүд) </b> аль хэдийн {5}-ийн эсрэг байна."
+msgstr "<b>Хөрөнгө үүсгэх боломжгүй.</b><br><br>Та {2} {3}-с <b>{0} өмч(үүд)</b> үүсгэхийг оролдож байна.<br>Гэхдээ үүнийг зөвхөн <b>{1} худалдан авсан бөгөөд эдгээрийг __PH10</b> авсан1 <b>{4} өмч(үүд) </b> аль хэдийн {5}-ийн эсрэг байна."
 
 #: erpnext/crm/doctype/appointment_booking_settings/appointment_booking_settings.py:59
 msgid "<b>From Time</b> cannot be later than <b>To Time</b> for {0}"
@@ -619,7 +619,7 @@ msgstr "<b>Хугацаа</b> нь {0}-д <b>Хүртэлх хугацаа</b>-�
 
 #: erpnext/accounts/doctype/pos_invoice/pos_invoice.py:432
 msgid "<b>Row #{0}:</b> Bundle {1} in warehouse {2} has insufficient packed items:<br><div style='margin-top: 15px;'><ul style='line-height: 0.8;'>{3}</ul></div>"
-msgstr "<b>Мөр #{0}:</b> Багц {1} агуулахад {2} савласан бараа хангалтгүй байна:<br><div style='margin-top: 15px;'>PH7{3}PH9</div>"
+msgstr ""
 
 #. Content of the 'Help Text' (HTML) field in DocType 'Process Statement Of
 #. Accounts'
@@ -1668,12 +1668,12 @@ msgstr "Нягтлан бодох бүртгэлийн хэмжээ"
 #: erpnext/accounts/doctype/gl_entry/gl_entry.py:213
 #: erpnext/accounts/doctype/payment_ledger_entry/payment_ledger_entry.py:150
 msgid "Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}."
-msgstr "Нягтлан бодох бүртгэлийн хэмжээс <b>PH1__</b> нь 'Баланс' дансны {1}-д шаардлагатай."
+msgstr "Нягтлан бодох бүртгэлийн хэмжээс <b>{0}</b> нь 'Баланс' дансны {1}-д шаардлагатай."
 
 #: erpnext/accounts/doctype/gl_entry/gl_entry.py:200
 #: erpnext/accounts/doctype/payment_ledger_entry/payment_ledger_entry.py:138
 msgid "Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}."
-msgstr "Нягтлан бодох бүртгэлийн хэмжээс <b>PH1__</b> нь 'Ашиг, алдагдал' дансны {1}-д шаардлагатай."
+msgstr "Нягтлан бодох бүртгэлийн хэмжээс <b>{0}</b> нь 'Ашиг, алдагдал' дансны {1}-д шаардлагатай."
 
 #. Name of a DocType
 #: erpnext/accounts/doctype/accounting_dimension_detail/accounting_dimension_detail.json
@@ -29962,7 +29962,7 @@ msgstr "Олон түвшний Монголбанк бүтээгч"
 
 #: erpnext/selling/doctype/customer/customer.py:439
 msgid "Multiple Loyalty Programs found for Customer {}. Please select manually."
-msgstr "Олон _ PH хэрэглэгчдэд зориулсан олон тооны хэрэглэгчийн программ олдсон. Гараар сонгоно уу."
+msgstr ""
 
 #: erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1191
 msgid "Multiple POS Opening Entry"
@@ -30081,7 +30081,7 @@ msgstr "Naming Series заавал шаардлагатай"
 
 #: erpnext/setup/doctype/transaction_deletion_record/transaction_deletion_record.py:936
 msgid "Naming series '{0}' for DocType '{1}' does not contain standard '.' or '{{' separator. Using fallback extraction."
-msgstr "DocType '{1}' нэрлэх цуврал '{1}' стандарт ''-г агуулаагүй болно. эсвэл '{{' тусгаарлагч. Нөөц олборлолтыг ашиглаж байна."
+msgstr ""
 
 #. Name of a UOM
 #: erpnext/setup/setup_wizard/data/uom_data.json
@@ -34475,7 +34475,7 @@ msgstr "Payment Reconciliation нэхэмжлэх"
 
 #: erpnext/accounts/doctype/payment_reconciliation/payment_reconciliation.js:139
 msgid "Payment Reconciliation Job: {0} is running for this party. Can't reconcile now."
-msgstr "Төлбөрийн тохиролын хуваарилалт"
+msgstr ""
 
 #. Name of a DocType
 #: erpnext/accounts/doctype/payment_reconciliation_payment/payment_reconciliation_payment.json
@@ -34543,11 +34543,11 @@ msgstr "Payment Request төрөл"
 
 #: erpnext/accounts/doctype/payment_request/payment_request.py:709
 msgid "Payment Request for {0}"
-msgstr "Төлбөрийн хүсэлтийн үлдэгдэл"
+msgstr ""
 
 #: erpnext/accounts/doctype/payment_request/payment_request.py:650
 msgid "Payment Request is already created"
-msgstr "__PH0__"
+msgstr ""
 
 #: erpnext/accounts/doctype/pos_invoice/pos_invoice.js:454
 msgid "Payment Request took too long to respond. Please try requesting for payment again."
@@ -34555,13 +34555,13 @@ msgstr "Төлбөрийн хүсэлтийг аль хэдийн үүсгэсэ
 
 #: erpnext/accounts/doctype/payment_request/payment_request.py:567
 msgid "Payment Requests cannot be created against: {0}"
-msgstr "Төлбөрийн хүсэлтэд хариу өгөхөд хэтэрхий удсан. Төлбөрийн хүсэлтийг дахин оролдоно уу."
+msgstr ""
 
 #. Description of the 'Create in Draft Status' (Check) field in DocType
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json
 msgid "Payment Requests made from Sales / Purchase Invoice will be put in Draft explicitly"
-msgstr "Төлбөрийн хүсэлтийг дараах зүйлсийн эсрэг үүсгэх боломжгүй: __PH0__"
+msgstr ""
 
 #. Label of the payment_schedule (Data) field in DocType 'Overdue Payment'
 #. Label of the payment_schedule (Link) field in DocType 'Payment Reference'
@@ -43919,7 +43919,7 @@ msgid ""
 "\t\t\t\t\tSelling {3} should be atleast {4}.<br><br>Alternatively,\n"
 "\t\t\t\t\tyou can disable '{5}' in {6} to bypass\n"
 "\t\t\t\t\tthis validation."
-msgstr "Мөр #{0}: {1} барааны борлуулалтын хувь {2}-аас бага байна.\n\t\t\t\t\t{3} зарах нь хамгийн багадаа {4} байх ёстой.<br>PH6__Өөр хувилбараар,\n\t\t\t\t\tТа тойрч гарахын тулд {6} дотор '{5}'-г идэвхгүй болгож болно\n\t\t\t\t\tэнэ баталгаажуулалт."
+msgstr "Мөр #{0}: {1} барааны борлуулалтын хувь {2}-аас бага байна.\n\t\t\t\t\t{3} зарах нь хамгийн багадаа {4} байх ёстой.<br><br>Өөр хувилбараар,\n\t\t\t\t\tТа тойрч гарахын тулд {6} дотор '{5}'-г идэвхгүй болгож болно\n\t\t\t\t\tэнэ баталгаажуулалт."
 
 #: erpnext/manufacturing/doctype/work_order/work_order.py:285
 msgid "Row #{0}: Sequence ID must be {1} or {2} for Operation {3}."
@@ -52335,7 +52335,7 @@ msgstr "'{0}' кампанит ажил {1} '{2}'-д аль хэдийн бай�
 
 #: erpnext/manufacturing/doctype/master_production_schedule/master_production_schedule.py:74
 msgid "The Company {0} of Sales Forecast {1} does not match with the Company {2} of Master Production Schedule {3}."
-msgstr "Компанийн {0} борлуулалтын таамаг {1} нь Үйлдвэрлэлийн үндсэн хуваарийн {2} компанитай таарахгүй байна."
+msgstr ""
 
 #: erpnext/support/doctype/service_level_agreement/service_level_agreement.py:206
 msgid "The Document Type {0} must have a Status field to configure Service Level Agreement"
@@ -52454,11 +52454,11 @@ msgstr "Хувьцаа эзэмшигчийн талбар хоосон байж
 
 #: erpnext/stock/doctype/delivery_note/delivery_note.py:417
 msgid "The field {0} in row {1} is not set"
-msgstr "Мөрийн {0} талбар хоосон байж болохгүй"
+msgstr ""
 
 #: erpnext/accounts/doctype/share_transfer/share_transfer.py:188
 msgid "The fields From Shareholder and To Shareholder cannot be blank"
-msgstr "Мөрийн __PH0__ талбар болон Хувийн дансны талбар Хоосон __|Хувьцаа эзэмшигчийн талбараас| Хувьцаа эзэмшигч хоосон байж болохгүй"
+msgstr ""
 
 #. Description of the 'Item to Manufacture' (Link) field in DocType 'BOM'
 #: erpnext/manufacturing/doctype/bom/bom.json
@@ -52491,7 +52491,7 @@ msgstr "Дараах багцуудын хугацаа дууссан тул д�
 
 #: erpnext/controllers/accounts_controller.py:424
 msgid "The following cancelled repost entries exist for <b>{0}</b>:<br><br>{1}<br><br>Kindly delete these entries before continuing."
-msgstr "Дараах цуцалсан дахин байршуулах бичилтүүд <b>PH1__</b>:__<br>{0}</b>:<br>_<br>_6K-д устгагдсан. үргэлжлүүлэхийн өмнө."
+msgstr ""
 
 #: erpnext/stock/doctype/item/item.py:874
 msgid "The following deleted attributes exist in Variants but not in the Template. You can either delete the Variants or keep the attribute(s) in template."
@@ -52705,7 +52705,7 @@ msgstr ""
 
 #: erpnext/stock/doctype/material_request/material_request.py:349
 msgid "The total Issue / Transfer quantity {0} in Material Request {1}  cannot be greater than allowed requested quantity {2} for Item {3}"
-msgstr "Материалын хүсэлтийн {1} нийт Асуудал / Шилжүүлгийн тоо хэмжээ {1} нь {3} зүйлийн зөвшөөрөгдсөн хэмжээнээс {2} их байж болохгүй."
+msgstr ""
 
 #: erpnext/stock/doctype/material_request/material_request.py:356
 msgid "The total Issue / Transfer quantity {0} in Material Request {1} cannot be greater than requested quantity {2} for Item {3}"
@@ -57278,7 +57278,7 @@ msgstr "{0} агуулах байхгүй"
 
 #: erpnext/manufacturing/doctype/work_order/work_order.py:246
 msgid "Warehouse {0} is not allowed for Sales Order {1}, it should be {2}"
-msgstr "Борлуулалтын захиалгад {0} агуулахыг зөвшөөрөхгүй, {2} байх ёстой."
+msgstr ""
 
 #: erpnext/controllers/stock_controller.py:820
 msgid "Warehouse {0} is not linked to any account, please mention the account in the warehouse record or set default inventory account in company {1}."
