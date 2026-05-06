@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgstr "Project-Id-Version: lms\nReport-Msgid-Bugs-To: developers@frappe.io\nPOT-Creation-Date: 2026-05-06 01:05+0000\nPO-Revision-Date: 2026-05-06 01:05+0000\nLast-Translator: developers@frappe.io\nLanguage-Team: Mongolian\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.16.0\nPlural-Forms: nplurals=2; plural=(n != 1);\nLanguage: mn\n"
 "Project-Id-Version: lms\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2026-05-06 01:05+0000\n"
@@ -65,7 +65,7 @@ msgstr "<a href=\"https://docs.frappe.io/learning\">Баримт бичиг</a>"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:51
 msgid "<p>Dear {{ member_name }},</p>\\n\\n<p>You have been enrolled in our upcoming batch {{ batch_name }}.</p>\\n\\n<p>Thanks,</p>\\n<p>Frappe Learning</p>"
-msgstr "<p>Эрхэм {{ member_name }},</p>\\n\\n<p>Та манай удахгүй болох багцад {{ batch_name }} элсэлт авлаа.</p>\\n\\n<p>Баярлалаа,</p>\\n<p>Frappe Learning__PH9_"
+msgstr "<p>Эрхэм {{ member_name }},</p>\\n\\n<p>Та манай удахгүй болох багцад {{ batch_name }} элсэлт авлаа.</p>\\n\\n<p>Баярлалаа,</p>\\n<p>Frappe Learning__</p>"
 
 #. Header text in the Learning Workspace
 #: lms/lms/workspace/learning/learning.json
