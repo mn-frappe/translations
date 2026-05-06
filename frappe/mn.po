@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgstr "Project-Id-Version: frappe\nReport-Msgid-Bugs-To: developers@frappe.io\nPOT-Creation-Date: 2026-05-06 01:05+0000\nPO-Revision-Date: 2026-05-06 01:05+0000\nLast-Translator: developers@frappe.io\nLanguage-Team: Mongolian\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.16.0\nPlural-Forms: nplurals=2; plural=(n != 1);\nLanguage: mn\n"
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2026-05-06 01:05+0000\n"
@@ -659,7 +659,7 @@ msgstr "Танд зориулж {0}-д шинэ бүртгэл үүсгэсэн 
 
 #: frappe/automation/doctype/auto_repeat/auto_repeat.py:431
 msgid "A recurring {0} {1} has been created for you via Auto Repeat {2}."
-msgstr "Автомат давталтаар {0} {1}-г танд зориулж үүсгэсэн."
+msgstr ""
 
 #. Description of the 'Symbol' (Data) field in DocType 'Currency'
 #: frappe/geo/doctype/currency/currency.json
@@ -6387,7 +6387,7 @@ msgstr "Тохируулгыг дахин тохируулах"
 
 #: frappe/modules/utils.py:121
 msgid "Customizations for <b>{0}</b> exported to:<br>{1}"
-msgstr "<b>PH1__</b>-д зориулсан тохиргоог дараах руу экспортлосон:<br>PH4__"
+msgstr "<b>{0}</b>-д зориулсан тохиргоог дараах руу экспортлосон:<br>{1}"
 
 #. Label of a Workspace Sidebar Item
 #: frappe/printing/page/print/print.js:193
@@ -7857,7 +7857,7 @@ msgstr "DocType"
 
 #: frappe/core/doctype/doctype/doctype.py:1612
 msgid "DocType <b>{0}</b> provided for the field <b>{1}</b> must have atleast one Link field"
-msgstr "<b>PH4__</b> талбарт заасан DocType <b>{0}</b> нь дор хаяж нэг Холбоос талбартай байх ёстой."
+msgstr "<b>{1}</b> талбарт заасан DocType <b>{0}</b> нь дор хаяж нэг Холбоос талбартай байх ёстой."
 
 #. Name of a DocType
 #. Option for the 'Applied On' (Select) field in DocType 'Property Setter'
@@ -10378,7 +10378,7 @@ msgstr "Талбар \"утга\" нь заавал байх ёстой. Шин�
 
 #: frappe/desk/search.py:271
 msgid "Field <code>{0}</code> not found in {1}"
-msgstr "<code>PH1__</code> талбар {1}-д олдсонгүй"
+msgstr "<code>{0}</code> талбар {1}-д олдсонгүй"
 
 #. Label of the description (Text) field in DocType 'Custom Field'
 #: frappe/custom/doctype/custom_field/custom_field.json
@@ -10451,7 +10451,7 @@ msgstr "Field {0} олдсонгүй"
 
 #: frappe/email/doctype/notification/notification.py:564
 msgid "Field {0} on document {1} is neither a Mobile number field nor a Customer or User link"
-msgstr "Баримт бичгийн {1} талбар нь {1} талбар нь Мобайл дугаарын талбар эсвэл Хэрэглэгч эсвэл Хэрэглэгчийн холбоос биш юм."
+msgstr ""
 
 #. Label of the fieldname (Data) field in DocType 'Report Column'
 #. Label of the fieldname (Data) field in DocType 'Report Filter'
@@ -13971,11 +13971,11 @@ msgstr "Шүүлтүүр дэх буруу илэрхийлэл {0}"
 
 #: frappe/public/js/frappe/utils/dashboard_utils.js:219
 msgid "Invalid expression set in filter {0} ({1})"
-msgstr "_PH0__ шүүлтүүр дэх илэрхийлэл буруу байна ({1})"
+msgstr "{0} шүүлтүүр дэх илэрхийлэл буруу байна ({1})"
 
 #: frappe/database/query.py:2139
 msgid "Invalid field format for SELECT: {0}. Field names must be simple, backticked, table-qualified, aliased, or '*'."
-msgstr "PH0__ шүүлтүүрт буруу илэрхийлэл байна. Талбарын нэр нь энгийн, арын тэмдэгтэй, хүснэгтийн шаардлага хангасан, хочруулсан эсвэл '*' байх ёстой."
+msgstr "{0} шүүлтүүрт буруу илэрхийлэл байна. Талбарын нэр нь энгийн, арын тэмдэгтэй, хүснэгтийн шаардлага хангасан, хочруулсан эсвэл '*' байх ёстой."
 
 #: frappe/database/query.py:1286
 msgid "Invalid field format in {0}: {1}. Use 'field', 'link_field.field', or 'child_table.field'."
@@ -17903,12 +17903,12 @@ msgstr "Илгээсэн SMS-ийн тоо (Хамгийн ихдээ 500)"
 
 #: frappe/__init__.py:625 frappe/client.py:119 frappe/client.py:161
 msgid "No permission for {0}"
-msgstr "Илгээсэн SMS-ийн тоо"
+msgstr ""
 
 #: frappe/public/js/frappe/form/form.js:1182
 msgctxt "{0} = verb, {1} = object"
 msgid "No permission to '{0}' {1}"
-msgstr "_|_|PH _|_|0-д зөвшөөрөл байхгүй _|_|0 {1}"
+msgstr ""
 
 #: frappe/model/db_query.py:1047
 msgid "No permission to read {0}"
@@ -26383,7 +26383,7 @@ msgstr "Илгээсэн баримт бичгийг ноорог руу буц�
 
 #: frappe/public/js/workflow_builder/utils.js:176
 msgid "Submitted document cannot be converted back to draft while transitioning from <b>{0} State</b> to <b>{1} State</b>"
-msgstr "Ирүүлсэн баримт бичгийг <b>PH1__ төлөв</b>-аас <b>{1} төлөв</b> руу шилжүүлэх үед буцааж ноорог руу хөрвүүлэх боломжгүй."
+msgstr "Ирүүлсэн баримт бичгийг <b>{0} төлөв</b>-аас <b>{1} төлөв</b> руу шилжүүлэх үед буцааж ноорог руу хөрвүүлэх боломжгүй."
 
 #: frappe/public/js/frappe/form/save.js:10
 msgctxt "Freeze message while submitting a document"
@@ -31648,7 +31648,7 @@ msgstr "Таны бүртгэл түгжигдсэн бөгөөд {0} секун
 
 #: frappe/desk/form/assign_to.py:279
 msgid "Your assignment on {0} {1} has been removed by {2}"
-msgstr "Таны PH_1 PH_ _-д даалгаврыг ___ устгасан. {2}"
+msgstr ""
 
 #: frappe/core/doctype/file/file.js:94
 msgid "Your browser does not support the audio element."
@@ -31676,7 +31676,7 @@ msgstr "Таны маягт амжилттай шинэчлэгдлээ"
 
 #: frappe/templates/emails/user_invitation_cancelled.html:5
 msgid "Your invitation to join {0} has been cancelled by the site administrator."
-msgstr "Таны PH_0 сайтад нэгдэх урилгыг хүлээн авлаа. администратор."
+msgstr ""
 
 #: frappe/templates/emails/user_invitation_expired.html:5
 msgid "Your invitation to join {0} has expired."
@@ -31702,7 +31702,7 @@ msgstr "Таны байгууллагын нэр болон имэйлийн х�
 
 #: frappe/core/doctype/user/user.py:393
 msgid "Your password has been changed and you might have been logged out of all systems.<br>Please contact the Administrator for further assistance."
-msgstr "Таны нууц үг солигдсон тул та Ad_ministrator.PH-д холбогдох бүх системээс гарсан байж магадгүй. тусламж."
+msgstr ""
 
 #: frappe/templates/emails/auto_reply.html:2
 msgid "Your query has been received. We will reply back shortly. If you have any additional information, please reply to this mail."
