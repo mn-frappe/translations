@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgstr "Project-Id-Version: helpdesk\nReport-Msgid-Bugs-To: developers@frappe.io\nPOT-Creation-Date: 2026-05-06 01:05+0000\nPO-Revision-Date: 2026-05-06 01:05+0000\nLast-Translator: developers@frappe.io\nLanguage-Team: Mongolian\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.16.0\nPlural-Forms: nplurals=2; plural=(n != 1);\nLanguage: mn\n"
 "Project-Id-Version: helpdesk\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2026-05-06 01:05+0000\n"
@@ -632,7 +632,7 @@ msgstr "Дор хаяж нэг имэйл шаардлагатай"
 
 #: helpdesk/helpdesk/doctype/hd_ticket_status/hd_ticket_status.py:73
 msgid "At least one enabled status for <u>{0}</u> category must be enabled."
-msgstr "<u>PH1__</u> ангиллын дор хаяж нэг идэвхжүүлсэн статусыг идэвхжүүлсэн байх ёстой."
+msgstr "<u>{0}</u> ангиллын дор хаяж нэг идэвхжүүлсэн статусыг идэвхжүүлсэн байх ёстой."
 
 #: helpdesk/helpdesk/doctype/hd_ticket_feedback_option/hd_ticket_feedback_option.py:38
 msgid "At least one feedback option must be enabled for rating {0}"
@@ -4555,7 +4555,7 @@ msgstr "Загвар эсвэл захиалгат хуваарийг ашигл
 
 #: helpdesk/helpdesk/doctype/hd_service_level_agreement/hd_service_level_agreement.py:123
 msgid "Setting <strong>{0}</strong> as the default SLA removes <strong>{1}</strong> as the default SLA. You’ll need to add a condition in <strong>{1}</strong> for the SLA to work."
-msgstr "<strong>{0}</strong>-г өгөгдмөл SLA болгон тохируулах нь <strong>PH4__</strong>-г үндсэн SLA-аас хасна. Та SLA ажиллахын тулд <strong>{1}</strong>-д нөхцөл нэмэх шаардлагатай."
+msgstr "<strong>{0}</strong>-г өгөгдмөл SLA болгон тохируулах нь <strong>{1}</strong>-г үндсэн SLA-аас хасна. Та SLA ажиллахын тулд <strong>{1}</strong>-д нөхцөл нэмэх шаардлагатай."
 
 #. Label of the column_break_feto (Column Break) field in DocType 'HD Team'
 #: desk/src/components/layouts/Sidebar.vue:362
