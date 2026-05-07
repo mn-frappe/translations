@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: frappe\nReport-Msgid-Bugs-To: developers@frappe.io\nPOT-Creation-Date: 2026-05-06 01:05+0000\nPO-Revision-Date: 2026-05-06 01:05+0000\nLast-Translator: developers@frappe.io\nLanguage-Team: Mongolian\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.16.0\nPlural-Forms: nplurals=2; plural=(n != 1);\nLanguage: mn\n"
+msgstr "Project-Id-Version: frappe\nReport-Msgid-Bugs-To: developers@frappe.io\nPOT-Creation-Date: 2026-05-06 01:05+0000\nPO-Revision-Date: 2026-05-06 01:05+0000\nLast-Translator: developers@frappe.io\nLanguage-Team: Mongolian\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.16.0\nPlural-Forms: nplurals=2; plural=(n != 1);\nLanguage: mn\nProject-Id-Version: frappe\nReport-Msgid-Bugs-To: developers@frappe.io\nPOT-Creation-Date: 2026-05-06 01:05+0000\nPO-Revision-Date: 2026-05-06 01:05+0000\nLast-Translator: developers@frappe.io\nLanguage-Team: Mongolian\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.16.0\nPlural-Forms: nplurals=2; plural=(n != 1);\nLanguage: mn"
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2026-05-06 01:05+0000\n"
@@ -518,7 +518,7 @@ msgid ""
 "<p><strong>Condition Examples:</strong></p>\n"
 "<pre><code class=\"language-python\">doc.status==\"Open\"<br>doc.due_date==nowdate()<br>doc.total &gt; 40000\n"
 "</code></pre>\n"
-msgstr "<p><strong>Нөхцөл байдлын жишээ:</strong></p>\n<pre><code class=\"language-python\">doc.status==\"Нээлттэй\"<br>doc.due_date==nowdate()<br>doc.нийт &gt; 40000\n</code></pre>"
+msgstr "<p><strong>Нөхцөл байдлын жишээ:</strong></p>\n<pre><code class=\"language-python\">doc.status==\"Нээлттэй\"<br>doc.due_date==nowdate()<br>doc.нийт &gt; 40000\n</code></pre>\n"
 
 #. Content of the 'html_condition' (HTML) field in DocType 'Webhook'
 #: frappe/integrations/doctype/webhook/webhook.json
@@ -19415,7 +19415,7 @@ msgstr "Page олдсонгүй"
 #. Description of a DocType
 #: frappe/website/doctype/web_page/web_page.json
 msgid "Page to show on the website\n"
-msgstr "Вэбсайт дээр харуулах хуудас"
+msgstr "Вэбсайт дээр харуулах хуудас\n"
 
 #: frappe/public/html/print_template.html:38
 #: frappe/public/js/frappe/views/reports/print_tree.html:89

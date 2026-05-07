@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: helpdesk\nReport-Msgid-Bugs-To: developers@frappe.io\nPOT-Creation-Date: 2026-05-06 01:05+0000\nPO-Revision-Date: 2026-05-06 01:05+0000\nLast-Translator: developers@frappe.io\nLanguage-Team: Mongolian\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.16.0\nPlural-Forms: nplurals=2; plural=(n != 1);\nLanguage: mn\n"
+msgstr "Project-Id-Version: helpdesk\nReport-Msgid-Bugs-To: developers@frappe.io\nPOT-Creation-Date: 2026-05-06 01:05+0000\nPO-Revision-Date: 2026-05-06 01:05+0000\nLast-Translator: developers@frappe.io\nLanguage-Team: Mongolian\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.16.0\nPlural-Forms: nplurals=2; plural=(n != 1);\nLanguage: mn\nProject-Id-Version: helpdesk\nReport-Msgid-Bugs-To: developers@frappe.io\nPOT-Creation-Date: 2026-05-06 01:05+0000\nPO-Revision-Date: 2026-05-06 01:05+0000\nLast-Translator: developers@frappe.io\nLanguage-Team: Mongolian\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.16.0\nPlural-Forms: nplurals=2; plural=(n != 1);\nLanguage: mn"
 "Project-Id-Version: helpdesk\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2026-05-06 01:05+0000\n"
@@ -2571,13 +2571,13 @@ msgstr "Хэрэв идэвхжүүлсэн бол хэн ч тасалбар ү
 #. Description of the 'Enabled' (Check) field in DocType 'HD Settings'
 #: helpdesk/helpdesk/doctype/hd_settings/hd_settings.json
 msgid "If enabled, feedback email will be sent to the customer when you mark a ticket as the status selected below.\n"
-msgstr "Идэвхжүүлсэн бол тасалбарыг доор сонгосон статусаар тэмдэглэх үед харилцагчид санал хүсэлтийн имэйл илгээгдэх болно."
+msgstr "Идэвхжүүлсэн бол тасалбарыг доор сонгосон статусаар тэмдэглэх үед харилцагчид санал хүсэлтийн имэйл илгээгдэх болно.\n"
 
 #. Description of the 'Enable feedback for Customer Portal' (Check) field in
 #. DocType 'HD Settings'
 #: helpdesk/helpdesk/doctype/hd_settings/hd_settings.json
 msgid "If enabled, the feedback dialog will be shown, when a user tries to close a ticket. \n"
-msgstr "Хэрэв идэвхжүүлсэн бол хэрэглэгч тасалбараа хаахыг оролдох үед санал хүсэлтийн харилцах цонх гарч ирнэ."
+msgstr "Хэрэв идэвхжүүлсэн бол хэрэглэгч тасалбараа хаахыг оролдох үед санал хүсэлтийн харилцах цонх гарч ирнэ.\n"
 
 #: desk/src/components/knowledge-base/ArticleFeedback.vue:13
 msgid "If your issue isn't resolved, raise a support ticket"
@@ -5618,7 +5618,7 @@ msgstr "Долоо хоног тутмын амралт"
 #. Settings'
 #: helpdesk/helpdesk/doctype/hd_settings/hd_settings.json
 msgid "When enabled, the ticket status will automatically change to the status selected below whenever the agent responds to a ticket.\n"
-msgstr "Идэвхжүүлсэн үед агент тасалбарт хариу өгөх бүрд тасалбарын статус автоматаар доор сонгогдсон төлөв рүү шилжих болно."
+msgstr "Идэвхжүүлсэн үед агент тасалбарт хариу өгөх бүрд тасалбарын статус автоматаар доор сонгогдсон төлөв рүү шилжих болно.\n"
 
 #. Label of the word (Data) field in DocType 'HD Stopword'
 #. Label of the word (Data) field in DocType 'HD Synonyms'

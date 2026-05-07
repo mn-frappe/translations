@@ -1,0 +1,3550 @@
+# Korean translations for helpdesk
+# Copyright (C) 2024
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Language-Team: Korean\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " added a"
+msgstr "추가됨"
+
+msgid " comment"
+msgstr ""
+
+msgid "% SLA Fulfilled"
+msgstr "% SLA 이행"
+
+msgid "% of tickets created that were resolved within SLA"
+msgstr "SLA 내에서 해결된 생성된 티켓의 %"
+
+msgid "({0}s)"
+msgstr ""
+
+msgid "- Default Ticket Status<br>"
+msgstr "- 기본 티켓 상태<br>"
+
+msgid "- Ticket Reopen Status<br>"
+msgstr "- 티켓 재개설 상태<br>"
+
+msgid "- {0} as Default Status<br>"
+msgstr "- 기본 상태로 {0}<br>"
+
+msgid "- {0} as Reopen Status<br>"
+msgstr "- 재개설 상태로 {0}<br>"
+
+msgid "0 is no feedback, 1 is Like, 2 is Dislike"
+msgstr "0은 피드백 없음, 1은 좋아요, 2는 싫어요"
+
+msgid "<br>Please update HD Settings to use a different status before disabling this status."
+msgstr "<br>비활성화하기 전에 다른 상태를 사용하려면 HD 설정을 업데이트하세요. 이 상태입니다."
+
+msgid "<br>Please update the SLA(s) to use a different status before disabling this status."
+msgstr "<br>이 상태를 비활성화하기 전에 다른 상태를 사용하려면 SLA를 업데이트하세요."
+
+msgid "<div class=\"ql-editor read-mode\"><p>Let us know if we solved your issue well. It’ll help us serve you better next time.</p></div>"
+msgstr "<div class=\"ql-editor read-mode\"><p>문제가 잘 해결되었는지 알려주세요. 다음번에 더 나은 서비스를 제공하는 데 도움이 될 것입니다.</p></div>"
+
+msgid "<span class=\"h3\" style=\"\"><a href=\"/helpdesk\">Visit Helpdesk</a></span>"
+msgstr "<span class=\"h3\" style=\"\"><a href=\"/helpdesk\">헬프데스크 방문</a></span>"
+
+msgid "<span class=\"h4\">Helpdesk Configuration<br></span>"
+msgstr "<span class=\"h4\">헬프데스크 구성<br></span>"
+
+msgid "A short description"
+msgstr "간략한 설명"
+
+msgid "A workday with this name already exists"
+msgstr "이 이름을 가진 근무일은 이미 존재합니다"
+
+msgid "API"
+msgstr ""
+
+msgid "Access all team tickets"
+msgstr "모든 팀 티켓에 액세스"
+
+msgid "Access denied"
+msgstr "액세스가 거부됨"
+
+msgid "Access only this team's tickets"
+msgstr "이 팀의 티켓에만 액세스 ticket"
+
+msgid "Account & Security"
+msgstr "계정 및 보안"
+
+msgid "Acknowledgement"
+msgstr "승인"
+
+msgid "Action"
+msgstr "작업"
+
+msgid "Action Required"
+msgstr "조치 필요"
+
+msgid "Action to perform when clicking the button. The doc will be available as `this`"
+msgstr "버튼 클릭 시 수행할 작업입니다. 문서는 `this`로 사용할 수 있습니다."
+
+msgid "Active"
+msgstr "활성"
+
+msgid "Activity"
+msgstr "활동"
+
+msgid "Add Assignee"
+msgstr "담당자 추가"
+
+msgid "Add Category"
+msgstr "카테고리 추가"
+
+msgid "Add Holiday"
+msgstr "휴일 추가"
+
+msgid "Add New Article"
+msgstr "새 기사 추가"
+
+msgid "Add Weekly Holidays"
+msgstr "주간 휴일 추가"
+
+msgid "Add a comment on a ticket"
+msgstr "티켓에 댓글 추가"
+
+msgid "Add a condition"
+msgstr "조건 추가"
+
+msgid "Add a custom condition"
+msgstr "사용자 정의 조건 추가"
+
+msgid "Add charts to get started"
+msgstr "시작하려면 차트 추가"
+
+msgid "Add condition"
+msgstr "조건 추가"
+
+msgid "Add condition group"
+msgstr "조건 그룹 추가"
+
+msgid "Add holidays here to make sure they’re excluded from SLA calculations."
+msgstr "SLA 계산에서 제외되도록 여기에 휴일을 추가하세요."
+
+msgid "Add members to this team to get started."
+msgstr "시작하려면 이 팀에 구성원을 추가하세요."
+
+msgid "Add one to get started."
+msgstr "시작하려면 구성원을 추가하세요."
+
+msgid "Add recurring holidays such as weekends."
+msgstr "주말 등 반복 휴일을 추가하세요."
+
+msgid "Add time targets around support milestones like first reply and resolution times."
+msgstr "주변 시간 목표를 추가하세요. 첫 번째 응답 및 해결 시간과 같은 이정표를 지원합니다."
+
+msgid "Add to Holidays"
+msgstr "휴일에 추가"
+
+msgid "Add, manage agents and assign roles to them."
+msgstr "에이전트를 추가, 관리하고 에이전트에 역할을 할당합니다."
+
+msgid "Additional Information"
+msgstr "추가 정보"
+
+msgid "Administrator"
+msgstr "관리자"
+
+msgid "Agent"
+msgstr "에이전트"
+
+msgid "Agent Configuration"
+msgstr "에이전트 구성"
+
+msgid "Agent Dashboard"
+msgstr "에이전트 대시보드"
+
+msgid "Agent Manager"
+msgstr "에이전트 관리자"
+
+msgid "Agent Name"
+msgstr "에이전트 이름"
+
+msgid "Agent name"
+msgstr "에이전트 이름"
+
+msgid "Agents"
+msgstr "에이전트"
+
+msgid "Agents will no longer be able to view and create saved replies with global scope."
+msgstr "에이전트는 더 이상 전역 범위에서 저장된 응답을 보고 생성할 수 없습니다."
+
+msgid "All"
+msgstr "모두"
+
+msgid "All SLAs on track"
+msgstr "모든 SLA 추적"
+
+msgid "All Time"
+msgstr "전체 기간"
+
+msgid "All Views"
+msgstr "모든 조회수"
+
+msgid "All articles from this category will move to General category."
+msgstr "이 카테고리의 모든 기사는 일반 카테고리로 이동됩니다."
+
+msgid "All comments and emails of the ticket will be moved to the"
+msgstr "티켓의 모든 댓글과 이메일은 다음으로 이동됩니다."
+
+msgid "All your assigned tickets have been responded to"
+msgstr "할당된 티켓이 모두 응답되었습니다."
+
+msgid "Allow anyone to create tickets"
+msgstr "누구나 티켓을 만들 수 있도록 허용합니다"
+
+msgid "Allow users to react to comments with emojis"
+msgstr "사용자가 댓글에 이모티콘으로 반응하도록 허용합니다"
+
+msgid "Allow users to react to comments with emojis."
+msgstr "사용자가 댓글에 이모티콘으로 반응하도록 허용합니다."
+
+msgid "Amber"
+msgstr "앰버"
+
+msgid "Anyone will be able to create tickets without any permission. e.g. from webform."
+msgstr "누구나 권한 없이 티켓을 만들 수 있습니다. 예를 들어 웹 양식에서."
+
+msgid "Appears in the left sidebar. Recommended size is minimum 32x32 px in PNG or SVG."
+msgstr "왼쪽 사이드바에 표시됩니다. 권장 크기는 PNG 또는 SVG에서 최소 32x32px입니다."
+
+msgid "Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO"
+msgstr "브라우저 탭의 제목 옆에 표시됩니다. 권장 크기는 PNG 또는 ICO에서 최소 32x32px입니다."
+
+msgid "Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO."
+msgstr "브라우저 탭의 제목 옆에 표시됩니다. 권장 크기는 PNG 또는 ICO에서 최소 32x32px입니다."
+
+msgid "Apply SLA for Resolution Time"
+msgstr "해결 시간을 위한 SLA 적용"
+
+msgid "Apply To"
+msgstr "적용 대상"
+
+msgid "Apply on new page"
+msgstr "새 페이지에 적용"
+
+msgid "Apply outside working hours"
+msgstr "근무 시간 외 적용"
+
+msgid "Apply to customer portal"
+msgstr "고객 포털에 적용"
+
+msgid "Archived"
+msgstr "보관됨"
+
+msgid "Are you sure you want to change tabs? Unsaved changes will be lost."
+msgstr "탭을 변경하시겠습니까? 저장되지 않은 변경 사항은 손실됩니다."
+
+msgid "Are you sure you want to close this ticket?"
+msgstr "이 티켓을 종료하시겠습니까?"
+
+msgid "Are you sure you want to delete these articles?"
+msgstr "이 기사를 삭제하시겠습니까?"
+
+msgid "Are you sure you want to delete this team? This action cannot be reversed!"
+msgstr "이 팀을 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다!"
+
+msgid "Are you sure you want to delete this ticket? This is an irreversible action and cannot be undone."
+msgstr "이 티켓을 삭제하시겠습니까? 이 작업은 되돌릴 수 없으며 취소할 수 없습니다."
+
+msgid "Are you sure you want to delete this view?"
+msgstr "이 보기를 삭제하시겠습니까?"
+
+msgid "Are you sure you want to discard changes?"
+msgstr "변경사항을 삭제하시겠습니까?"
+
+msgid "Are you sure you want to discard this article?"
+msgstr "이 문서를 삭제하시겠습니까?"
+
+msgid "Are you sure you want to go back? Unsaved changes will be lost."
+msgstr "되돌리시겠습니까? 저장되지 않은 변경사항은 손실됩니다."
+
+msgid "Are you sure you want to leave? Unsaved changes will be lost."
+msgstr "정말로 나가시겠습니까? 저장되지 않은 변경 사항은 손실됩니다."
+
+msgid "Are you sure you want to remove the logo?"
+msgstr "로고를 제거하시겠습니까?"
+
+msgid "Are you sure you want to reset the content? Current content will be overridden."
+msgstr "콘텐츠를 재설정하시겠습니까? 현재 콘텐츠가 재정의됩니다."
+
+msgid "Article"
+msgstr "기사"
+
+msgid "Article body cannot be set as empty."
+msgstr "기사 본문을 비워 둘 수 없습니다."
+
+msgid "Article created successfully."
+msgstr "기사가 성공적으로 생성되었습니다."
+
+msgid "Article deleted successfully."
+msgstr "기사가 삭제되었습니다."
+
+msgid "Article link copied to clipboard"
+msgstr "기사 링크가 클립보드에 복사되었습니다."
+
+msgid "Article title cannot be set as empty"
+msgstr "기사 제목을 비워 둘 수 없습니다."
+
+msgid "Article updated successfully."
+msgstr "기사가 성공적으로 업데이트되었습니다."
+
+msgid "Articles deleted successfully."
+msgstr "기사가 성공적으로 삭제되었습니다."
+
+msgid "Articles moved successfully."
+msgstr "기사가 성공적으로 이동되었습니다."
+
+msgid "Assign"
+msgstr "할당"
+
+msgid "Assign a ticket to an agent"
+msgstr "상담원에게 티켓 할당"
+
+msgid "Assign ticket"
+msgstr "티켓 할당"
+
+msgid "Assign to"
+msgstr "다음에 할당"
+
+msgid "Assign to me"
+msgstr "나에게 할당"
+
+msgid "Assigned To"
+msgstr "할당됨 받는 사람"
+
+msgid "Assignee Rules"
+msgstr "담당자 규칙"
+
+msgid "Assignee's updated successfully."
+msgstr "담당자가 업데이트되었습니다."
+
+msgid "Assignees"
+msgstr "담당자"
+
+msgid "Assignment"
+msgstr "할당"
+
+msgid "Assignment Condition"
+msgstr "할당 조건"
+
+msgid "Assignment Conditions"
+msgstr "할당 조건"
+
+msgid "Assignment Rule"
+msgstr "할당 규칙"
+
+msgid "Assignment Rules"
+msgstr "할당 규칙"
+
+msgid "Assignment Rules automatically route tickets to the right team members based on predefined conditions."
+msgstr "할당 규칙은 미리 정의된 조건에 따라 자동으로 티켓을 올바른 팀 구성원에게 라우팅합니다."
+
+msgid "Assignment Schedule"
+msgstr "할당 일정"
+
+msgid "Assignment rule"
+msgstr "할당 규칙"
+
+msgid "Assignment rule created successfully."
+msgstr "할당 규칙이 성공적으로 생성되었습니다."
+
+msgid "Assignment rule deleted successfully."
+msgstr "할당 규칙이 삭제되었습니다. 성공적으로."
+
+msgid "Assignment rule duplicated successfully."
+msgstr "할당 규칙이 성공적으로 복제되었습니다."
+
+msgid "Assignment rule updated successfully."
+msgstr "할당 규칙이 성공적으로 업데이트되었습니다."
+
+msgid "Assignment rule {0} updated successfully."
+msgstr "할당 규칙 {0}이(가) 성공적으로 업데이트되었습니다."
+
+msgid "At least one email is required"
+msgstr "이메일이 하나 이상 필요합니다."
+
+msgid "At least one email required"
+msgstr "하나 이상의 이메일이 필요합니다."
+
+msgid "At least one enabled status for <u>{0}</u> category must be enabled."
+msgstr "<u>{0}</u> 카테고리에 대해 하나 이상의 활성화 상태가 활성화되어야 합니다."
+
+msgid "At least one feedback option must be enabled for rating {0}"
+msgstr "{0} 등급에 대해 하나 이상의 피드백 옵션을 활성화해야 합니다."
+
+msgid "At least one team is required"
+msgstr "팀이 하나 이상 필요합니다."
+
+msgid "At-least one of priority, team and ticket type is required"
+msgstr "우선순위, 팀, 티켓 유형 중 하나 이상이 필요합니다."
+
+msgid "Attachment"
+msgstr "부착"
+
+msgid "Author"
+msgstr "작가"
+
+msgid "Auto update status"
+msgstr "자동 업데이트 상태"
+
+msgid "Auto-close after (Days)"
+msgstr "다음 이후 자동 종료(일)"
+
+msgid "Auto-close tickets that remain in a status for the specified number of days."
+msgstr "지정된 일수 동안 상태를 유지하는 티켓이 자동으로 종료됩니다."
+
+msgid "Auto-generated from the portal view — do not edit directly unless you know what you're doing! "
+msgstr "포털 보기에서 자동 생성됩니다. 현재 수행 중인 작업을 알지 않는 한 직접 편집하지 마십시오!"
+
+msgid "Automatically Close Tickets when"
+msgstr "다음과 같은 경우 티켓 자동 종료"
+
+msgid "Automatically close stale tickets"
+msgstr "오래된 티켓 자동 종료"
+
+msgid "Automation"
+msgstr "오토메이션"
+
+msgid "Average First Response"
+msgstr "평균 첫 번째 응답"
+
+msgid "Average First Response Time"
+msgstr "평균 첫 번째 응답 시간"
+
+msgid "Average Resolution"
+msgstr "평균 해상도"
+
+msgid "Average Resolution Time"
+msgstr "평균 해결 시간"
+
+msgid "Average Response Time"
+msgstr "평균 응답 시간"
+
+msgid "Average Time Metrics"
+msgstr "평균 시간 측정항목"
+
+msgid "Average feedback rating per day is around {0} stars"
+msgstr "하루 평균 피드백 평점은 별 {0}개 정도입니다."
+
+msgid "Average response and resolution metrics not yet generated"
+msgstr "평균 응답 및 해결 지표가 아직 생성되지 않았습니다."
+
+msgid "Average tickets per day is around {0}"
+msgstr "하루 평균 티켓은 약 {0}입니다."
+
+msgid "Avg. Feedback Rating"
+msgstr "평균 피드백 평가"
+
+msgid "Avg. First Response"
+msgstr "평균 첫 번째 응답"
+
+msgid "Avg. Resolution"
+msgstr "평균 해결"
+
+msgid "Avg. feedback rating for the tickets resolved"
+msgstr "평균 해결된 티켓에 대한 피드백 평가"
+
+msgid "Avg. first response time"
+msgstr "평균 첫 번째 응답 시간"
+
+msgid "Avg. resolution time"
+msgstr "평균 해결 시간"
+
+msgid "Avg. time taken to first respond to a ticket"
+msgstr "평균 티켓에 처음 응답하는 데 걸린 시간"
+
+msgid "Avg. time taken to resolve a ticket"
+msgstr "평균 티켓 해결에 걸린 시간"
+
+msgid "Back"
+msgstr "뒤로"
+
+msgid "Back to Tickets"
+msgstr "티켓으로 돌아가기"
+
+msgid "Base Support Rotation"
+msgstr "기본 지원 순환"
+
+msgid "Base URL"
+msgstr "기본 URL"
+
+msgid "Based On"
+msgstr "기준"
+
+msgid "Based on your HR Policy, select your leave allocation period's end date"
+msgstr "HR 정책에 따라 휴가 할당 기간 종료 날짜를 선택하세요."
+
+msgid "Based on your HR Policy, select your leave allocation period's start date"
+msgstr "HR 정책에 따라 휴가 할당 기간의 시작 날짜를 선택하세요."
+
+msgid "Black"
+msgstr "검정색"
+
+msgid "Blue"
+msgstr "블루"
+
+msgid "Brand name"
+msgstr "브랜드 이름"
+
+msgid "Branding"
+msgstr "브랜딩"
+
+msgid "Business Holidays"
+msgstr "비즈니스 휴일"
+
+msgid "Busy"
+msgstr "바쁨"
+
+msgid "Button"
+msgstr "버튼"
+
+msgid "CSV"
+msgstr ""
+
+msgid "Call Details"
+msgstr "통화 세부정보"
+
+msgid "Call Logs"
+msgstr "통화 기록"
+
+msgid "Call Received By"
+msgstr "통화 수신자"
+
+msgid "Call duration in seconds"
+msgstr "통화 시간(초)"
+
+msgid "Caller"
+msgstr "발신자"
+
+msgid "Calls"
+msgstr "통화"
+
+msgid "Can invite new agents, manage tickets, create custom views and manage public views."
+msgstr "새 상담원을 초대하고, 티켓을 관리하고, 사용자 정의 보기를 만들고, 공개 보기를 관리할 수 있습니다."
+
+msgid "Can manage all aspects of Helpdesk."
+msgstr "헬프데스크의 모든 측면을 관리할 수 있습니다."
+
+msgid "Can work on tickets, create custom views and manage private views."
+msgstr "티켓 작업을 하고, 사용자 정의 보기를 만들고, 비공개 보기를 관리할 수 있습니다."
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Cancel Invitation"
+msgstr "취소 초대"
+
+msgid "Canceled"
+msgstr "취소됨"
+
+msgid "Cannot delete the default SLA. At least one SLA must be marked as default."
+msgstr "기본 SLA를 삭제할 수 없습니다. 하나 이상의 SLA가 기본값으로 표시되어야 합니다."
+
+msgid "Cannot disable this status as it is linked in HD Settings:<br><br>"
+msgstr "이 상태는 HD 설정에 연결되어 있으므로 비활성화할 수 없습니다.<br><br>"
+
+msgid "Cannot disable this status as it is linked in the following SLAs:<br><br>"
+msgstr "이 상태는 다음 SLA에 연결되어 있으므로 비활성화할 수 없습니다.<br><br>"
+
+msgid "Cannot enable rule without adding users in it"
+msgstr "사용자를 추가하지 않으면 규칙을 활성화할 수 없습니다."
+
+msgid "Cannot merge General category"
+msgstr "일반 카테고리를 병합할 수 없습니다"
+
+msgid "Category"
+msgstr "범주"
+
+msgid "Category '{0}' link copied to clipboard"
+msgstr "카테고리 '{0}' 링크가 클립보드에 복사되었습니다."
+
+msgid "Category created successfully."
+msgstr "카테고리가 성공적으로 생성되었습니다."
+
+msgid "Category deleted successfully."
+msgstr "카테고리가 삭제되었습니다."
+
+msgid "Category merged successfully."
+msgstr "카테고리가 성공적으로 병합되었습니다."
+
+msgid "Category must have atleast one article"
+msgstr "카테고리에는 기사가 하나 이상 있어야 합니다."
+
+msgid "Category updated successfully."
+msgstr "카테고리가 성공적으로 업데이트되었습니다."
+
+msgid "Change"
+msgstr "변화"
+
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+msgid "Change image"
+msgstr "이미지 변경"
+
+msgid "Change language of the application."
+msgstr "응용 프로그램의 언어를 변경하십시오."
+
+msgid "Change photo"
+msgstr "사진 변경"
+
+msgid "Change priority"
+msgstr "우선순위 변경"
+
+msgid "Change status"
+msgstr "상태 변경"
+
+msgid "Change team"
+msgstr "팀 변경"
+
+msgid "Change ticket type"
+msgstr "티켓 종류 변경"
+
+msgid "Change timezone of the application."
+msgstr "애플리케이션의 시간대를 변경합니다."
+
+msgid "Change your account password for security."
+msgstr "보안을 위해 계정 비밀번호를 변경하세요."
+
+msgid "Change your search terms or filters"
+msgstr "검색어 또는 필터 변경"
+
+msgid "Change your search terms to find teams."
+msgstr "팀을 찾으려면 검색어를 변경하세요."
+
+msgid "Channels"
+msgstr "채널"
+
+msgid "Child field"
+msgstr "하위 필드"
+
+msgid "Choose how long this SLA policy will be active."
+msgstr "이 SLA 정책이 활성화되는 기간을 선택합니다."
+
+msgid "Choose how tickets are distributed among selected assignees."
+msgstr "선택한 담당자에게 티켓을 배포하는 방법을 선택하세요."
+
+msgid "Choose the days of the week when this rule should be active."
+msgstr "이 규칙을 활성화해야 하는 요일을 선택하세요."
+
+msgid "Choose the duration of this holiday list."
+msgstr "이 휴일 목록의 기간을 선택하세요."
+
+msgid "Choose the email service provider you want to configure."
+msgstr "구성하려는 이메일 서비스 제공업체를 선택하세요."
+
+msgid "Choose which tickets are affected by this assignment rule."
+msgstr "이 할당 규칙의 영향을 받는 티켓을 선택하세요."
+
+msgid "Choose which tickets are affected by this policy."
+msgstr "이 정책의 영향을 받는 티켓을 선택하세요."
+
+msgid "Choose which tickets are affected by this un-assignment rule."
+msgstr "이 할당 해제 규칙의 영향을 받는 티켓을 선택하세요."
+
+msgid "Choose who can view and use this response."
+msgstr "이 응답을 보고 사용할 수 있는 사람을 선택하세요."
+
+msgid "Choose who receives the tickets."
+msgstr "티켓을 받는 사람을 선택하세요."
+
+msgid "Clear Table"
+msgstr "테이블 지우기"
+
+msgid "Clear all filters"
+msgstr "모든 필터 지우기"
+
+msgid "Click on Add to Holidays. This will populate the holidays table with all the dates that fall on the selected weekly off. Repeat the process for populating the dates for all your weekly holidays"
+msgstr "휴일에 추가를 클릭하세요. 그러면 선택한 주간 휴무일에 해당하는 모든 날짜가 공휴일 테이블에 채워집니다. 모든 주간 공휴일에 대한 날짜를 채우는 과정을 반복하세요."
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Close Ticket"
+msgstr "티켓 닫기"
+
+msgid "Closed"
+msgstr "닫기"
+
+msgid "Closed or rated tickets cannot be updated by non-agents"
+msgstr "닫기 또는 평가된 티켓은 상담원이 아닌 사람에 의해 업데이트될 수 없습니다."
+
+msgid "Collapse"
+msgstr "접기"
+
+msgid "Color"
+msgstr "색상"
+
+msgid "Columns"
+msgstr "열"
+
+msgid "Comma separated emails to invite."
+msgstr "초대할 이메일은 쉼표로 구분되어 있습니다."
+
+msgid "Comment"
+msgstr "댓글"
+
+msgid "Comment cannot be empty."
+msgstr "댓글은 비워둘 수 없습니다."
+
+msgid "Comment deleted sucessfully."
+msgstr "댓글이 성공적으로 삭제되었습니다."
+
+msgid "Comment not found"
+msgstr "댓글을 찾을 수 없음"
+
+msgid "Comment updated successfully."
+msgstr "댓글이 업데이트되었습니다. 성공적으로."
+
+msgid "Commented By"
+msgstr "댓글 작성자"
+
+msgid "Comments"
+msgstr "댓글"
+
+msgid "Communication"
+msgstr "통신"
+
+msgid "Communication ID is required"
+msgstr "통신 ID가 필요합니다"
+
+msgid "Completed"
+msgstr "완료됨"
+
+msgid "Condition"
+msgstr "조건"
+
+msgid "Configure your Exotel settings for Helpdesk."
+msgstr "헬프데스크에 대한 Exotel 설정을 구성하십시오."
+
+msgid "Configure your Exotel telephony integration settings here"
+msgstr "여기에서 Exotel 전화 통신 통합 설정을 구성하십시오."
+
+msgid "Configure your Twilio settings for Helpdesk."
+msgstr "헬프데스크에 대한 Twilio 설정을 구성하십시오."
+
+msgid "Configure your Twilio telephony integration settings here"
+msgstr "여기에서 Twilio 전화 통신 통합 설정을 구성하십시오."
+
+msgid "Configure your telephony settings."
+msgstr "전화 통신 설정을 구성하십시오."
+
+msgid "Confirm"
+msgstr "확인"
+
+msgid "Confirm Changes"
+msgstr "변경 사항 확인"
+
+msgid "Confirm Password"
+msgstr "비밀번호 확인"
+
+msgid "Confirm overwrite"
+msgstr "덮어쓰기 확인"
+
+msgid "Connect your support email"
+msgstr "지원 이메일 연결"
+
+msgid "Contact"
+msgstr "연락처"
+
+msgid "Contact HTML"
+msgstr "연락처 HTML"
+
+msgid "Contact created successfully."
+msgstr "연락처가 성공적으로 생성되었습니다."
+
+msgid "Contact invited successfully."
+msgstr "연락처가 성공적으로 업데이트되었습니다."
+
+msgid "Contact updated successfully."
+msgstr "연락처가 성공적으로 업데이트되었습니다."
+
+msgid "Contact with email already exists"
+msgstr "이메일로 문의하세요. 이미 존재합니다"
+
+msgid "Contacts"
+msgstr "연락처"
+
+msgid "Content"
+msgstr "콘텐츠"
+
+msgid "Content Type"
+msgstr "콘텐츠 유형"
+
+msgid "Copy ticket URL"
+msgstr "티켓 URL 복사"
+
+msgid "Copy ticket id"
+msgstr "티켓 ID 복사"
+
+msgid "Could not an email due to: {0}"
+msgstr "이메일을 보낼 수 없음: {0}"
+
+msgid "Could not send an acknowledgement email due to: {0}"
+msgstr "다음 이유로 인해 확인 이메일을 보낼 수 없음: {0}"
+
+msgid "Could not send feedback email,due to: {0}"
+msgstr "피드백 이메일을 보낼 수 없음: {0}"
+
+msgid "Create"
+msgstr "만들기"
+
+msgid "Create & invite a contact"
+msgstr "연락처 만들기 및 초대"
+
+msgid "Create New Contact"
+msgstr "새 연락처 만들기"
+
+msgid "Create View"
+msgstr "만들기 보기"
+
+msgid "Create a ticket"
+msgstr "티켓 만들기"
+
+msgid "Create an article"
+msgstr "기사 만들기"
+
+msgid "Create and manage teams and assign agents to specific teams."
+msgstr "팀을 만들고 관리하며 상담원을 특정 팀에 할당합니다."
+
+msgid "Create field dependencies to dynamically update options based on user selections. Learn more about field dependencies"
+msgstr "필드 종속성을 만들어 사용자 선택에 따라 옵션을 동적으로 업데이트합니다. 필드 종속성에 대해 자세히 알아보기"
+
+msgid "Create new business holiday"
+msgstr "새 영업일 만들기"
+
+msgid "Created by"
+msgstr "작성자:"
+
+msgid "Criterion"
+msgstr "표준"
+
+msgid "Custom Outside Working Hours Message"
+msgstr "맞춤형 근무 시간 외 메시지"
+
+msgid "Custom Range"
+msgstr "맞춤 범위"
+
+msgid "Customer"
+msgstr "고객"
+
+msgid "Customer Name"
+msgstr "고객 이름"
+
+msgid "Customer created successfully."
+msgstr "고객이 성공적으로 생성되었습니다."
+
+msgid "Customer portal"
+msgstr "고객포털"
+
+msgid "Customer updated successfully."
+msgstr "고객이 업데이트되었습니다."
+
+msgid "Customize your email notification preferences to stay informed about important updates and activities."
+msgstr "중요한 업데이트 및 활동에 대한 최신 정보를 얻으려면 이메일 알림 기본 설정을 사용자 정의하세요."
+
+msgid "Cyan"
+msgstr "청록색"
+
+msgid "Danger"
+msgstr "위험"
+
+msgid "Dashboard"
+msgstr "계기반"
+
+msgid "Dashboard saved"
+msgstr "대시보드가 ​​저장되었습니다."
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Day count for auto closing tickets cannot be negative or zero"
+msgstr "자동 마감 티켓의 일수는 음수이거나 0일 수 없습니다."
+
+msgid "Days"
+msgstr "날"
+
+msgid "Default Inbox"
+msgstr "기본 받은 편지함"
+
+msgid "Default Priority"
+msgstr "기본 우선순위"
+
+msgid "Default SLA"
+msgstr "기본 SLA"
+
+msgid "Default Sending"
+msgstr "기본 전송"
+
+msgid "Default Sending and Inbox"
+msgstr "기본 전송 및 받은 편지함"
+
+msgid "Default Ticket Status"
+msgstr "기본 티켓 상태"
+
+msgid "Default Views"
+msgstr "기본 보기"
+
+msgid "Default actions"
+msgstr "기본 작업"
+
+msgid "Default calling medium for logged in user"
+msgstr "로그인한 사용자를 위한 기본 통화 매체"
+
+msgid "Default medium"
+msgstr "기본 매체"
+
+msgid "Default priority"
+msgstr "기본 우선순위"
+
+msgid "Default template can not be deleted"
+msgstr "기본 템플릿은 삭제할 수 없습니다."
+
+msgid "Default ticket status"
+msgstr "기본 티켓 상태"
+
+msgid "Default ticket type"
+msgstr "기본 티켓 유형"
+
+msgid "Define who receives the tickets and how they’re distributed among agents."
+msgstr "티켓을 받는 사람과 상담원에게 티켓이 배포되는 방식을 정의합니다."
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Delete View"
+msgstr "보기 삭제"
+
+msgid "Delete articles"
+msgstr "기사 삭제"
+
+msgid "Delete category?"
+msgstr "카테고리를 삭제하시겠습니까?"
+
+msgid "Delete {0}"
+msgstr "{0} 삭제"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Description Template"
+msgstr "설명 템플릿"
+
+msgid "Description Weight"
+msgstr "설명 가중치"
+
+msgid "Detailed explanation"
+msgstr "자세한 설명"
+
+msgid "Details"
+msgstr "세부 정보"
+
+msgid "Disable Bypass Restrictions"
+msgstr "우회 제한 비활성화"
+
+msgid "Disable global saved replies"
+msgstr "전역 저장 비활성화 답글"
+
+msgid "Disable saved replies with scope 'Global'"
+msgstr "'글로벌' 범위로 저장된 답글 비활성화"
+
+msgid "Disable signup"
+msgstr "가입 비활성화"
+
+msgid "Disabled"
+msgstr "비활성화됨"
+
+msgid "Disables all email notifications for the ticket - including creation, updates, and alerts."
+msgstr "만들기, 업데이트 및 알림을 포함하여 티켓에 대한 모든 이메일 알림을 비활성화합니다."
+
+msgid "Discard"
+msgstr "삭제"
+
+msgid "Discard Article"
+msgstr "기사 삭제"
+
+msgid "Discard changes?"
+msgstr "변경 사항을 취소하시겠습니까?"
+
+msgid "Display a customizable banner message when customers raise tickets outside your working hours."
+msgstr "고객이 근무 시간 외에 티켓을 제출하면 사용자 정의 가능한 배너 메시지를 표시합니다."
+
+msgid "Do not apply filters and restrictions to agents of this team"
+msgstr "이 팀의 상담원에게 필터 및 제한 사항을 적용하지 마세요"
+
+msgid "Do not restrict tickets without a Team"
+msgstr "팀 없이 티켓을 제한하지 마세요"
+
+msgid "Do not restrict tickets without a team"
+msgstr "제한하지 마세요 팀이 없는 티켓"
+
+msgid "DocType"
+msgstr ""
+
+msgid "Docs"
+msgstr ""
+
+msgid "Document Type"
+msgstr "문서 유형"
+
+msgid "Domain"
+msgstr "도메인"
+
+msgid "Download"
+msgstr "다운로드"
+
+msgid "Draft"
+msgstr "초안"
+
+msgid "Duplicate"
+msgstr "중복"
+
+msgid "Duplicate Assignment Rule"
+msgstr "할당 규칙 중복"
+
+msgid "Duplicate Holiday List"
+msgstr "휴일 목록 중복"
+
+msgid "Duplicate SLA Policy"
+msgstr "SLA 정책 중복"
+
+msgid "Duplicate Saved reply"
+msgstr "저장된 답변 중복"
+
+msgid "Duration"
+msgstr "기간"
+
+msgid "Duration is required"
+msgstr "기간이 필요합니다"
+
+msgid "Easily invite new agents, managers, or admins."
+msgstr "새 에이전트, 관리자 또는 관리자를 쉽게 초대하세요."
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Edit Call Log"
+msgstr "통화 기록 편집"
+
+msgid "Edit Email"
+msgstr "이메일 편집"
+
+msgid "Edit Title"
+msgstr "제목 편집"
+
+msgid "Edit your email account"
+msgstr "이메일 편집 계정"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "Email Account"
+msgstr "이메일 계정"
+
+msgid "Email Accounts"
+msgstr "이메일 계정"
+
+msgid "Email Content"
+msgstr "이메일 내용"
+
+msgid "Email Id"
+msgstr "이메일 ID"
+
+msgid "Email Notifications"
+msgstr "이메일 알림"
+
+msgid "Email account created"
+msgstr "이메일 계정 생성됨"
+
+msgid "Email account name"
+msgstr "이메일 계정 이름"
+
+msgid "Email account updated successfully"
+msgstr "이메일 계정이 성공적으로 업데이트되었습니다"
+
+msgid "Email should not be empty"
+msgstr "이메일은 비워둘 수 없습니다"
+
+msgid "Emails"
+msgstr "이메일"
+
+msgid "Emails pulled successfully"
+msgstr "이메일을 성공적으로 가져왔습니다"
+
+msgid "Emoji"
+msgstr "이모지"
+
+msgid "Enable Bypass Restrictions"
+msgstr "바이패스 제한 활성화"
+
+msgid "Enable comment reactions"
+msgstr "댓글 반응 활성화"
+
+msgid "Enable feedback for Customer Portal"
+msgstr "고객 포털에 대한 피드백 활성화"
+
+msgid "Enabled"
+msgstr "활성화됨"
+
+msgid "End Date"
+msgstr "종료일"
+
+msgid "End Time"
+msgstr "종료 시간"
+
+msgid "Enter a name for this HD Service Holiday List."
+msgstr "이 HD 서비스 휴일 목록의 이름을 입력하세요."
+
+msgid "Enter a valid email"
+msgstr "유효한 이메일을 입력하세요"
+
+msgid "Enter a valid phone number"
+msgstr "유효한 전화번호를 입력하세요."
+
+msgid "Enter brand name"
+msgstr "브랜드 이름을 입력하세요"
+
+msgid "Enter the new name for the team"
+msgstr "팀의 새 이름을 입력하세요."
+
+msgid "Error moving article to category"
+msgstr "기사를 카테고리로 이동하는 중에 오류가 발생했습니다."
+
+msgid "Error processing email at index {0}, message: {1}"
+msgstr "색인 {0}에서 이메일을 처리하는 중에 오류가 발생했습니다. 메시지: {1}"
+
+msgid "Error updating customer"
+msgstr "고객을 업데이트하는 중에 오류가 발생했습니다."
+
+msgid "Error while connecting to email account {0}"
+msgstr "이메일 계정 {0}에 연결하는 동안 오류가 발생했습니다."
+
+msgid "Escalation rule already exists for this criteria"
+msgstr "이 기준에 대한 에스컬레이션 규칙이 이미 존재합니다."
+
+msgid "Excel"
+msgstr "뛰어나다"
+
+msgid "Exotel"
+msgstr "엑소텔"
+
+msgid "Expand"
+msgstr "확장하다"
+
+msgid "Explore customer portal"
+msgstr "고객 포털 살펴보기"
+
+msgid "Export"
+msgstr "내보내다"
+
+msgid "Export All {0} Record(s)"
+msgstr "모든 {0} 레코드 내보내기"
+
+msgid "Export Type"
+msgstr "수출 유형"
+
+msgid "External link"
+msgstr "외부링크"
+
+msgid "Failed"
+msgstr "실패한"
+
+msgid "Failed to create category"
+msgstr "카테고리를 생성하지 못했습니다."
+
+msgid "Failed to create email account, Invalid credentials"
+msgstr "이메일 계정을 생성하지 못했습니다. 자격 증명이 잘못되었습니다."
+
+msgid "Failed to delete ticket."
+msgstr "티켓을 삭제하지 못했습니다."
+
+msgid "Failed to load telephony agent"
+msgstr "전화 통신 에이전트를 로드하지 못했습니다."
+
+msgid "Failed to pull emails"
+msgstr "이메일을 가져오지 못했습니다."
+
+msgid "Failed to save Exotel settings"
+msgstr "엑소텔 설정을 저장하지 못했습니다."
+
+msgid "Failed to save Twilio settings"
+msgstr "Twilio 설정을 저장하지 못했습니다."
+
+msgid "Failed to update Assignee's."
+msgstr "담당자를 업데이트하지 못했습니다."
+
+msgid "Failed to update category."
+msgstr "카테고리를 업데이트하지 못했습니다."
+
+msgid "Failed to update email account, Invalid credentials"
+msgstr "이메일 계정을 업데이트하지 못했습니다. 자격 증명이 잘못되었습니다."
+
+msgid "Favicon"
+msgstr "파비콘"
+
+msgid "Feedback"
+msgstr "피드백"
+
+msgid "Feedback "
+msgstr "피드백 "
+
+msgid "Feedback (Extra)"
+msgstr "피드백(추가)"
+
+msgid "Feedback (Option)"
+msgstr "피드백(옵션)"
+
+msgid "Feedback Already Exists"
+msgstr "피드백이 이미 존재합니다"
+
+msgid "Feedback Rating"
+msgstr "피드백 평점"
+
+msgid "Feedback Trend"
+msgstr "피드백 추세"
+
+msgid "Feedback email has been sent to the customer"
+msgstr "피드백 이메일이 고객에게 전송되었습니다"
+
+msgid "Feedback submitted successfully."
+msgstr "피드백이 제출되었습니다. 성공적으로."
+
+msgid "Field (fieldname)"
+msgstr "필드(필드 이름)"
+
+msgid "Field Dependencies"
+msgstr "필드 종속성"
+
+msgid "Field Dependency created successfully"
+msgstr "필드 종속성이 생성되었습니다."
+
+msgid "Field Dependency updated successfully"
+msgstr "필드 종속성이 성공적으로 업데이트되었습니다."
+
+msgid "Field `{0}` does not exist in Ticket"
+msgstr "`{0}` 필드가 티켓에 없습니다."
+
+msgid "Field `{0}` is not allowed in Ticket Template"
+msgstr "`{0}` 필드는 티켓 템플릿에서 허용되지 않습니다."
+
+msgid "Field dependency deleted successfully."
+msgstr "필드 종속성이 성공적으로 삭제되었습니다."
+
+msgid "Field dependency updated successfully."
+msgstr "필드 종속성이 성공적으로 업데이트되었습니다."
+
+msgid "Fields"
+msgstr "필드"
+
+msgid "Filters"
+msgstr "필터"
+
+msgid "Find out all of the variables that can be used in the content"
+msgstr "할 수 있는 모든 변수를 알아보세요. 콘텐츠에 사용됨"
+
+msgid "First Name"
+msgstr "이름"
+
+msgid "First Responded On"
+msgstr "첫 번째 응답 날짜"
+
+msgid "First Response Due"
+msgstr "첫 번째 응답 마감"
+
+msgid "First Response Time"
+msgstr "첫 번째 응답 시간"
+
+msgid "First Response Time for Tickets"
+msgstr "티켓에 대한 첫 번째 응답 시간"
+
+msgid "First name"
+msgstr "이름"
+
+msgid "First name should not be empty"
+msgstr "이름은 비워둘 수 없습니다."
+
+msgid "Form"
+msgstr "형태"
+
+msgid "Friday"
+msgstr "금요일"
+
+msgid "From"
+msgstr "에서"
+
+msgid "From Date"
+msgstr "시작 날짜"
+
+msgid "From date"
+msgstr "날짜부터"
+
+msgid "From is required"
+msgstr "보낸 사람은 필수 항목입니다."
+
+msgid "Fulfilled"
+msgstr "이행됨"
+
+msgid "General"
+msgstr "일반적인"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "General category can't be deleted"
+msgstr "일반 카테고리는 삭제할 수 없습니다."
+
+msgid "General category name can't be changed"
+msgstr "일반 카테고리 이름은 변경할 수 없습니다."
+
+msgid "General is a reserved category name. Please use a different name to proceed."
+msgstr "일반은 예약된 카테고리 이름입니다. 계속하려면 다른 이름을 사용하세요."
+
+msgid "Global"
+msgstr "글로벌"
+
+msgid "Go to Ticket #{0}"
+msgstr "티켓 #{0}으로 이동"
+
+msgid "Gray"
+msgstr "회색"
+
+msgid "Great! All your tickets are within SLA"
+msgstr "엄청난! 모든 티켓은 SLA 내에 있습니다"
+
+msgid "Green"
+msgstr "녹색"
+
+msgid "Group By"
+msgstr "그룹화 기준"
+
+msgid "Group By Field"
+msgstr "필드별 그룹화"
+
+msgid "Guest"
+msgstr "손님"
+
+msgid "Guide users to articles before tickets."
+msgstr "티켓 구매 전 기사로 사용자를 안내합니다."
+
+msgid "HD Action"
+msgstr "HD 액션"
+
+msgid "HD Agent"
+msgstr "HD 에이전트"
+
+msgid "HD Article"
+msgstr "HD 기사"
+
+msgid "HD Article Category"
+msgstr "HD 기사 카테고리"
+
+msgid "HD Article Feedback"
+msgstr "HD 기사 피드백"
+
+msgid "HD Comment Reaction"
+msgstr "HD 댓글 반응"
+
+msgid "HD Customer"
+msgstr "HD 고객"
+
+msgid "HD Desk Account Request"
+msgstr "HD 데스크 계정 요청"
+
+msgid "HD Email Feedback"
+msgstr "HD 이메일 피드백"
+
+msgid "HD Escalation Rule"
+msgstr "HD 에스컬레이션 규칙"
+
+msgid "HD Field Layout"
+msgstr "HD 필드 레이아웃"
+
+msgid "HD Form Script"
+msgstr "HD 양식 스크립트"
+
+msgid "HD Holiday"
+msgstr "HD 휴일"
+
+msgid "HD Notification"
+msgstr "HD 알림"
+
+msgid "HD Organization"
+msgstr "HD 조직"
+
+msgid "HD Organization Contact Item"
+msgstr "HD 조직 연락처 항목"
+
+msgid "HD Portal Signup Request"
+msgstr "HD 포털 가입 요청"
+
+msgid "HD Saved Reply"
+msgstr "HD 저장된 응답"
+
+msgid "HD Saved Reply Team"
+msgstr "HD 저장된 응답 팀"
+
+msgid "HD Service Day"
+msgstr "HD 서비스 데이"
+
+msgid "HD Service Holiday List"
+msgstr "HD 서비스 휴일 목록"
+
+msgid "HD Service Level Agreement"
+msgstr "HD 서비스 수준 계약"
+
+msgid "HD Service Level Priority"
+msgstr "HD 서비스 수준 우선 순위"
+
+msgid "HD Settings"
+msgstr "HD 설정"
+
+msgid "HD Stopword"
+msgstr "HD 중지 단어"
+
+msgid "HD Support Search Source"
+msgstr "HD 지원 검색 출처"
+
+msgid "HD Synonym"
+msgstr "HD 동의어"
+
+msgid "HD Synonyms"
+msgstr "HD 동의어"
+
+msgid "HD Team"
+msgstr "HD 팀"
+
+msgid "HD Team Member"
+msgstr "HD 팀 멤버"
+
+msgid "HD Ticket"
+msgstr "HD 티켓"
+
+msgid "HD Ticket Activity"
+msgstr "HD 티켓 활동"
+
+msgid "HD Ticket Comment"
+msgstr "HD 티켓 댓글"
+
+msgid "HD Ticket Feedback Option"
+msgstr "HD 티켓 피드백 옵션"
+
+msgid "HD Ticket Priority"
+msgstr "HD 티켓 우선순위"
+
+msgid "HD Ticket Status"
+msgstr "HD 티켓 상태"
+
+msgid "HD Ticket Template"
+msgstr "HD 티켓 템플릿"
+
+msgid "HD Ticket Template Field"
+msgstr "HD 티켓 템플릿 필드"
+
+msgid "HD Ticket Type"
+msgstr "HD 티켓 유형"
+
+msgid "HD View"
+msgstr "HD 보기"
+
+msgid "Headings Weight"
+msgstr "제목 무게"
+
+msgid "Hello {{ contact }}, \\n\\nWe are sorry for the inconvenience, we will get back to you soon. \\n\\nRegards, \\n{{ full_name }}"
+msgstr "안녕하세요 {{ contact }}님, \\n\\n불편을 끼쳐드려 죄송합니다. 곧 연락드리겠습니다. \\n\\n감사합니다. \\n{{ full_name }}"
+
+msgid "Help"
+msgstr "도움말"
+
+msgid "HelpDesk"
+msgstr ""
+
+msgid "Helpdesk"
+msgstr ""
+
+msgid "Helpdesk Contact"
+msgstr ""
+
+msgid "Helpdesk Reports"
+msgstr ""
+
+msgid "Here, your weekly offs are pre-populated based on the previous selections. You can add more rows to also add public and national holidays individually."
+msgstr "여기서 주간 휴가는 이전 선택 사항을 기반으로 미리 채워집니다. 공휴일 및 공휴일을 개별적으로 추가하려면 더 많은 행을 추가할 수 있습니다."
+
+msgid "Hey"
+msgstr "안녕하세요"
+
+msgid "Hide condition"
+msgstr "조건 숨기기"
+
+msgid "Hide from customer"
+msgstr "고객에게 숨기기"
+
+msgid "Hide from sidebar"
+msgstr "사이드바에서 숨기기"
+
+msgid "Hide view from sidebar"
+msgstr "사이드바에서 보기 숨기기"
+
+msgid "Hold"
+msgstr "보류"
+
+msgid "Holiday List"
+msgstr "휴일 목록"
+
+msgid "Holiday List Name"
+msgstr "휴일 목록 이름"
+
+msgid "Holiday list created successfully."
+msgstr "휴일 목록이 성공적으로 생성되었습니다."
+
+msgid "Holiday list deleted successfully."
+msgstr "휴일 목록이 성공적으로 삭제되었습니다."
+
+msgid "Holiday list duplicated successfully."
+msgstr "휴일 목록이 복제되었습니다."
+
+msgid "Holiday list updated successfully."
+msgstr "휴일 목록이 업데이트되었습니다. 성공적으로."
+
+msgid "Holidays"
+msgstr "휴일"
+
+msgid "Home"
+msgstr "홈"
+
+msgid "I understand, add conditions"
+msgstr "알겠습니다. 조건을 추가하세요"
+
+msgid "ID"
+msgstr ""
+
+msgid "IP Address"
+msgstr "IP 주소"
+
+msgid "Icon"
+msgstr "아이콘"
+
+msgid "If enabled, a ticket creation acknowledgement email will be sent to the user right after creating an email ticket"
+msgstr "활성화하면 이메일 티켓을 생성한 직후 티켓 생성 확인 이메일이 사용자에게 전송됩니다."
+
+msgid "If enabled, an email is sent to all of the recipients associated with an agent's reply"
+msgstr "활성화되면 상담원의 답변과 연결된 모든 수신자에게 이메일이 전송됩니다."
+
+msgid "If enabled, an email will be sent to all of the assigned agents after a reply from one of the contacts"
+msgstr "활성화하면 연락처 중 하나에서 응답한 후 할당된 모든 상담원에게 이메일이 전송됩니다."
+
+msgid "If enabled, anyone will be able to create tickets (without any permission). "
+msgstr "활성화하면 누구나 권한 없이 티켓을 만들 수 있습니다. "
+
+msgid "If enabled, feedback email will be sent to the customer when you mark a ticket as the status selected below.\n"
+msgstr "활성화하면 티켓을 아래에서 선택한 상태로 표시하면 피드백 이메일이 고객에게 전송됩니다.\n"
+
+msgid "If enabled, the feedback dialog will be shown, when a user tries to close a ticket. \n"
+msgstr "활성화되면 사용자가 티켓을 종료하려고 할 때 피드백 대화 상자가 표시됩니다. \n"
+
+msgid "If your issue isn't resolved, raise a support ticket"
+msgstr "문제가 해결되지 않으면 지원 티켓을 제출하세요"
+
+msgid "Ignore Restrictions"
+msgstr "제한 사항 무시"
+
+msgid "Image"
+msgstr "이미지"
+
+msgid "Image removed successfully."
+msgstr "이미지가 성공적으로 제거되었습니다."
+
+msgid "Image to be used in various places, including Login and Signup pages. An image with transparent background and 160 x 32 is preferred"
+msgstr "로그인 및 가입 페이지를 포함한 다양한 장소에서 사용되는 이미지입니다. 배경이 투명하고 160 x 32인 이미지가 선호됩니다"
+
+msgid "Image updated successfully."
+msgstr "이미지가 성공적으로 업데이트되었습니다."
+
+msgid "In Progress"
+msgstr "진행 중"
+
+msgid "Inactive"
+msgstr "비활성"
+
+msgid "Inbound Call"
+msgstr "수신 통화"
+
+msgid "Inbox"
+msgstr "받은 편지함"
+
+msgid "Incoming"
+msgstr "수신"
+
+msgid "Initiated"
+msgstr "시작됨"
+
+msgid "Instantly send e-mail"
+msgstr "즉시 이메일 보내기"
+
+msgid "Insufficient Permission for {0}"
+msgstr "{0}에 대한 권한이 부족함"
+
+msgid "Integer value"
+msgstr "정수 값"
+
+msgid "Invalid email"
+msgstr "잘못된 이메일"
+
+msgid "Invalid fields, check if all are filled in and values are correct."
+msgstr "잘못된 필드입니다. 모두 입력되었고 값이 올바른지 확인하세요."
+
+msgid "Invalid file type, only PNG and JPG images are allowed"
+msgstr "잘못된 파일 유형, PNG 및 JPG 이미지만 허용됩니다"
+
+msgid "Invalid notification"
+msgstr "잘못된 알림"
+
+msgid "Invalid phone number"
+msgstr "잘못된 전화번호"
+
+msgid "Invite Agents"
+msgstr "에이전트 초대"
+
+msgid "Invite agent"
+msgstr "에이전트 초대"
+
+msgid "Invite agents"
+msgstr "에이전트 초대"
+
+msgid "Invite as user"
+msgstr "사용자로 초대"
+
+msgid "Invite by email"
+msgstr "이메일로 초대"
+
+msgid "Is Active"
+msgstr "활성 상태임"
+
+msgid "Is Customer Portal"
+msgstr "고객 포털인가요"
+
+msgid "Is Default"
+msgstr "기본값"
+
+msgid "Is Standard"
+msgstr "표준임"
+
+msgid "Is applied to system"
+msgstr "시스템에 적용됨"
+
+msgid "Is name setup skipped"
+msgstr "이름 설정 건너뛰기"
+
+msgid "Is pinned"
+msgstr "고정됨"
+
+msgid "Is setup complete"
+msgstr "설정 완료됨"
+
+msgid "Item(s) deleted successfully."
+msgstr "항목이 성공적으로 삭제되었습니다."
+
+msgid "John Doe"
+msgstr ""
+
+msgid "Jump to"
+msgstr "다음으로 이동"
+
+msgid "KB"
+msgstr ""
+
+msgid "Key"
+msgstr "키"
+
+msgid "Keyboard Shortcuts"
+msgstr "키보드 단축키"
+
+msgid "Knowledge Base"
+msgstr "지식 기반"
+
+msgid "Label"
+msgstr "레이블"
+
+msgid "Label (customer view)"
+msgstr "레이블(고객 보기)"
+
+msgid "Landing Page"
+msgstr "시작 페이지"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Language updated successfully."
+msgstr "언어가 성공적으로 업데이트되었습니다."
+
+msgid "Last"
+msgstr "지난"
+
+msgid "Last 3 Months"
+msgstr "지난 3개월"
+
+msgid "Last 3 months"
+msgstr "지난 3개월"
+
+msgid "Last 30 Days"
+msgstr "지난 30일"
+
+msgid "Last 60 Days"
+msgstr "지난 60일"
+
+msgid "Last 7 Days"
+msgstr "지난 7일"
+
+msgid "Last 90 Days"
+msgstr "지난 90일"
+
+msgid "Last Agent Response"
+msgstr "마지막 상담원 응답"
+
+msgid "Last Customer Response"
+msgstr "마지막 고객 응답"
+
+msgid "Last Month"
+msgstr "지난 달"
+
+msgid "Last Name"
+msgstr "성"
+
+msgid "Last Week"
+msgstr "지난 주"
+
+msgid "Last month"
+msgstr "지난 달"
+
+msgid "Last name"
+msgstr "성"
+
+msgid "Last user assigned by this rule"
+msgstr "이 규칙에 의해 할당된 마지막 사용자"
+
+msgid "Last week"
+msgstr "지난 주"
+
+msgid "Layout"
+msgstr "레이아웃"
+
+msgid "Learn about conditions"
+msgstr "조건에 대해 알아보기"
+
+msgid "Let customers know they're raising a ticket outside working hours, and when they can expect a reply."
+msgstr "고객에게 업무 시간 외에 응답을 받을 수 있는 시간에 티켓을 제기하고 있음을 알립니다."
+
+msgid "Link"
+msgstr "링크"
+
+msgid "Link Options"
+msgstr "링크 옵션"
+
+msgid "Link to a customer"
+msgstr "고객에 연결"
+
+msgid "Link to a customer record"
+msgstr "고객 기록에 연결"
+
+msgid "List"
+msgstr "목록"
+
+msgid "List View"
+msgstr "목록 보기"
+
+msgid "Listen"
+msgstr "듣기"
+
+msgid "Load Default Columns"
+msgstr "기본 열 로드"
+
+msgid "Load More"
+msgstr "로드 자세히"
+
+msgid "Log a Call"
+msgstr "통화 기록"
+
+msgid "Log out"
+msgstr "로그아웃"
+
+msgid "Login to Frappe Cloud"
+msgstr "Frappe Cloud에 로그인"
+
+msgid "Logo"
+msgstr "로고"
+
+msgid "Lower the Integer value, higher is the priority of the issue"
+msgstr "정수 값이 낮을수록 문제의 우선순위가 높을수록"
+
+msgid "Make Private"
+msgstr "비공개로 설정"
+
+msgid "Make Public"
+msgstr "공개로 설정"
+
+msgid "Make a Call"
+msgstr "통화하기"
+
+msgid "Make feedback mandatory"
+msgstr "피드백을 필수로 설정"
+
+msgid "Make view private"
+msgstr "보기를 비공개로 설정"
+
+msgid "Manage general settings of your app."
+msgstr "앱의 일반 설정을 관리합니다."
+
+msgid "Manage pre-defined responses that can be used to respond to customer queries."
+msgstr "고객 쿼리에 응답하는 데 사용할 수 있는 사전 정의된 응답을 관리합니다."
+
+msgid "Manage your email accounts and configure incoming and outgoing settings."
+msgstr "이메일 계정을 관리하고 수신 및 발신을 구성합니다. 설정."
+
+msgid "Manage your profile information."
+msgstr "프로필 정보를 관리하세요."
+
+msgid "Mark all as read"
+msgstr "모두 읽음으로 표시"
+
+msgid "Members"
+msgstr "구성원"
+
+msgid "Members ({0})"
+msgstr "구성원({0})"
+
+msgid "Members of this team will be able to see the tickets assigned to all the teams"
+msgstr "이 팀의 구성원은 모든 팀에 할당된 티켓을 볼 수 있습니다."
+
+msgid "Members of this team will see the tickets assigned to this team only"
+msgstr "이 팀의 구성원은 이 팀에 할당된 티켓만 볼 수 있습니다."
+
+msgid "Mention"
+msgstr "멘션"
+
+msgid "Merge"
+msgstr "병합"
+
+msgid "Merge Ticket"
+msgstr "병합 티켓"
+
+msgid "Merged With"
+msgstr "병합 대상"
+
+msgid "Message"
+msgstr "메시지"
+
+msgid "Misc"
+msgstr "기타"
+
+msgid "Monday"
+msgstr "월요일"
+
+msgid "Monthly"
+msgstr "월별"
+
+msgid "Move To"
+msgstr "이동 대상"
+
+msgid "My Dashboard"
+msgstr "내 대시보드"
+
+msgid "My Settings"
+msgstr "내 설정"
+
+msgid "My Team"
+msgstr "내 팀"
+
+msgid "My Tickets"
+msgstr "내 티켓"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Name Weight"
+msgstr "이름 가중치"
+
+msgid "Name shown on the customer portal<br> (e.g., Replied → Awaiting Response)."
+msgstr "고객 포털에 표시되는 이름<br>(예: 회신됨 → 응답 대기 중)."
+
+msgid "Navigation"
+msgstr "탐색"
+
+msgid "Negative first"
+msgstr "부정 우선"
+
+msgid "New"
+msgstr "새"
+
+msgid "New Article"
+msgstr "새 기사"
+
+msgid "New Assignment Rule"
+msgstr "새 할당 규칙"
+
+msgid "New Assignment Rule Name"
+msgstr "새 할당 규칙 이름"
+
+msgid "New Business Holiday"
+msgstr "새 영업 휴일"
+
+msgid "New Call Log"
+msgstr "새 통화 기록"
+
+msgid "New Comment"
+msgstr "새 댓글"
+
+msgid "New Email"
+msgstr "새 이메일"
+
+msgid "New Field Dependency"
+msgstr "새 필드 종속성"
+
+msgid "New Holiday List Name"
+msgstr "새 휴일 목록 이름"
+
+msgid "New Password"
+msgstr "새 비밀번호"
+
+msgid "New SLA Policy"
+msgstr "새 SLA 정책"
+
+msgid "New SLA Policy Name"
+msgstr "새 SLA 정책 이름"
+
+msgid "New Saved Reply"
+msgstr "새로 저장된 답변"
+
+msgid "New Saved reply Name"
+msgstr "새로 저장된 답변 이름"
+
+msgid "New Subject"
+msgstr "새 제목"
+
+msgid "New Team"
+msgstr "새 팀"
+
+msgid "New Ticket"
+msgstr "새 티켓"
+
+msgid "New and old title cannot be same"
+msgstr "새 제목과 이전 제목은 같을 수 없습니다."
+
+msgid "New team"
+msgstr "새 팀"
+
+msgid "New title is required"
+msgstr "새 제목이 필요합니다"
+
+msgid "New users will have to be manually registered by system managers."
+msgstr "새 사용자는 시스템 관리자가 수동으로 등록해야 합니다."
+
+msgid "Next ticket"
+msgstr "다음 티켓"
+
+msgid "No Answer"
+msgstr "아니요 답변"
+
+msgid "No Data Found"
+msgstr "데이터 없음"
+
+msgid "No Holiday list found"
+msgstr "휴일 목록 없음"
+
+msgid "No SLA found"
+msgstr "SLA 없음"
+
+msgid "No Team"
+msgstr "팀 없음"
+
+msgid "No additional comments"
+msgstr "추가 댓글 없음"
+
+msgid "No agent found"
+msgstr "에이전트 없음"
+
+msgid "No articles found for the applied filters. Try adjusting or clearing your filters."
+msgstr "적용된 필터에 대한 기사가 없습니다. 필터를 조정하거나 지워보세요."
+
+msgid "No articles found in the following category."
+msgstr "다음 카테고리에서 기사를 찾을 수 없습니다."
+
+msgid "No assignees"
+msgstr "담당자 없음"
+
+msgid "No assignment rule found"
+msgstr "할당 규칙을 찾을 수 없음"
+
+msgid "No average metrics"
+msgstr "평균 측정항목 없음"
+
+msgid "No categories available"
+msgstr "사용 가능한 카테고리 없음"
+
+msgid "No changes made"
+msgstr "변경 사항 없음"
+
+msgid "No changes to save"
+msgstr "저장할 변경 사항 없음"
+
+msgid "No charts added"
+msgstr "추가된 차트 없음"
+
+msgid "No contacts found for the applied filters. Try adjusting or clearing your filters."
+msgstr "적용된 필터에 대한 연락처를 찾을 수 없습니다. 필터를 조정하거나 지워보세요."
+
+msgid "No customers found for the applied filters. Try adjusting or clearing your filters."
+msgstr "적용된 필터에 대해 고객을 찾을 수 없습니다. 필터를 조정하거나 지워 보세요."
+
+msgid "No email account found"
+msgstr "이메일 계정 없음"
+
+msgid "No feedback"
+msgstr "피드백 없음"
+
+msgid "No field dependency found"
+msgstr "필드 종속성 발견 없음"
+
+msgid "No members found"
+msgstr "구성원 없음"
+
+msgid "No new notifications"
+msgstr "새 알림 없음"
+
+msgid "No new tickets assigned to you in the last 24 hours"
+msgstr "지난 24시간 동안 귀하에게 할당된 새 티켓 없음"
+
+msgid "No next ticket"
+msgstr "다음 티켓 없음"
+
+msgid "No pending tickets"
+msgstr "대기 중인 티켓 없음"
+
+msgid "No previous ticket"
+msgstr "이전 티켓 없음"
+
+msgid "No reason"
+msgstr "이유 없음"
+
+msgid "No recently assigned tickets"
+msgstr "최근 할당된 티켓 없음"
+
+msgid "No results found"
+msgstr "결과 없음"
+
+msgid "No saved replies found"
+msgstr "저장된 답변 없음"
+
+msgid "No team found"
+msgstr "팀 없음"
+
+msgid "No tickets found"
+msgstr "티켓 없음"
+
+msgid "No tickets found for the applied filters. Try adjusting or clearing your filters."
+msgstr "티켓 없음 적용된 필터에 대해. 필터를 조정하거나 지워보세요."
+
+msgid "No tickets found for this view. Try adjusting your filters or creating a new view."
+msgstr "이 보기에 대한 티켓을 찾을 수 없습니다. 필터를 조정하거나 새 보기를 만들어 보세요."
+
+msgid "No tickets found to preview."
+msgstr "미리 볼 수 있는 티켓이 없습니다."
+
+msgid "Not Allowed"
+msgstr "허용되지 않음"
+
+msgid "Not Assigned"
+msgstr "할당되지 않음"
+
+msgid "Not Saved"
+msgstr "저장되지 않음"
+
+msgid "Not Specified"
+msgstr "지정되지 않음"
+
+msgid "Notification Settings"
+msgstr "알림 설정"
+
+msgid "Notifications"
+msgstr "알림"
+
+msgid "Old Condition"
+msgstr "이전 조건"
+
+msgid "Old Conditions"
+msgstr "이전 조건"
+
+msgid "On Hold Since"
+msgstr "다음 이후 보류 중"
+
+msgid "On click (Javascript)"
+msgstr "클릭 시(자바스크립트)"
+
+msgid "On ticket status"
+msgstr "티켓 상태 시"
+
+msgid "Only one default view is allowed per user for {0}"
+msgstr "{0}에 대해 사용자당 하나의 기본 보기만 허용됩니다"
+
+msgid "Only the 'color' and 'order' fields of the 'Closed' status can be modified."
+msgstr "'닫힘' 상태의 '색상' 및 '주문' 필드만 수정할 수 있습니다."
+
+msgid "Open"
+msgstr "열기"
+
+msgid "Open command palette"
+msgstr "명령 팔레트 열기"
+
+msgid "Open comment box"
+msgstr "댓글 상자 열기"
+
+msgid "Open help"
+msgstr "도움말 열기"
+
+msgid "Open reply box"
+msgstr "응답 상자 열기"
+
+msgid "Open settings"
+msgstr "설정 열기"
+
+msgid "Open: SLA continues. <br>\nPaused: SLA is paused. <br>\nResolved: SLA timer stops."
+msgstr "열기: SLA가 계속됩니다. <br>\n일시 중지됨: SLA가 일시 중지되었습니다. <br>\n해결됨: SLA 타이머가 중지되었습니다."
+
+msgid "Opening Date"
+msgstr "개시 날짜"
+
+msgid "Opening Time"
+msgstr "개시 시간"
+
+msgid "Orange"
+msgstr "주황색"
+
+msgid "Order"
+msgstr "주문"
+
+msgid "Order By"
+msgstr "주문 기준"
+
+msgid "Organization Dashboard"
+msgstr "조직 대시보드"
+
+msgid "Other"
+msgstr "기타"
+
+msgid "Outbound Call"
+msgstr "아웃바운드 통화"
+
+msgid "Outgoing"
+msgstr "발신"
+
+msgid "Outside working hours notice"
+msgstr "근무 시간 외 알림"
+
+msgid "Owner"
+msgstr "소유자"
+
+msgid "Page not found"
+msgstr "페이지를 찾을 수 없음"
+
+msgid "Parent field"
+msgstr "상위 필드"
+
+msgid "Parent field, child field, and parent-child mapping are required."
+msgstr "상위 필드, 하위 필드 및 상위-하위 매핑이 필요합니다."
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Password must be at least 8 characters"
+msgstr "비밀번호는 다음과 같아야 합니다. 8자 이상"
+
+msgid "Password must contain lowercase, uppercase, number, and symbol"
+msgstr "비밀번호에는 소문자, 대문자, 숫자, 기호가 포함되어야 합니다."
+
+msgid "Password updated successfully."
+msgstr "비밀번호가 업데이트되었습니다."
+
+msgid "Passwords do not match"
+msgstr "비밀번호가 일치하지 않습니다."
+
+msgid "Passwords match"
+msgstr "비밀번호 일치"
+
+msgid "Paused"
+msgstr "일시 중지됨"
+
+msgid "Pending"
+msgstr "보류 중"
+
+msgid "Pending Invites"
+msgstr "대기 중인 초대"
+
+msgid "Pending Tickets"
+msgstr "보류 중인 티켓"
+
+msgid "Percentage of total tickets by channel"
+msgstr "채널별 총 티켓 비율"
+
+msgid "Percentage of total tickets by priority"
+msgstr "우선순위별 총 티켓 비율"
+
+msgid "Percentage of total tickets by team"
+msgstr "팀별 총 티켓 비율"
+
+msgid "Percentage of total tickets by type"
+msgstr "유형별 총 티켓 비율"
+
+msgid "Period"
+msgstr "기간"
+
+msgid "Personal"
+msgstr "개인"
+
+msgid "Personal mobile no"
+msgstr "개인 모바일 no"
+
+msgid "Phone"
+msgstr "전화"
+
+msgid "Phone Nos"
+msgstr "전화 번호"
+
+msgid "Pick an option"
+msgstr "옵션 선택"
+
+msgid "Pin View"
+msgstr ""
+
+msgid "Pink"
+msgstr ""
+
+msgid "Pinned"
+msgstr "고정됨"
+
+msgid "Placeholder"
+msgstr "자리 표시자"
+
+msgid "Please add this priority in the <a href='/app/hd-service-level-agreement'>required SLA documents</a>"
+msgstr "이 우선순위를 <a href='/app/hd-service-level-agreement'>필수 SLA 문서</a>에 추가하세요."
+
+msgid "Please add {0} priority in {1} SLA"
+msgstr "{1} SLA에 {0} 우선순위를 추가하세요"
+
+msgid "Please configure your Exotel settings correctly"
+msgstr "Exotel 설정을 올바르게 구성하세요"
+
+msgid "Please configure your Twilio settings correctly"
+msgstr "Twilio 설정을 구성하세요 올바르게"
+
+msgid "Please enter a subject to continue"
+msgstr "계속하려면 제목을 입력하세요"
+
+msgid "Please enter a valid phone number"
+msgstr "유효한 전화번호를 입력하세요"
+
+msgid "Please enter first name at least"
+msgstr "이름을 최소한 입력하세요"
+
+msgid "Please fill all required fields"
+msgstr "필수 필드를 모두 입력하세요"
+
+msgid "Please fill all required fields for Exotel"
+msgstr "Exotel의 필수 필드를 모두 입력하세요"
+
+msgid "Please fill all required fields for Twilio"
+msgstr "Twilio에 대한 모든 필수 필드를 작성하십시오"
+
+msgid "Please fill all the required fields"
+msgstr "모든 필수 필드를 작성하십시오"
+
+msgid "Please fix the errors in the form"
+msgstr "양식에서 오류를 수정하십시오"
+
+msgid "Please provide saved_reply_id"
+msgstr "saved_reply_id를 제공하십시오"
+
+msgid "Please select weekly off day"
+msgstr "매주 휴무일을 선택하십시오"
+
+msgid "Policy name"
+msgstr "정책 이름"
+
+msgid "Positive first"
+msgstr "긍정적 우선"
+
+msgid "Post Description Key"
+msgstr "게시물 설명 키"
+
+msgid "Post Route Key List"
+msgstr "포스트 경로 키 목록"
+
+msgid "Post Route String"
+msgstr "포스트 경로 문자열"
+
+msgid "Post Title Key"
+msgstr "게시물 제목 키"
+
+msgid "Prefer knowledge base"
+msgstr "지식 기반 선호"
+
+msgid "Presets"
+msgstr "사전 설정"
+
+msgid "Press enter to search"
+msgstr "Enter 키를 누르세요. 검색"
+
+msgid "Preview"
+msgstr "미리보기"
+
+msgid "Previous ticket"
+msgstr "이전 티켓"
+
+msgid "Priorities"
+msgstr "우선순위"
+
+msgid "Priority"
+msgstr "우선순위"
+
+msgid "Priority <u>{0}</u> must be included in the SLA {1}."
+msgstr "우선순위 <u>{0}</u>는 SLA {1}에 포함되어야 합니다."
+
+msgid "Priority {0} has been repeated."
+msgstr "우선순위 {0}이(가) 반복되었습니다."
+
+msgid "Private Views"
+msgstr "비공개 보기"
+
+msgid "Product Experts"
+msgstr "제품 전문가"
+
+msgid "Product experts"
+msgstr "제품 전문가"
+
+msgid "Profile"
+msgstr "프로필"
+
+msgid "Profile updated successfully."
+msgstr "프로필이 성공적으로 업데이트되었습니다."
+
+msgid "Public"
+msgstr "공개"
+
+msgid "Public Views"
+msgstr "공개 조회수"
+
+msgid "Publish"
+msgstr "게시"
+
+msgid "Published"
+msgstr "게시됨"
+
+msgid "Published On"
+msgstr "게시 날짜"
+
+msgid "Published articles must have content."
+msgstr "게시된 기사에는 콘텐츠가 있어야 합니다."
+
+msgid "Pull Emails"
+msgstr "이메일 가져오기"
+
+msgid "Pulling emails, this may take a few minutes."
+msgstr "이메일 가져오기는 몇 분 정도 걸릴 수 있습니다."
+
+msgid "Quarterly"
+msgstr "분기별"
+
+msgid "Query Options"
+msgstr "쿼리 옵션"
+
+msgid "Query Route String"
+msgstr "쿼리 경로 문자열"
+
+msgid "Queued"
+msgstr "큐에 추가됨"
+
+msgid "Raised By (Email)"
+msgstr "제공자(이메일)"
+
+msgid "Range"
+msgstr "범위"
+
+msgid "Rate Your Support Experience"
+msgstr "지원 경험 평가"
+
+msgid "Rate this ticket"
+msgstr "이 티켓 평가"
+
+msgid "Rated Tickets"
+msgstr "평가 티켓"
+
+msgid "Rating"
+msgstr "평가"
+
+msgid "Rating must be between 0.2 and 1.0"
+msgstr "평가는 0.2에서 0.2 사이여야 합니다. 1.0"
+
+msgid "Rating {0} is not allowed"
+msgstr "등급 {0}은(는) 허용되지 않습니다"
+
+msgid "Reaction"
+msgstr "반응"
+
+msgid "Reactions"
+msgstr "반응"
+
+msgid "Read"
+msgstr "읽기"
+
+msgid "Reason"
+msgstr "이유"
+
+msgid "Recent"
+msgstr "최근"
+
+msgid "Recent Tickets"
+msgstr "최근 티켓"
+
+msgid "Record Calls"
+msgstr "통화 기록"
+
+msgid "Recurring Holidays"
+msgstr "반복 휴일"
+
+msgid "Recurring holidays"
+msgstr "반복 휴일"
+
+msgid "Red"
+msgstr "빨간색"
+
+msgid "Reference"
+msgstr "참조"
+
+msgid "Reference Ticket"
+msgstr "참조 티켓"
+
+msgid "References"
+msgstr "참조"
+
+msgid "Refresh"
+msgstr "새로 고침"
+
+msgid "Refresh Apps"
+msgstr "앱 새로 고침"
+
+msgid "Regenerate Search Index"
+msgstr "검색 색인 재생성"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Remove Logo"
+msgstr "로고 제거"
+
+msgid "Remove image"
+msgstr "이미지 제거"
+
+msgid "Remove photo"
+msgstr "사진 제거"
+
+msgid "Rename"
+msgstr "이름 바꾸기"
+
+msgid "Rename (Ctrl + ⏎)"
+msgstr "이름 바꾸기(Ctrl + ⏎)"
+
+msgid "Rename (⌘ + ⏎)"
+msgstr "이름 바꾸기(⌘ + ⏎)"
+
+msgid "Rename team"
+msgstr "팀 이름 바꾸기"
+
+msgid "Replied"
+msgstr "응답됨"
+
+msgid "Reply From Agent"
+msgstr "에이전트로부터의 응답"
+
+msgid "Reply From Contact"
+msgstr "연락처로부터 응답"
+
+msgid "Reply from agent"
+msgstr "에이전트로부터 응답"
+
+msgid "Reply from contact"
+msgstr "연락처로부터 응답"
+
+msgid "Reply on a ticket"
+msgstr "답장 티켓에"
+
+msgid "Request Key"
+msgstr "요청 키"
+
+msgid "Required"
+msgstr "필수"
+
+msgid "Reset"
+msgstr "재설정"
+
+msgid "Reset Content"
+msgstr "콘텐츠 재설정"
+
+msgid "Reset content"
+msgstr "콘텐츠 재설정"
+
+msgid "Resolution"
+msgstr "해결 방법"
+
+msgid "Resolution By"
+msgstr "해결 기준"
+
+msgid "Resolution Date"
+msgstr "해결 날짜"
+
+msgid "Resolution Details"
+msgstr "해결 세부 정보"
+
+msgid "Resolution Due"
+msgstr "해결 기한"
+
+msgid "Resolution Time"
+msgstr "해결 시간"
+
+msgid "Resolved"
+msgstr "해결됨"
+
+msgid "Response"
+msgstr "응답"
+
+msgid "Response By"
+msgstr "응답 기준"
+
+msgid "Response Options"
+msgstr "응답 옵션"
+
+msgid "Response Result Key Path"
+msgstr "응답 결과 키 경로"
+
+msgid "Response Time for {0} priority in row {1} can't be greater than Resolution Time."
+msgstr "{1}행의 {0} 우선순위에 대한 응답 시간은 해결 시간보다 클 수 없습니다."
+
+msgid "Response and Resolution"
+msgstr "응답 및 해결"
+
+msgid "Response is required"
+msgstr "응답이 필요합니다"
+
+msgid "Restrict agent assignment to selected Team"
+msgstr "선택한 팀으로 상담원 할당을 제한합니다"
+
+msgid "Restrict agent assignment to selected team"
+msgstr "선택한 팀으로 상담원 할당을 제한합니다"
+
+msgid "Restrict tickets by Team"
+msgstr "팀별로 티켓을 제한합니다"
+
+msgid "Restrict tickets by team"
+msgstr "팀별로 티켓을 제한합니다"
+
+msgid "Restrict tickets to be viewed and managed by team members only."
+msgstr "팀 구성원만 티켓을 보고 관리할 수 있도록 제한합니다."
+
+msgid "Restrict visibility to these teams"
+msgstr "이 팀에게만 공개 상태를 제한합니다"
+
+msgid "Result Preview Field"
+msgstr "결과 미리 보기 필드"
+
+msgid "Result Route Field"
+msgstr "결과 경로 필드"
+
+msgid "Result Title Field"
+msgstr "결과 제목 필드"
+
+msgid "Reviews"
+msgstr "리뷰"
+
+msgid "Ringing"
+msgstr "벨소리"
+
+msgid "Role"
+msgstr "역할"
+
+msgid "Route Name"
+msgstr "경로 이름"
+
+msgid "Rows"
+msgstr "행"
+
+msgid "SLA"
+msgstr ""
+
+msgid "SLA Alerts"
+msgstr "SLA 경고"
+
+msgid "SLA Creation"
+msgstr "SLA 생성"
+
+msgid "SLA Mapping"
+msgstr "SLA 매핑"
+
+msgid "SLA Status"
+msgstr "SLA 상태"
+
+msgid "SLA policy created successfully."
+msgstr "SLA 정책이 성공적으로 생성되었습니다."
+
+msgid "SLA policy deleted successfully."
+msgstr "SLA 정책이 성공적으로 삭제되었습니다."
+
+msgid "SLA policy duplicated successfully."
+msgstr "SLA 정책이 성공적으로 복제되었습니다."
+
+msgid "SLA policy status updated successfully."
+msgstr "SLA 정책 상태가 성공적으로 업데이트되었습니다."
+
+msgid "SLA policy updated successfully."
+msgstr "SLA 정책이 업데이트되었습니다. 성공적으로."
+
+msgid "SLA set as default cannot be disabled"
+msgstr "기본값으로 설정된 SLA는 비활성화할 수 없습니다."
+
+msgid "SLA set as default cannot be disabled."
+msgstr "기본값으로 설정된 SLA는 비활성화할 수 없습니다."
+
+msgid "SLAs align your team and customers with defined timelines for a reliable experience. Learn more about SLA "
+msgstr "SLA는 안정적인 경험을 위해 팀과 고객을 정의된 일정에 맞춰 조정합니다. SLA에 대해 자세히 알아보기 "
+
+msgid "Saturday"
+msgstr "토요일"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+msgid "Saved Replies"
+msgstr "저장된 답변"
+
+msgid "Saved Views"
+msgstr "저장된 보기"
+
+msgid "Saved reply deleted successfully."
+msgstr "저장된 답변이 삭제되었습니다."
+
+msgid "Saved reply duplicated successfully."
+msgstr "저장된 답변이 복제되었습니다."
+
+msgid "Saved reply saved successfully."
+msgstr "저장된 답변이 성공적으로 저장되었습니다."
+
+msgid "Saved reply updated successfully."
+msgstr "저장된 답변이 성공적으로 저장되었습니다."
+
+msgid "Schedule name"
+msgstr "일정 이름"
+
+msgid "Scope"
+msgstr "범위"
+
+msgid "Script"
+msgstr "스크립트"
+
+msgid "Search"
+msgstr "검색"
+
+msgid "Search Index Regenerated"
+msgstr "검색 색인이 재생성되었습니다"
+
+msgid "Search Score"
+msgstr "검색 점수"
+
+msgid "Search Term Param Name"
+msgstr "검색어 매개변수 이름"
+
+msgid "Search for \"{0}\""
+msgstr "\"{0}\" 검색"
+
+msgid "Search index does not exist. Please build the index first."
+msgstr "검색 색인이 존재하지 않습니다. 먼저 색인을 구축하세요."
+
+msgid "Search index not available. Please contact administrator."
+msgstr "검색 색인을 사용할 수 없습니다. 관리자에게 문의하세요."
+
+msgid "Search query must be at least 2 characters"
+msgstr "검색어는 2자 이상이어야 합니다."
+
+msgid "Search ticket"
+msgstr "티켓 검색"
+
+msgid "Search tickets, comments, and communications..."
+msgstr "티켓, 댓글 및 커뮤니케이션 검색..."
+
+msgid "Search tickets, emails, comments, or #234 to navigate to ticket"
+msgstr "티켓으로 이동하려면 티켓, 이메일, 댓글 또는 #234를 검색하세요."
+
+msgid "Searched for:"
+msgstr "검색 대상:"
+
+msgid "Searching..."
+msgstr "검색 중..."
+
+msgid "See all {0} tickets"
+msgstr "{0}개 티켓 모두 보기"
+
+msgid "Select"
+msgstr "선택"
+
+msgid "Select Category"
+msgstr "카테고리 선택"
+
+msgid "Select Range"
+msgstr "범위 선택"
+
+msgid "Select a Default Priority."
+msgstr "기본 우선 순위를 선택하세요."
+
+msgid "Select a rating"
+msgstr "등급 선택"
+
+msgid "Select teams"
+msgstr "팀 선택"
+
+msgid "Select ticket to preview"
+msgstr "미리 볼 티켓 선택"
+
+msgid "Select what type all tickets get by default."
+msgstr "기본적으로 모든 티켓의 유형을 선택하세요."
+
+msgid "Select your weekly off day"
+msgstr "주별 휴무일 선택"
+
+msgid "Send"
+msgstr "보내기"
+
+msgid "Send Invites"
+msgstr "초대 보내기"
+
+msgid "Send feedback when"
+msgstr "피드백 보내기"
+
+msgid "Sent to all of the agents assigned to the ticket whenever a contact has replied."
+msgstr "연락처가 응답할 때마다 티켓에 할당된 모든 상담원에게 전송됩니다."
+
+msgid "Sent to all of the recipients associated with the ticket whenever an agent has replied."
+msgstr "상담원이 응답할 때마다 티켓과 연결된 모든 수신자에게 전송됩니다."
+
+msgid "Sent to the user right after creating an email ticket."
+msgstr " 이메일 티켓."
+
+msgid "Sent to the user who has raised the ticket after the ticket is closed or resolved."
+msgstr "티켓이 종료되거나 해결된 후 티켓을 제기한 사용자에게 전송됩니다."
+
+msgid "Service Level Agreements (SLAs)"
+msgstr "서비스 수준 계약(SLA)"
+
+msgid "Service Level Name"
+msgstr "서비스 수준 이름"
+
+msgid "Set Phone Number"
+msgstr "전화 번호 설정"
+
+msgid "Set Resolution Time for Priority {0} in row {1}."
+msgstr "행 {1}에서 우선순위 {0}에 대한 해결 시간 설정."
+
+msgid "Set Response Time for Priority {0} in row {1}."
+msgstr "행 {1}에 우선순위 {0}에 대한 응답 시간 설정."
+
+msgid "Set as default SLA"
+msgstr "기본 SLA로 설정"
+
+msgid "Set the default status assigned when a ticket is created, and the status to apply when a ticket is reopened. If not specified, the default status from HD Settings will be used."
+msgstr "티켓이 생성될 때 할당된 기본 상태와 티켓이 다시 열릴 때 적용할 상태를 설정합니다. 지정하지 않으면 HD 설정의 기본 상태가 사용됩니다."
+
+msgid "Set working days, hours, and holidays by selecting a predefined schedule or creating a new one."
+msgstr "사전 정의된 일정을 선택하거나 새 일정을 만들어 근무일, 시간 및 휴일을 설정하세요."
+
+msgid "Set your team’s working days, hours, and holidays using a template or custom schedule."
+msgstr "템플릿이나 맞춤 일정을 사용하여 팀의 근무일, 시간 및 휴일을 설정하세요."
+
+msgid "Setting <strong>{0}</strong> as the default SLA removes <strong>{1}</strong> as the default SLA. You’ll need to add a condition in <strong>{1}</strong> for the SLA to work."
+msgstr "<strong>{0}</strong>을 기본 SLA로 설정하면 <strong>{1}</strong>이(가) 기본 SLA에서 제거됩니다. SLA가 작동하려면 <strong>{1}</strong>에 조건을 추가해야 합니다."
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Settings updated"
+msgstr "설정이 업데이트되었습니다"
+
+msgid "Settings updated successfully."
+msgstr "설정이 성공적으로 업데이트되었습니다."
+
+msgid "Setup"
+msgstr "설정"
+
+msgid "Setup Email"
+msgstr "설정 이메일"
+
+msgid "Setup SLA"
+msgstr "설정 SLA"
+
+msgid "Share"
+msgstr "공유"
+
+msgid "Share Feedback"
+msgstr "피드백 공유"
+
+msgid "Share feedback"
+msgstr "피드백 공유"
+
+msgid "Shortcuts"
+msgstr "단축키"
+
+msgid "Show end users a different view"
+msgstr "최종 사용자에게 다른 보기 표시"
+
+msgid "Show in sidebar"
+msgstr "사이드바에 표시"
+
+msgid "Show keyboard shortcuts"
+msgstr "키보드 단축키 표시"
+
+msgid "Simple Python Expression, Example: doc.status == 'Open' and doc.ticket_type == 'Bug'"
+msgstr "간단한 Python 표현식, 예: doc.status == 'Open' 및 doc.ticket_type == 'Bug'"
+
+msgid "Skip e-mail workflow"
+msgstr "이메일 워크플로 건너뛰기"
+
+msgid "Skip email workflow"
+msgstr "이메일 워크플로 건너뛰기"
+
+msgid "Some error occurred while renaming assignment rule"
+msgstr "할당 규칙 이름을 바꾸는 중에 오류가 발생했습니다."
+
+msgid "Some error occurred while renaming holiday list"
+msgstr "휴일 목록 이름을 바꾸는 중에 오류가 발생했습니다."
+
+msgid "Some error occurred while renaming saved reply"
+msgstr "저장된 답글의 이름을 바꾸는 중에 오류가 발생했습니다."
+
+msgid "Some error occurred while updating assignment rule"
+msgstr "할당 규칙을 업데이트하는 중에 오류가 발생했습니다."
+
+msgid "Some error occurred while updating holiday list"
+msgstr "공휴일 목록을 업데이트하는 중에 오류가 발생했습니다."
+
+msgid "Source DocType"
+msgstr "소스 문서 유형"
+
+msgid "Source Name"
+msgstr "소스 이름"
+
+msgid "Source Type"
+msgstr "소스 유형"
+
+msgid "Source and target category cannot be same"
+msgstr "소스 및 대상 카테고리는 동일할 수 없습니다."
+
+msgid "Source and target ticket cannot be same"
+msgstr "원본 티켓과 대상 티켓은 동일할 수 없습니다."
+
+msgid "Source and target tickets which are to be merged cannot be the same."
+msgstr "병합할 원본 티켓과 대상 티켓은 동일할 수 없습니다."
+
+msgid "Source ticket does not exist"
+msgstr "원본 티켓이 존재하지 않습니다."
+
+msgid "Split and Merge"
+msgstr "분할 및 병합"
+
+msgid "Standard Form Scripts can't be modified, duplicate the script instead."
+msgstr "표준 양식 스크립트는 수정할 수 없습니다. 대신 스크립트를 복제하세요."
+
+msgid "Standard Views cannot be deleted."
+msgstr "표준 보기는 삭제할 수 없습니다."
+
+msgid "Start Date"
+msgstr "시작일"
+
+msgid "Start Time"
+msgstr "시작 시간"
+
+msgid "Start Time can't be greater than or equal to End Time in row <u>{0}</u>."
+msgstr "시작 시간은 <u>{0}</u> 행의 종료 시간보다 크거나 같을 수 없습니다."
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Status "
+msgstr "상태"
+
+msgid "Status Category"
+msgstr "상태 카테고리"
+
+msgid "Status Details"
+msgstr "상태 세부 정보"
+
+msgid "Status is required"
+msgstr "상태가 필요합니다."
+
+msgid "Status of the ticket, when a customer replies on the ticket with this SLA.\n\nIf not selected, the value will be takes from HD Settings DocType."
+msgstr "고객이 이 SLA로 티켓에 응답할 때 티켓의 상태입니다.\n\n선택하지 않으면 HD 설정 DocType에서 값을 가져옵니다."
+
+msgid "Status of the ticket, when a customer replies on the ticket."
+msgstr "고객이 티켓에 응답할 때 티켓 상태."
+
+msgid "Status of the ticket, when it is created in the system with this SLA.\nIf not selected, the value will be taken from HD Settings DocType"
+msgstr "이 SLA를 사용하여 시스템에서 생성될 때 티켓 상태.\n선택하지 않으면 티켓이 시스템에 생성될 때 HD 설정 DocType"
+
+msgid "Status of the ticket, when it is created in the system."
+msgstr "티켓 상태에서 값을 가져옵니다."
+
+msgid "Subject"
+msgstr "제목"
+
+msgid "Subject Weight"
+msgstr "제목 무게"
+
+msgid "Subject is required"
+msgstr "제목이 필요합니다"
+
+msgid "Submit"
+msgstr "제출"
+
+msgid "Summary"
+msgstr "요약"
+
+msgid "Sunday"
+msgstr "일요일"
+
+msgid "Support"
+msgstr "지원"
+
+msgid "Support Hour Distribution"
+msgstr "지원 시간 배분"
+
+msgid "Support Policy"
+msgstr "지원 정책"
+
+msgid "Support Team"
+msgstr "지원 팀"
+
+msgid "Synonyms"
+msgstr "동의어"
+
+msgid "System"
+msgstr "시스템"
+
+msgid "System Manager"
+msgstr "시스템 관리자"
+
+msgid "System types can not be deleted"
+msgstr "시스템 유형은 변경할 수 없습니다. 삭제됨"
+
+msgid "Tampered Access"
+msgstr "조작된 액세스"
+
+msgid "Target ticket does not exist"
+msgstr "대상 티켓이 존재하지 않습니다"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Team"
+msgstr "팀"
+
+msgid "Team Name"
+msgstr "팀 이름"
+
+msgid "Team Restrictions"
+msgstr "팀 제한사항"
+
+msgid "Team created"
+msgstr "팀이 생성되었습니다"
+
+msgid "Team created successfully."
+msgstr "팀이 생성되었습니다."
+
+msgid "Team deleted successfully."
+msgstr "팀이 삭제되었습니다."
+
+msgid "Team name"
+msgstr "팀 이름"
+
+msgid "Team renamed successfully."
+msgstr "팀 이름이 성공적으로 변경되었습니다."
+
+msgid "Teams"
+msgstr "팀"
+
+msgid "Telephony"
+msgstr "전화 통신"
+
+msgid "Telephony settings updated successfully."
+msgstr "전화 통신 설정이 성공적으로 업데이트되었습니다."
+
+msgid "Tell us more"
+msgstr "자세히 알려주세요"
+
+msgid "Template"
+msgstr "템플릿"
+
+msgid "Template Name"
+msgstr "템플릿 이름"
+
+msgid "The 'Closed' status cannot be renamed."
+msgstr "'닫힘' 상태의 이름을 바꿀 수 없습니다."
+
+msgid "The Assign Condition JSON '{0}' is invalid: </br> {1}"
+msgstr "할당 조건 JSON '{0}'이(가) 유효하지 않습니다: </br> {1}"
+
+msgid "The Unassign Condition JSON '{0}' is invalid: </br> {1}"
+msgstr "할당 취소 조건 JSON '{0}'이(가) 유효하지 않습니다: </br> {1}"
+
+msgid "The assignment condition '{0}' is invalid: {1}"
+msgstr "할당 조건 '{0}'이(가) 유효하지 않음: {1}"
+
+msgid "The assignment condition json '{0}' is invalid: {1}"
+msgstr "할당 조건 json '{0}'이(가) 유효하지 않습니다. {1}"
+
+msgid "The feedback dialog will be shown, when a user tries to close a ticket from the customer portal."
+msgstr "사용자가 고객 포털에서 티켓을 종료하려고 하면 피드백 대화 상자가 표시됩니다."
+
+msgid "The holiday on {0} is not between From Date and To Date"
+msgstr "{0}의 휴일은 시작 날짜와 종료 날짜 사이에 있지 않습니다."
+
+msgid "The number of days must be 1 or more"
+msgstr "일 수는 1 이상이어야 합니다."
+
+msgid "The status for sending feedback must be of <u>Resolved</u> category."
+msgstr "피드백 전송 상태는 <u>해결됨</u> 카테고리여야 합니다."
+
+msgid "The ticket status will automatically change whenever the agent respond to a ticket."
+msgstr "티켓 상태는 상담원이 응답할 때마다 자동으로 변경됩니다. "
+
+msgid "There are no categories published at the moment."
+msgstr "현재 게시된 카테고리가 없습니다."
+
+msgid "This action is irreversible."
+msgstr "이 작업은 되돌릴 수 없습니다."
+
+msgid "This date is calculated based on configured SLAs, working hours, and holidays."
+msgstr "이 날짜는 구성된 SLA, 근무 시간 및 휴일을 기준으로 계산됩니다."
+
+msgid "This doctype will be deprecated in the future"
+msgstr "이 문서 유형은 향후 더 이상 사용되지 않습니다."
+
+msgid "This field is used to send an email instantly without adding it into the queue. If this field is checked, the email will be sent immediately after clicking the \"Send\" button, instead of being added to the email queue for later processing."
+msgstr "이 필드는 이메일을 대기열에 추가하지 않고 즉시 보내는 데 사용됩니다. 이 필드를 선택하면 이메일이 나중에 처리하기 위해 이메일 대기열에 추가되는 대신 \"보내기\" 버튼을 클릭한 후 즉시 전송됩니다."
+
+msgid "This field is used to skip email-related workflows for tickets. If this field is checked, no emails will be sent related to tickets, such as new ticket creation, status updates, or notifications."
+msgstr "이 필드는 티켓에 대한 이메일 관련 워크플로를 건너뛰는 데 사용됩니다. 이 필드를 선택하면 새 티켓 생성, 상태 업데이트 또는 알림과 같은 티켓과 관련된 이메일이 전송되지 않습니다."
+
+msgid "This method is only meant for developer mode"
+msgstr "이 방법은 개발자 모드에만 의미됩니다."
+
+msgid "This ticket (#{0}) has been merged with ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>."
+msgstr "이 티켓(#{0})은 티켓 <a href = '/helpdesk/tickets/{1}'>#{1}</a>과 병합되었습니다."
+
+msgid "This ticket has been split to a new ticket. Please follow up on ticket <a href={0}>#{1}</a>."
+msgstr "이 티켓은 새 티켓으로 분할되었습니다. <a href={0}>#{1}</a> 티켓에 대한 후속 조치를 취하세요."
+
+msgid "This view is public, and will be removed for all users."
+msgstr "이 보기는 공개되며 모든 사용자에게 제거됩니다."
+
+msgid "This view is public. Changes made will be visible to everyone."
+msgstr "이 보기는 공개입니다. 변경사항은 모든 사람에게 표시됩니다."
+
+msgid "This will reset the content to the default message."
+msgstr "이렇게 하면 콘텐츠가 기본 메시지로 재설정됩니다."
+
+msgid "Thursday"
+msgstr "목요일"
+
+msgid "Ticket"
+msgstr "티켓"
+
+msgid "Ticket #{0}: We've received your request"
+msgstr "티켓 #{0}: 귀하의 요청을 받았습니다"
+
+msgid "Ticket Analytics"
+msgstr "티켓 분석"
+
+msgid "Ticket Configuration"
+msgstr "티켓 구성"
+
+msgid "Ticket Management"
+msgstr "티켓 관리"
+
+msgid "Ticket Merged"
+msgstr "티켓 병합됨"
+
+msgid "Ticket Not Found"
+msgstr "티켓을 찾을 수 없음"
+
+msgid "Ticket Priority"
+msgstr "티켓 우선순위"
+
+msgid "Ticket Reopen status"
+msgstr "티켓 재개 상태"
+
+msgid "Ticket Routing"
+msgstr "티켓 라우팅"
+
+msgid "Ticket Settings"
+msgstr "티켓 설정"
+
+msgid "Ticket Split From"
+msgstr "티켓 분할 시작"
+
+msgid "Ticket Summary"
+msgstr "티켓 요약"
+
+msgid "Ticket Trend"
+msgstr "티켓 추세"
+
+msgid "Ticket Type"
+msgstr "티켓 유형"
+
+msgid "Ticket closed successfully."
+msgstr "티켓이 성공적으로 종료되었습니다."
+
+msgid "Ticket deleted successfully."
+msgstr "티켓이 삭제되었습니다. 성공적으로."
+
+msgid "Ticket does not exist."
+msgstr "티켓이 존재하지 않습니다."
+
+msgid "Ticket must be Open or Paused."
+msgstr "티켓이 열려 있거나 일시 중지되어야 합니다."
+
+msgid "Ticket must be resolved with a feedback"
+msgstr "피드백으로 티켓을 해결해야 합니다"
+
+msgid "Ticket must not already be merged."
+msgstr "티켓이 아직 병합되어서는 안 됩니다."
+
+msgid "Ticket not found"
+msgstr "티켓을 찾을 수 없습니다"
+
+msgid "Ticket not found for the provided key."
+msgstr "제공된 키에 대한 티켓을 찾을 수 없습니다."
+
+msgid "Ticket not found."
+msgstr "티켓을 찾을 수 없습니다."
+
+msgid "Ticket raised outside working hours"
+msgstr "업무 시간 외에 티켓이 제기되었습니다."
+
+msgid "Ticket split successfully."
+msgstr "티켓 분할에 성공했습니다."
+
+msgid "Ticket status"
+msgstr "티켓 상태"
+
+msgid "Ticket type"
+msgstr "티켓 유형"
+
+msgid "Ticket updated succesfully."
+msgstr "티켓이 업데이트되었습니다. 성공적으로."
+
+msgid "Ticket-Search Analysis"
+msgstr "티켓 검색 분석"
+
+msgid "Tickets"
+msgstr "티켓"
+
+msgid "Tickets approaching or breached SLA"
+msgstr "SLA에 접근하거나 위반한 티켓"
+
+msgid "Tickets assigned to you in the last 24 hours"
+msgstr "지난 24시간 동안 귀하에게 할당된 티켓"
+
+msgid "Tickets by Channel"
+msgstr "채널별 티켓"
+
+msgid "Tickets by Priority"
+msgstr "우선순위별 티켓"
+
+msgid "Tickets by Team"
+msgstr "팀별 티켓"
+
+msgid "Tickets by Type"
+msgstr "유형별 티켓"
+
+msgid "Tickets can only be assigned to agents"
+msgstr "티켓은 상담원에게만 할당될 수 있습니다"
+
+msgid "Tickets must meet the following conditions:"
+msgstr "티켓은 다음 조건을 충족해야 합니다."
+
+msgid "Tickets that are awaiting your response"
+msgstr "응답을 기다리고 있는 티켓"
+
+msgid "Timezone"
+msgstr "시간대"
+
+msgid "Timezone updated successfully."
+msgstr "시간대 업데이트됨 성공적으로."
+
+msgid "Title"
+msgstr "제목"
+
+msgid "Title Slug"
+msgstr "타이틀 슬러그"
+
+msgid "Title is required"
+msgstr "제목이 필요합니다"
+
+msgid "To"
+msgstr "끝"
+
+msgid "To Date"
+msgstr "끝 날짜"
+
+msgid "To Date cannot be before From Date"
+msgstr "끝 날짜는 이전일 수 없습니다. 시작 날짜"
+
+msgid "To date"
+msgstr "끝 날짜"
+
+msgid "To is required"
+msgstr "끝 날짜가 필요합니다"
+
+msgid "To know more about setting up email accounts, click"
+msgstr "이메일 계정 설정에 대한 자세한 내용을 보려면 다음을 클릭하세요."
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Top Result"
+msgstr "최고 결과"
+
+msgid "Total"
+msgstr "총"
+
+msgid "Total Hold Time"
+msgstr "총 보류 시간"
+
+msgid "Total Holidays"
+msgstr "총 휴일"
+
+msgid "Total Ticket"
+msgstr "총 티켓"
+
+msgid "Total number of tickets created"
+msgstr "생성된 총 티켓 수"
+
+msgid "Total tickets by priority"
+msgstr "총 티켓 수 우선순위"
+
+msgid "Total tickets by team"
+msgstr "팀별 총 티켓 수"
+
+msgid "Total tickets by type"
+msgstr "유형별 총 티켓"
+
+msgid "Tuesday"
+msgstr "화요일"
+
+msgid "Twilio"
+msgstr ""
+
+msgid "Type"
+msgstr "유형"
+
+msgid "Type a message"
+msgstr "메시지를 입력하세요"
+
+msgid "Type is required"
+msgstr "유형이 필요합니다"
+
+msgid "URL/Method"
+msgstr "URL/메소드"
+
+msgid "Unable to send email. Please setup default outgoing email account."
+msgstr "이메일을 보낼 수 없습니다. 기본 발신 이메일 계정을 설정하십시오."
+
+msgid "Unassignment Condition"
+msgstr "무단 액세스 조건"
+
+msgid "Unauthorized Access"
+msgstr "무단 액세스"
+
+msgid "Unauthorized access."
+msgstr "무단 액세스."
+
+msgid "Unpin View"
+msgstr "보기 고정 해제"
+
+msgid "Unpublish"
+msgstr "게시 취소"
+
+msgid "Unsaved"
+msgstr "저장되지 않음"
+
+msgid "Unsaved changes"
+msgstr "저장되지 않은 변경 사항"
+
+msgid "Untitled"
+msgstr "제목 없음"
+
+msgid "Update"
+msgstr "업데이트"
+
+msgid "Update Account"
+msgstr "계정 업데이트"
+
+msgid "Update status to"
+msgstr "상태 업데이트"
+
+msgid "Upload"
+msgstr "업로드"
+
+msgid "Upload image"
+msgstr "이미지 업로드"
+
+msgid "Upload photo"
+msgstr "사진 업로드"
+
+msgid "Uploading {0}%"
+msgstr "{0}% 업로드 중"
+
+msgid "User"
+msgstr "사용자"
+
+msgid "User Not found"
+msgstr "사용자 없음 발견"
+
+msgid "User Resolution Time"
+msgstr "사용자 해결 시간"
+
+msgid "User Signup"
+msgstr "사용자 가입"
+
+msgid "Users"
+msgstr "사용자"
+
+msgid "Valid From"
+msgstr "유효 기간"
+
+msgid "Via Customer Portal"
+msgstr "고객 포털을 통해"
+
+msgid "View Assignment rule"
+msgstr "할당 규칙 보기"
+
+msgid "View {0}"
+msgstr "{0} 보기"
+
+msgid "Views"
+msgstr "보기"
+
+msgid "Violet"
+msgstr ""
+
+msgid "Was this article Helpful?"
+msgstr "이 문서가 도움이 되었습니까?"
+
+msgid "Wednesday"
+msgstr "수요일"
+
+msgid "Weekly"
+msgstr "매주"
+
+msgid "Weekly Off"
+msgstr "매주 끄기"
+
+msgid "When enabled, the ticket status will automatically change to the status selected below whenever the agent responds to a ticket.\n"
+msgstr "활성화하면 상담원이 티켓에 응답할 때마다 티켓 상태가 아래 선택된 상태로 자동 변경됩니다.\n"
+
+msgid "Word"
+msgstr ""
+
+msgid "Work Schedule and Holidays"
+msgstr "작업 일정 및 공휴일"
+
+msgid "Workday"
+msgstr ""
+
+msgid "Workday added successfully."
+msgstr "Workday가 성공적으로 추가되었습니다."
+
+msgid "Workday updated successfully."
+msgstr "Workday가 성공적으로 업데이트되었습니다."
+
+msgid "Workday {0} has been repeated."
+msgstr "Workday {0}이(가) 반복되었습니다."
+
+msgid "Workflow"
+msgstr "워크플로"
+
+msgid "Workflow & Knowledge Base Settings"
+msgstr "워크플로 및 기술 자료 설정"
+
+msgid "Working Hours"
+msgstr "근무 시간"
+
+msgid "Write your article here..."
+msgstr "여기에 기사를 작성하세요..."
+
+msgid "Yearly"
+msgstr "연간"
+
+msgid "Yellow"
+msgstr "노란색"
+
+msgid "You are not allowed to view this dashboard data."
+msgstr "이 대시보드 데이터를 볼 수 없습니다."
+
+msgid "You are not permitted to access this resource."
+msgstr "이 리소스에 액세스할 수 없습니다."
+
+msgid "You are not permitted to add a comment"
+msgstr "귀하 은(는) 댓글을 추가할 수 없습니다."
+
+msgid "You are now offline."
+msgstr "현재 오프라인 상태입니다."
+
+msgid "You are now online."
+msgstr "현재 온라인 상태입니다."
+
+msgid "You can change the default calling medium from the settings"
+msgstr "설정에서 기본 호출 매체를 변경할 수 있습니다."
+
+msgid "You cannot disable the default SLA."
+msgstr "기본 SLA를 비활성화할 수 없습니다."
+
+msgid "You cannot set more than one Default Priority."
+msgstr "|기본 우선 순위를 두 개 이상 설정할 수 없습니다."
+
+msgid "You do not have permission to access Assignment Rules"
+msgstr "할당 규칙에 액세스할 수 있는 권한이 없습니다."
+
+msgid "You don't have access to this ticket, or it no longer exists."
+msgstr "이 티켓에 대한 액세스 권한이 없거나 더 이상 존재하지 않습니다."
+
+msgid "You don't have permission to view this page, or it no longer exists."
+msgstr "이 페이지를 볼 수 있는 권한이 없거나 더 이상 존재하지 않습니다."
+
+msgid "You have already provided feedback for this ticket."
+msgstr "이 티켓에 대한 피드백을 이미 제공했습니다."
+
+msgid "You haven't received any feedback yet"
+msgstr "아직 피드백을 받지 못했습니다."
+
+msgid "You must set one SLA as Default. Please check the Default SLA option."
+msgstr "SLA 하나를 기본값으로 설정해야 합니다. 기본 SLA 옵션을 확인하세요."
+
+msgid "Your old conditions will be overwritten. Are you sure you want to save?"
+msgstr "이전 조건을 덮어쓰게 됩니다. 저장하시겠습니까?"
+
+msgid "Your performance is"
+msgstr "당신의 성과는"
+
+msgid "assigned you a ticket"
+msgstr "당신에게 티켓을 할당했습니다"
+
+msgid "average"
+msgstr "평균"
+
+msgid "back to email event list"
+msgstr "이메일 이벤트 목록으로 돌아가기"
+
+msgid "created"
+msgstr "생성됨"
+
+msgid "customize {0}"
+msgstr "맞춤설정 {0}"
+
+msgid "days"
+msgstr "일"
+
+msgid "deleted"
+msgstr "삭제됨"
+
+msgid "emails/ comments"
+msgstr "이메일/댓글"
+
+msgid "excellent"
+msgstr "훌륭함"
+
+msgid "from this email onwards will be moved to new ticket."
+msgstr "이 이메일부터 새 티켓으로 이동됩니다."
+
+msgid "good"
+msgstr "좋"
+
+msgid "group_by"
+msgstr ""
+
+msgid "has made a call"
+msgstr "전화를 걸었습니다"
+
+msgid "has reached out"
+msgstr "도달했습니다 out"
+
+msgid "has reopened the ticket"
+msgstr "티켓을 다시 열었습니다"
+
+msgid "here"
+msgstr "여기"
+
+msgid "here."
+msgstr "여기"
+
+msgid "hrs"
+msgstr ""
+
+msgid "in"
+msgstr ""
+
+msgid "is_merged === 0"
+msgstr ""
+
+msgid "kanban"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "mentioned you in ticket"
+msgstr "티켓에서 당신을 멘션했습니다"
+
+msgid "poor"
+msgstr "나쁨"
+
+msgid "purple"
+msgstr "보라색"
+
+msgid "stars"
+msgstr "별"
+
+msgid "status_category in ['Open', 'Paused']"
+msgstr "status_category(['공개', '일시 중지됨'])"
+
+msgid "synonym"
+msgstr "동의어"
+
+msgid "viewed this"
+msgstr "이 항목을 조회함"
+
+msgid "{0} matches"
+msgstr "일치 사항 {0}개"
+
+msgid "{0} reviews"
+msgstr "리뷰 {0}개"
+
+msgid "{0} view is currently public. Changing it to private will hide it for all the users."
+msgstr "{0}개 보기가 현재 공개되어 있습니다. 비공개로 변경하면 모든 사용자에게 숨겨집니다."
+
+msgid "{0} view is currently visible in the sidebar. Hiding it will remove it from the sidebar."
+msgstr "{0} 보기는 현재 사이드바에 표시됩니다. 숨기면 사이드바에서 제거됩니다."
+

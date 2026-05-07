@@ -1,0 +1,5068 @@
+# Korean translations for lms
+# Copyright (C) 2024
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Language-Team: Korean\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " Please evaluate and grade it."
+msgstr "평가하고 등급을 매겨주세요."
+
+msgid " designed as a learning path to guide your progress. You may take the courses in any order that suits you. "
+msgstr "귀하의 발전을 안내하는 학습 경로로 설계되었습니다. 자신에게 맞는 순서대로 강좌를 수강할 수 있습니다."
+
+msgid " designed as a structured learning path to guide your progress. Courses in this program must be taken in order, and each course will unlock as you complete the previous one. "
+msgstr "귀하의 발전을 안내하는 체계적인 학습 경로로 설계되었습니다. 이 프로그램의 과정은 순서대로 수강해야 하며, 이전 과정을 완료하면 각 과정이 잠금 해제됩니다."
+
+msgid " to "
+msgstr "에게"
+
+msgid " you are on a"
+msgstr "당신은에 있습니다"
+
+msgid "<a href=\"/app/lms-settings/LMS%20Settings\">LMS Settings</a>"
+msgstr "<a href=\"/app/lms-settings/LMS%20Settings\">LMS 설정</a>"
+
+msgid "<a href=\"/app/web-page/new-web-page-1\">Setup a Home Page</a>"
+msgstr "<a href=\"/app/web-page/new-web-page-1\">홈페이지 설정</a>"
+
+msgid "<a href=\"/lms/courses\">Visit LMS Portal</a>"
+msgstr "<a href=\"/lms/courses\">LMS 포털 방문</a>"
+
+msgid "<a href=\"/lms/courses/new/edit\">Create a Course</a>"
+msgstr "<a href=\"/lms/courses/new/edit\">강의 만들기</a>"
+
+msgid "<a href=\"https://docs.frappe.io/learning\">Documentation</a>"
+msgstr "<a href=\"https://docs.frappe.io/learning\">문서화</a>"
+
+msgid "<p>Dear {{ member_name }},</p>\\n\\n<p>You have been enrolled in our upcoming batch {{ batch_name }}.</p>\\n\\n<p>Thanks,</p>\\n<p>Frappe Learning</p>"
+msgstr "<p>{{ member_name }}님께,</p>\\n\\n<p>다가오는 {{ 배치_이름 }} 배치에 등록하셨습니다.</p>\\n\\n<p>감사합니다.</p>\\n<p>Frappe Learning</p>"
+
+msgid "<span class=\"h4\"><b>Get Started</b></span>"
+msgstr "<span class=\"h4\"><b>시작하기</b></span>"
+
+msgid "<span class=\"h4\"><b>Master</b></span>"
+msgstr "<span class=\"h4\"><b>마스터</b></span>"
+
+msgid "<span style=\"font-size: 18px;\"><b>Statistics</b></span>"
+msgstr "<span style=\"font-size: 18px;\"><b>통계</b></span>"
+
+msgid "A course cannot have both paid certificate and certificate of completion."
+msgstr "강좌에는 유료 수료증과 수료증이 모두 있을 수 없습니다."
+
+msgid "A new batch '{0}' has been published that might interest you. Check it out!"
+msgstr "관심을 가질 만한 새 배치 '{0}'이(가) 게시되었습니다. 확인해 보세요!"
+
+msgid "A new batch has been published on "
+msgstr "에 새로운 배치가 게시되었습니다."
+
+msgid "A new course '{0}' has been published that might interest you. Check it out!"
+msgstr "귀하가 관심을 가질 만한 새로운 과정 '{0}'이(가) 게시되었습니다. 확인해 보세요!"
+
+msgid "A new course has been published on "
+msgstr "에 새로운 강좌가 공개되었습니다."
+
+msgid "A new course has been published on {0}"
+msgstr "{0}에 새 강좌가 게시되었습니다."
+
+msgid "A one line introduction to the course that appears on the course card"
+msgstr "강좌 카드에 표시되는 강좌에 대한 한 줄 소개"
+
+msgid "About"
+msgstr "에 대한"
+
+msgid "About the Course"
+msgstr "코스 소개"
+
+msgid "Acceptance for Terms and/or Policies"
+msgstr "약관 및/또는 정책에 대한 동의"
+
+msgid "Access courses, join batches, and track learning progress"
+msgstr "강좌에 액세스하고, 배치에 참여하고, 학습 진행 상황을 추적하세요."
+
+msgid "Account ID"
+msgstr "계정 ID"
+
+msgid "Account Name"
+msgstr "계정 이름"
+
+msgid "Achievements"
+msgstr "업적"
+
+msgid "Activate this Google Meet account for scheduling meetings."
+msgstr "회의 예약을 위해 이 Google Meet 계정을 활성화하세요."
+
+msgid "Activate this Zoom account for scheduling meetings."
+msgstr "회의 예약을 위해 이 Zoom 계정을 활성화하세요."
+
+msgid "Active Members"
+msgstr "활성 회원"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Add Chapter"
+msgstr "장 추가"
+
+msgid "Add Course to Program"
+msgstr "프로그램에 강좌 추가"
+
+msgid "Add Existing User as Evaluator"
+msgstr "기존 사용자를 평가자로 추가"
+
+msgid "Add Lesson"
+msgstr "강의 추가"
+
+msgid "Add New Member"
+msgstr "새 회원 추가"
+
+msgid "Add Question"
+msgstr "질문 추가"
+
+msgid "Add Quiz to Video"
+msgstr "비디오에 퀴즈 추가"
+
+msgid "Add Row"
+msgstr "행 추가"
+
+msgid "Add Slot"
+msgstr "슬롯 추가"
+
+msgid "Add Test Case"
+msgstr "테스트 사례 추가"
+
+msgid "Add Transaction"
+msgstr "트랜잭션 추가"
+
+msgid "Add a Chapter"
+msgstr "장 추가"
+
+msgid "Add a Lesson"
+msgstr "강좌 추가"
+
+msgid "Add a chapter"
+msgstr "장 추가"
+
+msgid "Add a course to the batch"
+msgstr "배치에 강좌 추가"
+
+msgid "Add a keyword and press enter"
+msgstr "키워드를 추가하고 Enter 키를 누르세요"
+
+msgid "Add a lesson"
+msgstr "추가 수업"
+
+msgid "Add a program"
+msgstr "프로그램 추가"
+
+msgid "Add a programming exercise to your lesson"
+msgstr "수업에 프로그래밍 연습 추가"
+
+msgid "Add a quiz to your lesson"
+msgstr "수업에 퀴즈 추가"
+
+msgid "Add an assessment"
+msgstr "평가 추가"
+
+msgid "Add an assignment to your lesson"
+msgstr "수업에 과제 추가"
+
+msgid "Add at least one possible answer for this question: {0}"
+msgstr "이 질문에 대해 하나 이상의 가능한 답변 추가: {0}"
+
+msgid "Add courses to your batch"
+msgstr "배치에 강좌 추가"
+
+msgid "Add new question"
+msgstr "새 질문 추가"
+
+msgid "Add quiz to this video"
+msgstr "이 동영상에 퀴즈 추가"
+
+msgid "Add students to your batch"
+msgstr "배치에 학생 추가"
+
+msgid "Add to Notes"
+msgstr "메모에 추가"
+
+msgid "Add web page to sidebar"
+msgstr "사이드바에 웹 페이지 추가"
+
+msgid "Add your first chapter"
+msgstr "첫 번째 장 추가"
+
+msgid "Add your first lesson"
+msgstr "첫 번째 강의 추가"
+
+msgid "Address"
+msgstr "주소"
+
+msgid "Address Line 1"
+msgstr "주소 입력란 1"
+
+msgid "Address Line 2"
+msgstr "주소 입력란 2"
+
+msgid "Admin"
+msgstr "관리자"
+
+msgid "Administrator"
+msgstr "관리자"
+
+msgid "All"
+msgstr "모두"
+
+msgid "All Batches"
+msgstr "모든 배치"
+
+msgid "All Courses"
+msgstr "모든 과정"
+
+msgid "All Programs"
+msgstr "모든 프로그램"
+
+msgid "All questions should have the same marks if the limit is set."
+msgstr "제한이 설정된 경우 모든 질문에는 동일한 표시가 있어야 합니다."
+
+msgid "Allow Guest Access"
+msgstr "게스트 액세스 허용"
+
+msgid "Allow Job Posting"
+msgstr "채용 게시 허용"
+
+msgid "Allow Self Enrollment"
+msgstr "자체 허용 등록"
+
+msgid "Allow accessing future dates"
+msgstr "향후 날짜 액세스 허용"
+
+msgid "Allow this coupon to be used for discounts."
+msgstr "이 쿠폰을 할인에 사용할 수 있도록 허용합니다."
+
+msgid "Allow users to enroll in this batch on their own."
+msgstr "사용자가 스스로 이 배치에 등록할 수 있도록 허용합니다."
+
+msgid "Allow users to enroll in this course on their own."
+msgstr "사용자가 스스로 이 강좌에 등록할 수 있도록 허용합니다."
+
+msgid "Allow users to view their past quiz attempts."
+msgstr "사용자가 자신의 과거 퀴즈 시도를 볼 수 있도록 허용합니다."
+
+msgid "Already Registered"
+msgstr "이미 등록됨"
+
+msgid "Amber"
+msgstr "황색"
+
+msgid "Amount"
+msgstr "금액"
+
+msgid "Amount (USD)"
+msgstr "금액(USD)"
+
+msgid "Amount and currency are required for paid batches."
+msgstr "유료 배치에는 금액과 통화가 필요합니다."
+
+msgid "Amount and currency are required for paid certificates."
+msgstr "금액과 통화가 필요합니다. 유료 인증서의 경우."
+
+msgid "Amount and currency are required for paid courses."
+msgstr "유료 강좌에는 금액과 통화가 필요합니다."
+
+msgid "Amount with GST"
+msgstr "GST가 포함된 금액"
+
+msgid "Announcement"
+msgstr "공지"
+
+msgid "Announcement has been sent successfully"
+msgstr "공지사항이 성공적으로 전송되었습니다"
+
+msgid "Announcement is required"
+msgstr "공지는 필수입니다"
+
+msgid "Announcements"
+msgstr "공지사항"
+
+msgid "Answer"
+msgstr "답변"
+
+msgid "Applicable For"
+msgstr "적용 대상"
+
+msgid "Applicable Items"
+msgstr "적용항목"
+
+msgid "Application"
+msgstr "애플리케이션"
+
+msgid "Application Form Link"
+msgstr "지원서 링크"
+
+msgid "Applications"
+msgstr "응용"
+
+msgid "Applied On"
+msgstr "적용일"
+
+msgid "Apply"
+msgstr "적용하다"
+
+msgid "Apply GST for India"
+msgstr "인도에 GST 적용"
+
+msgid "Apply Rounding on Equivalent"
+msgstr "동등한 항목에 반올림 적용"
+
+msgid "Apply for this job"
+msgstr "이 직업에 지원하세요"
+
+msgid "Approved"
+msgstr "승인됨"
+
+msgid "Apps"
+msgstr "앱"
+
+msgid "Archived"
+msgstr "보관됨"
+
+msgid "Are you sure you want to cancel this evaluation? This action cannot be undone."
+msgstr "이 평가를 취소하시겠습니까? 이 작업은 취소할 수 없습니다."
+
+msgid "Are you sure you want to clear the demo data? This would delete the course \"A guide  to Frappe Learning\" along with all its associated data. This action cannot be undone."
+msgstr "데모 데이터를 삭제하시겠습니까? 이렇게 하면 관련 데이터와 함께 \"Frappe 학습 가이드\" 과정이 삭제됩니다. 이 작업은 취소할 수 없습니다."
+
+msgid "Are you sure you want to delete this program? This action cannot be undone."
+msgstr "이 프로그램을 삭제하시겠습니까? 이 작업은 취소할 수 없습니다."
+
+msgid "Are you sure you want to enroll?"
+msgstr "정말로 등록하시겠습니까?"
+
+msgid "Are you sure you want to login to your Frappe Cloud dashboard?"
+msgstr "Frappe Cloud 대시보드에 로그인하시겠습니까?"
+
+msgid "Are you sure you want to submit the quiz?"
+msgstr "퀴즈를 제출하시겠습니까?"
+
+msgid "As a part of this batch's curriculum you will have to complete the following courses and assessments."
+msgstr "이 배치 커리큘럼의 일부로 다음 과정과 평가를 완료해야 합니다."
+
+msgid "Ask a question to get help from the community."
+msgstr "커뮤니티에서 도움을 받으려면 질문을 하세요."
+
+msgid "Assessment"
+msgstr "평가"
+
+msgid "Assessment Name"
+msgstr "평가 이름"
+
+msgid "Assessment Type"
+msgstr "평가 유형"
+
+msgid "Assessment added successfully"
+msgstr "평가가 성공적으로 추가되었습니다."
+
+msgid "Assessment {0} has already been added to this batch."
+msgstr "{0} 평가가 이미 이 배치에 추가되었습니다."
+
+msgid "Assessments"
+msgstr "평가"
+
+msgid "Assign"
+msgstr "할당"
+
+msgid "Assign For"
+msgstr "할당 대상"
+
+msgid "Assign To"
+msgstr "할당 대상"
+
+msgid "Assign a Badge"
+msgstr "배지 할당"
+
+msgid "Assigned For"
+msgstr "할당 대상"
+
+msgid "Assignment"
+msgstr "과제"
+
+msgid "Assignment Attachment"
+msgstr "과제 첨부 파일"
+
+msgid "Assignment Progress"
+msgstr "과제 진행 상태"
+
+msgid "Assignment Question"
+msgstr "과제 질문"
+
+msgid "Assignment Submission"
+msgstr "과제 제출"
+
+msgid "Assignment Submissions"
+msgstr "과제 제출"
+
+msgid "Assignment Title"
+msgstr "과제 제목"
+
+msgid "Assignment created successfully"
+msgstr "과제 생성 완료"
+
+msgid "Assignment for Lesson {0} by {1} already exists."
+msgstr "{1}님의 수업 {0} 과제가 이미 존재합니다."
+
+msgid "Assignment submitted successfully"
+msgstr "과제 성공적으로 제출됨"
+
+msgid "Assignment updated successfully"
+msgstr "과제가 업데이트되었습니다."
+
+msgid "Assignment will appear at the bottom of the lesson."
+msgstr "과제가 수업 하단에 표시됩니다."
+
+msgid "Assignments"
+msgstr "과제"
+
+msgid "At least one applicable item is required"
+msgstr "적어도 하나의 해당 항목이 필요합니다."
+
+msgid "At least one option must be correct for this question."
+msgstr "이 질문에 대해 최소한 하나의 옵션이 정확해야 합니다."
+
+msgid "At least one test case is required for the programming exercise."
+msgstr "프로그래밍 연습을 위해서는 최소한 하나의 테스트 사례가 필요합니다."
+
+msgid "Attempted Questions"
+msgstr "시도한 질문"
+
+msgid "Attendance for Class - {0}"
+msgstr "수업 출석 - {0}"
+
+msgid "Attended for"
+msgstr "참석자"
+
+msgid "Attendees"
+msgstr "참석자"
+
+msgid "Attire Preference"
+msgstr "복장 환경설정"
+
+msgid "Authorize Google Calendar Access"
+msgstr "Google 캘린더 액세스 승인"
+
+msgid "Auto Recording"
+msgstr "자동 녹음"
+
+msgid "Availability updated successfully"
+msgstr "가용성이 성공적으로 업데이트되었습니다."
+
+msgid "Available Slots"
+msgstr "사용 가능한 슬롯"
+
+msgid "Average Completion Rate"
+msgstr "평균 완료율"
+
+msgid "Average Feedback Received"
+msgstr "평균 피드백 수신"
+
+msgid "Average Progress %"
+msgstr "평균 진행률 %"
+
+msgid "Average Rating"
+msgstr "평균 평점"
+
+msgid "Average Watch Time (mins)"
+msgstr "평균 시청 시간(분)"
+
+msgid "Back to Course"
+msgstr "강좌로 돌아가기"
+
+msgid "Badge"
+msgstr "배지"
+
+msgid "Badge Description"
+msgstr "배지 설명"
+
+msgid "Badge Image"
+msgstr "배지 이미지"
+
+msgid "Badge assigned successfully"
+msgstr "배지 할당 성공"
+
+msgid "Badge assignment created successfully"
+msgstr "배지 할당이 성공적으로 생성됨"
+
+msgid "Badge assignment updated successfully"
+msgstr "배지 할당이 성공적으로 업데이트됨"
+
+msgid "Badge assignments deleted successfully"
+msgstr "배지 할당이 삭제됨 성공적"
+
+msgid "Badge created successfully"
+msgstr "배지가 생성되었습니다"
+
+msgid "Badge deleted successfully"
+msgstr "배지가 성공적으로 삭제되었습니다"
+
+msgid "Badge updated successfully"
+msgstr "배지가 업데이트되었습니다."
+
+msgid "Badge {0} has already been assigned to this {1}."
+msgstr "배지 {0}이(가) 이미 이 {1}에 할당되었습니다."
+
+msgid "Badge {0} not found"
+msgstr "배지 {0}을(를) 찾을 수 없음"
+
+msgid "Batch"
+msgstr "배치"
+
+msgid "Batch Confirmation Template"
+msgstr "배치 확인 템플릿"
+
+msgid "Batch Course"
+msgstr "배치 코스"
+
+msgid "Batch Details"
+msgstr "배치 세부 정보"
+
+msgid "Batch Details Raw"
+msgstr "배치 세부 정보 원시"
+
+msgid "Batch End Date"
+msgstr "배치 종료 날짜"
+
+msgid "Batch Enrollment"
+msgstr "배치 등록"
+
+msgid "Batch Enrollment Confirmation"
+msgstr "배치 등록 확인"
+
+msgid "Batch Evaluator"
+msgstr "배치 평가자"
+
+msgid "Batch Name"
+msgstr "배치 이름"
+
+msgid "Batch Settings"
+msgstr "배치 설정"
+
+msgid "Batch Start Date"
+msgstr "배치 시작 날짜"
+
+msgid "Batch Start Date:"
+msgstr "배치 시작 날짜:"
+
+msgid "Batch Summary"
+msgstr "배치 요약"
+
+msgid "Batch Title"
+msgstr "배치 제목"
+
+msgid "Batch created successfully"
+msgstr "배치 생성 성공"
+
+msgid "Batch deleted successfully"
+msgstr "배치 삭제 성공"
+
+msgid "Batch end date cannot be before the batch start date"
+msgstr "배치 종료 날짜는 배치 시작 날짜 이전일 수 없습니다."
+
+msgid "Batch has already started."
+msgstr "배치가 이미 시작되었습니다."
+
+msgid "Batch is sold out."
+msgstr "배치가 매진되었습니다."
+
+msgid "Batch start time cannot be greater than or equal to end time."
+msgstr "배치 시작 시간은 종료 시간보다 크거나 같을 수 없습니다."
+
+msgid "Batch updated successfully"
+msgstr "배치가 성공적으로 업데이트되었습니다"
+
+msgid "Batch:"
+msgstr "배치:"
+
+msgid "Batches"
+msgstr "배치"
+
+msgid "Best Regards"
+msgstr "최적 감사합니다"
+
+msgid "Billing Details"
+msgstr "청구 세부정보"
+
+msgid "Billing Name"
+msgstr "청구 이름"
+
+msgid "Bio"
+msgstr "약력"
+
+msgid "Blue"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Book a free onboarding session with the Frappe team"
+msgstr "Frappe 팀과 함께 무료 온보딩 세션 예약"
+
+msgid "Both Individual and Team Work"
+msgstr "개인 및 팀 작업 모두"
+
+msgid "Branch"
+msgstr "지점"
+
+msgid "Build and manage courses, chapters, and lessons"
+msgstr "강좌, 장 및 강의 구축 및 관리"
+
+msgid "Business Owner"
+msgstr "비즈니스 소유자"
+
+msgid "Buy this course"
+msgstr "이 강좌 구매"
+
+msgid "By"
+msgstr "기준"
+
+msgid "CGPA/4"
+msgstr ""
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Cancelled"
+msgstr "취소됨"
+
+msgid "Cannot search for roles: {0}"
+msgstr "검색할 수 없음 역할: {0}"
+
+msgid "Career Preference Details"
+msgstr "경력 선호 사항 세부 정보"
+
+msgid "Casual Wear"
+msgstr "캐주얼 의류"
+
+msgid "Category"
+msgstr "카테고리"
+
+msgid "Category Name"
+msgstr "카테고리 이름"
+
+msgid "Category added successfully"
+msgstr "카테고리가 성공적으로 추가되었습니다"
+
+msgid "Category created successfully"
+msgstr "카테고리가 성공적으로 생성되었습니다"
+
+msgid "Category deleted successfully"
+msgstr "카테고리가 성공적으로 삭제되었습니다"
+
+msgid "Category updated successfully"
+msgstr "카테고리가 성공적으로 업데이트되었습니다"
+
+msgid "Certificate"
+msgstr "인증서"
+
+msgid "Certificate Email Template"
+msgstr "인증서 이메일 템플릿"
+
+msgid "Certificate Link"
+msgstr "인증서 링크"
+
+msgid "Certificate of Completion"
+msgstr "수료 인증서"
+
+msgid "Certificate saved successfully"
+msgstr "인증서가 성공적으로 저장되었습니다"
+
+msgid "Certificates"
+msgstr "인증서"
+
+msgid "Certificates generated successfully"
+msgstr "인증서가 생성되었습니다 성공적으로"
+
+msgid "Certification"
+msgstr "인증"
+
+msgid "Certification Details"
+msgstr "인증 세부정보"
+
+msgid "Certification Name"
+msgstr "인증 이름"
+
+msgid "Certification cannot be issued as the member has not completed the course."
+msgstr "회원이 강좌를 완료하지 않았기 때문에 인증서가 발급될 수 없습니다."
+
+msgid "Certification cannot be issued as the member is not enrolled in this batch."
+msgstr "회원이 이 배치에 등록되어 있지 않기 때문에 인증서가 발급될 수 없습니다."
+
+msgid "Certification cannot be issued as the member is not enrolled in this course."
+msgstr "회원이 이 강좌에 등록되어 있지 않기 때문에 인증서가 발급될 수 없습니다."
+
+msgid "Certification is not enabled for this course."
+msgstr "이 강좌에 대해 인증이 활성화되지 않았습니다."
+
+msgid "Certifications"
+msgstr "인증"
+
+msgid "Certified"
+msgstr "인증"
+
+msgid "Certified Members"
+msgstr "인증 회원"
+
+msgid "Certified Participants"
+msgstr "인증 참가자"
+
+msgid "Change"
+msgstr "변경"
+
+msgid "Changes saved successfully"
+msgstr "변경 사항이 저장되었습니다. 성공적으로"
+
+msgid "Chapter"
+msgstr "장"
+
+msgid "Chapter Reference"
+msgstr "장 참조"
+
+msgid "Chapter added successfully"
+msgstr "장이 추가됨"
+
+msgid "Chapter deleted successfully"
+msgstr "장이 삭제되었습니다"
+
+msgid "Chapter moved successfully"
+msgstr "장이 성공적으로 이동되었습니다"
+
+msgid "Chapter updated successfully"
+msgstr "장이 성공적으로 업데이트되었습니다"
+
+msgid "Chapters"
+msgstr "장"
+
+msgid "Charge a fee for batch enrollment."
+msgstr "일괄 등록에 대한 수수료를 청구합니다."
+
+msgid "Charge a fee for course access."
+msgstr "강좌 액세스에 대한 수수료를 청구합니다."
+
+msgid "Charge a fee for the certificate."
+msgstr "인증서에 대한 수수료를 청구합니다."
+
+msgid "Check"
+msgstr "확인"
+
+msgid "Check All Submissions"
+msgstr "모든 제출물 확인"
+
+msgid "Check Discussion"
+msgstr "토론 확인"
+
+msgid "Check Submission"
+msgstr "제출물 확인"
+
+msgid "Check Submissions"
+msgstr "제출물 확인"
+
+msgid "Check out the {0} to know more about certification."
+msgstr "인증에 대해 자세히 알아보려면 {0}을(를) 확인하세요."
+
+msgid "Checkout Courses"
+msgstr "체크아웃 강좌"
+
+msgid "Checkout the batch"
+msgstr "배치 확인"
+
+msgid "Checkout the course"
+msgstr "강좌 확인"
+
+msgid "Choices"
+msgstr "선택"
+
+msgid "Choose all answers that apply"
+msgstr "해당되는 답변 모두 선택"
+
+msgid "Choose an existing question"
+msgstr "기존 질문 선택"
+
+msgid "Choose an icon"
+msgstr "아이콘 선택"
+
+msgid "Choose one answer"
+msgstr "답변 1개 선택"
+
+msgid "City"
+msgstr "도시"
+
+msgid "Class:"
+msgstr "클래스:"
+
+msgid "Clear"
+msgstr "지우기"
+
+msgid "Clearly Defined Role"
+msgstr "명확하게 정의된 역할"
+
+msgid "Click here"
+msgstr "여기를 클릭하세요"
+
+msgid "Client ID"
+msgstr "클라이언트 ID"
+
+msgid "Client Secret"
+msgstr "클라이언트 비밀번호"
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Closed"
+msgstr "종료됨"
+
+msgid "Cloud"
+msgstr "클라우드"
+
+msgid "Code"
+msgstr "코드"
+
+msgid "Collaboration Preference"
+msgstr "협업 기본 설정"
+
+msgid "Collapse"
+msgstr "접기"
+
+msgid "College Name"
+msgstr "대학 이름"
+
+msgid "Color"
+msgstr "색상"
+
+msgid "Comma separated keywords"
+msgstr "쉼표로 구분된 키워드"
+
+msgid "Comma separated keywords for SEO"
+msgstr "SEO를 위한 쉼표로 구분된 키워드"
+
+msgid "Comments"
+msgstr "댓글"
+
+msgid "Comments by Evaluator"
+msgstr "평가자의 댓글"
+
+msgid "Common keywords that will be used for all pages"
+msgstr "모든 페이지에 사용되는 공통 키워드"
+
+msgid "Community"
+msgstr "커뮤니티"
+
+msgid "Company"
+msgstr "회사"
+
+msgid "Company Details"
+msgstr "회사 세부정보"
+
+msgid "Company Email Address"
+msgstr "회사 이메일 주소"
+
+msgid "Company Logo"
+msgstr "회사 로고"
+
+msgid "Company Name"
+msgstr "회사 이름"
+
+msgid "Company Type"
+msgstr "회사 입력"
+
+msgid "Company Website"
+msgstr "회사 웹사이트"
+
+msgid "Compiler Message"
+msgstr "컴파일러 메시지"
+
+msgid "Complete"
+msgstr "완료"
+
+msgid "Complete Sign Up"
+msgstr "가입 완료"
+
+msgid "Complete Your Enrollment"
+msgstr "등록 완료"
+
+msgid "Complete Your Enrollment - Don't miss out!"
+msgstr "등록 완료 - 놓치지 마세요!"
+
+msgid "Complete the upcoming quiz to continue watching the video. The quiz will open in {0} {1}."
+msgstr "동영상을 계속 시청하려면 다가오는 퀴즈를 완료하세요. 퀴즈는 {0} {1}에 열립니다."
+
+msgid "Complete your profile"
+msgstr "프로필을 작성하세요"
+
+msgid "Completed"
+msgstr "완료"
+
+msgid "Completion Certificate"
+msgstr "완료 증명서"
+
+msgid "Completion Rate"
+msgstr "완료율"
+
+msgid "Condition"
+msgstr "조건"
+
+msgid "Condition must be in valid JSON format."
+msgstr "조건은 유효한 JSON 형식이어야 합니다."
+
+msgid "Condition must be valid python code."
+msgstr "조건은 유효한 Python 코드여야 합니다."
+
+msgid "Conduct Evaluation"
+msgstr "평가 수행"
+
+msgid "Conferencing"
+msgstr "컨퍼런싱"
+
+msgid "Conferencing Provider"
+msgstr "회의 제공자"
+
+msgid "Configuration"
+msgstr "구성"
+
+msgid "Confirm"
+msgstr "확인"
+
+msgid "Confirm Cancellation?"
+msgstr "취소 확인?"
+
+msgid "Confirm Enrollment"
+msgstr "등록 확인"
+
+msgid "Confirm Your Action"
+msgstr "작업 확인"
+
+msgid "Confirm clearing demo data?"
+msgstr "데모 데이터 지우기를 확인하시겠습니까?"
+
+msgid "Confirm your action to delete"
+msgstr "삭제 작업 확인"
+
+msgid "Confirmation Email Sent"
+msgstr "확인 이메일 전송됨"
+
+msgid "Confirmation Email Template"
+msgstr "확인 이메일 템플릿"
+
+msgid "Congratulations on getting certified!"
+msgstr "인증 취득을 축하합니다!"
+
+msgid "Contact Us"
+msgstr "연락처"
+
+msgid "Contact Us Email"
+msgstr "연락처 이메일"
+
+msgid "Contact Us URL"
+msgstr "연락처 URL"
+
+msgid "Contact the Administrator to enroll for this course"
+msgstr "이 강좌에 등록하려면 관리자에게 문의하세요."
+
+msgid "Contact the Administrator to enroll for this course."
+msgstr "이 강좌에 등록하려면 관리자에게 문의하세요."
+
+msgid "Content"
+msgstr "콘텐츠"
+
+msgid "Continue Learning"
+msgstr "계속 학습"
+
+msgid "Contract"
+msgstr "계약"
+
+msgid "Corporate Organization"
+msgstr "기업 조직"
+
+msgid "Correct"
+msgstr "정답"
+
+msgid "Correct Answer"
+msgstr "정답"
+
+msgid "Could not create the course ZIP file. Please try again later. Error: {0}"
+msgstr "강좌 ZIP 파일을 생성할 수 없습니다. 나중에 다시 시도해 주세요. 오류: {0}"
+
+msgid "Country"
+msgstr "국가"
+
+msgid "Coupon"
+msgstr "쿠폰"
+
+msgid "Coupon Code"
+msgstr "쿠폰 코드"
+
+msgid "Coupon Details"
+msgstr "쿠폰 세부정보"
+
+msgid "Coupon created successfully"
+msgstr "쿠폰이 생성됨"
+
+msgid "Coupon deleted successfully"
+msgstr "쿠폰이 삭제됨"
+
+msgid "Coupon(s) deleted successfully"
+msgstr "쿠폰이 성공적으로 삭제됨"
+
+msgid "Course"
+msgstr "강좌"
+
+msgid "Course Chapter"
+msgstr "강좌 장"
+
+msgid "Course Completed"
+msgstr "강좌 완료"
+
+msgid "Course Completions"
+msgstr "강좌 완료"
+
+msgid "Course Count"
+msgstr "강좌 수"
+
+msgid "Course Creator"
+msgstr "강좌 작성자"
+
+msgid "Course Data"
+msgstr "강좌 데이터"
+
+msgid "Course Description"
+msgstr "강좌 설명"
+
+msgid "Course Enrollment"
+msgstr "강좌 등록"
+
+msgid "Course Enrollments"
+msgstr "강좌 설명 등록"
+
+msgid "Course Evaluator"
+msgstr "강좌 평가자"
+
+msgid "Course Image"
+msgstr "강좌 이미지"
+
+msgid "Course Instructor"
+msgstr "강좌 강사"
+
+msgid "Course Lesson"
+msgstr "강의 강의"
+
+msgid "Course List"
+msgstr "강좌 목록"
+
+msgid "Course Name"
+msgstr "강좌 이름"
+
+msgid "Course Outline"
+msgstr "강좌 개요"
+
+msgid "Course Progress"
+msgstr "강좌 진행 상황"
+
+msgid "Course Progress Summary"
+msgstr "강좌 진행 요약"
+
+msgid "Course Settings"
+msgstr "강좌 설정"
+
+msgid "Course Stats"
+msgstr "강좌 통계"
+
+msgid "Course Title"
+msgstr "강좌 제목"
+
+msgid "Course added to batch successfully"
+msgstr "강좌가 배치에 성공적으로 추가되었습니다"
+
+msgid "Course added to program successfully"
+msgstr "강좌가 프로그램에 추가되었습니다 성공적으로"
+
+msgid "Course already added to program"
+msgstr "강좌가 이미 프로그램에 추가되었습니다."
+
+msgid "Course created successfully"
+msgstr "과정이 성공적으로 생성되었습니다"
+
+msgid "Course deleted successfully"
+msgstr "과정이 성공적으로 삭제되었습니다"
+
+msgid "Course or Batch is required to issue a certificate."
+msgstr "인증서를 발급하려면 과정 또는 배치가 필요합니다."
+
+msgid "Course updated successfully"
+msgstr "과정이 성공적으로 업데이트되었습니다"
+
+msgid "Course {0} has already been added to this batch."
+msgstr "과정 {0}이(가) 이 배치에 이미 추가되었습니다."
+
+msgid "Course {0} has already been added to this program."
+msgstr "과정 {0}이(가) 이미 이 프로그램에 추가되었습니다."
+
+msgid "Courses"
+msgstr "과정"
+
+msgid "Courses Completed"
+msgstr "과정 완료됨"
+
+msgid "Courses Created"
+msgstr "과정 생성됨"
+
+msgid "Courses deleted successfully"
+msgstr "과정이 성공적으로 삭제되었습니다"
+
+msgid "Courses in this Program"
+msgstr "이 프로그램의 과정"
+
+msgid "Courses must be completed in order. You can only start the next course after completing the previous one."
+msgstr "과정을 완료해야 합니다 순서대로. 이전 과정을 완료한 후에만 다음 과정을 시작할 수 있습니다."
+
+msgid "Cover Image"
+msgstr "표지 이미지"
+
+msgid "Create"
+msgstr "만들기"
+
+msgid "Create Certificate"
+msgstr "인증서 만들기"
+
+msgid "Create Course"
+msgstr "강좌 만들기"
+
+msgid "Create Lesson"
+msgstr "강의 만들기"
+
+msgid "Create New"
+msgstr "새로 만들기"
+
+msgid "Create Program"
+msgstr "프로그램 만들기"
+
+msgid "Create Programming Exercise"
+msgstr "프로그래밍 실습 만들기"
+
+msgid "Create a Course"
+msgstr "강좌 만들기"
+
+msgid "Create a Live Class"
+msgstr "라이브 수업 만들기"
+
+msgid "Create a Quiz"
+msgstr "퀴즈 만들기"
+
+msgid "Create a batch"
+msgstr "배치 만들기"
+
+msgid "Create a course"
+msgstr "강좌 만들기"
+
+msgid "Create a live class"
+msgstr "라이브 수업 만들기"
+
+msgid "Create a new Badge"
+msgstr "새 배지 만들기"
+
+msgid "Create an Assignment"
+msgstr "과제 만들기"
+
+msgid "Create your first batch"
+msgstr "첫 번째 과정 만들기 일괄"
+
+msgid "Create your first course"
+msgstr "첫 번째 코스 만들기"
+
+msgid "Create your first quiz"
+msgstr "첫 번째 퀴즈 만들기"
+
+msgid "Created"
+msgstr "생성됨"
+
+msgid "Creating a batch"
+msgstr "배치 만들기"
+
+msgid "Creating a course"
+msgstr "강좌 만들기"
+
+msgid "Currency"
+msgstr "통화"
+
+msgid "Current Lesson"
+msgstr "현재 수업"
+
+msgid "Current Streak"
+msgstr "현재 연속"
+
+msgid "Curriculum"
+msgstr "커리큘럼"
+
+msgid "Custom Certificate Templates"
+msgstr "사용자 정의 인증서 템플릿"
+
+msgid "Custom HTML"
+msgstr "사용자 정의 HTML"
+
+msgid "Custom Script (JavaScript)"
+msgstr "사용자 정의 스크립트(JavaScript)"
+
+msgid "Custom Signup Content"
+msgstr "사용자 정의 가입 콘텐츠"
+
+msgid "Customisations"
+msgstr "사용자 정의"
+
+msgid "Cyan"
+msgstr "청록색"
+
+msgid "Dashboard"
+msgstr "대시보드"
+
+msgid "Data Import"
+msgstr "데이터 가져오기"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Date:"
+msgstr "날짜:"
+
+msgid "Day"
+msgstr "일"
+
+msgid "Dear"
+msgstr "친애하는"
+
+msgid "Dear "
+msgstr "친애하는 "
+
+msgid "Dear {{ member_name }},\\n\\nYou have been enrolled in our upcoming batch {{ batch_name }}.\\n\\nThanks,\\nFrappe Learning"
+msgstr "친애하는 {{ member_name }}님,\\n\\n다가오는 배치 {{ 배치_이름 }}에 등록하셨습니다.\\n\\n감사합니다.\\nFrappe Learning"
+
+msgid "Deduct marks for incorrect answers."
+msgstr "오답에 대한 감점."
+
+msgid "Default Currency"
+msgstr "기본 통화"
+
+msgid "Degree Type"
+msgstr "학위 유형"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Delete Chapter"
+msgstr "장 삭제"
+
+msgid "Delete Course"
+msgstr "삭제 강좌"
+
+msgid "Delete Program"
+msgstr "프로그램 삭제"
+
+msgid "Delete this chapter?"
+msgstr "이 장을 삭제하시겠습니까?"
+
+msgid "Delete this coupon?"
+msgstr "이 쿠폰을 삭제하시겠습니까?"
+
+msgid "Delete this lesson?"
+msgstr "이 강의를 삭제하시겠습니까?"
+
+msgid "Deleting the course will also delete all its chapters and lessons. Are you sure you want to delete this course?"
+msgstr "코스를 삭제하면 해당 장과 강의도 모두 삭제됩니다. 이 강좌를 삭제하시겠습니까?"
+
+msgid "Deleting these exercises will permanently remove them from the system, along with all associated submissions. This action is irreversible. Are you sure you want to proceed?"
+msgstr "이러한 운동을 삭제하면 관련된 모든 제출물과 함께 시스템에서 영구적으로 제거됩니다. 이 작업은 되돌릴 수 없습니다. 계속하시겠습니까?"
+
+msgid "Deleting this batch will also delete all its data including enrolled students, linked courses, assessments, feedback and discussions. Are you sure you want to continue?"
+msgstr "이 일괄 처리를 삭제하면 등록된 학생, 연결된 강좌, 평가, 피드백 및 토론을 포함한 모든 데이터도 삭제됩니다. 계속하시겠습니까?"
+
+msgid "Deleting this chapter will also delete all its lessons and permanently remove it from the course. This action cannot be undone. Are you sure you want to continue?"
+msgstr "이 장을 삭제하면 해당 장의 모든 수업도 삭제되고 코스에서 영구적으로 제거됩니다. 이 작업은 취소할 수 없습니다. 계속하시겠습니까?"
+
+msgid "Deleting this lesson will permanently remove it from the course. This action cannot be undone. Are you sure you want to continue?"
+msgstr "이 강의를 삭제하면 강의에서 영구적으로 제거됩니다. 이 작업은 취소할 수 없습니다. 계속하시겠습니까?"
+
+msgid "Deletion not allowed for {0}"
+msgstr "{0} 삭제가 허용되지 않습니다"
+
+msgid "Demo Data Present"
+msgstr "데모 데이터 존재"
+
+msgid "Demo data cleared successfully"
+msgstr "데모 데이터가 성공적으로 삭제되었습니다."
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Desk"
+msgstr "책상"
+
+msgid "Details"
+msgstr "세부"
+
+msgid "Details cannot be empty."
+msgstr "세부정보는 비워둘 수 없습니다."
+
+msgid "Device"
+msgstr "장치"
+
+msgid "Disable PWA"
+msgstr "PWA 비활성화"
+
+msgid "Disable Self Learning"
+msgstr "자가 학습 비활성화"
+
+msgid "Disable Signup"
+msgstr "가입 비활성화"
+
+msgid "Disabled"
+msgstr "장애가 있는"
+
+msgid "Discard"
+msgstr "버리다"
+
+msgid "Discount"
+msgstr "할인"
+
+msgid "Discount Amount"
+msgstr "할인금액"
+
+msgid "Discount Percentage"
+msgstr "할인율"
+
+msgid "Discount Type"
+msgstr "할인 유형"
+
+msgid "Discussions"
+msgstr "토론"
+
+msgid "Display correct answers after each question is attempted."
+msgstr "각 질문을 시도한 후에 정답을 표시합니다."
+
+msgid "Do not refresh the page or close this window. If you do, the quiz will be submitted automatically."
+msgstr "페이지를 새로 고치거나 이 창을 닫지 마세요. 그렇게 하면 퀴즈가 자동으로 제출됩니다."
+
+msgid "Document"
+msgstr "문서"
+
+msgid "Document Name"
+msgstr "문서 이름"
+
+msgid "Document Type"
+msgstr "문서 유형"
+
+msgid "Don’t miss this opportunity to enhance your skills. Click below to complete your enrollment"
+msgstr "실력을 향상시킬 수 있는 이번 기회를 놓치지 마세요. 등록을 완료하려면 아래를 클릭하세요"
+
+msgid "Drag and drop a ZIP file, or upload from your"
+msgstr "ZIP 파일을 드래그 앤 드롭하거나 다음에서 업로드하세요"
+
+msgid "Dream Companies"
+msgstr ""
+
+msgid "Duplicate options found for this question."
+msgstr "이 질문에 대해 중복된 옵션이 발견되었습니다."
+
+msgid "Duration"
+msgstr "기간"
+
+msgid "Duration (in minutes)"
+msgstr "기간(분)"
+
+msgid "Each user can only receive this badge one time."
+msgstr "각 사용자는 이 배지를 한 번만 받을 수 있습니다."
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Edit Assignment"
+msgstr "할당 편집"
+
+msgid "Edit Badge"
+msgstr "배지 편집"
+
+msgid "Edit Badge Assignment"
+msgstr "배지 할당 편집"
+
+msgid "Edit Chapter"
+msgstr "장 편집"
+
+msgid "Edit Coupon"
+msgstr "쿠폰 편집"
+
+msgid "Edit Email Template"
+msgstr "이메일 템플릿 편집"
+
+msgid "Edit Google Meet Account"
+msgstr "Google Meet 편집 계정"
+
+msgid "Edit Lesson"
+msgstr "강의 편집"
+
+msgid "Edit Payment Gateway"
+msgstr "지불 게이트웨이 편집"
+
+msgid "Edit Profile"
+msgstr "프로필 편집"
+
+msgid "Edit Program"
+msgstr "프로그램 편집"
+
+msgid "Edit Programming Exercise"
+msgstr "프로그래밍 연습 편집"
+
+msgid "Edit Question"
+msgstr "질문 편집"
+
+msgid "Edit Zoom Account"
+msgstr "Zoom 계정 편집"
+
+msgid "Education"
+msgstr "교육"
+
+msgid "Education Detail"
+msgstr "교육 세부 정보"
+
+msgid "Education Details"
+msgstr "교육 세부 정보"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "Email ID"
+msgstr "이메일 ID"
+
+msgid "Email Sent"
+msgstr "이메일 전송됨"
+
+msgid "Email Template created successfully"
+msgstr "이메일 템플릿이 성공적으로 생성됨"
+
+msgid "Email Template updated successfully"
+msgstr "이메일 템플릿이 성공적으로 업데이트됨"
+
+msgid "Email Templates"
+msgstr "이메일 템플릿"
+
+msgid "Email Templates deleted successfully"
+msgstr "이메일 템플릿이 삭제되었습니다."
+
+msgid "Email is required"
+msgstr "이메일이 필요합니다"
+
+msgid "Email sent successfully"
+msgstr "이메일이 성공적으로 전송되었습니다"
+
+msgid "Emails"
+msgstr "이메일"
+
+msgid "Employee"
+msgstr "직원"
+
+msgid "Enable"
+msgstr "활성화"
+
+msgid "Enable Google API in Google Settings to send calendar invites for evaluations."
+msgstr "평가를 위해 캘린더 초대를 보내려면 Google 설정에서 Google API를 활성화하세요."
+
+msgid "Enable Negative Marking"
+msgstr "부정 표시 활성화"
+
+msgid "Enable evaluations for batch participants."
+msgstr "일괄 참가자에 대한 평가를 활성화합니다."
+
+msgid "Enable this only if you want to upload a SCORM package as a chapter."
+msgstr "SCORM 패키지를 챕터로 업로드하려는 경우에만 이 옵션을 활성화하세요."
+
+msgid "Enabled"
+msgstr "활성화됨"
+
+msgid "Enabling this will publish the certificate on the certified participants page."
+msgstr "활성화 그러면 인증된 참가자 페이지에 인증서가 게시됩니다."
+
+msgid "End Date"
+msgstr "종료 날짜"
+
+msgid "End Date (or expected)"
+msgstr "종료 날짜(또는 예상)"
+
+msgid "End Time"
+msgstr "종료 시간"
+
+msgid "Ended"
+msgstr "종료"
+
+msgid "Enforce Course Order"
+msgstr "강의 순서 시행"
+
+msgid "Enroll"
+msgstr "등록"
+
+msgid "Enroll Member to Program"
+msgstr "프로그램에 회원 등록"
+
+msgid "Enroll Now"
+msgstr "지금 등록"
+
+msgid "Enroll a Student"
+msgstr "학생 등록"
+
+msgid "Enrolled"
+msgstr "등록"
+
+msgid "Enrolled On"
+msgstr "등록 날짜"
+
+msgid "Enrolled Students"
+msgstr "등록 학생"
+
+msgid "Enrollment Confirmation Email Template"
+msgstr "등록 확인 이메일 템플릿"
+
+msgid "Enrollment Confirmation for {0}"
+msgstr "등록 확인 {0}"
+
+msgid "Enrollment Count"
+msgstr "등록 수"
+
+msgid "Enrollment for Program {0}"
+msgstr "프로그램 등록 {0}"
+
+msgid "Enrollment from Batch"
+msgstr "일괄 등록"
+
+msgid "Enrollment in this batch is restricted. Please contact the Administrator."
+msgstr "이 배치의 등록은 제한되어 있습니다. 관리자에게 문의하세요."
+
+msgid "Enrollments"
+msgstr "등록"
+
+msgid "Enter Client Id and Client Secret in Google Settings to send calendar invites for evaluations."
+msgstr "평가를 위해 캘린더 초대를 보내려면 Google 설정에 클라이언트 ID와 클라이언트 비밀번호를 입력하세요."
+
+msgid "Enter a Coupon Code"
+msgstr "쿠폰 코드 입력"
+
+msgid "Enter a URL"
+msgstr "URL 입력"
+
+msgid "Enter email subject"
+msgstr "이메일 제목 입력"
+
+msgid "Enter reply to email"
+msgstr "이메일에 대한 답장 입력"
+
+msgid "Error Uploading File"
+msgstr "파일 업로드 오류"
+
+msgid "Error creating Google Meet Account"
+msgstr "Google Meet 계정 생성 오류"
+
+msgid "Error creating Zoom Account"
+msgstr "Zoom 계정 생성 오류"
+
+msgid "Error creating badge"
+msgstr "배지 생성 오류"
+
+msgid "Error creating email template"
+msgstr "이메일 템플릿 생성 오류"
+
+msgid "Error creating live class. Please try again. {0}"
+msgstr "라이브 클래스 생성 오류. 다시 시도해 주세요. {0}"
+
+msgid "Error creating quiz: {0}"
+msgstr "퀴즈 생성 오류: {0}"
+
+msgid "Error deleting Google Meet Account"
+msgstr "Google Meet 계정 삭제 오류"
+
+msgid "Error deleting badge"
+msgstr "배지 삭제 오류"
+
+msgid "Error deleting email templates"
+msgstr "이메일 템플릿 삭제 오류"
+
+msgid "Error deleting payment gateways"
+msgstr "결제 게이트웨이 삭제 오류"
+
+msgid "Error downloading file"
+msgstr "파일 다운로드 오류"
+
+msgid "Error updating Google Meet Account"
+msgstr "Google Meet 계정 업데이트 오류"
+
+msgid "Error updating Zoom Account"
+msgstr "Zoom 계정 업데이트 오류"
+
+msgid "Error updating email template"
+msgstr "이메일 템플릿 업데이트 오류"
+
+msgid "Evaluation"
+msgstr "평가"
+
+msgid "Evaluation Details"
+msgstr "평가 세부정보"
+
+msgid "Evaluation End Date"
+msgstr "평가 종료 날짜"
+
+msgid "Evaluation Request"
+msgstr "평가 요청"
+
+msgid "Evaluation cancelled successfully"
+msgstr "평가가 성공적으로 취소되었습니다"
+
+msgid "Evaluation end date cannot be less than the batch end date."
+msgstr "평가 종료 날짜를 설정할 수 없습니다. 일괄 종료 날짜보다 작습니다."
+
+msgid "Evaluation saved successfully"
+msgstr "평가가 성공적으로 저장되었습니다."
+
+msgid "Evaluator"
+msgstr "평가자"
+
+msgid "Evaluator Name"
+msgstr "평가자 이름"
+
+msgid "Evaluator Schedule"
+msgstr "평가자 일정"
+
+msgid "Evaluator added successfully"
+msgstr "평가자가 추가되었습니다."
+
+msgid "Evaluator deleted successfully"
+msgstr "평가자가 삭제되었습니다."
+
+msgid "Evaluator is required for paid certificates."
+msgstr "유료 인증서에는 평가자가 필요합니다."
+
+msgid "Event"
+msgstr "이벤트"
+
+msgid "Example: IST (+5:30)"
+msgstr "예: IST(+5:30)"
+
+msgid "Exercise"
+msgstr "운동"
+
+msgid "Exercise Title"
+msgstr "운동 제목"
+
+msgid "Exercise deleted successfully"
+msgstr "운동이 삭제되었습니다."
+
+msgid "Existing User"
+msgstr "기존 사용자"
+
+msgid "Expand"
+msgstr "확장하다"
+
+msgid "Expected Output"
+msgstr "예상 출력"
+
+msgid "Expiration Date"
+msgstr "만료 날짜"
+
+msgid "Expires On"
+msgstr "만료 날짜"
+
+msgid "Expiry Date"
+msgstr "만료 날짜"
+
+msgid "Expiry date cannot be in the past"
+msgstr "만료일은 과거일 수 없습니다."
+
+msgid "Explanation"
+msgstr "설명"
+
+msgid "Explanation "
+msgstr "설명"
+
+msgid "Explore More"
+msgstr "더 알아보기"
+
+msgid "Export"
+msgstr "내보내다"
+
+msgid "Fail"
+msgstr "실패하다"
+
+msgid "Failed"
+msgstr "실패한"
+
+msgid "Failed to assign badge"
+msgstr "배지를 할당하지 못했습니다."
+
+msgid "Failed to create badge assignment: "
+msgstr "배지 할당을 생성하지 못했습니다."
+
+msgid "Failed to enroll in program: {0}"
+msgstr "프로그램 등록 실패: {0}"
+
+msgid "Failed to fetch attendance data from Zoom for class {0}: {1}"
+msgstr "Zoom에서 {0} 수업의 출석 데이터를 가져오지 못했습니다: {1}"
+
+msgid "Failed to refresh session"
+msgstr "세션을 새로 고치지 못했습니다."
+
+msgid "Failed to send email"
+msgstr "이메일을 보내지 못했습니다."
+
+msgid "Failed to submit. Please try again. {0}"
+msgstr "제출하지 못했습니다. 다시 시도해 주세요. {0}"
+
+msgid "Failed to update badge assignment: "
+msgstr "배지 할당 업데이트 실패: "
+
+msgid "Failed to update meta tags {0}"
+msgstr "메타 태그 {0} 업데이트 실패"
+
+msgid "Featured"
+msgstr "추천"
+
+msgid "Feedback"
+msgstr "피드백"
+
+msgid "Feel free to make edits to your submission if needed."
+msgstr "필요한 경우 제출물을 자유롭게 수정하십시오."
+
+msgid "Field To Check"
+msgstr "확인할 필드"
+
+msgid "Field of Major/Study"
+msgstr "전공/연구 분야"
+
+msgid "File Type"
+msgstr "파일 형식"
+
+msgid "File not found"
+msgstr "파일을 찾을 수 없음"
+
+msgid "File upload failed. Please try again."
+msgstr "파일 업로드에 실패했습니다. 다시 시도하십시오."
+
+msgid "Filter assignments by course"
+msgstr "강좌별로 과제 필터링"
+
+msgid "Filter by Billing Name"
+msgstr "청구 이름별로 필터링"
+
+msgid "Filter by Exercise"
+msgstr "운동별로 필터링"
+
+msgid "Filter by Member"
+msgstr "회원별로 필터링"
+
+msgid "Filter by Status"
+msgstr "상태별로 필터링"
+
+msgid "First Name"
+msgstr "이름"
+
+msgid "Fixed 9-5"
+msgstr "고정 9-5"
+
+msgid "Fixed Amount"
+msgstr "고정 금액"
+
+msgid "Fixed Amount Discount"
+msgstr "고정 금액 할인"
+
+msgid "Flexible Time"
+msgstr "유연한 시간"
+
+msgid "Formal Wear"
+msgstr "정복"
+
+msgid "Frappe Learning"
+msgstr ""
+
+msgid "Free"
+msgstr "무료"
+
+msgid "Freelance"
+msgstr "프리랜서"
+
+msgid "Freelancer/Just looking"
+msgstr ""
+
+msgid "French (e.g. Distinction)"
+msgstr "프랑스어(예: Distinction)"
+
+msgid "Friday"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "From "
+msgstr ""
+
+msgid "From Date"
+msgstr ""
+
+msgid "Full Name"
+msgstr "이름"
+
+msgid "Full Time"
+msgstr "정규직"
+
+msgid "Function"
+msgstr "기능"
+
+msgid "GST Amount"
+msgstr "GST 금액"
+
+msgid "GST Number"
+msgstr "GST 번호"
+
+msgid "GSTIN"
+msgstr ""
+
+msgid "Gateway"
+msgstr "게이트웨이"
+
+msgid "General"
+msgstr "일반"
+
+msgid "Generate Certificates"
+msgstr "인증서 생성"
+
+msgid "Generate Google Meet Link"
+msgstr "Google Meet 링크 생성"
+
+msgid "Get Certificate"
+msgstr "인증서 받기"
+
+msgid "Get Certified"
+msgstr "인증 받기"
+
+msgid "Get Started"
+msgstr "시작하기"
+
+msgid "Get the app on your device for easy access & a better experience!"
+msgstr "기기에 앱을 설치하면 쉽게 액세스하고 더 나은 경험을 할 수 있습니다!"
+
+msgid "Get the app on your iPhone for easy access & a better experience"
+msgstr "iPhone에 앱을 다운로드하면 쉽게 액세스하고 더 나은 경험을 할 수 있습니다"
+
+msgid "GitHub ID"
+msgstr ""
+
+msgid "Github ID"
+msgstr ""
+
+msgid "Go"
+msgstr ""
+
+msgid "Google Calendar"
+msgstr "Google 캘린더"
+
+msgid "Google Meet"
+msgstr ""
+
+msgid "Google Meet Account"
+msgstr "Google Meet 계정"
+
+msgid "Google Meet Account created successfully"
+msgstr "Google Meet 계정이 생성됨"
+
+msgid "Google Meet Account deleted successfully"
+msgstr "Google Meet 계정이 삭제됨"
+
+msgid "Google Meet Account updated successfully"
+msgstr "Google Meet 계정이 성공적으로 업데이트됨"
+
+msgid "Google Meet Link"
+msgstr ""
+
+msgid "Grade"
+msgstr "성적"
+
+msgid "Grade Assignment"
+msgstr "성적 할당"
+
+msgid "Grade Type"
+msgstr "성적 유형"
+
+msgid "Grading"
+msgstr "채점"
+
+msgid "Grant Only Once"
+msgstr "한 번만 부여"
+
+msgid "Grant only once"
+msgstr "한 번만 부여"
+
+msgid "Gray"
+msgstr "회색"
+
+msgid "Green"
+msgstr "녹색"
+
+msgid "Have an account? Login"
+msgstr "계정이 있나요? 로그인"
+
+msgid "Headline"
+msgstr "표제"
+
+msgid "Hello"
+msgstr "안녕하세요"
+
+msgid "Hello Learner"
+msgstr "안녕하세요 학습자"
+
+msgid "Help"
+msgstr "돕다"
+
+msgid "Help others learn something new by creating a course."
+msgstr "강좌를 만들어 다른 사람들이 새로운 것을 배울 수 있도록 도와주세요."
+
+msgid "Help us improve by providing your feedback."
+msgstr "피드백을 제공해 개선에 도움을 주세요."
+
+msgid "Help us understand your needs"
+msgstr "귀하의 요구 사항을 이해하도록 도와주세요."
+
+msgid "Here are the details:"
+msgstr "자세한 내용은 다음과 같습니다."
+
+msgid "Hey"
+msgstr "여기요"
+
+msgid "Hey {0}"
+msgstr "안녕하세요 {0}"
+
+msgid "Hey,"
+msgstr "여기요,"
+
+msgid "Hi"
+msgstr "안녕"
+
+msgid "Hi {0},"
+msgstr "안녕하세요, {0} 님"
+
+msgid "Hi,"
+msgstr "안녕,"
+
+msgid "Hide my Private Information from others"
+msgstr "다른 사람으로부터 내 개인 정보 숨기기"
+
+msgid "Highlight"
+msgstr "가장 밝은 부분"
+
+msgid "Highlight the course on the homepage."
+msgstr "홈페이지에서 강좌를 강조표시하세요."
+
+msgid "Highlight what makes you unique and show your skills."
+msgstr "당신을 특별하게 만드는 요소를 강조하고 당신의 기술을 보여주세요."
+
+msgid "Highlighted Text"
+msgstr "강조표시된 텍스트"
+
+msgid "Hiring"
+msgstr "채용"
+
+msgid "Home"
+msgstr "집"
+
+msgid "Host"
+msgstr "주인"
+
+msgid "Hybrid"
+msgstr "잡종"
+
+msgid "I am currently working here"
+msgstr "나는 현재 여기서 일하고 있어요"
+
+msgid "I am delighted to inform you that you have successfully earned your certification for the {0} course. Congratulations!"
+msgstr "귀하가 {0} 과정에 대한 인증을 성공적으로 취득했음을 알려드리게 되어 기쁘게 생각합니다. 축하해요!"
+
+msgid "I am happy to announce that I earned the {0} badge on {1} at {2}"
+msgstr "{1} {2}에 {0} 배지를 획득했음을 알려드리게 되어 기쁘게 생각합니다."
+
+msgid "I am unavailable"
+msgstr "접속할 수 없습니다"
+
+msgid "I consent to my personal information being stored for invoicing"
+msgstr "송장 발행을 위해 내 개인 정보가 저장되는 데 동의합니다"
+
+msgid "ID"
+msgstr ""
+
+msgid "Icon"
+msgstr "아이콘"
+
+msgid "Identify User Category"
+msgstr "사용자 카테고리 식별"
+
+msgid "If enabled, the lesson will also be accessible to users who are not enrolled in the course."
+msgstr "활성화하면 강좌에 등록하지 않은 사용자도 강의에 접근할 수 있습니다."
+
+msgid "If you answer incorrectly, {0} {1} will be deducted from your score for each incorrect answer."
+msgstr "오답을 입력할 경우 각 오답에 대해 점수에서 {0} {1}이(가) 차감됩니다."
+
+msgid "If you are not any more interested to mentor the course"
+msgstr " 강좌 멘토링에 더 이상 관심이 없는 경우"
+
+msgid "If you fail to do so, the quiz will be automatically submitted when the timer ends."
+msgstr "그렇지 않으면 퀴즈가 자동으로 제출되는 시점은 다음과 같습니다. 타이머가 종료됩니다."
+
+msgid "If you have any questions or need assistance, feel free to reach out to our support team."
+msgstr "질문이 있거나 도움이 필요한 경우 언제든지 지원팀에 문의하세요."
+
+msgid "If you have any questions or require assistance, feel free to contact us."
+msgstr "질문이 있거나 도움이 필요한 경우 언제든지 문의해 주세요."
+
+msgid "If you set an amount here, then the USD equivalent setting will not get applied."
+msgstr "여기에서 금액을 설정하면 USD 상당 설정이 적용되지 않습니다."
+
+msgid "If you want open ended questions then make sure each question in the quiz is of open ended type."
+msgstr "자세한 질문을 원하는 경우 퀴즈의 각 질문이 개방형인지 확인하세요."
+
+msgid "Image"
+msgstr "이미지"
+
+msgid "Image search powered by"
+msgstr "이미지 검색 제공"
+
+msgid "Image: Corrupted Data Stream"
+msgstr "이미지: 손상된 데이터 스트림"
+
+msgid "Import"
+msgstr "가져오기"
+
+msgid "Import Batch"
+msgstr "일괄 가져오기"
+
+msgid "Import Course from ZIP"
+msgstr "ZIP에서 강좌 가져오기"
+
+msgid "Import via Data Import Tool"
+msgstr "데이터 가져오기 도구를 통해 가져오기"
+
+msgid "Import via ZIP"
+msgstr "ZIP을 통해 가져오기"
+
+msgid "In Progress"
+msgstr "진행 중"
+
+msgid "In-app"
+msgstr "앱 내"
+
+msgid "Include In Preview"
+msgstr "미리 보기에 포함"
+
+msgid "Include in Preview"
+msgstr "미리 보기에 포함"
+
+msgid "Incomplete"
+msgstr "미완료"
+
+msgid "Incorrect"
+msgstr "잘못됨"
+
+msgid "Individual Work"
+msgstr "개별 작업"
+
+msgid "Industry"
+msgstr "산업"
+
+msgid "Input"
+msgstr "입력"
+
+msgid "Install"
+msgstr "설치"
+
+msgid "Install Frappe Learning"
+msgstr "Frappe Learning 설치"
+
+msgid "Institution Name"
+msgstr "기관 이름"
+
+msgid "Instructor"
+msgstr "강사"
+
+msgid "Instructor Content"
+msgstr "강사 콘텐츠"
+
+msgid "Instructor Notes"
+msgstr "강사 노트"
+
+msgid "Instructor Notes are private notes that only instructors can see. They can be used to provide additional context or guidance for the lesson."
+msgstr "강사 노트는 강사만 볼 수 있는 비공개 노트입니다. 강의에 대한 추가 컨텍스트 또는 지침을 제공하는 데 사용될 수 있습니다."
+
+msgid "Instructors"
+msgstr "강사"
+
+msgid "Instructors Comments"
+msgstr "강사 댓글"
+
+msgid "Interest"
+msgstr "관심사"
+
+msgid "Introduction"
+msgstr "소개"
+
+msgid "Invalid Quiz ID"
+msgstr "잘못된 퀴즈 ID"
+
+msgid "Invalid Quiz ID in content"
+msgstr "콘텐츠에 잘못된 퀴즈 ID"
+
+msgid "Invalid ZIP file"
+msgstr "잘못된 ZIP 파일"
+
+msgid "Invalid course ZIP: Missing course.json"
+msgstr "잘못된 코스 ZIP:course.json 누락"
+
+msgid "Invalid course or chapter name"
+msgstr "잘못된 코스 또는 장 이름"
+
+msgid "Invalid document name"
+msgstr "잘못된 문서 이름"
+
+msgid "Invalid file path in package"
+msgstr "패키지에 잘못된 파일 경로"
+
+msgid "Invite your team and students"
+msgstr "팀을 초대하고 학생"
+
+msgid "Is Correct"
+msgstr "맞음"
+
+msgid "Is SCORM Chapter"
+msgstr "SCORM 장"
+
+msgid "Is SCORM Package"
+msgstr "SCORM 패키지임"
+
+msgid "Issue Date"
+msgstr "발행 날짜"
+
+msgid "Issue a Certificate"
+msgstr "인증서 발급"
+
+msgid "Issue a certificate on course completion."
+msgstr "강좌 수료 시 인증서를 발급합니다."
+
+msgid "Issue certificates to batch participants."
+msgstr "일괄 참가자에게 인증서를 발급합니다."
+
+msgid "Issued On"
+msgstr "발급일"
+
+msgid "Issued on"
+msgstr "발급일"
+
+msgid "Items in Sidebar"
+msgstr "사이드바의 항목"
+
+msgid "Jane Doe"
+msgstr ""
+
+msgid "JavaScript"
+msgstr ""
+
+msgid "Job"
+msgstr "직업"
+
+msgid "Job Details"
+msgstr "채용 세부정보"
+
+msgid "Job Openings"
+msgstr "채용 공고"
+
+msgid "Job Opportunity"
+msgstr "채용 기회"
+
+msgid "Job Title"
+msgstr "직위"
+
+msgid "Jobs"
+msgstr "채용"
+
+msgid "Join"
+msgstr "가입"
+
+msgid "Join Call"
+msgstr "통화 참여"
+
+msgid "Join Meeting"
+msgstr "회의 참여"
+
+msgid "Join URL"
+msgstr "참여 URL"
+
+msgid "Joined At"
+msgstr "참여 장소"
+
+msgid "Joined at"
+msgstr "참여 장소"
+
+msgid "Jump to"
+msgstr "다음으로 이동"
+
+msgid "Keep going,"
+msgstr "계속 진행,"
+
+msgid "LMS Assessment"
+msgstr "LMS 평가"
+
+msgid "LMS Assignment"
+msgstr "LMS 과제"
+
+msgid "LMS Assignment Submission"
+msgstr "LMS 과제 제출"
+
+msgid "LMS Badge"
+msgstr "LMS 배지"
+
+msgid "LMS Badge Assignment"
+msgstr "LMS 배지 할당"
+
+msgid "LMS Batch"
+msgstr "LMS 배치"
+
+msgid "LMS Batch Enrollment"
+msgstr "LMS 배치 등록"
+
+msgid "LMS Batch Feedback"
+msgstr "LMS 배치 피드백"
+
+msgid "LMS Batch Timetable"
+msgstr "LMS 배치 시간표"
+
+msgid "LMS Category"
+msgstr "LMS 카테고리"
+
+msgid "LMS Certificate"
+msgstr "LMS 인증서"
+
+msgid "LMS Certificate Evaluation"
+msgstr "LMS 인증서 평가"
+
+msgid "LMS Certificate Request"
+msgstr "LMS 인증서 요청"
+
+msgid "LMS Coupon"
+msgstr "LMS 쿠폰"
+
+msgid "LMS Coupon Item"
+msgstr "LMS 쿠폰 항목"
+
+msgid "LMS Course"
+msgstr "LMS 과정"
+
+msgid "LMS Course Interest"
+msgstr "LMS 과정 관심"
+
+msgid "LMS Course Mentor Mapping"
+msgstr "LMS 과정 멘토 매핑"
+
+msgid "LMS Course Progress"
+msgstr "LMS 과정 진행"
+
+msgid "LMS Course Review"
+msgstr "LMS 과정 검토"
+
+msgid "LMS Enrollment"
+msgstr "LMS 등록"
+
+msgid "LMS Google Meet Settings"
+msgstr "LMS Google Meet 설정"
+
+msgid "LMS Job Application"
+msgstr "LMS 입사 지원"
+
+msgid "LMS Lesson Note"
+msgstr "LMS 강의 노트"
+
+msgid "LMS Live Class"
+msgstr "LMS 라이브 수업"
+
+msgid "LMS Live Class Participant"
+msgstr "LMS 라이브 수업 참가자"
+
+msgid "LMS Option"
+msgstr "LMS 옵션"
+
+msgid "LMS Payment"
+msgstr "LMS 결제"
+
+msgid "LMS Program"
+msgstr "LMS 프로그램"
+
+msgid "LMS Program Course"
+msgstr "LMS 프로그램 과정"
+
+msgid "LMS Program Member"
+msgstr "LMS 프로그램 회원"
+
+msgid "LMS Programming Exercise"
+msgstr "LMS 프로그래밍 연습"
+
+msgid "LMS Programming Exercise Submission"
+msgstr "LMS 프로그래밍 연습 제출"
+
+msgid "LMS Question"
+msgstr "LMS 질문"
+
+msgid "LMS Quiz"
+msgstr "LMS 퀴즈"
+
+msgid "LMS Quiz Question"
+msgstr "LMS 퀴즈 질문"
+
+msgid "LMS Quiz Result"
+msgstr "LMS 퀴즈 결과"
+
+msgid "LMS Quiz Submission"
+msgstr "LMS 퀴즈 제출"
+
+msgid "LMS Settings"
+msgstr "LMS 설정"
+
+msgid "LMS Sidebar Item"
+msgstr "LMS 사이드바 항목"
+
+msgid "LMS Source"
+msgstr "LMS 소스"
+
+msgid "LMS Student"
+msgstr "LMS 학생"
+
+msgid "LMS Test Case"
+msgstr "LMS 테스트 케이스"
+
+msgid "LMS Test Case Submission"
+msgstr "LMS 테스트 케이스 제출"
+
+msgid "LMS Timetable Legend"
+msgstr "LMS 시간표 범례"
+
+msgid "LMS Timetable Template"
+msgstr "LMS 시간표 템플릿"
+
+msgid "LMS Video Watch Duration"
+msgstr "LMS 비디오 시청 시간"
+
+msgid "LMS Zoom Settings"
+msgstr "LMS 줌 설정"
+
+msgid "Label"
+msgstr "상표"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Last Name"
+msgstr "성"
+
+msgid "Launch File"
+msgstr "파일 실행"
+
+msgid "Learning"
+msgstr "학습"
+
+msgid "Learning Consistency"
+msgstr "학습 일관성"
+
+msgid "Learning Paths"
+msgstr "학습 경로"
+
+msgid "Left At"
+msgstr "왼쪽 시간"
+
+msgid "Left at"
+msgstr "출발 시간"
+
+msgid "Lesson"
+msgstr "수업"
+
+msgid "Lesson Completion"
+msgstr "수업 완료"
+
+msgid "Lesson Index"
+msgstr "수업 색인"
+
+msgid "Lesson Progress"
+msgstr "수업 진행"
+
+msgid "Lesson Reference"
+msgstr "레슨 참고자료"
+
+msgid "Lesson Title"
+msgstr "강의 제목"
+
+msgid "Lesson created successfully"
+msgstr "강의가 성공적으로 생성되었습니다."
+
+msgid "Lesson deleted successfully"
+msgstr "강의가 삭제되었습니다."
+
+msgid "Lesson moved successfully"
+msgstr "강의가 성공적으로 이동되었습니다."
+
+msgid "Lesson updated successfully"
+msgstr "강의가 업데이트되었습니다."
+
+msgid "Lessons"
+msgstr "수업"
+
+msgid "Lessons Completed"
+msgstr "완료된 수업"
+
+msgid "Lets start setting up your content on the LMS so that you can reclaim time and focus on growth."
+msgstr "시간을 확보하고 성장에 집중할 수 있도록 LMS에서 콘텐츠 설정을 시작하겠습니다."
+
+msgid "Letter Grade (e.g. A, B-)"
+msgstr "문자 등급(예: A, B-)"
+
+msgid "Limit Questions To"
+msgstr "질문을 다음으로 제한"
+
+msgid "Limit cannot be greater than or equal to the number of questions in the quiz."
+msgstr "제한은 퀴즈의 질문 수보다 크거나 같을 수 없습니다."
+
+msgid "LinkedIn"
+msgstr "링크드인"
+
+msgid "LinkedIn ID"
+msgstr "링크드인 아이디"
+
+msgid "Live"
+msgstr ""
+
+msgid "Live Class"
+msgstr ""
+
+msgid "LiveCode URL"
+msgstr ""
+
+msgid "Load More"
+msgstr "추가 로드"
+
+msgid "Local"
+msgstr "로컬"
+
+msgid "Location"
+msgstr "위치"
+
+msgid "Location Preference"
+msgstr "위치 기본 설정"
+
+msgid "Login"
+msgstr "로그인"
+
+msgid "Login to Frappe Cloud?"
+msgstr "Frappe Cloud에 로그인하시겠습니까?"
+
+msgid "Login to apply"
+msgstr "지원하려면 로그인하세요"
+
+msgid "Longest Streak"
+msgstr "최장 연속"
+
+msgid "Looking for new work or hiring talent?"
+msgstr "새로운 일자리를 찾고 있거나 인재를 채용하고 계십니까?"
+
+msgid "Looking forward to seeing you enrolled!"
+msgstr "등록하신 것을 기대하고 있습니다!"
+
+msgid "Make LMS the default home"
+msgstr "LMS를 기본 홈으로 만들기"
+
+msgid "Make an Announcement"
+msgstr "공지사항 작성"
+
+msgid "Make notes for quick revision. Press / for menu."
+msgstr "빠른 수정을 위해 메모를 작성하세요. 메뉴를 보려면 /를 누르세요."
+
+msgid "Make the batch visible to all users."
+msgstr "모든 사용자에게 배치를 표시합니다."
+
+msgid "Make the course visible to all users."
+msgstr "모든 사용자에게 코스를 표시합니다."
+
+msgid "Make this certificate visible to the participant."
+msgstr "이 인증서를 참가자에게 표시합니다."
+
+msgid "Manage batches, review and grade submissions"
+msgstr "배치 관리, 제출물 검토 및 채점 관리"
+
+msgid "Manage your courses and batches at a glance"
+msgstr "강좌 및 배치를 한눈에 관리"
+
+msgid "Manager (Sales/Marketing/Customer)"
+msgstr "관리자(영업/마케팅/고객)"
+
+msgid "Manifest File"
+msgstr "매니페스트 파일"
+
+msgid "Manual Assignment"
+msgstr "수동 할당"
+
+msgid "Mark"
+msgstr "표시"
+
+msgid "Mark all as read"
+msgstr "모두 읽음으로 표시"
+
+msgid "Mark for review"
+msgstr "검토용으로 표시"
+
+msgid "Mark the course as upcoming but not yet open for enrollment."
+msgstr "강좌를 다음으로 표시 예정되어 있지만 아직 등록이 시작되지 않았습니다."
+
+msgid "Mark the payment as received."
+msgstr "결제를 받은 것으로 표시하세요."
+
+msgid "Mark this option as a correct answer."
+msgstr "이 옵션을 정답으로 표시하세요."
+
+msgid "Marks"
+msgstr "표시"
+
+msgid "Marks To Cut"
+msgstr "자르기 표시"
+
+msgid "Marks for question number {0} cannot be greater than the marks allotted for that question."
+msgstr "질문 번호 {0}에 대한 표시는 해당 질문에 할당된 표시보다 클 수 없습니다."
+
+msgid "Marks out of"
+msgstr "다음의 표시"
+
+msgid "Marks to Deduct"
+msgstr "공제할 표시"
+
+msgid "Max Attempts"
+msgstr "최대 시도 횟수"
+
+msgid "Maximum Attempts"
+msgstr "최대 시도 횟수"
+
+msgid "Medium"
+msgstr "중간"
+
+msgid "Medium ID"
+msgstr "중간 ID"
+
+msgid "Medium:"
+msgstr "매체:"
+
+msgid "Meeting ID"
+msgstr "회의 ID"
+
+msgid "Member"
+msgstr "회원"
+
+msgid "Member Consent"
+msgstr "회원 동의"
+
+msgid "Member Count"
+msgstr "회원 수"
+
+msgid "Member Image"
+msgstr "회원 이미지"
+
+msgid "Member Name"
+msgstr "회원 이름"
+
+msgid "Member Type"
+msgstr "회원 유형"
+
+msgid "Member Username"
+msgstr "회원 사용자 이름"
+
+msgid "Member added successfully"
+msgstr "회원이 성공적으로 추가되었습니다"
+
+msgid "Member added to program successfully"
+msgstr "회원이 프로그램에 성공적으로 추가되었습니다"
+
+msgid "Member already added to program"
+msgstr "회원이 이미 프로그램에 추가되었습니다"
+
+msgid "Member already enrolled in this batch"
+msgstr "이 배치에 이미 등록된 회원"
+
+msgid "Member does not meet the criteria for the badge {0}."
+msgstr "회원이 {0} 배지 기준을 충족하지 않습니다."
+
+msgid "Member {0} has already been added to this program."
+msgstr "회원 {0}이(가) 이미 이 프로그램에 추가되었습니다."
+
+msgid "Members"
+msgstr "회원"
+
+msgid "Mentor"
+msgstr "멘토"
+
+msgid "Mentor Name"
+msgstr "멘토 이름"
+
+msgid "Mentor Request"
+msgstr "멘토 요청"
+
+msgid "Mentor Request Creation Template"
+msgstr "멘토 요청 생성 템플릿"
+
+msgid "Mentor Request Status Update Template"
+msgstr "멘토 요청 상태 업데이트 템플릿"
+
+msgid "Message"
+msgstr "메시지"
+
+msgid "Message is required"
+msgstr "메시지가 필요합니다"
+
+msgid "Meta Description"
+msgstr "메타 설명"
+
+msgid "Meta Image"
+msgstr "메타 이미지"
+
+msgid "Meta Keywords"
+msgstr "메타 키워드"
+
+msgid "Meta Tags"
+msgstr "메타 태그"
+
+msgid "Meta tags should be a list."
+msgstr "메타 태그는 목록이어야 합니다."
+
+msgid "Milestone"
+msgstr "마일스톤"
+
+msgid "Minimum two options are required for multiple choice questions."
+msgstr "객관식 질문에는 최소 두 개의 옵션이 필요합니다."
+
+msgid "Moderator"
+msgstr "운영자"
+
+msgid "Modified"
+msgstr "수정됨"
+
+msgid "Modified By"
+msgstr "수정자"
+
+msgid "Module Name is incorrect or does not exist."
+msgstr "모듈 이름이 잘못되었거나 존재하지 않습니다."
+
+msgid "Module is incorrect."
+msgstr "모듈 이름은 다음과 같습니다. 틀렸습니다."
+
+msgid "Monday"
+msgstr "월요일"
+
+msgid "Monetization"
+msgstr "수익 창출"
+
+msgid "More"
+msgstr "더 보기"
+
+msgid "Multiple Correct Answers"
+msgstr "복수 정답"
+
+msgid "My Batches"
+msgstr "내 배치"
+
+msgid "My Courses"
+msgstr "내 코스"
+
+msgid "My Notes"
+msgstr "내 노트"
+
+msgid "My Profile"
+msgstr "내 프로필"
+
+msgid "My availability"
+msgstr "내 가용성"
+
+msgid "My calendar"
+msgstr "내 캘린더"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "New"
+msgstr "새로 만들기"
+
+msgid "New Batch"
+msgstr "새 배치"
+
+msgid "New Coupon"
+msgstr "새 쿠폰"
+
+msgid "New Course"
+msgstr "새 코스"
+
+msgid "New Email Template"
+msgstr "새 이메일 템플릿"
+
+msgid "New Evaluator"
+msgstr "새 평가자"
+
+msgid "New Google Meet Account"
+msgstr "새 Google Meet 계정"
+
+msgid "New Job"
+msgstr "새 직업"
+
+msgid "New Job Applicant"
+msgstr "새 입사 지원자"
+
+msgid "New Lesson"
+msgstr "새 강의"
+
+msgid "New Payment Gateway"
+msgstr "새 결제 게이트웨이"
+
+msgid "New Question"
+msgstr "새 질문"
+
+msgid "New Sign Up"
+msgstr "새 가입"
+
+msgid "New Zoom Account"
+msgstr "새 Zoom 계정"
+
+msgid "New comment in batch {0}"
+msgstr "새 일괄 댓글 {0}"
+
+msgid "New reply on the topic {0} in course {1}"
+msgstr "과정 {1}의 {0} 주제에 대한 새 답변"
+
+msgid "New {0}"
+msgstr "새 {0}"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "No Assessments"
+msgstr "평가 없음"
+
+msgid "No Assignments"
+msgstr "과제 없음"
+
+msgid "No Notifications"
+msgstr "알림 없음"
+
+msgid "No Quiz submissions found"
+msgstr "퀴즈 제출 없음 발견됨"
+
+msgid "No Recording"
+msgstr "녹화 없음"
+
+msgid "No Submissions"
+msgstr "제출 없음"
+
+msgid "No Upcoming Evaluations"
+msgstr "향후 평가 없음"
+
+msgid "No announcements have been made yet for this batch"
+msgstr "이 배치에 대해 아직 발표가 없습니다."
+
+msgid "No assessments added to this batch"
+msgstr "이 배치에 추가된 평가가 없습니다"
+
+msgid "No calendar is configured for the conferencing provider. Please set up a calendar to create events."
+msgstr "회의 제공자에 대해 구성된 달력이 없습니다. 이벤트를 생성하려면 캘린더를 설정하세요."
+
+msgid "No certificates"
+msgstr "인증서 없음"
+
+msgid "No coupons created yet."
+msgstr "아직 생성된 쿠폰이 없습니다."
+
+msgid "No coupons selected for deletion"
+msgstr "삭제할 쿠폰을 선택하지 않았습니다."
+
+msgid "No courses added to this batch"
+msgstr "이 배치에 추가된 강좌가 없습니다."
+
+msgid "No courses added yet."
+msgstr "아직 추가된 강좌가 없습니다."
+
+msgid "No courses created"
+msgstr "생성된 강좌가 없습니다"
+
+msgid "No courses under review"
+msgstr "검토 중인 강좌가 없습니다."
+
+msgid "No feedback received yet."
+msgstr "아직 피드백이 수신되지 않았습니다."
+
+msgid "No introduction"
+msgstr "소개 없음"
+
+msgid "No live classes scheduled"
+msgstr "예정된 라이브 수업이 없습니다"
+
+msgid "No members added yet."
+msgstr "아직 추가된 회원이 없습니다."
+
+msgid "No members found."
+msgstr "회원이 없습니다."
+
+msgid "No programs found in this category."
+msgstr "이 카테고리에 프로그램이 없습니다."
+
+msgid "No questions added yet"
+msgstr "아직 질문이 추가되지 않았습니다"
+
+msgid "No quizzes added yet."
+msgstr "아직 퀴즈가 추가되지 않았습니다."
+
+msgid "No read notifications"
+msgstr "읽은 알림이 없습니다"
+
+msgid "No results found"
+msgstr "결과가 없습니다"
+
+msgid "No slots available for the selected course."
+msgstr "선택한 강좌에 사용 가능한 슬롯이 없습니다."
+
+msgid "No statistics available for this video."
+msgstr "이 동영상에 대한 통계가 없습니다."
+
+msgid "No students in this batch"
+msgstr "이 배치에 학생이 없습니다"
+
+msgid "No submissions"
+msgstr "제출물이 없습니다"
+
+msgid "No unread notifications"
+msgstr "읽지 않은 알림이 없습니다"
+
+msgid "No {0}"
+msgstr "없음 {0}"
+
+msgid "Not Allowed"
+msgstr "허용되지 않음"
+
+msgid "Not Applicable"
+msgstr "해당 없음"
+
+msgid "Not Attempted"
+msgstr "시도되지 않음"
+
+msgid "Not Available for Preview"
+msgstr "미리보기에 사용할 수 없음"
+
+msgid "Not Graded"
+msgstr "채점되지 않음"
+
+msgid "Not Permitted"
+msgstr "허용되지 않음"
+
+msgid "Not Saved"
+msgstr "저장되지 않음"
+
+msgid "Note"
+msgstr "참고"
+
+msgid "Notes"
+msgstr "메모"
+
+msgid "Notification Sent"
+msgstr "알림 전송됨"
+
+msgid "Notifications"
+msgstr "알림"
+
+msgid "Notifications you have read will appear here."
+msgstr "읽은 알림이 여기에 표시됩니다."
+
+msgid "Notify me when available"
+msgstr "가능한 경우 알림"
+
+msgid "Number of Students"
+msgstr "학생 수"
+
+msgid "Number of seats available"
+msgstr "사용 가능한 좌석 수"
+
+msgid "OAuth Client ID"
+msgstr "OAuth 클라이언트 ID"
+
+msgid "Office close to Home"
+msgstr "집과 가까운 사무실"
+
+msgid "Offline"
+msgstr "오프라인"
+
+msgid "On site"
+msgstr "현장"
+
+msgid "On-site"
+msgstr "현장"
+
+msgid "Once again, congratulations on this significant accomplishment."
+msgstr "다시 한번, 이 중요한 성과를 축하합니다."
+
+msgid "Once the moderator grades your submission, you'll find the details here."
+msgstr "조정자가 제출물을 평가하면 여기에서 자세한 내용을 확인할 수 있습니다."
+
+msgid "Online"
+msgstr "온라인"
+
+msgid "Only PDF files are allowed."
+msgstr "PDF 파일만 허용됩니다."
+
+msgid "Only ZIP files are allowed."
+msgstr "ZIP 파일만 허용됩니다."
+
+msgid "Only document file of type .doc or .docx are allowed."
+msgstr ".doc 또는 .docx 유형의 문서 파일만 허용됩니다. 허용됩니다."
+
+msgid "Only files of type {0} will be accepted."
+msgstr "{0} 유형의 파일만 허용됩니다."
+
+msgid "Only show assignments from the current course"
+msgstr "현재 강좌의 과제만 표시"
+
+msgid "Only show batches that offer a certificate"
+msgstr "인증서를 제공하는 배치만 표시"
+
+msgid "Only show courses that offer a certificate"
+msgstr "인증서를 제공하는 강좌만 표시"
+
+msgid "Only zip files are allowed"
+msgstr "zip 파일만 허용됩니다"
+
+msgid "Only {0} file is allowed."
+msgstr "{0} 파일만 허용됩니다."
+
+msgid "Open"
+msgstr "열기"
+
+msgid "Open Assignment"
+msgstr "과제 열기"
+
+msgid "Open Course"
+msgstr "강좌 열기"
+
+msgid "Open Ended"
+msgstr "열기 종료됨"
+
+msgid "Open the "
+msgstr ""
+
+msgid "Open to"
+msgstr "열기"
+
+msgid "Open to Work"
+msgstr "|작업으로 열기"
+
+msgid "Option"
+msgstr "옵션"
+
+msgid "Option 1"
+msgstr "옵션 1"
+
+msgid "Option 2"
+msgstr "옵션 2"
+
+msgid "Option 3"
+msgstr "옵션 3"
+
+msgid "Option 4"
+msgstr "옵션 4"
+
+msgid "Options"
+msgstr "옵션"
+
+msgid "Orange"
+msgstr "오렌지"
+
+msgid "Order ID"
+msgstr "주문 ID"
+
+msgid "Organization"
+msgstr "조직"
+
+msgid "Original Amount"
+msgstr "원래 금액"
+
+msgid "Others"
+msgstr "기타"
+
+msgid "Our Popular Courses"
+msgstr "인기 있는 강좌"
+
+msgid "Our Upcoming Batches"
+msgstr "예정된 배치"
+
+msgid "Output"
+msgstr "출력"
+
+msgid "Oversee all users, content, and system settings"
+msgstr "모든 사용자, 콘텐츠 및 시스템 설정 감독"
+
+msgid "Overview"
+msgstr "개요"
+
+msgid "Owner"
+msgstr "소유자"
+
+msgid "PAN"
+msgstr ""
+
+msgid "PAN Number"
+msgstr "PAN 번호"
+
+msgid "PDF"
+msgstr ""
+
+msgid "Page deleted successfully"
+msgstr "페이지가 성공적으로 삭제됨"
+
+msgid "Paid Batch"
+msgstr "유료 배치"
+
+msgid "Paid Certificate"
+msgstr "유료 인증서"
+
+msgid "Paid Certificate after Evaluation"
+msgstr "다음 이후에 유료 인증서 평가"
+
+msgid "Paid Course"
+msgstr "유료 강좌"
+
+msgid "Part Time"
+msgstr "파트타임"
+
+msgid "Partially Complete"
+msgstr "부분 완료"
+
+msgid "Pass"
+msgstr "합격"
+
+msgid "Passed"
+msgstr "통과"
+
+msgid "Passing Percentage"
+msgstr "합격률"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Paste a YouTube link of a short video introducing the course."
+msgstr "강좌를 소개하는 짧은 동영상의 YouTube 링크를 붙여넣으세요."
+
+msgid "Payment"
+msgstr "결제"
+
+msgid "Payment Country"
+msgstr "결제 국가"
+
+msgid "Payment Details"
+msgstr "결제 세부정보"
+
+msgid "Payment For Certificate"
+msgstr "인증서 결제"
+
+msgid "Payment For Document"
+msgstr "문서 결제"
+
+msgid "Payment For Document Type"
+msgstr "문서 유형 결제"
+
+msgid "Payment Gateway"
+msgstr "결제 게이트웨이"
+
+msgid "Payment ID"
+msgstr "결제 ID"
+
+msgid "Payment Received"
+msgstr "결제 완료"
+
+msgid "Payment Reminder Template"
+msgstr "결제 알림 템플릿"
+
+msgid "Payment Settings"
+msgstr "결제 설정"
+
+msgid "Payment for "
+msgstr ""
+
+msgid "Payment for Certificate"
+msgstr "인증서 결제"
+
+msgid "Payment for Document"
+msgstr "문서 결제"
+
+msgid "Payment for Document Type"
+msgstr "문서 유형 결제"
+
+msgid "Payment gateways deleted successfully"
+msgstr "결제 게이트웨이가 삭제되었습니다."
+
+msgid "Payment is required to enroll in this batch."
+msgstr "등록하려면 결제가 필요합니다. 일괄."
+
+msgid "Payments app is not installed"
+msgstr "결제 앱이 설치되지 않았습니다"
+
+msgid "Pending"
+msgstr "보류 중"
+
+msgid "People"
+msgstr "사람"
+
+msgid "Percentage"
+msgstr "백분율"
+
+msgid "Percentage (e.g. 70%)"
+msgstr "백분율(예: 70%)"
+
+msgid "Percentage Discount"
+msgstr "백분율 할인"
+
+msgid "Persona Captured"
+msgstr "캡쳐된 인물"
+
+msgid "Phone Number"
+msgstr "전화번호"
+
+msgid "Pink"
+msgstr "핑크"
+
+msgid "Please add <a href='{0}'>{1}</a> for <a href='{2}'>{3}</a> to send calendar invites for evaluations."
+msgstr "캘린더 초대를 보내려면 <a href='{2}'>{3}</a>에 <a href='{0}'>{1}</a>를 추가하세요. 평가."
+
+msgid "Please ask your administrator to verify your sign-up"
+msgstr "관리자에게 가입 확인을 요청하세요"
+
+msgid "Please check your email for verification"
+msgstr "확인을 위해 이메일을 확인하세요"
+
+msgid "Please click on the following button to set your new password"
+msgstr "새 비밀번호를 설정하려면 다음 버튼을 클릭하세요"
+
+msgid "Please complete the previous course to unlock this one."
+msgstr "이 기능을 잠금 해제하려면 이전 과정을 완료하세요."
+
+msgid "Please enable the Google Meet account to use this feature."
+msgstr "이 기능을 사용하려면 Google Meet 계정을 활성화하세요."
+
+msgid "Please enable the zoom account to use this feature."
+msgstr "이 기능을 사용하려면 Zoom 계정을 활성화하세요."
+
+msgid "Please enroll for this course to view this lesson"
+msgstr "이 강의를 보려면 이 강좌에 등록하세요."
+
+msgid "Please ensure that the billing name you enter is correct, as it will be used on your invoice."
+msgstr "청구서에 사용되는 청구서 이름이 올바른지 확인하십시오."
+
+msgid "Please ensure that you complete all the questions in {0} minutes."
+msgstr "{0}분 안에 모든 질문을 완료하시기 바랍니다."
+
+msgid "Please enter a coupon code"
+msgstr "쿠폰 코드를 입력하세요."
+
+msgid "Please enter a title."
+msgstr "제목을 입력하세요."
+
+msgid "Please enter a valid Contact Us Email."
+msgstr "유효한 문의 이메일을 입력하세요."
+
+msgid "Please enter a valid Contact Us URL."
+msgstr "유효한 문의처 URL을 입력하세요."
+
+msgid "Please enter a valid URL."
+msgstr "유효한 URL을 입력하세요."
+
+msgid "Please enter a valid time in the format HH:mm."
+msgstr "HH:mm 형식으로 유효한 시간을 입력하세요."
+
+msgid "Please enter a valid timestamp"
+msgstr "유효한 타임스탬프를 입력하세요."
+
+msgid "Please fill the mandatory fields: {0}"
+msgstr "필수 필드를 작성하십시오: {0}"
+
+msgid "Please install the Payments App to create a paid batch. Refer to the documentation for more details. {0}"
+msgstr "유료 배치를 생성하려면 결제 앱을 설치하세요. 자세한 내용은 설명서를 참조하세요. {0}"
+
+msgid "Please install the Payments App to create a paid course. Refer to the documentation for more details. {0}"
+msgstr "유료 강좌를 개설하려면 Payments 앱을 설치하세요. 자세한 내용은 설명서를 참조하세요. {0}"
+
+msgid "Please let us know where you heard about us from."
+msgstr "우리에 대해 어디서 들었는지 알려주세요."
+
+msgid "Please login to access the quiz."
+msgstr "퀴즈에 액세스하려면 로그인하세요."
+
+msgid "Please login to continue with payment."
+msgstr "결제를 계속하려면 로그인하세요."
+
+msgid "Please login to view program details."
+msgstr "프로그램 세부정보를 보려면 로그인하세요."
+
+msgid "Please login to view programs."
+msgstr "프로그램을 보려면 로그인하세요."
+
+msgid "Please make sure to schedule your evaluation before this date."
+msgstr "이 날짜 이전에 평가 일정을 잡으시기 바랍니다."
+
+msgid "Please prepare well and be on time for the evaluations."
+msgstr "잘 준비하셔서 시간에 맞춰 평가를 받으시기 바랍니다."
+
+msgid "Please provide your consent to proceed with the payment"
+msgstr "결제를 진행하려면 동의해주세요."
+
+msgid "Please provide your consent to proceed with the payment."
+msgstr "결제를 진행하시려면 동의해 주시기 바랍니다."
+
+msgid "Please read the following instructions carefully before starting the quiz"
+msgstr "퀴즈를 시작하기 전에 다음 지침을 주의 깊게 읽으십시오."
+
+msgid "Please run the code to execute the test cases."
+msgstr "테스트 사례를 실행하려면 코드를 실행하세요."
+
+msgid "Please select a Google Meet account for this batch."
+msgstr "이 배치에 사용할 Google Meet 계정을 선택하세요."
+
+msgid "Please select a Zoom account for this batch."
+msgstr "이 배치에 대한 Zoom 계정을 선택하세요."
+
+msgid "Please select a conferencing provider and add an account to the batch to create live classes."
+msgstr "실시간 수업을 생성하려면 회의 제공업체를 선택하고 배치에 계정을 추가하세요."
+
+msgid "Please select a course"
+msgstr "코스를 선택해주세요"
+
+msgid "Please select a course to view available slots."
+msgstr "이용 가능한 슬롯을 보려면 강좌를 선택하세요."
+
+msgid "Please select a date."
+msgstr "날짜를 선택하세요."
+
+msgid "Please select a duration."
+msgstr "기간을 선택하세요."
+
+msgid "Please select a future date and time."
+msgstr "미래 날짜와 시간을 선택하세요."
+
+msgid "Please select a member"
+msgstr "회원을 선택하세요"
+
+msgid "Please select a payment for the purchased certificate."
+msgstr "구매한 인증서에 대한 결제를 선택하세요."
+
+msgid "Please select a quiz"
+msgstr "퀴즈를 선택하세요"
+
+msgid "Please select a slot for your evaluation."
+msgstr "평가할 슬롯을 선택하세요."
+
+msgid "Please select a student to enroll."
+msgstr "등록할 학생을 선택하세요."
+
+msgid "Please select a time."
+msgstr "시간을 선택하세요."
+
+msgid "Please select a timezone."
+msgstr "시간대를 선택하세요."
+
+msgid "Please select a user"
+msgstr "사용자를 선택하세요"
+
+msgid "Please select an option"
+msgstr "옵션을 선택하세요"
+
+msgid "Please take appropriate action at {0}"
+msgstr "{0}에서 적절한 조치를 취하세요"
+
+msgid "Please upload a SCORM package"
+msgstr "SCORM을 업로드하세요 패키지"
+
+msgid "Point of Score (e.g. 70)"
+msgstr "점수(예: 70)"
+
+msgid "Possibilities"
+msgstr "가능성"
+
+msgid "Possibility"
+msgstr "가능성"
+
+msgid "Possible Answer 1"
+msgstr "가능한 답변 1"
+
+msgid "Possible Answer 2"
+msgstr "가능한 답변 2"
+
+msgid "Possible Answer 3"
+msgstr "가능한 답변 3"
+
+msgid "Possible Answer 4"
+msgstr "가능한 답변 4"
+
+msgid "Post"
+msgstr "게시물"
+
+msgid "Postal Code"
+msgstr "우편번호"
+
+msgid "Powered by Frappe Learning"
+msgstr ""
+
+msgid "Preferred Function"
+msgstr "선호 기능"
+
+msgid "Preferred Functions"
+msgstr "선호 기능"
+
+msgid "Preferred Industries"
+msgstr "선호 산업"
+
+msgid "Preferred Industry"
+msgstr "선호 업종"
+
+msgid "Preferred Location"
+msgstr "선호 위치"
+
+msgid "Press enter to search"
+msgstr "검색하려면 Enter를 누르세요"
+
+msgid "Prevent Skipping Videos"
+msgstr "동영상 건너뛰기 방지"
+
+msgid "Preview Image"
+msgstr "미리보기 이미지"
+
+msgid "Preview Video"
+msgstr "미리보기 비디오"
+
+msgid "Previous"
+msgstr "이전"
+
+msgid "Pricing"
+msgstr "가격"
+
+msgid "Pricing and Certification"
+msgstr "가격 및 인증"
+
+msgid "Primary Countries"
+msgstr "주요 국가"
+
+msgid "Private Information includes your Grade and Work Environment Preferences"
+msgstr "개인 정보에는 등급 및 작업 환경 기본 설정이 포함됩니다."
+
+msgid "Problem Statement"
+msgstr "문제 설명"
+
+msgid "Proceed to Payment"
+msgstr "결제 진행"
+
+msgid "Profession"
+msgstr "직업"
+
+msgid "Profile Image"
+msgstr "프로필 이미지"
+
+msgid "Program"
+msgstr "프로그램"
+
+msgid "Program Courses"
+msgstr "프로그램 코스"
+
+msgid "Program Member"
+msgstr "프로그램 회원"
+
+msgid "Program Members"
+msgstr "프로그램 회원"
+
+msgid "Program created successfully"
+msgstr "프로그램이 성공적으로 생성되었습니다"
+
+msgid "Program deleted successfully"
+msgstr "프로그램이 성공적으로 삭제되었습니다"
+
+msgid "Program updated successfully"
+msgstr "프로그램 업데이트됨 성공적으로"
+
+msgid "Programming Exercise"
+msgstr "프로그래밍 연습"
+
+msgid "Programming Exercise Progress"
+msgstr "프로그래밍 연습 진행"
+
+msgid "Programming Exercise Submission"
+msgstr "프로그래밍 연습 제출"
+
+msgid "Programming Exercise Submissions"
+msgstr "프로그래밍 연습 제출"
+
+msgid "Programming Exercise created successfully"
+msgstr "프로그래밍 연습이 성공적으로 생성됨"
+
+msgid "Programming Exercise deleted successfully"
+msgstr "프로그래밍 연습이 성공적으로 삭제됨"
+
+msgid "Programming Exercise updated successfully"
+msgstr "프로그래밍 연습이 성공적으로 업데이트됨"
+
+msgid "Programming Exercises"
+msgstr "프로그래밍 연습"
+
+msgid "Programs"
+msgstr "프로그램"
+
+msgid "Progress"
+msgstr "진행률"
+
+msgid "Progress (%)"
+msgstr "진행률(%)"
+
+msgid "Progress Distribution"
+msgstr "진행률 배포"
+
+msgid "Progress Summary"
+msgstr "진행상황 요약"
+
+msgid "Progress Summary for {0}"
+msgstr "{0}에 대한 진행 요약"
+
+msgid "Progress of students in courses and assessments"
+msgstr "강좌 및 평가에서 학생의 진행 상황"
+
+msgid "Publish on Participant Page"
+msgstr "참가자 페이지에 게시"
+
+msgid "Published"
+msgstr "게시됨"
+
+msgid "Published Courses"
+msgstr "게시된 강좌"
+
+msgid "Published On"
+msgstr "게시 날짜"
+
+msgid "Publishing Settings"
+msgstr "출판 설정"
+
+msgid "Purchased Certificate"
+msgstr "구매한 인증서"
+
+msgid "Purple"
+msgstr "보라"
+
+msgid "Python"
+msgstr "파이썬"
+
+msgid "Question"
+msgstr "질문"
+
+msgid "Question Detail"
+msgstr "질문 세부정보"
+
+msgid "Question Name"
+msgstr "질문 이름"
+
+msgid "Question added successfully"
+msgstr "질문이 성공적으로 추가되었습니다."
+
+msgid "Question updated successfully"
+msgstr "질문이 성공적으로 업데이트되었습니다."
+
+msgid "Question {0}"
+msgstr "질문 {0}"
+
+msgid "Questions"
+msgstr "질문"
+
+msgid "Questions deleted successfully"
+msgstr "질문이 삭제되었습니다."
+
+msgid "Questions marked for review"
+msgstr "검토용으로 표시된 질문"
+
+msgid "Quiz"
+msgstr "놀리다"
+
+msgid "Quiz ID"
+msgstr "퀴즈 ID"
+
+msgid "Quiz Progress"
+msgstr "퀴즈 진행"
+
+msgid "Quiz Submission"
+msgstr "퀴즈 제출"
+
+msgid "Quiz Submissions"
+msgstr "퀴즈 제출"
+
+msgid "Quiz Summary"
+msgstr "퀴즈 요약"
+
+msgid "Quiz Title"
+msgstr "퀴즈 제목"
+
+msgid "Quiz created successfully"
+msgstr "퀴즈가 성공적으로 생성되었습니다."
+
+msgid "Quiz is not available to Guest users. Please login to continue."
+msgstr "게스트 사용자는 퀴즈를 이용할 수 없습니다. 계속하려면 로그인하세요."
+
+msgid "Quiz updated successfully"
+msgstr "퀴즈가 성공적으로 업데이트되었습니다."
+
+msgid "Quiz will appear at the bottom of the lesson."
+msgstr "퀴즈는 강의 하단에 표시됩니다."
+
+msgid "Quizzes"
+msgstr "퀴즈"
+
+msgid "Quizzes deleted successfully"
+msgstr "퀴즈가 삭제되었습니다."
+
+msgid "Quizzes in this video"
+msgstr "이 영상의 퀴즈"
+
+msgid "Randomize the order of questions for each attempt."
+msgstr "각 시도에 대한 질문 순서를 무작위로 지정합니다."
+
+msgid "Rating"
+msgstr "평가"
+
+msgid "Rating cannot be 0"
+msgstr "평점은 0일 수 없습니다."
+
+msgid "Red"
+msgstr "빨간색"
+
+msgid "Redemption Count"
+msgstr "상환 횟수"
+
+msgid "Redemptions Count"
+msgstr "상환 횟수"
+
+msgid "Reference DocName"
+msgstr "참조 문서 이름"
+
+msgid "Reference DocType"
+msgstr "참조 문서 유형"
+
+msgid "Reference Document Type"
+msgstr "참조 문서 유형"
+
+msgid "Reference Name"
+msgstr "참조 이름"
+
+msgid "Regards"
+msgstr "문안 인사"
+
+msgid "Register Now"
+msgstr "지금 등록하세요"
+
+msgid "Registered but disabled"
+msgstr "등록되었지만 비활성화됨"
+
+msgid "Related Courses"
+msgstr "관련 강좌"
+
+msgid "Remote"
+msgstr "원격"
+
+msgid "Remove"
+msgstr "제거하다"
+
+msgid "Remove Highlight"
+msgstr "하이라이트 제거"
+
+msgid "Reply To"
+msgstr "답장하다"
+
+msgid "Reply To is required"
+msgstr "답장 주소가 필요합니다"
+
+msgid "Reply cannot be empty."
+msgstr "답장은 비워둘 수 없습니다."
+
+msgid "Request Invite"
+msgstr "초대 요청"
+
+msgid "Request for Mentorship"
+msgstr "멘토링 요청"
+
+msgid "Result"
+msgstr "결과"
+
+msgid "Resume"
+msgstr "재개하다"
+
+msgid "Resume Video"
+msgstr "비디오 재개"
+
+msgid "Resume where you left off"
+msgstr "중단한 부분부터 다시 시작"
+
+msgid "Review"
+msgstr "검토"
+
+msgid "Role"
+msgstr "역할"
+
+msgid "Role Preference"
+msgstr "역할 선호도"
+
+msgid "Role updated successfully"
+msgstr "역할이 업데이트되었습니다."
+
+msgid "Roles"
+msgstr "역할"
+
+msgid "Route"
+msgstr "노선"
+
+msgid "Row #{0} Date cannot be outside the batch duration."
+msgstr "행 #{0} 날짜는 일괄 처리 기간을 벗어날 수 없습니다."
+
+msgid "Row #{0} End time cannot be outside the batch duration."
+msgstr "행 #{0} 종료 시간은 일괄 처리 기간을 벗어날 수 없습니다."
+
+msgid "Row #{0} Start time cannot be greater than or equal to end time."
+msgstr "행 #{0} 시작 시간은 종료 시간보다 크거나 같을 수 없습니다."
+
+msgid "Row #{0} Start time cannot be outside the batch duration."
+msgstr "행 #{0} 시작 시간은 일괄 처리 기간을 벗어날 수 없습니다."
+
+msgid "Rows {0} have the duplicate questions."
+msgstr "{0}행에 중복된 질문이 있습니다."
+
+msgid "Run"
+msgstr "달리다"
+
+msgid "Running"
+msgstr "달리기"
+
+msgid "Rust"
+msgstr "녹"
+
+msgid "SCORM"
+msgstr "스콜"
+
+msgid "SCORM Content"
+msgstr "SCORM 콘텐츠"
+
+msgid "SCORM Package"
+msgstr "SCORM 패키지"
+
+msgid "SCORM Package Path"
+msgstr "SCORM 패키지 경로"
+
+msgid "SEO"
+msgstr ""
+
+msgid "SVG contains potentially unsafe content."
+msgstr "SVG에는 잠재적으로 안전하지 않은 콘텐츠가 포함되어 있습니다."
+
+msgid "Saturday"
+msgstr "토요일"
+
+msgid "Save"
+msgstr "구하다"
+
+msgid "Schedule"
+msgstr "일정"
+
+msgid "Schedule an evaluation to get certified."
+msgstr "인증을 받으려면 평가를 예약하세요."
+
+msgid "Schedule your evaluation"
+msgstr "평가 일정을 계획하세요"
+
+msgid "Scheduled Flow"
+msgstr "예약된 흐름"
+
+msgid "Score"
+msgstr "점수"
+
+msgid "Score Out Of"
+msgstr "점수는 다음 중"
+
+msgid "Search"
+msgstr "찾다"
+
+msgid "Search by Member"
+msgstr "회원으로 검색"
+
+msgid "Search by Name"
+msgstr "이름으로 검색"
+
+msgid "Search by Title"
+msgstr "제목으로 검색"
+
+msgid "Search by name"
+msgstr "이름으로 검색"
+
+msgid "Search by title"
+msgstr "제목으로 검색"
+
+msgid "Search for "
+msgstr "검색 "
+
+msgid "Search for an icon"
+msgstr "아이콘 검색"
+
+msgid "Search..."
+msgstr "검색..."
+
+msgid "Seat Count"
+msgstr "좌석 수"
+
+msgid "Seat Left"
+msgstr "남은 좌석"
+
+msgid "Seat count cannot be negative."
+msgstr "좌석 수는 음수일 수 없습니다."
+
+msgid "Seats Left"
+msgstr "남은 좌석"
+
+msgid "See all"
+msgstr "모두 보기"
+
+msgid "Select Date"
+msgstr "날짜 선택"
+
+msgid "Select Payment Gateway"
+msgstr "결제 게이트웨이 선택"
+
+msgid "Select User"
+msgstr "사용자 선택"
+
+msgid "Select a Programming Exercise"
+msgstr "프로그래밍 연습 선택"
+
+msgid "Select a fallback color for the course card when no image is set."
+msgstr "이미지가 설정되지 않은 경우 강좌 카드의 대체 색상을 선택합니다."
+
+msgid "Select a question"
+msgstr "다음을 선택합니다. 질문"
+
+msgid "Select a quiz"
+msgstr "퀴즈 선택"
+
+msgid "Select an Assignment"
+msgstr "과제 선택"
+
+msgid "Select from questions you have already created"
+msgstr "이미 생성한 질문에서 선택"
+
+msgid "Send"
+msgstr "보내기"
+
+msgid "Send Confirmation Email"
+msgstr "확인 이메일 보내기"
+
+msgid "Send Email"
+msgstr "이메일 보내기"
+
+msgid "Send Email to {0}"
+msgstr "{0}(으)로 이메일 보내기"
+
+msgid "Send Notification for Published Batches"
+msgstr "게시된 배치에 대한 알림 보내기"
+
+msgid "Send Notification for Published Courses"
+msgstr "게시된 강좌에 대한 알림 보내기"
+
+msgid "Send Payment Reminders for Batch"
+msgstr "배치에 대한 결제 알림 보내기"
+
+msgid "Send Payment Reminders for Course"
+msgstr "강좌에 대한 결제 알림 보내기"
+
+msgid "Send calendar invite for evaluations"
+msgstr "평가를 위한 캘린더 초대 보내기"
+
+msgid "Session End Time"
+msgstr "세션 종료 시간"
+
+msgid "Session Start Time"
+msgstr "세션 시작 시간"
+
+msgid "Session refreshed successfully"
+msgstr "세션이 성공적으로 새로 고쳐졌습니다"
+
+msgid "Set Color"
+msgstr "색상 설정"
+
+msgid "Set your Password"
+msgstr "비밀번호 설정"
+
+msgid "Setting up"
+msgstr "설정 중"
+
+msgid "Setting up payment gateway"
+msgstr "결제 게이트웨이 설정 중"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Share on"
+msgstr "공유 대상"
+
+msgid "Short Description"
+msgstr "간단한 설명"
+
+msgid "Short Introduction"
+msgstr "간략한 소개"
+
+msgid "Short description of the batch"
+msgstr "배치에 대한 간단한 설명"
+
+msgid "Show Answer"
+msgstr "답변 표시"
+
+msgid "Show Answers"
+msgstr "답변 표시"
+
+msgid "Show Submission History"
+msgstr "제출 내역 표시"
+
+msgid "Show Tab in Batch"
+msgstr "일괄적으로 탭 표시"
+
+msgid "Show USD Equivalent"
+msgstr "USD 표시 동일"
+
+msgid "Show day view in timetable"
+msgstr "시간표에 일별 보기 표시"
+
+msgid "Show live class"
+msgstr "실시간 수업 표시"
+
+msgid "Shuffle Questions"
+msgstr "질문 섞기"
+
+msgid "Sidebar"
+msgstr "사이드바"
+
+msgid "Sidebar Items"
+msgstr "사이드바 항목"
+
+msgid "Sign Up is disabled"
+msgstr "가입이 비활성화됨"
+
+msgid "Sign up"
+msgstr "가입"
+
+msgid "Signup Settings"
+msgstr "가입 설정"
+
+msgid "Signups"
+msgstr "등록"
+
+msgid "Skill"
+msgstr "기술"
+
+msgid "Skill Details"
+msgstr "기술 세부 정보"
+
+msgid "Skill Name"
+msgstr "기술 이름"
+
+msgid "Skills"
+msgstr "기술"
+
+msgid "Skip"
+msgstr "건너뛰기"
+
+msgid "Slot Times are overlapping for some schedules."
+msgstr "일부 일정의 슬롯 시간이 겹칩니다."
+
+msgid "Slot added successfully"
+msgstr "슬롯이 추가되었습니다."
+
+msgid "Slot deleted successfully"
+msgstr "슬롯이 삭제되었습니다."
+
+msgid "Slots"
+msgstr "슬롯"
+
+msgid "Sold Out"
+msgstr "매진"
+
+msgid "Sort by"
+msgstr "정렬 기준"
+
+msgid "Source"
+msgstr "소스"
+
+msgid "Staff"
+msgstr "직원"
+
+msgid "Start"
+msgstr "시작"
+
+msgid "Start Date"
+msgstr "시작 날짜"
+
+msgid "Start Date:"
+msgstr "시작 날짜:"
+
+msgid "Start Learning"
+msgstr "학습 시작"
+
+msgid "Start Time"
+msgstr "시작 시간"
+
+msgid "Start Time cannot be greater than End Time"
+msgstr "시작 시간은 종료 시간보다 클 수 없습니다"
+
+msgid "Start URL"
+msgstr "시작 URL"
+
+msgid "Start the Quiz"
+msgstr "퀴즈 시작"
+
+msgid "Startup Organization"
+msgstr "시작 조직"
+
+msgid "State/Province"
+msgstr "시/도"
+
+msgid "Statistics"
+msgstr "통계"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Status/Percentage"
+msgstr "상태/백분율"
+
+msgid "Status/Score"
+msgstr "상태/점수"
+
+msgid "Student"
+msgstr "학생"
+
+msgid "Student Progress"
+msgstr "학생 진도"
+
+msgid "Student Reviews"
+msgstr "학생 리뷰"
+
+msgid "Student enrolled successfully"
+msgstr "학생이 성공적으로 등록했습니다"
+
+msgid "Student is already enrolled in this course."
+msgstr "학생이 이미 이 과정에 등록되었습니다."
+
+msgid "Students"
+msgstr "학생"
+
+msgid "Students will be enrolled in a paid batch once they complete the payment"
+msgstr "학생은 결제를 완료하면 유료 배치에 등록됩니다."
+
+msgid "Subject"
+msgstr "제목"
+
+msgid "Subject is required"
+msgstr "제목이 필요합니다"
+
+msgid "Submission"
+msgstr "제출"
+
+msgid "Submission Type"
+msgstr "제출 유형"
+
+msgid "Submission by"
+msgstr "제출자"
+
+msgid "Submission saved!"
+msgstr "제출물이 저장되었습니다!"
+
+msgid "Submissions"
+msgstr "제출물"
+
+msgid "Submissions deleted successfully"
+msgstr "제출물이 성공적으로 삭제되었습니다."
+
+msgid "Submit"
+msgstr "제출"
+
+msgid "Submit Feedback"
+msgstr "피드백 제출"
+
+msgid "Submit and Continue"
+msgstr "제출 후 계속"
+
+msgid "Submit your resume to proceed with your application for this position. Upon submission, it will be shared with the job poster."
+msgstr "이 직위 지원을 계속하려면 이력서를 제출하세요. 제출하면 채용 포스터와 공유됩니다."
+
+msgid "Successfully enrolled in program"
+msgstr "프로그램에 성공적으로 등록됨"
+
+msgid "Summary"
+msgstr "요약"
+
+msgid "Sunday"
+msgstr "일요일"
+
+msgid "Suspicious pattern found in {0}: {1}"
+msgstr "{0}에서 발견된 의심스러운 패턴: {1}"
+
+msgid "Swatches"
+msgstr "견본"
+
+msgid "System Manager"
+msgstr "시스템 관리자"
+
+msgid "Tags"
+msgstr "태그"
+
+msgid "Tap"
+msgstr ""
+
+msgid "Teal"
+msgstr ""
+
+msgid "Team School"
+msgstr "팀 학교"
+
+msgid "Team Work"
+msgstr "팀 작업"
+
+msgid "Template"
+msgstr "템플릿"
+
+msgid "Temporarily Disabled"
+msgstr "일시적으로 비활성화됨"
+
+msgid "Test Cases"
+msgstr "테스트 케이스"
+
+msgid "Test Quiz"
+msgstr "테스트 퀴즈"
+
+msgid "Test this Exercise"
+msgstr "이 연습 테스트"
+
+msgid "Test {0}"
+msgstr "{0} 테스트"
+
+msgid "Text"
+msgstr "텍스트"
+
+msgid "Thank you for providing your feedback."
+msgstr "의견을 제공해 주셔서 감사합니다."
+
+msgid "Thanks and Regards"
+msgstr "감사합니다."
+
+msgid "The Google Meet account does not have a Google Calendar configured. Please set up a Google Calendar first."
+msgstr "Google Meet 계정에는 Google Calendar가 구성되어 있지 않습니다. 먼저 Google 캘린더를 설정하세요."
+
+msgid "The batch does not exist."
+msgstr "일괄이 존재하지 않습니다."
+
+msgid "The batch you have enrolled for is starting tomorrow. Please be prepared and be on time for the session."
+msgstr "등록한 일괄이 내일부터 시작됩니다. 세션에 맞춰 준비하고 시간을 지켜주세요."
+
+msgid "The coupon code '{0}' is invalid."
+msgstr "쿠폰 코드 '{0}'이(가) 유효하지 않습니다."
+
+msgid "The course {0} is now available on {1}."
+msgstr "이제 {1}에서 {0} 과정을 수강할 수 있습니다."
+
+msgid "The deadline to schedule evaluations has passed. Please contact the Instructor for assistance."
+msgstr "평가 예약 마감일이 지났습니다. 도움이 필요하면 강사에게 문의하세요."
+
+msgid "The evaluator of this course is unavailable from {0} to {1}. Please select a date after {1}"
+msgstr "이 과정의 평가자는 {0}부터 {1}까지 참여할 수 없습니다. {1} 이후 날짜를 선택하세요."
+
+msgid "The instructor has left a comment on your assignment {0}"
+msgstr "강사가 과제에 댓글을 남겼습니다. {0}"
+
+msgid "The last day to schedule your evaluations is "
+msgstr "평가 일정을 잡을 수 있는 마지막 날은 "
+
+msgid "The lesson does not exist."
+msgstr "수업이 존재하지 않습니다."
+
+msgid "The selected Google Meet account does not have a Google Calendar configured."
+msgstr "선택한 Google Meet 계정에 Google 캘린더가 구성되어 있지 않습니다."
+
+msgid "The selected Google Meet account is disabled. Please enable it or select another account."
+msgstr "선택한 Google Meet 계정이 비활성화되었습니다. 활성화하거나 다른 계정을 선택하세요."
+
+msgid "The slot is already booked by another participant."
+msgstr "다른 참가자가 이미 슬롯을 예약했습니다."
+
+msgid "The specified batch does not exist."
+msgstr "지정한 배치가 존재하지 않습니다."
+
+msgid "The status of your application has changed."
+msgstr "신청 상태가 변경되었습니다."
+
+msgid "There are no chapters in this course. Create and manage chapters from here."
+msgstr "이 과정에는 장이 없습니다. 여기에서 챕터를 만들고 관리하세요."
+
+msgid "There are no courses currently. Create your first course to get started!"
+msgstr "현재 강좌가 없습니다. 시작하려면 첫 번째 강좌를 만드세요!"
+
+msgid "There are no seats available in this batch."
+msgstr "이 배치에는 사용 가능한 좌석이 없습니다."
+
+msgid "There are no submissions for this assignment."
+msgstr "이 과제에 대한 제출물이 없습니다."
+
+msgid "There are no {0} currently. Keep an eye out, fresh learning experiences are on the way!"
+msgstr "현재 {0}이(가) 없습니다. 주목하세요. 새로운 학습 경험이 곧 시작됩니다!"
+
+msgid "There are no {0} on this site."
+msgstr "이 사이트에는 {0}이(가) 없습니다."
+
+msgid "There has been an update on your submission. You have got a score of {0} for the quiz {1}"
+msgstr "제출물이 업데이트되었습니다. 퀴즈 {1}에서 {0}점을 받았습니다."
+
+msgid "These customisations will work on the main batch page."
+msgstr "이 사용자 정의는 기본 배치 페이지에서 작동합니다."
+
+msgid "This badge has not been assigned to any students yet"
+msgstr "이 배지는 아직 어떤 학생에게도 할당되지 않았습니다."
+
+msgid "This batch is not associated with this course."
+msgstr "이 배치는 이 과정과 연결되어 있지 않습니다."
+
+msgid "This certificate does no expire"
+msgstr "이 인증서는 만료되지 않습니다."
+
+msgid "This class has ended"
+msgstr "이 수업은 종료되었습니다"
+
+msgid "This coupon has expired."
+msgstr "이 쿠폰은 만료되었습니다."
+
+msgid "This coupon has reached its maximum usage limit."
+msgstr "이 쿠폰은 최대 사용 한도에 도달했습니다."
+
+msgid "This coupon is not applicable to this {0}."
+msgstr "이 쿠폰은 이 {0}에 적용할 수 없습니다."
+
+msgid "This course has:"
+msgstr "이 강좌는 다음과 같습니다."
+
+msgid "This course is free."
+msgstr "이 강좌는 무료입니다."
+
+msgid "This description will be shown on lists and pages without meta description"
+msgstr "이 설명은 메타 설명 없이 목록과 페이지에 표시됩니다."
+
+msgid "This image will be shown on lists and pages that don't have an image by default"
+msgstr "이 이미지는 기본적으로 이미지가 없는 목록과 페이지에 표시됩니다."
+
+msgid "This lesson is locked"
+msgstr "이 강좌는 잠겨 있습니다."
+
+msgid "This lesson is not available for preview. Please enroll in the course to access it."
+msgstr "이 강좌는 미리 볼 수 없습니다. 액세스하려면 과정에 등록하세요."
+
+msgid "This lesson is not available for preview. Please join the course to access it."
+msgstr "이 강의는 미리 볼 수 없습니다. 액세스하려면 강좌에 참여하세요."
+
+msgid "This payment is for a certificate."
+msgstr "이 결제는 수료증을 위한 것입니다."
+
+msgid "This program consists of {0} courses"
+msgstr "이 프로그램은 {0}개의 강좌로 구성되어 있습니다."
+
+msgid "This quiz consists of {0} questions."
+msgstr "이 퀴즈는 {0}개의 질문으로 구성되어 있습니다."
+
+msgid "This site is being updated. You will not be able to make any changes. Full access will be restored shortly."
+msgstr "이 사이트는 업데이트 중입니다. 어떠한 변경도 할 수 없습니다. 전체 액세스 권한이 곧 복원됩니다."
+
+msgid "This video contains {0} {1}:"
+msgstr "이 동영상에는 {0} {1}이(가) 포함되어 있습니다."
+
+msgid "This will permanently delete the coupon and the code will no longer be valid."
+msgstr "이렇게 하면 쿠폰이 영구적으로 삭제되며 코드는 더 이상 유효하지 않습니다."
+
+msgid "Thursday"
+msgstr "목요일"
+
+msgid "Time"
+msgstr "시간"
+
+msgid "Time Preference"
+msgstr "시간 기본 설정"
+
+msgid "Time for a Quiz"
+msgstr "퀴즈 시간"
+
+msgid "Time in Video"
+msgstr "동영상 시간"
+
+msgid "Time in Video (minutes)"
+msgstr "동영상 시간(분)"
+
+msgid "Time in video exceeds the total duration of the video."
+msgstr "동영상 시간이 동영상의 총 재생 시간을 초과합니다."
+
+msgid "Time must be in 24 hour format (HH:mm). Example 11:30 or 22:00"
+msgstr "시간은 24시간 형식(HH:mm)이어야 합니다. 예시 11:30 또는 22:00"
+
+msgid "Time: "
+msgstr "시간: "
+
+msgid "Timetable"
+msgstr "시간표"
+
+msgid "Timetable Legends"
+msgstr "시간표 범례"
+
+msgid "Timetable Template"
+msgstr "시간표 템플릿"
+
+msgid "Timezone"
+msgstr "시간대"
+
+msgid "Timezone is required for paid certificates."
+msgstr "유료 인증서에는 시간대가 필요합니다."
+
+msgid "Timings:"
+msgstr "타이밍:"
+
+msgid "Title"
+msgstr "제목"
+
+msgid "Title cannot be empty."
+msgstr "제목은 비워둘 수 없습니다."
+
+msgid "Title is required"
+msgstr "제목은 필수 항목입니다."
+
+msgid "To"
+msgstr "에게"
+
+msgid "To Date"
+msgstr "현재까지"
+
+msgid "To join this batch, please contact the Administrator."
+msgstr "이 배치에 참여하려면 관리자에게 문의하세요."
+
+msgid "Too many users signed up recently, so the registration is disabled. Please try back in an hour"
+msgstr "최근 가입한 사용자가 너무 많아 등록이 비활성화되었습니다. 한 시간 후에 다시 시도해 주세요."
+
+msgid "Total"
+msgstr "총"
+
+msgid "Total Marks"
+msgstr "총점"
+
+msgid "Total Questions"
+msgstr "총 질문"
+
+msgid "Total Signups"
+msgstr "총 가입 수"
+
+msgid "Training Feedback"
+msgstr "교육 피드백"
+
+msgid "Transaction Details"
+msgstr "거래 세부정보"
+
+msgid "Transaction created successfully"
+msgstr "거래가 성공적으로 생성되었습니다."
+
+msgid "Transaction updated successfully"
+msgstr "거래가 성공적으로 업데이트되었습니다."
+
+msgid "Travel"
+msgstr "여행하다"
+
+msgid "Try Again"
+msgstr "다시 시도"
+
+msgid "Tuesday"
+msgstr "화요일"
+
+msgid "Twitter"
+msgstr "지저귀다"
+
+msgid "Twitter ID"
+msgstr "트위터 아이디"
+
+msgid "Type"
+msgstr "유형"
+
+msgid "Type '/' for commands or select text to format"
+msgstr "명령에 '/'를 입력하거나 서식을 지정할 텍스트를 선택하세요."
+
+msgid "Type your answer"
+msgstr "답변을 입력하세요"
+
+msgid "UK Grading  (e.g. 1st, 2:2)"
+msgstr "영국 등급(예: 1등, 2:2)"
+
+msgid "URL"
+msgstr ""
+
+msgid "UUID"
+msgstr ""
+
+msgid "Unable to add evaluator"
+msgstr "평가자를 추가할 수 없습니다."
+
+msgid "Unable to add member"
+msgstr "구성원을 추가할 수 없습니다."
+
+msgid "Unable to create category"
+msgstr "카테고리를 생성할 수 없습니다."
+
+msgid "Unattempted Questions"
+msgstr "시도되지 않은 질문"
+
+msgid "Unavailability"
+msgstr "이용불가"
+
+msgid "Unavailability updated successfully"
+msgstr "이용 불가가 업데이트되었습니다."
+
+msgid "Unavailable From Date cannot be greater than Unavailable To Date"
+msgstr "사용 불가 시작 날짜는 사용 불가 종료 날짜보다 클 수 없습니다."
+
+msgid "Under Review"
+msgstr "검토중"
+
+msgid "Unpublished"
+msgstr "널리 알려지지 않은"
+
+msgid "Unsafe file path detected"
+msgstr "안전하지 않은 파일 경로가 감지되었습니다."
+
+msgid "Unsplash"
+msgstr "언스플래시"
+
+msgid "Unsplash Access Key"
+msgstr "Unsplash 액세스 키"
+
+msgid "Unstructured Role"
+msgstr "구조화되지 않은 역할"
+
+msgid "Upcoming"
+msgstr "예정"
+
+msgid "Upcoming Batches"
+msgstr "다가오는 배치"
+
+msgid "Upcoming Evaluations"
+msgstr "다가오는 평가"
+
+msgid "Upcoming Live Classes"
+msgstr "다가오는 라이브 수업"
+
+msgid "Update"
+msgstr "업데이트"
+
+msgid "Update Password"
+msgstr "비밀번호 업데이트"
+
+msgid "Updated On"
+msgstr "업데이트 날짜"
+
+msgid "Upload"
+msgstr "업로드"
+
+msgid "Upload Assignment"
+msgstr "과제 업로드"
+
+msgid "Upload File"
+msgstr "파일 업로드"
+
+msgid "Uploading"
+msgstr "업로드 중"
+
+msgid "Uploading {0}%"
+msgstr "{0}% 업로드 중"
+
+msgid "Usage Limit"
+msgstr "사용량 한도"
+
+msgid "Usage limit cannot be negative"
+msgstr "사용량 한도는 음수일 수 없습니다."
+
+msgid "Use HTML"
+msgstr "HTML 사용"
+
+msgid "Use HTML content for the email response"
+msgstr "이메일 응답에 HTML 콘텐츠 사용"
+
+msgid "User"
+msgstr "사용자"
+
+msgid "User Category"
+msgstr "사용자 카테고리"
+
+msgid "User Field"
+msgstr "사용자 필드"
+
+msgid "User Image"
+msgstr "사용자 이미지"
+
+msgid "User Input"
+msgstr "사용자 입력"
+
+msgid "User Skill"
+msgstr "사용자 기술"
+
+msgid "User does not have permission to access this user's profile details."
+msgstr "사용자는 이 사용자의 프로필 세부정보에 액세스할 수 있는 권한이 없습니다."
+
+msgid "User {0} has reported the job post {1}"
+msgstr "사용자 {0}님이 채용 공고 {1}을(를) 신고했습니다."
+
+msgid "Username"
+msgstr "사용자 이름"
+
+msgid "Users"
+msgstr "사용자"
+
+msgid "Users Response"
+msgstr "사용자 응답"
+
+msgid "Valid email and name required"
+msgstr "유효한 이메일과 이름이 필요합니다"
+
+msgid "Value"
+msgstr "값"
+
+msgid "Value Change"
+msgstr "가치 변화"
+
+msgid "Video Embed Link"
+msgstr "비디오 삽입 링크"
+
+msgid "Video Statistics"
+msgstr "비디오 통계"
+
+msgid "View Applications"
+msgstr "애플리케이션 보기"
+
+msgid "View Certificate"
+msgstr "인증서 보기"
+
+msgid "View Resume"
+msgstr "이력서 보기"
+
+msgid "View all feedback"
+msgstr "모든 피드백 보기"
+
+msgid "Violet"
+msgstr "제비꽃"
+
+msgid "Visit Website"
+msgstr "웹사이트 방문"
+
+msgid "Visit the following link to view your "
+msgstr "다음 링크를 방문하여 귀하의"
+
+msgid "Visit your batch"
+msgstr "배치를 방문하세요"
+
+msgid "Volunteering or Internship"
+msgstr "자원봉사 또는 인턴십"
+
+msgid "Watch Time"
+msgstr "시청 시간"
+
+msgid "Watch Time (mins)"
+msgstr "시청 시간(분)"
+
+msgid "We are pleased to inform you that you have been enrolled in our upcoming batch. Congratulations!"
+msgstr "귀하가 다가오는 배치에 등록되었음을 알려드리게 되어 기쁘게 생각합니다. 축하해요!"
+
+msgid "We have a limited number of seats, and they won't be available for long!"
+msgstr "좌석 수가 제한되어 있어 오랫동안 이용 가능하지 않습니다!"
+
+msgid "We noticed that you started enrolling in the"
+msgstr "귀하께서 에 등록을 시작하신 것을 확인했습니다."
+
+msgid "Web Page"
+msgstr "웹페이지"
+
+msgid "Web page added to sidebar"
+msgstr "사이드바에 웹페이지가 추가됨"
+
+msgid "Wednesday"
+msgstr "수요일"
+
+msgid "Welcome to {0}!"
+msgstr "{0}에 오신 것을 환영합니다!"
+
+msgid "What are Instructor Notes?"
+msgstr "강사 노트란 무엇입니까?"
+
+msgid "What best describes your role?"
+msgstr "귀하의 역할을 가장 잘 설명하는 것은 무엇입니까?"
+
+msgid "What is your use case for Frappe Learning?"
+msgstr "Frappe Learning의 사용 사례는 무엇입니까?"
+
+msgid "When a course gets submitted for review, it will be listed here."
+msgstr "심사를 위해 과정이 제출되면 여기에 나열됩니다."
+
+msgid "Where did you hear about us?"
+msgstr "우리에 대해 어디서 들었습니까?"
+
+msgid "With this certification, you can now showcase your updated skills and share your achievement with your colleagues and on LinkedIn. To access your certificate, please click on the link provided below. Make sure you are logged in to the portal."
+msgstr "이제 이 인증을 통해 귀하의 업데이트된 기술을 선보이고 귀하의 성과를 동료 및 LinkedIn에서 공유할 수 있습니다. 인증서에 액세스하려면 아래 제공된 링크를 클릭하세요. 포털에 로그인되어 있는지 확인하세요."
+
+msgid "Work"
+msgstr "직장"
+
+msgid "Work Environment"
+msgstr "직장 환경"
+
+msgid "Work Experience"
+msgstr "직장 경험"
+
+msgid "Work Experience Details"
+msgstr "직장 경험 세부 정보"
+
+msgid "Work Mode"
+msgstr "작업 모드"
+
+msgid "Write a Review"
+msgstr "리뷰 작성"
+
+msgid "Write your answer here"
+msgstr "답변을 여기에 작성하세요"
+
+msgid "Yellow"
+msgstr "노란색"
+
+msgid "You already have an evaluation on {0} at {1} for the course {2}."
+msgstr "귀하는 이미 {0}, {1}에서 {2} 과정에 대한 평가를 받았습니다."
+
+msgid "You are already certified for this course. Click on the card below to open your certificate."
+msgstr "귀하는 이미 이 과정에 대한 인증을 받았습니다. 인증서를 열려면 아래 카드를 클릭하세요."
+
+msgid "You are already enrolled for this batch."
+msgstr "이 배치에 이미 등록되어 있습니다."
+
+msgid "You are already enrolled for this course."
+msgstr "이 과정에 이미 등록되어 있습니다."
+
+msgid "You are not authorized to view the assessments of this batch."
+msgstr "이 배치의 평가를 볼 권한이 없습니다."
+
+msgid "You are not authorized to view the chart data of this batch."
+msgstr "이 배치의 차트 데이터를 볼 권한이 없습니다."
+
+msgid "You are not authorized to view the details of this program."
+msgstr "이 프로그램의 세부 정보를 볼 권한이 없습니다."
+
+msgid "You are not authorized to view the discussion replies for this topic."
+msgstr "이 주제에 대한 토론 답변을 볼 권한이 없습니다."
+
+msgid "You are not authorized to view the discussion topics for this item."
+msgstr "이 항목에 대한 토론 주제를 볼 권한이 없습니다."
+
+msgid "You are not authorized to view the question details."
+msgstr " 질문 세부정보를 볼 권한이 없습니다."
+
+msgid "You are not authorized to view the students of this batch."
+msgstr "이 배치의 학생을 볼 권한이 없습니다."
+
+msgid "You are not enrolled in this course."
+msgstr "귀하는 이 강좌에 등록되어 있지 않습니다."
+
+msgid "You are not enrolled in this course. Please enroll to access this lesson."
+msgstr "귀하는 이 강좌에 등록되어 있지 않습니다. 이 강의에 액세스하려면 등록하세요."
+
+msgid "You are not permitted to access this page."
+msgstr "이 페이지에 액세스할 수 없습니다."
+
+msgid "You can also copy-paste following link in your browser"
+msgstr "브라우저에서 다음 링크를 복사하여 붙여넣을 수도 있습니다."
+
+msgid "You can attempt this quiz {0}."
+msgstr "이 퀴즈 {0}를 시도할 수 있습니다."
+
+msgid "You can do better,"
+msgstr "더 잘할 수 있습니다."
+
+msgid "You can find their resume attached to this email."
+msgstr "이 이메일에 첨부된 이력서를 찾을 수 있습니다."
+
+msgid "You can only upload {0} files"
+msgstr "파일 {0}개만 업로드할 수 있습니다."
+
+msgid "You cannot change the availability when the site is being updated."
+msgstr "사이트가 업데이트되는 동안 가용성을 변경할 수 없습니다."
+
+msgid "You cannot change the roles in read-only mode."
+msgstr "읽기 전용 모드에서는 역할을 변경할 수 없습니다."
+
+msgid "You cannot enroll in an unpublished course."
+msgstr "게시되지 않은 과정에 등록할 수 없습니다."
+
+msgid "You cannot enroll in an unpublished program."
+msgstr "게시되지 않은 프로그램에 등록할 수 없습니다."
+
+msgid "You cannot enroll in this course as self-learning is disabled. Please contact the Administrator."
+msgstr "자습이 비활성화되어 있으므로 이 과정에 등록할 수 없습니다. 관리자에게 문의하십시오."
+
+msgid "You cannot schedule evaluations after {0}."
+msgstr "{0} 이후에는 평가를 예약할 수 없습니다."
+
+msgid "You cannot schedule evaluations for past slots."
+msgstr "이전 슬롯에 대한 평가를 예약할 수 없습니다."
+
+msgid "You do not have access to this batch."
+msgstr "이 배치에 액세스할 수 없습니다."
+
+msgid "You do not have access to this course."
+msgstr "이 강좌에 액세스할 수 없습니다."
+
+msgid "You do not have permission to access announcements for this batch."
+msgstr "이 배치에 대한 공지 사항에 액세스할 권한이 없습니다."
+
+msgid "You do not have permission to access badges."
+msgstr "배지에 액세스할 권한이 없습니다."
+
+msgid "You do not have permission to access heatmap data."
+msgstr "히트맵 데이터에 액세스할 권한이 없습니다."
+
+msgid "You do not have permission to access lesson completion stats."
+msgstr "강의 완료 통계에 액세스할 권한이 없습니다."
+
+msgid "You do not have permission to access this course's assessment data."
+msgstr " 이 강좌의 평가 데이터에 액세스할 수 있는 권한이 없습니다."
+
+msgid "You do not have permission to access this course's progress data."
+msgstr "이 강좌의 진행 데이터에 액세스할 수 있는 권한이 없습니다."
+
+msgid "You do not have permission to access this page."
+msgstr "이 페이지에 액세스할 수 있는 권한이 없습니다."
+
+msgid "You do not have permission to cancel this evaluation."
+msgstr "이 평가를 취소할 수 있는 권한이 없습니다."
+
+msgid "You do not have permission to create a live class."
+msgstr "라이브 클래스를 만들 수 있는 권한이 없습니다."
+
+msgid "You do not have permission to delete this batch."
+msgstr "이 배치를 삭제할 권한이 없습니다."
+
+msgid "You do not have permission to delete this chapter."
+msgstr "이 장을 삭제할 권한이 없습니다."
+
+msgid "You do not have permission to delete this course."
+msgstr "이 강좌를 삭제할 권한이 없습니다."
+
+msgid "You do not have permission to delete this lesson."
+msgstr " 이 수업을 삭제합니다."
+
+msgid "You do not have permission to export this course."
+msgstr "이 강좌를 내보낼 권한이 없습니다."
+
+msgid "You do not have permission to modify this chapter."
+msgstr "이 장을 수정할 권한이 없습니다."
+
+msgid "You do not have permission to modify this lesson."
+msgstr "이 수업을 수정할 권한이 없습니다."
+
+msgid "You do not have permission to modify this role."
+msgstr "이 역할을 수정할 권한이 없습니다."
+
+msgid "You do not have permission to send confirmation emails for this enrollment."
+msgstr "이 등록에 대한 확인 이메일을 보낼 권한이 없습니다."
+
+msgid "You do not have permission to set up calendar events for this evaluation."
+msgstr "이 평가를 위해 캘린더 이벤트를 설정할 권한이 없습니다."
+
+msgid "You do not have permission to update meta tags."
+msgstr "메타 태그를 업데이트할 권한이 없습니다."
+
+msgid "You do not have permission to update this submission."
+msgstr "이 제출물을 업데이트할 권한이 없습니다."
+
+msgid "You don't have any notifications."
+msgstr "알림이 없습니다."
+
+msgid "You got {0}% correct answers with a score of {1} out of {2}"
+msgstr "{2}점 만점에 {1}점으로 {0}% 정답을 얻었습니다."
+
+msgid "You have a live class scheduled tomorrow. Please be prepared and be on time for the session."
+msgstr "내일 실시간 수업이 예정되어 있습니다. 세션을 준비하고 시간을 준수하시기 바랍니다."
+
+msgid "You have already applied for this job."
+msgstr "이미 이 작업에 지원하셨습니다."
+
+msgid "You have already exceeded the maximum number of attempts allowed for this quiz."
+msgstr "이미 이 퀴즈에 허용된 최대 시도 횟수를 초과했습니다."
+
+msgid "You have already purchased the certificate for this course."
+msgstr "이 과정에 대한 인증서를 이미 구입하셨습니다."
+
+msgid "You have already reviewed this course"
+msgstr "이 과정을 이미 검토하셨습니다."
+
+msgid "You have applied"
+msgstr "지원하셨습니다"
+
+msgid "You have been enrolled in this batch"
+msgstr "이 배치에 등록되었습니다"
+
+msgid "You have been enrolled in this course"
+msgstr "이 과정에 등록되었습니다"
+
+msgid "You have exceeded the maximum number of attempts ({0}) for this quiz"
+msgstr "이 퀴즈에 대한 최대 시도 횟수({0})를 초과했습니다."
+
+msgid "You have got a score of {0} for the quiz {1}"
+msgstr "점수는 퀴즈 {0} {1}"
+
+msgid "You have not completed the course yet."
+msgstr "아직 과정을 완료하지 않았습니다."
+
+msgid "You have not received any certificates yet."
+msgstr "아직 인증서를 받지 못했습니다."
+
+msgid "You have opted to be notified for this course. You will receive an email when the course becomes available."
+msgstr "이 과정에 대한 알림을 받도록 선택했습니다. 강좌가 공개되면 이메일을 받게 됩니다."
+
+msgid "You have {0} upcoming {1} and {2} {3} scheduled."
+msgstr "예정된 {0}개의 {1} 및 {2}개의 {3}이 예정되어 있습니다."
+
+msgid "You have {0} upcoming {1}."
+msgstr "{0}개의 예정된 {1}이(가) 있습니다."
+
+msgid "You have {0} {1} scheduled."
+msgstr "{0} {1}이(가) 예정되어 있습니다."
+
+msgid "You must be a Moderator or Batch Evaluator to enroll users in a batch."
+msgstr "사용자를 일괄 등록하려면 중재자 또는 배치 평가자여야 합니다."
+
+msgid "You must be an Admin to assign badges to users."
+msgstr "사용자에게 배지를 할당하려면 관리자여야 합니다."
+
+msgid "You must be enrolled in the course to submit a review"
+msgstr "리뷰를 제출하려면 과정에 등록해야 합니다."
+
+msgid "You need to complete the payment for this course before enrolling."
+msgstr "완료해야 합니다 등록하기 전에 이 강좌에 대한 결제를 완료해야 합니다."
+
+msgid "You need to login first to enroll for this course"
+msgstr "이 강좌에 등록하려면 먼저 로그인해야 합니다."
+
+msgid "You rock,"
+msgstr "정말 훌륭합니다."
+
+msgid "You will have to complete the quiz to continue the video"
+msgstr "동영상을 계속하려면 퀴즈를 완료해야 합니다."
+
+msgid "You will have to get {0}% correct answers in order to pass the quiz."
+msgstr "퀴즈를 통과하려면 {0}%의 정답을 얻어야 합니다."
+
+msgid "You're all caught up! Check back later for updates."
+msgstr "모두 따라잡았습니다! 나중에 다시 업데이트를 확인하세요."
+
+msgid "You've applied to become a mentor for this course. Your request is currently under review."
+msgstr "이 과정의 멘토가 되기 위해 신청하셨습니다. 귀하의 요청은 현재 검토 중입니다."
+
+msgid "You've successfully submitted the assignment."
+msgstr "과제를 성공적으로 제출했습니다."
+
+msgid "YouTube Video URL"
+msgstr "YouTube 비디오 URL"
+
+msgid "YouTube Video will appear at the top of the lesson."
+msgstr "YouTube 비디오가 강의 상단에 나타납니다."
+
+msgid "Your Account has been successfully created!"
+msgstr "귀하의 계정이 성공적으로 생성되었습니다!"
+
+msgid "Your Output"
+msgstr "귀하의 출력"
+
+msgid "Your batch {0} is starting tomorrow"
+msgstr "귀하의 배치 {0}이(가) 내일 시작됩니다"
+
+msgid "Your browser does not support the video tag."
+msgstr "귀하의 브라우저가 비디오 태그를 지원하지 않습니다."
+
+msgid "Your calendar is set."
+msgstr "귀하의 달력이 설정되었습니다."
+
+msgid "Your class on {0} is today"
+msgstr "귀하의 {0} 수업이 오늘입니다"
+
+msgid "Your enrollment in {{ batch_name }} is confirmed"
+msgstr "귀하의 {{ 배치_name }} 등록이 확인되었습니다"
+
+msgid "Your evaluation for the course {0} has been scheduled on {1} at {2} ({3} time)."
+msgstr "강좌에 대한 평가 {0}이(가) {1} {2}({3}시)에 예정되어 있습니다."
+
+msgid "Your evaluation for the course {0} has been scheduled on {1} at {2} {3}."
+msgstr "{0} 과정에 대한 평가가 {1} {2} {3}에 예약되었습니다."
+
+msgid "Your evaluation slot has been booked"
+msgstr "평가 시간이 예약되었습니다"
+
+msgid "Your evaluator is {0}"
+msgstr "평가자는 {0}입니다"
+
+msgid "Your learning streak counts the number of days in a row you’ve kept up your learning, whether it’s a lesson, quiz, or assignment. Don’t worry, weekends don’t break your streak."
+msgstr "연속 학습은 수업, 퀴즈, 과제 등 학습을 계속한 일수를 계산합니다. 걱정하지 마세요. 주말에도 연승이 깨지지 않습니다."
+
+msgid "Your request to join us as a mentor for the course"
+msgstr "강좌 멘토로 참여해 달라는 귀하의 요청"
+
+msgid "Your submission has been successfully saved. The instructor will review and grade it shortly, and you'll be notified of your final result."
+msgstr "제출물이 성공적으로 저장되었습니다. 강사가 곧 검토하고 채점하면 최종 결과가 통보됩니다."
+
+msgid "Zen Mode"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "Zoom Account"
+msgstr "Zoom 계정"
+
+msgid "Zoom Account created successfully"
+msgstr "Zoom 계정이 성공적으로 생성되었습니다"
+
+msgid "Zoom Account updated successfully"
+msgstr "Zoom 계정이 성공적으로 업데이트되었습니다"
+
+msgid "Zoom Settings"
+msgstr "Zoom 설정"
+
+msgid "Zoom account deleted successfully"
+msgstr "Zoom 계정이 성공적으로 삭제되었습니다"
+
+msgid "activities"
+msgstr "활동"
+
+msgid "activity"
+msgstr "활동"
+
+msgid "and"
+msgstr "및"
+
+msgid "and then 'Add to Home Screen'"
+msgstr "그런 다음 '홈 화면에 추가'"
+
+msgid "applicant"
+msgstr "지원자"
+
+msgid "applicants"
+msgstr "지원자"
+
+msgid "at {0} minutes"
+msgstr "{0}분"
+
+msgid "average rating"
+msgstr "평균 평가"
+
+msgid "but didn’t complete your payment"
+msgstr "결제가 완료되지 않았습니다"
+
+msgid "cancel your application"
+msgstr "신청 취소"
+
+msgid "certificate"
+msgstr "인증서"
+
+msgid "certificates"
+msgstr "인증서"
+
+msgid "completed"
+msgstr "완료"
+
+msgid "course"
+msgstr "강좌"
+
+msgid "courses"
+msgstr "강좌"
+
+msgid "day streak"
+msgstr "일 연속"
+
+msgid "days"
+msgstr "일"
+
+msgid "e.g. IST, UTC, GMT..."
+msgstr "예: IST, UTC, GMT..."
+
+msgid "enrolled student"
+msgstr "등록 학생"
+
+msgid "enrolled students"
+msgstr "등록 학생"
+
+msgid "evaluation"
+msgstr "평가"
+
+msgid "evaluations"
+msgstr "평가"
+
+msgid "has been"
+msgstr "이후"
+
+msgid "in the last"
+msgstr "최근"
+
+msgid "jane@example.com"
+msgstr ""
+
+msgid "lesson"
+msgstr "수업"
+
+msgid "lessons"
+msgstr ""
+
+msgid "live class"
+msgstr "라이브 수업"
+
+msgid "live classes"
+msgstr "라이브 수업"
+
+msgid "match"
+msgstr "일치"
+
+msgid "matches"
+msgstr "일치"
+
+msgid "member"
+msgstr "회원"
+
+msgid "members"
+msgstr "회원"
+
+msgid "minutes"
+msgstr "분"
+
+msgid "of"
+msgstr ""
+
+msgid "others"
+msgstr "기타"
+
+msgid "question_detail"
+msgstr "질문_세부사항"
+
+msgid "rating"
+msgstr "평가"
+
+msgid "saving..."
+msgstr "절약..."
+
+msgid "students"
+msgstr "재학생"
+
+msgid "that might interest you!"
+msgstr "그게 당신에게 흥미로울 것 같아요!"
+
+msgid "to close"
+msgstr "닫다"
+
+msgid "to navigate"
+msgstr "탐색하다"
+
+msgid "to select"
+msgstr "선택하다"
+
+msgid "to view your feedback."
+msgstr "피드백을 보려면"
+
+msgid "weeks"
+msgstr "주"
+
+msgid "you can"
+msgstr "당신은 할 수"
+
+msgid "{0} Assignments"
+msgstr "{0} 과제"
+
+msgid "{0} Exercises"
+msgstr "{0} 연습"
+
+msgid "{0} Quizzes"
+msgstr "{0} 퀴즈"
+
+msgid "{0} Settings not found"
+msgstr "{0} 설정을 찾을 수 없습니다."
+
+msgid "{0} Submissions"
+msgstr "{0} 제출물"
+
+msgid "{0} has applied for the job position {1}"
+msgstr "{0}님이 {1} 직위에 지원했습니다."
+
+msgid "{0} has published a new batch {1}"
+msgstr "{0}님이 새 배치 {1}을(를) 게시했습니다."
+
+msgid "{0} has published a new course {1}"
+msgstr "{0}님이 새 강좌 {1}를 게시했습니다."
+
+msgid "{0} has reported a job post for the following reason."
+msgstr "{0}님이 다음과 같은 이유로 채용 공고를 신고했습니다."
+
+msgid "{0} has submitted the assignment {1}"
+msgstr "{0}님이 {1} 과제를 제출했습니다."
+
+msgid "{0} is already a mentor for course {1}"
+msgstr "{0}은(는) 이미 {1} 과정의 멘토입니다."
+
+msgid "{0} is already certified for the batch {1}"
+msgstr "{0}은(는) 이미 {1} 배치에 대해 인증되었습니다."
+
+msgid "{0} is already certified for the course {1}"
+msgstr "{0}은(는) 이미 {1} 과정에 대한 인증을 받았습니다."
+
+msgid "{0} is your evaluator"
+msgstr "{0}은(는) 평가자입니다"
+
+msgid "{0} mentioned you in a comment"
+msgstr "{0}님이 댓글에서 나를 멘션했습니다."
+
+msgid "{0} mentioned you in a comment in your batch."
+msgstr "{0}님이 배치의 댓글에서 귀하를 멘션했습니다."
+
+msgid "{0} mentioned you in a comment in {1}"
+msgstr "{0}님이 {1}의 댓글에서 귀하를 멘션했습니다."
+
+msgid "{0} not found"
+msgstr "{0}을(를) 찾을 수 없습니다"
+
+msgid "{0} {1} Jobs"
+msgstr "{0} {1} 채용 정보"
+
+msgid "{} Active"
+msgstr "{} 활성"
+
+msgid "{} Completed"
+msgstr "{} 완료됨"
+
+msgid "{} Enrolled"
+msgstr "{} 등록됨"
+
+msgid "{} Granted"
+msgstr "{} 승인됨"
+
+msgid "{} Passed"
+msgstr "{} 통과됨"
+
+msgid "{} Published"
+msgstr "{} 게시됨"
+
