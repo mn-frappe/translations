@@ -20795,7 +20795,7 @@ msgstr "Гамма"
 
 #: erpnext/projects/doctype/project/project.js:102
 msgid "Gantt Chart"
-msgstr "Гант диаграм"
+msgstr "Гант диаграмм"
 
 #: erpnext/config/projects.py:28
 msgid "Gantt chart of all tasks."

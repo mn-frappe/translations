@@ -211,7 +211,7 @@ msgstr "{0} хүртэл 1 мөр"
 
 #: frappe/tests/test_utils.py:901
 msgid "1 second ago"
-msgstr "1 секундын өмнө"
+msgstr "1 секундийн өмнө"
 
 #: frappe/public/js/frappe/utils/pretty_date.js:64
 #: frappe/tests/test_utils.py:908
@@ -1049,7 +1049,7 @@ msgstr "Active Directory"
 #. Label of the active_domains (Table) field in DocType 'Domain Settings'
 #: frappe/core/doctype/domain_settings/domain_settings.json
 msgid "Active Domains"
-msgstr "Идэвхтэй домэйнууд"
+msgstr "Идэвхтэй доменууд"
 
 #. Label of the active_sessions (Table) field in DocType 'User'
 #. Label of the active_sessions (Int) field in DocType 'System Health Report'
@@ -1133,7 +1133,7 @@ msgstr "Хяналтын самбарт карт нэмнэ үү"
 
 #: frappe/public/js/frappe/views/reports/query_report.js:211
 msgid "Add Chart to Dashboard"
-msgstr "Хяналтын самбарт диаграм нэмэх"
+msgstr "Хяналтын самбарт диаграмм нэмэх"
 
 #: frappe/public/js/frappe/views/treeview.js:310
 msgid "Add Child"
@@ -1643,7 +1643,7 @@ msgstr "Үндэслэсэн нэгтгэх функц"
 
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.py:410
 msgid "Aggregate Function field is required to create a dashboard chart"
-msgstr "Хяналтын самбарын диаграмыг үүсгэхийн тулд нэгтгэх функцын талбар шаардлагатай"
+msgstr "Хяналтын самбарын диаграммыг үүсгэхийн тулд нэгтгэх функцын талбар шаардлагатай"
 
 #. Option for the 'Type' (Select) field in DocType 'Notification Log'
 #: frappe/desk/doctype/notification_log/notification_log.json
@@ -2300,7 +2300,7 @@ msgstr "Нэргүй хариултууд"
 
 #: frappe/public/js/frappe/request.js:187
 msgid "Another transaction is blocking this one. Please try again in a few seconds."
-msgstr "Өөр нэг гүйлгээ үүнийг хааж байна. Хэдэн секундын дараа дахин оролдоно уу."
+msgstr "Өөр нэг гүйлгээ үүнийг хааж байна. Хэдэн секундийн дараа дахин оролдоно уу."
 
 #: frappe/model/rename_doc.py:379
 msgid "Another {0} with name {1} exists, select another name"
@@ -4515,7 +4515,7 @@ msgstr "Өөрчлөлтүүд"
 
 #: frappe/email/doctype/email_domain/email_domain.js:5
 msgid "Changing any setting will reflect on all the email accounts associated with this domain."
-msgstr "Аливаа тохиргоог өөрчлөх нь энэ домэйнтэй холбоотой бүх имэйл бүртгэлд тусгагдах болно."
+msgstr "Аливаа тохиргоог өөрчлөх нь энэ доментэй холбоотой бүх имэйл бүртгэлд тусгагдах болно."
 
 #: frappe/core/doctype/system_settings/system_settings.js:67
 msgid "Changing rounding method on site with data can result in unexpected behaviour."
@@ -6583,7 +6583,7 @@ msgstr "Хяналтын самбарын график"
 #. Name of a DocType
 #: frappe/desk/doctype/dashboard_chart_field/dashboard_chart_field.json
 msgid "Dashboard Chart Field"
-msgstr "Хяналтын самбарын диаграмын талбар"
+msgstr "Хяналтын самбарын диаграммын талбар"
 
 #. Name of a DocType
 #: frappe/desk/doctype/dashboard_chart_link/dashboard_chart_link.json
@@ -6593,7 +6593,7 @@ msgstr "Хяналтын самбарын график холбоос"
 #. Name of a DocType
 #: frappe/desk/doctype/dashboard_chart_source/dashboard_chart_source.json
 msgid "Dashboard Chart Source"
-msgstr "Хяналтын самбарын диаграмын эх сурвалж"
+msgstr "Хяналтын самбарын диаграммын эх сурвалж"
 
 #. Name of a role
 #: frappe/desk/doctype/dashboard/dashboard.json
@@ -8962,7 +8962,7 @@ msgstr "Имэйл хаягууд"
 #: frappe/email/doctype/email_domain/email_domain.json
 #: frappe/workspace_sidebar/email.json
 msgid "Email Domain"
-msgstr "Имэйл домэйн"
+msgstr "Имэйл домен"
 
 #. Name of a DocType
 #: frappe/email/doctype/email_flag_queue/email_flag_queue.json
@@ -11552,7 +11552,7 @@ msgstr "GNU нийтийн нийтийн лиценз"
 #: frappe/desk/doctype/form_tour/form_tour.json
 #: frappe/public/js/frappe/views/gantt/gantt_view.js:10
 msgid "Gantt"
-msgstr "Гант диаграмм"
+msgstr "Гант диаграммм"
 
 #: frappe/public/js/frappe/list/base_list.js:206
 msgid "Gantt View"
@@ -12011,7 +12011,7 @@ msgstr "Төрөлөөр нь бүлэглэх"
 
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.py:408
 msgid "Group By field is required to create a dashboard chart"
-msgstr "Хяналтын самбарын диаграмыг үүсгэхийн тулд Бүлэглэх талбар шаардлагатай"
+msgstr "Хяналтын самбарын диаграммыг үүсгэхийн тулд Бүлэглэх талбар шаардлагатай"
 
 #: frappe/database/query.py:1301
 msgid "Group By must be a string"
@@ -12903,7 +12903,7 @@ msgstr "Хэрэв тохируулаагүй бол валютын нарийв
 #. Description of the 'Roles' (Table) field in DocType 'Dashboard Chart'
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.json
 msgid "If set, only user with these roles can access this chart. If not set, DocType or Report permissions will be used."
-msgstr "Хэрэв тохируулсан бол зөвхөн эдгээр үүрэг бүхий хэрэглэгч энэ диаграмд ​​хандах боломжтой. Хэрэв тохируулаагүй бол DocType эсвэл Report зөвшөөрлийг ашиглана."
+msgstr "Хэрэв тохируулсан бол зөвхөн эдгээр үүрэг бүхий хэрэглэгч энэ диаграммд ​​хандах боломжтой. Хэрэв тохируулаагүй бол DocType эсвэл Report зөвшөөрлийг ашиглана."
 
 #: frappe/core/page/permission_manager/permission_manager_help.html:83
 msgid "If the user enables the mask property for the phone number field, the value will be displayed in a masked format (e.g., 811XXXXXXX)."
@@ -20060,7 +20060,7 @@ msgstr "Багцыг хавсаргана уу"
 
 #: frappe/utils/dashboard.py:58
 msgid "Please check the filter values set for Dashboard Chart: {}"
-msgstr "Хяналтын самбар диаграммд тохируулсан шүүлтүүрийн утгыг шалгана уу: {}"
+msgstr "Хяналтын самбар диаграмммд тохируулсан шүүлтүүрийн утгыг шалгана уу: {}"
 
 #: frappe/model/base_document.py:1079
 msgid "Please check the value of \"Fetch From\" set for field {0}"
@@ -20108,7 +20108,7 @@ msgstr "Эхлээд карт үүсгэнэ үү"
 
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.js:42
 msgid "Please create chart first"
-msgstr "Эхлээд диаграмм үүсгэнэ үү"
+msgstr "Эхлээд диаграммм үүсгэнэ үү"
 
 #: frappe/desk/form/meta.py:193
 msgid "Please delete the field from {0} or add the required doctype."
@@ -24705,7 +24705,7 @@ msgstr "Диаграмыг тохируулах"
 #. Description of the 'Chart Options' (Code) field in DocType 'Dashboard'
 #: frappe/desk/doctype/dashboard/dashboard.json
 msgid "Set Default Options for all charts on this Dashboard (Ex: \"colors\": [\"#d1d8dd\", \"#ff5858\"])"
-msgstr "Энэ хяналтын самбар дээрх бүх диаграммд өгөгдмөл сонголтуудыг тохируулах (Жишээ нь: \"өнгө\": [\"#d1d8dd\", \"#ff5858\"])"
+msgstr "Энэ хяналтын самбар дээрх бүх диаграмммд өгөгдмөл сонголтуудыг тохируулах (Жишээ нь: \"өнгө\": [\"#d1d8dd\", \"#ff5858\"])"
 
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.js:467
 #: frappe/desk/doctype/number_card/number_card.js:379
@@ -25835,7 +25835,7 @@ msgstr "Захиалгат хугацаа заана уу, үндсэн хуга
 #. 'Web Form'
 #: frappe/website/doctype/web_form/web_form.json
 msgid "Specify the domains or origins that are permitted to embed this form. Enter one domain per line (e.g., https://example.com). If no domains are specified, the form can only be embedded on the same origin."
-msgstr "Энэ маягтыг оруулахыг зөвшөөрсөн домэйн эсвэл гарал үүслийг зааж өгнө үү. Нэг мөрөнд нэг домэйн оруулна уу (жишээ нь: https://example.com). Хэрэв ямар ч домэйн заагаагүй бол маягтыг зөвхөн нэг эх сурвалж дээр суулгаж болно."
+msgstr "Энэ маягтыг оруулахыг зөвшөөрсөн домен эсвэл гарал үүслийг зааж өгнө үү. Нэг мөрөнд нэг домен оруулна уу (жишээ нь: https://example.com). Хэрэв ямар ч домен заагаагүй бол маягтыг зөвхөн нэг эх сурвалж дээр суулгаж болно."
 
 #. Label of the splash_image (Attach Image) field in DocType 'Website Settings'
 #: frappe/website/doctype/website_settings/website_settings.json
@@ -26245,7 +26245,7 @@ msgstr "Дэд домайныг erpnext.com өгсөн"
 #. Label of the subdomain (Small Text) field in DocType 'Website Settings'
 #: frappe/website/doctype/website_settings/website_settings.json
 msgid "Subdomain"
-msgstr "Дэд домэйн"
+msgstr "Дэд домен"
 
 #. Label of the subject (Data) field in DocType 'Auto Repeat'
 #. Label of the subject (Small Text) field in DocType 'Activity Log'
@@ -27372,7 +27372,7 @@ msgstr "Дараагийн аялал нь хэрэглэгчийн зогсоо
 #. Description of the 'Request Timeout' (Int) field in DocType 'Webhook'
 #: frappe/integrations/doctype/webhook/webhook.json
 msgid "The number of seconds until the request expires"
-msgstr "Хүсэлтийн хугацаа дуусах хүртэл секундын тоо"
+msgstr "Хүсэлтийн хугацаа дуусах хүртэл секундийн тоо"
 
 #: frappe/www/update-password.html:101
 msgid "The password of your account has expired."
@@ -27667,7 +27667,7 @@ msgstr "Хэрэв үүнийг тохируулсан бол энэ карты�
 #. Description of the 'Is Public' (Check) field in DocType 'Dashboard Chart'
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.json
 msgid "This chart will be available to all Users if this is set"
-msgstr "Хэрэв үүнийг тохируулсан бол энэ диаграм нь бүх хэрэглэгчдэд нээлттэй байх болно"
+msgstr "Хэрэв үүнийг тохируулсан бол энэ диаграмм нь бүх хэрэглэгчдэд нээлттэй байх болно"
 
 #: frappe/custom/doctype/customize_form/customize_form.js:225
 msgid "This doctype has no orphan fields to trim"
@@ -27997,7 +27997,7 @@ msgstr "Сервер дээр QR кодын дүрсийг хадгалах ху
 
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.py:413
 msgid "Time series based on is required to create a dashboard chart"
-msgstr "Хяналтын самбарын диаграмыг бий болгохын тулд цаг хугацааны цуваа дээр үндэслэсэн байх шаардлагатай"
+msgstr "Хяналтын самбарын диаграммыг бий болгохын тулд цаг хугацааны цуваа дээр үндэслэсэн байх шаардлагатай"
 
 #: frappe/public/js/frappe/form/controls/time.js:124
 msgid "Time {0} must be in format: {1}"
@@ -30903,7 +30903,7 @@ msgstr "Ажлын талбар <b>{0}</b> байхгүй байна"
 #. Name of a DocType
 #: frappe/desk/doctype/workspace_chart/workspace_chart.json
 msgid "Workspace Chart"
-msgstr "Ажлын талбайн диаграм"
+msgstr "Ажлын талбайн диаграмм"
 
 #. Name of a DocType
 #: frappe/desk/doctype/workspace_custom_block/workspace_custom_block.json
@@ -31644,7 +31644,7 @@ msgstr "Таны бүртгэл устгагдсан"
 
 #: frappe/auth.py:522
 msgid "Your account has been locked and will resume after {0} seconds"
-msgstr "Таны бүртгэл түгжигдсэн бөгөөд {0} секундын дараа үргэлжлүүлэх болно"
+msgstr "Таны бүртгэл түгжигдсэн бөгөөд {0} секундийн дараа үргэлжлүүлэх болно"
 
 #: frappe/desk/form/assign_to.py:279
 msgid "Your assignment on {0} {1} has been removed by {2}"
@@ -32744,7 +32744,7 @@ msgstr "{0} цагийн өмнө"
 
 #: frappe/website/doctype/web_form/templates/web_form.html:164
 msgid "{0} if you are not redirected within {1} seconds"
-msgstr "Хэрэв таныг {1} секундын дотор дахин чиглүүлэхгүй бол {0}"
+msgstr "Хэрэв таныг {1} секундийн дотор дахин чиглүүлэхгүй бол {0}"
 
 #: frappe/website/doctype/website_settings/website_settings.py:102
 #: frappe/website/doctype/website_settings/website_settings.py:122

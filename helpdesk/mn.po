@@ -182,7 +182,7 @@ msgstr "Тусгай нөхцөл нэмнэ үү"
 
 #: desk/src/pages/home/Home.vue:91
 msgid "Add charts to get started"
-msgstr "Эхлэхийн тулд диаграм нэмнэ үү"
+msgstr "Эхлэхийн тулд диаграмм нэмнэ үү"
 
 #: desk/src/components/Settings/Assignment Rules/AssignmentRulesSection.vue:29
 #: desk/src/components/Settings/Assignment Rules/AssignmentRulesSection.vue:66

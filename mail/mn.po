@@ -264,7 +264,7 @@ msgstr "Энэ URL-д хандах эрхгүй"
 
 #: mail/mail/doctype/mail_settings/mail_settings.js:28
 msgid "Access to GoDaddy’s Domain Management and DNS APIs is restricted to accounts with 10 or more domains or an active Pro Discount Domain Club membership. Please verify that your account meets these requirements before proceeding."
-msgstr "GoDaddy-н Домэйн Менежмент болон DNS API-д хандах эрхийг 10 ба түүнээс дээш домэйн эсвэл идэвхтэй Pro Discount Domain Club гишүүнчлэлтэй бүртгэлээр хязгаарласан. Үргэлжлүүлэхийн өмнө таны бүртгэл эдгээр шаардлагыг хангаж байгаа эсэхийг шалгана уу."
+msgstr "GoDaddy-н Домэйн Менежмент болон DNS API-д хандах эрхийг 10 ба түүнээс дээш домен эсвэл идэвхтэй Pro Discount Domain Club гишүүнчлэлтэй бүртгэлээр хязгаарласан. Үргэлжлүүлэхийн өмнө таны бүртгэл эдгээр шаардлагыг хангаж байгаа эсэхийг шалгана уу."
 
 #. Label of the account (Link) field in DocType 'Mail Signature'
 #. Label of the account (Data) field in DocType 'Mail Account Request'
@@ -281,7 +281,7 @@ msgstr "Дансны хүсэлт"
 
 #: mail/server/doctype/mail_account_request/mail_account_request.py:114
 msgid "Account domain {0} does not match with domain {1}."
-msgstr "{0} дансны домэйн {1} домайнтай таарахгүй байна."
+msgstr "{0} дансны домен {1} домайнтай таарахгүй байна."
 
 #: mail/server/doctype/mail_account_request/mail_account_request.py:175
 msgid "Account is already verified and created."
@@ -439,7 +439,7 @@ msgstr "Star нэмэх"
 
 #: frontend/src/pages/dashboard/DomainView.vue:267
 msgid "Add the following records to your domain's DNS settings. Then click on 'Verify' to complete your domain setup."
-msgstr "Дараах бичлэгүүдийг өөрийн домэйны DNS тохиргоонд нэмнэ үү. Дараа нь \"Баталгаажуулах\" дээр дарж домэйны тохиргоогоо дуусгана уу."
+msgstr "Дараах бичлэгүүдийг өөрийн домены DNS тохиргоонд нэмнэ үү. Дараа нь \"Баталгаажуулах\" дээр дарж домены тохиргоогоо дуусгана уу."
 
 #: frontend/src/components/Modals/AddContactAddressBookModal.vue:31
 msgid "Add to Address Book"
@@ -2111,7 +2111,7 @@ msgstr "DKIM-ийн тодорхойлолт"
 
 #: mail/server/doctype/principal/principal.py:275
 msgid "DKIM Keys can only be rotated for Domain principals."
-msgstr "DKIM түлхүүрүүдийг зөвхөн домэйны үндсэн дээр эргүүлэх боломжтой."
+msgstr "DKIM түлхүүрүүдийг зөвхөн домены үндсэн дээр эргүүлэх боломжтой."
 
 #: mail/server/doctype/principal/principal.py:292
 msgid "DKIM Keys rotated successfully."
@@ -2201,7 +2201,7 @@ msgstr "DNS бүртгэлийг зөвхөн Домэйн захирлууда�
 
 #: mail/server/doctype/principal/principal.py:229
 msgid "DNS Records can only be verified for Domain principals."
-msgstr "DNS бүртгэлийг зөвхөн домэйны захирлуудад баталгаажуулах боломжтой."
+msgstr "DNS бүртгэлийг зөвхөн домены захирлуудад баталгаажуулах боломжтой."
 
 #: mail/server/doctype/principal/principal.py:469
 msgid "DNS Records for principal {0} not found in backend."
@@ -2221,11 +2221,11 @@ msgstr "DNS өөрчлөлтүүд дэлхий даяар тархахад 48 �
 
 #: mail/mail/doctype/mail_settings/mail_settings.js:39
 msgid "DNS provider or token not configured. Please manually add the {0} to the DNS provider for the domain {1}."
-msgstr "DNS үйлчилгээ үзүүлэгч эсвэл токеныг тохируулаагүй байна. {0}-г {1} домэйны DNS үйлчилгээ үзүүлэгч рүү гараар нэмнэ үү."
+msgstr "DNS үйлчилгээ үзүүлэгч эсвэл токеныг тохируулаагүй байна. {0}-г {1} домены DNS үйлчилгээ үзүүлэгч рүү гараар нэмнэ үү."
 
 #: mail/server/doctype/principal/principal.js:62
 msgid "DNS records for the domain {0} are not verified. Please ensure that the DNS records are correctly configured with your DNS provider."
-msgstr "{0} домэйны DNS бүртгэлийг баталгаажуулаагүй байна. DNS бүртгэлүүд таны DNS үйлчилгээ үзүүлэгчтэй зөв тохируулагдсан эсэхийг шалгана уу."
+msgstr "{0} домены DNS бүртгэлийг баталгаажуулаагүй байна. DNS бүртгэлүүд таны DNS үйлчилгээ үзүүлэгчтэй зөв тохируулагдсан эсэхийг шалгана уу."
 
 #: frontend/src/pages/dashboard/DomainView.vue:138
 msgid "DNS records verified."
@@ -2974,20 +2974,20 @@ msgstr "Домэйн тохиргоо шинэчлэгдсэн."
 #: mail/server/doctype/mail_domain_request/mail_domain_request.py:50
 #: mail/server/doctype/mail_domain_request/mail_domain_request.py:90
 msgid "Domain {0} already registered."
-msgstr "{0} домэйн аль хэдийн бүртгэгдсэн байна."
+msgstr "{0} домен аль хэдийн бүртгэгдсэн байна."
 
 #: mail/api/admin.py:20
 msgid "Domain {0} has already been registered."
-msgstr "{0} домэйн аль хэдийн бүртгэгдсэн байна."
+msgstr "{0} домен аль хэдийн бүртгэгдсэн байна."
 
 #: mail/api/account.py:45
 msgid "Domain {0} is not allowed for signup."
-msgstr "{0} домэйнд бүртгүүлэх эрхгүй."
+msgstr "{0} доменд бүртгүүлэх эрхгүй."
 
 #: mail/mail/doctype/mail_settings/mail_settings.py:92
 #: mail/utils/validation.py:101
 msgid "Domain {0} is not verified."
-msgstr "{0} домэйн баталгаажаагүй байна."
+msgstr "{0} домен баталгаажаагүй байна."
 
 #: mail/utils/validation.py:109
 msgid "Domain {0} not found."
@@ -3006,7 +3006,7 @@ msgstr "Домэйн"
 #. 'Mail Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "Domains allowed for signup."
-msgstr "Бүртгүүлэхийг зөвшөөрсөн домэйнууд."
+msgstr "Бүртгүүлэхийг зөвшөөрсөн доменууд."
 
 #: frontend/src/components/AttachmentViewer.vue:107
 msgid "Download"
@@ -3274,7 +3274,7 @@ msgstr "Имэйл хаягуудыг блоклосон."
 
 #: frontend/src/pages/dashboard/DomainView.vue:31
 msgid "Email authentication records that verify your domain and protect outgoing mail from spoofing."
-msgstr "Таны домэйныг баталгаажуулж, гарч буй имэйлийг хуурамчаар үйлдэхээс хамгаалдаг имэйлийн баталгаажуулалтын бүртгэлүүд."
+msgstr "Таны доменыг баталгаажуулж, гарч буй имэйлийг хуурамчаар үйлдэхээс хамгаалдаг имэйлийн баталгаажуулалтын бүртгэлүүд."
 
 #: mail/client/doctype/mail_queue/mail_queue.py:578
 msgid "Email does not have a blob ID."
@@ -3282,7 +3282,7 @@ msgstr "Имэйлд blob ID байхгүй."
 
 #: mail/utils/validation.py:87
 msgid "Email domain {0} does not match with domain {1}."
-msgstr "Имэйл домэйн {0} нь {1} домайнтай таарахгүй байна."
+msgstr "Имэйл домен {0} нь {1} домайнтай таарахгүй байна."
 
 #: mail/api/mail.py:587
 msgid "Email is required to fetch avatar."
@@ -4054,7 +4054,7 @@ msgstr "Хүчээр баталгаажуулж, бүртгэл үүсгэх"
 
 #: mail/server/doctype/mail_domain_request/mail_domain_request.js:21
 msgid "Force Verify and Create Domain"
-msgstr "Хүчээр баталгаажуулж, домэйн үүсгэх"
+msgstr "Хүчээр баталгаажуулж, домен үүсгэх"
 
 #: frontend/src/pages/LoginView.vue:21
 msgid "Forgot password?"
@@ -5010,11 +5010,11 @@ msgstr "Хүргэлтийн горим буруу: {0}"
 
 #: mail/server/doctype/mail_domain_request/mail_domain_request.py:47
 msgid "Invalid domain name"
-msgstr "Хүчингүй домэйн нэр"
+msgstr "Хүчингүй домен нэр"
 
 #: mail/server/doctype/principal/principal.py:193
 msgid "Invalid domain name provided for principal."
-msgstr "Захиралд буруу домэйн нэр өгсөн."
+msgstr "Захиралд буруу домен нэр өгсөн."
 
 #: mail/client/doctype/mail_queue/mail_queue.py:495
 msgid "Invalid file URL: {0}. File URLs must start with '/files/' or '/private/files/'."
@@ -5091,7 +5091,7 @@ msgstr "Хэрэглэгч энэ таниулбарыг устгах эрхтэ
 
 #: mail/server/doctype/dns_record/dns_record.js:34
 msgid "It seems that the DNS provider or token is not configured in the {0}. Please manually add this DNS record to your provider for the root domain."
-msgstr "DNS үйлчилгээ үзүүлэгч эсвэл токеныг {0}-д тохируулаагүй бололтой. Энэ DNS бичлэгийг үндсэн домэйны үйлчилгээ үзүүлэгчдээ гараар нэмнэ үү."
+msgstr "DNS үйлчилгээ үзүүлэгч эсвэл токеныг {0}-д тохируулаагүй бололтой. Энэ DNS бичлэгийг үндсэн домены үйлчилгээ үзүүлэгчдээ гараар нэмнэ үү."
 
 #: frontend/src/pages/MailboxView.vue:31
 msgid "Items in this mailbox will be automatically deleted after 30 days."
@@ -5604,7 +5604,7 @@ msgstr "Мэйл өгөгдөл {0} {1}"
 #. Name of a DocType
 #: mail/server/doctype/mail_domain_request/mail_domain_request.json
 msgid "Mail Domain Request"
-msgstr "Мэйл домэйны хүсэлт"
+msgstr "Мэйл домены хүсэлт"
 
 #. Name of a DocType
 #: mail/client/doctype/mail_exchange/mail_exchange.json
@@ -7361,7 +7361,7 @@ msgstr "Хувийн"
 #. Name of a DocType
 #: mail/mail/doctype/personal_signup_domain/personal_signup_domain.json
 msgid "Personal Signup Domain"
-msgstr "Хувийн бүртгэлийн домэйн"
+msgstr "Хувийн бүртгэлийн домен"
 
 #. Label of the phone (Data) field in DocType 'Contact Card'
 #: mail/client/doctype/contact_card/contact_card.json
@@ -7497,11 +7497,11 @@ msgstr "DNS үйлчилгээ үзүүлэгчийн хэрэглэгчийн �
 
 #: mail/mail/doctype/mail_settings/mail_settings.py:40
 msgid "Please set the Root Domain Name before configuring the DNS Provider."
-msgstr "DNS үйлчилгээ үзүүлэгчийг тохируулахын өмнө root домэйн нэрийг тохируулна уу."
+msgstr "DNS үйлчилгээ үзүүлэгчийг тохируулахын өмнө root домен нэрийг тохируулна уу."
 
 #: mail/server/doctype/dns_record/dns_record.py:21
 msgid "Please set the Root Domain Name in Mail Settings."
-msgstr "Мэйл тохиргоонд үндэс домэйн нэрийг тохируулна уу."
+msgstr "Мэйл тохиргоонд үндэс домен нэрийг тохируулна уу."
 
 #: mail/server/doctype/server_ansible_play/server_ansible_play.py:51
 #: mail/server/doctype/server_deployment/server_deployment.py:123
@@ -8152,7 +8152,7 @@ msgstr "Бичлэгүүд"
 
 #: frontend/src/pages/dashboard/DomainView.vue:68
 msgid "Records that allow mail and sync apps to automatically locate and connect to your domain’s email, calendar, and contacts services."
-msgstr "Мэйл болон синк хийх аппликешнүүдэд таны домэйны имэйл, календарь болон харилцагчийн үйлчилгээнүүдийг автоматаар олж, холбогдох боломжийг олгодог бичлэгүүд."
+msgstr "Мэйл болон синк хийх аппликешнүүдэд таны домены имэйл, календарь болон харилцагчийн үйлчилгээнүүдийг автоматаар олж, холбогдох боломжийг олгодог бичлэгүүд."
 
 #. Label of the recovery_section (Section Break) field in DocType 'User
 #. Settings'
@@ -8583,7 +8583,7 @@ msgstr "Дүрүүд"
 #. Label of the root_domain_name (Data) field in DocType 'Mail Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "Root Domain Name"
-msgstr "Үндсэн домэйн нэр"
+msgstr "Үндсэн домен нэр"
 
 #: frontend/src/pages/dashboard/DomainView.vue:199
 #: frontend/src/pages/dashboard/DomainView.vue:236
@@ -9106,7 +9106,7 @@ msgstr "Үйлчилгээний нээлтийн бүртгэл"
 
 #: frontend/src/pages/dashboard/DomainView.vue:59
 msgid "Service records that enable automatic mail setup and enforce secure transport for your domain."
-msgstr "Автомат шуудангийн тохиргоог идэвхжүүлж, таны домэйны аюулгүй тээвэрлэлтийг хэрэгжүүлдэг үйлчилгээний бүртгэлүүд."
+msgstr "Автомат шуудангийн тохиргоог идэвхжүүлж, таны домены аюулгүй тээвэрлэлтийг хэрэгжүүлдэг үйлчилгээний бүртгэлүүд."
 
 #. Label of the services (Table) field in DocType 'Server Deployment'
 #: mail/server/doctype/server_deployment/server_deployment.json
@@ -10242,11 +10242,11 @@ msgstr "Оролцогчийн дэлгэцийн нэр."
 #. Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "The domain name used to create DNS records."
-msgstr "DNS бичлэг үүсгэхэд ашигладаг домэйн нэр."
+msgstr "DNS бичлэг үүсгэхэд ашигладаг домен нэр."
 
 #: mail/client/doctype/mail_queue/mail_queue.py:361
 msgid "The domain {0} is not verified. Please verify the domain or use an email address with a verified domain."
-msgstr "{0} домэйн баталгаажаагүй байна. Домэйныг баталгаажуулах эсвэл баталгаажуулсан домэйнтэй имэйл хаягийг ашиглана уу."
+msgstr "{0} домен баталгаажаагүй байна. Домэйныг баталгаажуулах эсвэл баталгаажуулсан доментэй имэйл хаягийг ашиглана уу."
 
 #. Description of the 'Email' (Data) field in DocType 'Event Participant'
 #: mail/client/doctype/event_participant/event_participant.json
@@ -10550,7 +10550,7 @@ msgstr "Үйл явдлын серверээс олгосон өвөрмөц т�
 #. Description of the 'DNS Provider' (Select) field in DocType 'Mail Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "The service provider managing your root domain's DNS records."
-msgstr "Үйлчилгээ үзүүлэгч нь таны үндсэн домэйны DNS бүртгэлийг удирддаг."
+msgstr "Үйлчилгээ үзүүлэгч нь таны үндсэн домены DNS бүртгэлийг удирддаг."
 
 #. Description of the 'Address Books' (Table) field in DocType 'Contact Card'
 #: mail/client/doctype/contact_card/contact_card.json
@@ -12059,7 +12059,7 @@ msgstr "Та {0} бүртгэлийн дээд хязгаарт хүрсэн б�
 
 #: mail/utils/validation.py:122
 msgid "You have reached the maximum limit of {0} domains."
-msgstr "Та {0} домэйны дээд хязгаарт хүрсэн байна."
+msgstr "Та {0} домены дээд хязгаарт хүрсэн байна."
 
 #: mail/utils/validation.py:135
 msgid "You have reached the maximum limit of {0} groups."
@@ -12390,7 +12390,7 @@ msgstr "хэрэглэгч"
 
 #: mail/api/mail.py:429
 msgid "{0} (Delivered after {1} seconds)"
-msgstr "{0} ({1} секундын дараа хүргэгдэнэ)"
+msgstr "{0} ({1} секундийн дараа хүргэгдэнэ)"
 
 #: frontend/src/components/Modals/AddAddressBookContactsModal.vue:74
 #: frontend/src/pages/AddressBookView.vue:165
