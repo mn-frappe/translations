@@ -224,7 +224,7 @@ msgstr "API Түлхүүр"
 
 #: mail/backend.py:54
 msgid "API Key or Username and Password is required."
-msgstr "API Key or Username and Password шаардлагатай"
+msgstr "API түлхүүр эсвэл хэрэглэгчийн нэр, нууц үг шаардлагатай."
 
 #: frontend/src/components/Settings/AdvancedSettings.vue:19
 msgid "API Secret"
@@ -233,7 +233,7 @@ msgstr "API нууц"
 #. Option for the 'Type' (Select) field in DocType 'Event Alert'
 #: mail/client/doctype/event_alert/event_alert.json
 msgid "AbsoluteTrigger"
-msgstr ""
+msgstr "AbsoluteTrigger"
 
 #: frontend/src/pages/dashboard/InvitesView.vue:210
 msgid "Accepted"
@@ -264,7 +264,7 @@ msgstr "Энэ URL-д хандах эрхгүй"
 
 #: mail/mail/doctype/mail_settings/mail_settings.js:28
 msgid "Access to GoDaddy’s Domain Management and DNS APIs is restricted to accounts with 10 or more domains or an active Pro Discount Domain Club membership. Please verify that your account meets these requirements before proceeding."
-msgstr ""
+msgstr "GoDaddy-н Домэйн Менежмент болон DNS API-д хандах эрхийг 10 ба түүнээс дээш домэйн эсвэл идэвхтэй Pro Discount Domain Club гишүүнчлэлтэй бүртгэлээр хязгаарласан. Үргэлжлүүлэхийн өмнө таны бүртгэл эдгээр шаардлагыг хангаж байгаа эсэхийг шалгана уу."
 
 #. Label of the account (Link) field in DocType 'Mail Signature'
 #. Label of the account (Data) field in DocType 'Mail Account Request'
@@ -388,11 +388,11 @@ msgstr "Нэмэх"
 
 #: frontend/src/components/Modals/AddContactAddressModal.vue:41
 msgid "Add Address"
-msgstr "Address нэмэх"
+msgstr "Хаяг нэмэх"
 
 #: frontend/src/pages/AddressBooksView.vue:5
 msgid "Add Address Book"
-msgstr "Address Book нэмэх"
+msgstr "Хаягийн дэвтэр нэмэх"
 
 #: frontend/src/components/Settings/IdentitySettings.vue:52
 msgid "Add Bcc"
@@ -400,13 +400,13 @@ msgstr "Bcc нэмэх"
 
 #: frontend/src/pages/ContactsView.vue:4
 msgid "Add Contact"
-msgstr "Contact нэмэх"
+msgstr "Харилцагч нэмэх"
 
 #: frontend/src/components/Modals/AddDomainModal.vue:5
 #: frontend/src/components/Modals/AddDomainModal.vue:8
 #: frontend/src/pages/dashboard/DomainsView.vue:4
 msgid "Add Domain"
-msgstr "Domain нэмэх"
+msgstr "Домэйн нэмэх"
 
 #: frontend/src/components/Modals/AddContactEmailModal.vue:36
 msgid "Add Email"
@@ -414,24 +414,24 @@ msgstr "Email нэмэх"
 
 #: frontend/src/components/Modals/AddEmailModal.vue:5
 msgid "Add Email Address"
-msgstr "Email Address нэмэх"
+msgstr "Имэйл хаяг нэмнэ үү"
 
 #: frontend/src/pages/dashboard/MailingListsView.vue:4
 msgid "Add Mailing List"
-msgstr "Mailing List нэмэх"
+msgstr "Захидлын жагсаалт нэмэх"
 
 #: frontend/src/components/Modals/AddMemberModal.vue:5
 #: frontend/src/pages/dashboard/MembersView.vue:4
 msgid "Add Member"
-msgstr "Member нэмэх"
+msgstr "Гишүүн нэмэх"
 
 #: frontend/src/components/Modals/AddContactPhoneModal.vue:31
 msgid "Add Phone"
-msgstr "Phone нэмэх"
+msgstr "Утас нэмэх"
 
 #: frontend/src/components/Settings/IdentitySettings.vue:37
 msgid "Add Reply To"
-msgstr "Reply To нэмэх"
+msgstr "Хариу нэмэх"
 
 #: frontend/src/components/Modals/FolderModal.vue:129
 msgid "Add Star"
@@ -447,7 +447,7 @@ msgstr "Хаягийн дэвтэрт нэмэх"
 
 #: frontend/src/components/Modals/AddEmailModal.vue:5
 msgid "Add to Mailing List"
-msgstr "Add to Mailing жагсаалт"
+msgstr "Захидлын жагсаалтад нэмнэ үү"
 
 #. Description of the 'Description' (Small Text) field in DocType 'Calendar
 #. Event'
@@ -489,17 +489,17 @@ msgstr "Хаягийн дэвтрийг устгах алдаа(ууд):<br>{0}"
 #. Book'
 #: mail/client/doctype/contact_card_address_book/contact_card_address_book.json
 msgid "Address Book ID"
-msgstr "Address Book дугаар"
+msgstr "Хаягийн дэвтрийн ID"
 
 #. Label of the address_book_name (Data) field in DocType 'Contact Card Address
 #. Book'
 #: mail/client/doctype/contact_card_address_book/contact_card_address_book.json
 msgid "Address Book Name"
-msgstr "Address Book нэр"
+msgstr "Хаягийн дэвтрийн нэр"
 
 #: mail/client/doctype/address_book/address_book.py:167
 msgid "Address Book Not Found"
-msgstr "Address Book олдсонгүй"
+msgstr "Хаягийн дэвтэр олдсонгүй"
 
 #: mail/client/doctype/address_book/address_book.py:197
 msgid "Address Book Update Error"
@@ -691,7 +691,7 @@ msgstr "Бүртгэлтэй юу? Нэвтрэх."
 #. Option for the 'DNS Provider' (Select) field in DocType 'Mail Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "AmazonRoute53"
-msgstr ""
+msgstr "AmazonRoute53"
 
 #. Option for the 'Color' (Select) field in DocType 'Mailbox Settings'
 #: frontend/src/components/Modals/FolderModal.vue:295
@@ -736,16 +736,16 @@ msgstr "Хуанлийн нэмэлт урт хэлбэрийн тайлбар."
 #. Label of a Workspace Sidebar Item
 #: mail/workspace_sidebar/server.json
 msgid "Ansible Play"
-msgstr ""
+msgstr "Ansible Play"
 
 #: mail/server/doctype/server_ansible_play/server_ansible_play.js:13
 msgid "Ansible Play Progress"
-msgstr ""
+msgstr "Ansible Play Progress"
 
 #. Label of a Workspace Sidebar Item
 #: mail/workspace_sidebar/server.json
 msgid "Ansible Play Task"
-msgstr ""
+msgstr "Ansible Play Task"
 
 #: mail/server/doctype/server_ansible_play/server_ansible_play.py:65
 msgid "Ansible play is already running."
@@ -800,12 +800,12 @@ msgstr "Програмууд"
 #: mail/client/doctype/mail_exchange/mail_exchange.json
 #: mail/server/doctype/mail_data_exchange/mail_data_exchange.json
 msgid "Archive Type"
-msgstr "Archive төрөл"
+msgstr "Архивын төрөл"
 
 #: mail/client/doctype/mail_exchange/mail_exchange.py:592
 #: mail/server/doctype/mail_data_exchange/mail_data_exchange.py:98
 msgid "Archive Type is required."
-msgstr "Archive Type шаардлагатай"
+msgstr "Архивын төрөл шаардлагатай."
 
 #: frontend/src/pages/ContactView.vue:286
 msgid "Are you sure you want to delete the contact for {0}?"
@@ -883,7 +883,7 @@ msgstr "Remove this contact from the selected address books хийхийг та 
 
 #: mail/server/doctype/principal/principal.js:38
 msgid "Are you sure you want to rotate the DKIM keys? This will generate new keys for email signing and you'll need to update the DNS settings with your DNS provider accordingly. This may take some time to propagate across DNS servers. Emails sent during this period may fail DKIM verification."
-msgstr "Rotate the dkim keys? this will generate new keys for email signing and you'll need to update the dns settings with your dns provider accordingly. this may take some time to propagate across dns servers. emails sent during this period may fail dkim verification хийхийг та итгэлтэй байна уу?"
+msgstr "Та DKIM товчлууруудыг эргүүлэхдээ итгэлтэй байна уу? Энэ нь имэйлд гарын үсэг зурах шинэ түлхүүрүүдийг үүсгэх бөгөөд та DNS үйлчилгээ үзүүлэгчийнхээ DNS тохиргоог зохих ёсоор шинэчлэх шаардлагатай болно. Энэ нь DNS серверүүдээр тархахад хэсэг хугацаа зарцуулагдаж магадгүй. Энэ хугацаанд илгээсэн имэйлүүд DKIM баталгаажуулалтад амжилтгүй болж магадгүй."
 
 #: frontend/src/components/Settings/BlockListSettings.vue:92
 msgid "Are you sure you want to unblock the selected email addresses?"
@@ -1029,7 +1029,7 @@ msgstr "Боломжтой"
 
 #: mail/api/mail.py:614
 msgid "Avatar not found."
-msgstr "Avatar олдсонгүй"
+msgstr "Аватар олдсонгүй."
 
 #. Option for the 'Type' (Select) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
@@ -1070,7 +1070,7 @@ msgstr "Нөөц имэйл"
 
 #: mail/server/doctype/mail_account_request/mail_account_request.py:65
 msgid "Backup Email is required."
-msgstr "Backup Email шаардлагатай"
+msgstr "Нөөц имэйл шаардлагатай."
 
 #: mail/utils/validation.py:176
 msgid "Bad Cron Expression"
@@ -1102,11 +1102,11 @@ msgstr "Бүлэг"
 #: mail/client/doctype/mail_message/mail_message.json
 #: mail/client/doctype/mail_message_recipient/mail_message_recipient.json
 msgid "Bcc"
-msgstr ""
+msgstr "Bcc"
 
 #: frontend/src/components/MailDetails.vue:48
 msgid "Bcc: "
-msgstr ""
+msgstr "Bcc:"
 
 #. Label of the before (Datetime) field in DocType 'Calendar Event'
 #. Label of the before (Datetime) field in DocType 'Mail Message'
@@ -1123,7 +1123,7 @@ msgstr "Хаягуудыг холбох"
 #. Label of the blob_hash (Data) field in DocType 'Message Queue'
 #: mail/server/doctype/message_queue/message_queue.json
 msgid "Blob Hash"
-msgstr ""
+msgstr "Blob Hash"
 
 #. Label of the blob_id (Data) field in DocType 'Mail Message'
 #. Label of the blob_id (Data) field in DocType 'Mail Message Part'
@@ -1158,7 +1158,7 @@ msgstr "Блоклох"
 #: frontend/src/components/Modals/SettingsModal.vue:116
 #: frontend/src/components/Settings/BlockListSettings.vue:2
 msgid "Block List"
-msgstr "Block жагсаалт"
+msgstr "Блок жагсаалт"
 
 #: frontend/src/components/MailActions.vue:183
 msgid "Block Sender"
@@ -1226,7 +1226,7 @@ msgstr "Хувин"
 #. 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Bucket / Storage Account"
-msgstr "Bucket / Storage данс"
+msgstr "Хувин / Хадгалах данс"
 
 #. Label of the buffer (Check) field in DocType 'Mail Cluster Trace'
 #: mail/server/doctype/mail_cluster_trace/mail_cluster_trace.json
@@ -1310,7 +1310,7 @@ msgstr "Календарийн үйл явдлыг устгах алдаа(уу�
 #. Label of the calendar_event_id (Data) field in DocType 'Event Notification'
 #: mail/client/doctype/event_notification/event_notification.json
 msgid "Calendar Event ID"
-msgstr "Calendar Event дугаар"
+msgstr "Календарийн үйл явдлын ID"
 
 #: mail/client/doctype/calendar_event/calendar_event.py:520
 msgid "Calendar Event Instance Deletion Error"
@@ -1322,7 +1322,7 @@ msgstr "Календарийн үйл явдлын жишээ шинэчлэх �
 
 #: mail/client/doctype/calendar_event/calendar_event.py:128
 msgid "Calendar Event Not Found"
-msgstr "Calendar Event олдсонгүй"
+msgstr "Календарийн үйл явдал олдсонгүй"
 
 #: mail/client/doctype/calendar_event/calendar_event.py:456
 msgid "Calendar Event Update Error"
@@ -1440,11 +1440,11 @@ msgstr "Ангилал"
 #: mail/client/doctype/mail_message/mail_message.json
 #: mail/client/doctype/mail_message_recipient/mail_message_recipient.json
 msgid "Cc"
-msgstr ""
+msgstr "Cc"
 
 #: frontend/src/components/MailDetails.vue:43
 msgid "Cc: "
-msgstr ""
+msgstr "Cc:"
 
 #. Label of the cert (Text) field in DocType 'Mail Server TLS Certificate'
 #: mail/server/doctype/mail_server_tls_certificate/mail_server_tls_certificate.json
@@ -1455,7 +1455,7 @@ msgstr "Гэрчилгээ"
 #. Certificate'
 #: mail/server/doctype/mail_server_tls_certificate/mail_server_tls_certificate.json
 msgid "Certificate ID"
-msgstr "Certificate дугаар"
+msgstr "Сертификат ID"
 
 #. Label of the cert_path (Data) field in DocType 'Mail Server TLS Certificate'
 #: mail/server/doctype/mail_server_tls_certificate/mail_server_tls_certificate.json
@@ -1465,7 +1465,7 @@ msgstr "Сертификатын зам"
 #. Label of the challenge (Select) field in DocType 'Mail Server ACME Provider'
 #: mail/server/doctype/mail_server_acme_provider/mail_server_acme_provider.json
 msgid "Challenge Type"
-msgstr "Challenge төрөл"
+msgstr "Сорилтын төрөл"
 
 #: frontend/src/components/Modals/ChangePasswordModal.vue:51
 #: frontend/src/components/Settings/ProfileSettings.vue:30
@@ -1592,7 +1592,7 @@ msgstr "Үйлчлүүлэгчийн IP"
 #. Option for the 'DNS Provider' (Select) field in DocType 'Mail Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "Cloudflare"
-msgstr ""
+msgstr "Cloudflare"
 
 #. Label of the cluster (Link) field in DocType 'Mail Server'
 #. Label of a Workspace Sidebar Item
@@ -1619,7 +1619,7 @@ msgstr "Кластер ID"
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 #: mail/server/doctype/mail_server/mail_server.json
 msgid "Cluster Settings"
-msgstr "Cluster тохиргоо"
+msgstr "Кластерийн тохиргоо"
 
 #: frontend/src/components/CopyCode.vue:25
 msgid "Code copied to clipboard"
@@ -1739,7 +1739,7 @@ msgstr "Тохиргоо"
 #. Deployment'
 #: mail/server/doctype/server_deployment/server_deployment.json
 msgid "Config Checksum"
-msgstr ""
+msgstr "Config Checksum"
 
 #: mail/server/doctype/server_deployment/server_deployment.py:133
 msgid "Config does not belong to the selected server."
@@ -1747,7 +1747,7 @@ msgstr "Тохиргоо нь сонгосон серверт хамаарахг
 
 #: mail/server/doctype/server_deployment/server_deployment.py:129
 msgid "Config is required."
-msgstr "Config шаардлагатай"
+msgstr "Тохиргоо шаардлагатай."
 
 #. Label of the configuration_section (Section Break) field in DocType 'Mail
 #. Cluster Store'
@@ -1841,7 +1841,7 @@ msgstr "Холбоо барих картын имэйл"
 
 #: mail/client/doctype/contact_card/contact_card.py:107
 msgid "Contact Card Not Found"
-msgstr "Contact Card олдсонгүй"
+msgstr "Холбоо барих карт олдсонгүй"
 
 #. Name of a DocType
 #: mail/client/doctype/contact_card_phone/contact_card_phone.json
@@ -1927,12 +1927,12 @@ msgstr "Агуулга"
 #. Label of the cid (Data) field in DocType 'Mail Message Part'
 #: mail/client/doctype/mail_message_part/mail_message_part.json
 msgid "Content ID"
-msgstr "Content дугаар"
+msgstr "Агуулгын ID"
 
 #. Label of the content_type (Data) field in DocType 'Event Link'
 #: mail/client/doctype/event_link/event_link.json
 msgid "Content Type"
-msgstr "Content төрөл"
+msgstr "Агуулгын төрөл"
 
 #. Label of the contexts (JSON) field in DocType 'Contact Card Address'
 #. Label of the contexts (JSON) field in DocType 'Contact Card Email'
@@ -1995,25 +1995,25 @@ msgstr "Улс"
 
 #: frontend/src/pages/InviteSetupView.vue:38
 msgid "Create Account"
-msgstr "Account үүсгэх"
+msgstr "Бүртгэл үүсгэх"
 
 #. Label of the create_contacts_after_email_submit (Check) field in DocType
 #. 'User Settings'
 #: mail/client/doctype/user_settings/user_settings.json
 msgid "Create Contacts After Email Submit"
-msgstr "Contacts After Email Submit үүсгэх"
+msgstr "Имэйл илгээсний дараа холбоо барих хаяг үүсгэх"
 
 #: frontend/src/components/Settings/AccountSettings.vue:14
 msgid "Create Contacts After Sending Email"
-msgstr "Contacts After Sending Email үүсгэх"
+msgstr "Имэйл илгээсний дараа холбоо барих хаяг үүсгэх"
 
 #: frontend/src/components/Settings/ExportSettings.vue:76
 msgid "Create Export"
-msgstr "Export үүсгэх"
+msgstr "Экспорт үүсгэх"
 
 #: frontend/src/components/Settings/ImportSettings.vue:45
 msgid "Create Import"
-msgstr "Import үүсгэх"
+msgstr "Импорт үүсгэх"
 
 #: frontend/src/components/LoginLayout.vue:50
 msgid "Create a new account"
@@ -2102,7 +2102,7 @@ msgstr "DKIM (Домайн түлхүүрээр баталгаажуулсан �
 #. Label of the dkim_alignment (Data) field in DocType 'DMARC Report'
 #: mail/server/doctype/dmarc_report/dmarc_report.json
 msgid "DKIM Alignment"
-msgstr ""
+msgstr "DKIM Alignment"
 
 #. Label of the dkim_description (Small Text) field in DocType 'Mail Message'
 #: mail/client/doctype/mail_message/mail_message.json
@@ -2185,7 +2185,7 @@ msgstr "DNS бичлэг"
 
 #: mail/server/doctype/dns_record/dns_record.py:57
 msgid "DNS Record with the same host and type already exists."
-msgstr "DNS Record with the same host and type аль хэдийн байна"
+msgstr "Ижил хост болон төрөлтэй DNS бичлэг аль хэдийн байна."
 
 #. Label of the dns_records (Table) field in DocType 'Principal'
 #: frontend/src/pages/dashboard/DomainView.vue:27
@@ -2250,7 +2250,7 @@ msgstr "Харанхуй горим"
 #. Label of the datacenter (Data) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Data Center ID"
-msgstr "Data Center дугаар"
+msgstr "Дата төвийн ID"
 
 #. Label of a Workspace Sidebar Item
 #: mail/workspace_sidebar/server.json
@@ -2578,56 +2578,56 @@ msgstr "Устгах"
 
 #: frontend/src/pages/AddressBookView.vue:251
 msgid "Delete Address Book"
-msgstr "Address Book устгах"
+msgstr "Хаягийн дэвтэр устгах"
 
 #: frontend/src/pages/ContactView.vue:285
 msgid "Delete Contact"
-msgstr "Contact устгах"
+msgstr "Харилцагчийг устгах"
 
 #: frontend/src/pages/ContactsView.vue:132
 msgid "Delete Contacts"
-msgstr "Contacts устгах"
+msgstr "Харилцагчдыг устгах"
 
 #: frontend/src/pages/dashboard/DomainView.vue:206
 #: frontend/src/pages/dashboard/DomainView.vue:254
 msgid "Delete Domain"
-msgstr "Domain устгах"
+msgstr "Домэйн устгах"
 
 #: frontend/src/components/Settings/AccountSettings.vue:22
 msgid "Delete Email After Sending"
-msgstr "Email After Sending устгах"
+msgstr "Илгээсний дараа имэйлийг устгана уу"
 
 #: frontend/src/components/Modals/DeleteFolderModal.vue:5
 msgid "Delete Folder"
-msgstr "Folder устгах"
+msgstr "Хавтас устгах"
 
 #: frontend/src/pages/dashboard/InvitesView.vue:182
 msgid "Delete Invites"
-msgstr "Invites устгах"
+msgstr "Урилгыг устгах"
 
 #: frontend/src/pages/dashboard/MailingListView.vue:282
 msgid "Delete Mailing List"
-msgstr "Mailing List устгах"
+msgstr "Захидлын жагсаалтыг устгах"
 
 #: frontend/src/pages/dashboard/MailingListsView.vue:97
 msgid "Delete Mailing Lists"
-msgstr "Mailing Lists устгах"
+msgstr "Захидлын жагсаалтыг устгах"
 
 #: frontend/src/pages/dashboard/MemberView.vue:303
 msgid "Delete Member"
-msgstr "Member устгах"
+msgstr "Гишүүнийг устгах"
 
 #: frontend/src/pages/dashboard/UsersView.vue:180
 msgid "Delete Members"
-msgstr "Members устгах"
+msgstr "Гишүүдийг устгах"
 
 #: frontend/src/components/MailActions.vue:177
 msgid "Delete Message"
-msgstr "Message устгах"
+msgstr "Зурвас устгах"
 
 #: frontend/src/components/Settings/AccountSettings.vue:30
 msgid "Delete Newsletter After Sending"
-msgstr "Newsletter After Sending устгах"
+msgstr "Мэдээллийн товхимолыг илгээсний дараа устгана уу"
 
 #: frontend/src/pages/MailboxView.vue:33
 msgid "Delete Now"
@@ -2635,7 +2635,7 @@ msgstr "Now устгах"
 
 #: frontend/src/components/Modals/DeleteSieveScriptModal.vue:5
 msgid "Delete Sieve Script"
-msgstr "Sieve Script устгах"
+msgstr "Sieve скриптийг устгах"
 
 #: frontend/src/components/MailListItem.vue:288
 msgid "Delete Thread"
@@ -2643,11 +2643,11 @@ msgstr "Thread устгах"
 
 #: frontend/src/components/MailThread.vue:497
 msgid "Delete Thread (Shift+Delete)"
-msgstr "Thread (Shift+Delete) устгах"
+msgstr "Сэдвийг устгах (Shift+Delete)"
 
 #: frontend/src/pages/MailboxView.vue:686
 msgid "Delete Threads (Shift+Delete)"
-msgstr "Threads (Shift+Delete) устгах"
+msgstr "Threads устгах (Shift+Delete)"
 
 #: frontend/src/pages/MailboxView.vue:922
 msgid "Delete {0} {1}"
@@ -2799,7 +2799,7 @@ msgstr "Имэйл мессежийн хамгийн их хэмжээг тод�
 #. Label of the device_client_id (Data) field in DocType 'Push Subscription'
 #: mail/client/doctype/push_subscription/push_subscription.json
 msgid "Device Client ID"
-msgstr "Device Client дугаар"
+msgstr "Төхөөрөмжийн үйлчлүүлэгчийн ID"
 
 #. Option for the 'DNS Provider' (Select) field in DocType 'Mail Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
@@ -2810,7 +2810,7 @@ msgstr "Дижитал далай"
 #. Provider'
 #: mail/server/doctype/mail_server_acme_provider/mail_server_acme_provider.json
 msgid "Directory ID"
-msgstr "Directory дугаар"
+msgstr "Лавлах ID"
 
 #. Label of the directory_storage_section (Section Break) field in DocType
 #. 'Mail Cluster'
@@ -2832,11 +2832,11 @@ msgstr "Идэвхгүй болгох"
 #. Settings'
 #: mail/client/doctype/mailbox_settings/mailbox_settings.json
 msgid "Disable Push Notification"
-msgstr "Push Notification идэвхгүй болгох"
+msgstr "Түлхэх мэдэгдлийг идэвхгүй болгох"
 
 #: frontend/src/components/Modals/FolderModal.vue:46
 msgid "Disable Push Notifications"
-msgstr "Push Notifications идэвхгүй болгох"
+msgstr "Түлхэх мэдэгдлийг идэвхгүй болгох"
 
 #. Description of the 'Outbound Only' (Check) field in DocType 'Mail Server'
 #: mail/server/doctype/mail_server/mail_server.json
@@ -2890,7 +2890,7 @@ msgstr "Дэлгэц"
 #: mail/client/doctype/email_address/email_address.json
 #: mail/client/doctype/mail_message_recipient/mail_message_recipient.json
 msgid "Display Name"
-msgstr "Display нэр"
+msgstr "Дэлгэцийн нэр"
 
 #. Description of the 'Name' (Data) field in DocType 'Sieve Script'
 #: mail/client/doctype/sieve_script/sieve_script.json
@@ -2939,12 +2939,12 @@ msgstr "Домайн"
 #: mail/server/doctype/message_queue_recipient/message_queue_recipient.json
 #: mail/server/report/dmarc_report_viewer/dmarc_report_viewer.py:31
 msgid "Domain Name"
-msgstr "Domain нэр"
+msgstr "Домэйн нэр"
 
 #. Label of the domain_policy (Data) field in DocType 'DMARC Report'
 #: mail/server/doctype/dmarc_report/dmarc_report.json
 msgid "Domain Policy"
-msgstr "Domain бодлого"
+msgstr "Домэйн бодлого"
 
 #. Label of a Workspace Sidebar Item
 #: mail/workspace_sidebar/server.json
@@ -2965,7 +2965,7 @@ msgstr "Домэйн аль хэдийн баталгаажсан бөгөөд �
 
 #: mail/server/doctype/mail_account_request/mail_account_request.py:99
 msgid "Domain is mandatory."
-msgstr "Domain заавал шаардлагатай"
+msgstr "Домэйн заавал байх ёстой."
 
 #: frontend/src/pages/dashboard/DomainView.vue:117
 msgid "Domain settings updated."
@@ -2991,7 +2991,7 @@ msgstr "{0} домэйн баталгаажаагүй байна."
 
 #: mail/utils/validation.py:109
 msgid "Domain {0} not found."
-msgstr "Domain {0} олдсонгүй"
+msgstr "Домэйн {0} олдсонгүй."
 
 #. Label of the domains (JSON) field in DocType 'Message Queue'
 #: frontend/src/components/AppSidebar.vue:184
@@ -3063,7 +3063,7 @@ msgstr "Байршуулахын тулд файлуудыг буулгана у
 
 #: mail/client/doctype/mailbox_settings/mailbox_settings.py:37
 msgid "Duplicate Mailbox Settings"
-msgstr "Duplicate Mailbox тохиргоо"
+msgstr "Давхардсан шуудангийн хайрцгийн тохиргоо"
 
 #: mail/server/doctype/dns_record/dns_record.py:58
 msgid "Duplicate Record"
@@ -3129,35 +3129,35 @@ msgstr "Засах"
 
 #: frontend/src/components/MailActions.vue:93
 msgid "Edit Draft"
-msgstr "Draft засах"
+msgstr "Ноорог засах"
 
 #: frontend/src/components/Modals/EditAddressBookModal.vue:44
 #: frontend/src/components/Modals/EditContactModal.vue:30
 #: frontend/src/pages/dashboard/MailingListView.vue:117
 #: frontend/src/pages/dashboard/MemberView.vue:93
 msgid "Edit General Information"
-msgstr "General Information засах"
+msgstr "Ерөнхий мэдээллийг засварлах"
 
 #: frontend/src/components/Modals/EditInviteModal.vue:6
 msgid "Edit Invite"
-msgstr "Invite засах"
+msgstr "Урилгыг засах"
 
 #: frontend/src/components/Modals/EditPhotoModal.vue:2
 #: frontend/src/components/Settings/ProfileSettings.vue:15
 msgid "Edit Photo"
-msgstr "Photo засах"
+msgstr "Зураг засах"
 
 #: frontend/src/pages/dashboard/MemberView.vue:121
 msgid "Edit Quota Usage"
-msgstr "Quota Usage засах"
+msgstr "Квотын хэрэглээг засах"
 
 #: frontend/src/components/Modals/SieveScriptModal.vue:5
 msgid "Edit Sieve Script"
-msgstr "Sieve Script засах"
+msgstr "Sieve скриптийг засах"
 
 #: frontend/src/components/Modals/EditSignatureModal.vue:63
 msgid "Edit Signature"
-msgstr "Signature засах"
+msgstr "Гарын үсэг засах"
 
 #: mail/client/doctype/mail_queue/mail_queue.py:510
 msgid "Either blob_id or file_url is required for attachments."
@@ -3169,20 +3169,20 @@ msgstr "Аль нэг нөхцөл хангагдсан"
 
 #: mail/utils/__init__.py:443
 msgid "Either file path or file data is required."
-msgstr "Either file path or file data шаардлагатай"
+msgstr "Файлын зам эсвэл файлын өгөгдөл шаардлагатай."
 
 #: mail/mail/doctype/rate_limit/rate_limit.py:41
 msgid "Either key or IP flag is required."
-msgstr "Either key or IP flag шаардлагатай"
+msgstr "Түлхүүр эсвэл IP тугны аль нэг нь шаардлагатай."
 
 #: mail/client/doctype/mail_queue/mail_queue.py:65
 msgid "Either name or file URL is required."
-msgstr "Either name or file URL шаардлагатай"
+msgstr "Нэр эсвэл файлын URL шаардлагатай."
 
 #. Option for the 'Type' (Select) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "ElasticSearch"
-msgstr ""
+msgstr "ElasticSearch"
 
 #. Label of the email (Data) field in DocType 'Blocked Email Address'
 #. Label of the email (Data) field in DocType 'Contact Card'
@@ -3341,28 +3341,28 @@ msgstr "Идэвхжүүлэх"
 #. 'Mail Cluster'
 #: mail/server/doctype/mail_cluster/mail_cluster.json
 msgid "Enable Calendar Searching"
-msgstr "Calendar Searching идэвхжүүлэх"
+msgstr "Хуанли хайлтыг идэвхжүүл"
 
 #. Label of the storage_search_index_calendar_enable (Check) field in DocType
 #. 'Mail Cluster'
 #: mail/server/doctype/mail_cluster/mail_cluster.json
 msgid "Enable Contacts Searching"
-msgstr "Contacts Searching идэвхжүүлэх"
+msgstr "Харилцагч хайхыг идэвхжүүлнэ үү"
 
 #. Label of the storage_search_index_email_enable (Check) field in DocType
 #. 'Mail Cluster'
 #: mail/server/doctype/mail_cluster/mail_cluster.json
 msgid "Enable Email Searching"
-msgstr "Email Searching идэвхжүүлэх"
+msgstr "Имэйл хайлтыг идэвхжүүлнэ үү"
 
 #: frontend/src/components/PWASettings.vue:16
 msgid "Enable Push Notifications"
-msgstr "Push Notifications идэвхжүүлэх"
+msgstr "Түлхэх мэдэгдлийг идэвхжүүлнэ үү"
 
 #. Label of the enable_spamd (Check) field in DocType 'Mail Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "Enable Spam Detection"
-msgstr "Spam Detection идэвхжүүлэх"
+msgstr "Спам илрүүлэхийг идэвхжүүлнэ үү"
 
 #. Label of the tls_enable (Check) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
@@ -3373,7 +3373,7 @@ msgstr "TLS идэвхжүүлэх"
 #. 'Mail Cluster'
 #: mail/server/doctype/mail_cluster/mail_cluster.json
 msgid "Enable Tracing Searching"
-msgstr "Tracing Searching идэвхжүүлэх"
+msgstr "Мөшгих хайлтыг идэвхжүүлнэ үү"
 
 #. Label of the email_encryption_enable (Check) field in DocType 'Mail Cluster'
 #: mail/server/doctype/mail_cluster/mail_cluster.json
@@ -3519,7 +3519,7 @@ msgstr "Дугтуйнаас"
 
 #: mail/server/report/dmarc_report_viewer/dmarc_report_viewer.py:43
 msgid "Envelope To"
-msgstr ""
+msgstr "Envelope To"
 
 #. Label of the error_section (Section Break) field in DocType 'Mail Queue'
 #. Option for the 'Logging Level' (Select) field in DocType 'Mail Cluster
@@ -3614,7 +3614,7 @@ msgstr "Үйл явдлын мэдэгдлийг устгах алдаа(ууд)
 
 #: mail/client/doctype/event_notification/event_notification.py:31
 msgid "Event Notification Not Found"
-msgstr "Event Notification олдсонгүй"
+msgstr "Үйл явдлын мэдэгдэл олдсонгүй"
 
 #: mail/client/doctype/event_notification/event_notification.py:19
 msgid "Event Notification are only created by the server, users cannot create them directly."
@@ -3645,7 +3645,7 @@ msgstr "Үйл явдлын засвар"
 #. Description of the 'Metadata' (JSON) field in DocType 'Mail Exchange'
 #: mail/client/doctype/mail_exchange/mail_exchange.json
 msgid "Example: <code>{\"mailboxIds\": { \"a\": true }, \"keywords\": {\"$seen\": true}}</code>"
-msgstr "Жишээ: <code>{\"мэйл хайрцагны дугаар\": { \"a\": true }, \"түлхүүр үг\": {\"$seen\": true}}</code>"
+msgstr "Жишээ: <code>{\"mailboxIds\": { \"a\": true }, \"түлхүүр үг\": {\"$seen\": true}}</code>"
 
 #. Label of the exception (Code) field in DocType 'Server Ansible Play Task'
 #: mail/server/doctype/server_ansible_play_task/server_ansible_play_task.json
@@ -3791,12 +3791,12 @@ msgstr "Амжилтгүй"
 #. Option for the 'Status' (Select) field in DocType 'Mail Queue'
 #: mail/client/doctype/mail_queue/mail_queue.json
 msgid "Failed to Draft"
-msgstr "Draft амжилтгүй боллоо"
+msgstr "Ноорог хийж чадсангүй"
 
 #. Option for the 'Status' (Select) field in DocType 'Mail Queue'
 #: mail/client/doctype/mail_queue/mail_queue.json
 msgid "Failed to Submit"
-msgstr "Submit амжилтгүй боллоо"
+msgstr "Илгээж чадсангүй"
 
 #: mail/server/doctype/principal/principal.py:354
 msgid "Failed to add principal {0}: {1}"
@@ -3983,7 +3983,7 @@ msgstr "Байршуулсан файл: {0}"
 
 #: mail/server/doctype/server_deployment/server_deployment.js:29
 msgid "Filebeat Stream Setup (FC)"
-msgstr ""
+msgstr "Filebeat Stream Setup (FC)"
 
 #: mail/server/doctype/server_deployment/server_deployment.py:273
 msgid "Filebeat stream setup job has been created."
@@ -4012,7 +4012,7 @@ msgstr "Шүүлтүүр"
 #: frontend/src/pages/SignupView.vue:52
 #: mail/server/doctype/mail_account_request/mail_account_request.js:52
 msgid "First Name"
-msgstr "First нэр"
+msgstr "Нэр"
 
 #. Label of the flagged (Check) field in DocType 'Mail Message'
 #: mail/client/doctype/mail_message/mail_message.json
@@ -4034,7 +4034,7 @@ msgstr "Фолдер автоматжуулалтыг идэвхжүүлсэн."
 
 #: frontend/src/components/Modals/FolderModal.vue:5
 msgid "Folder Settings"
-msgstr "Folder тохиргоо"
+msgstr "Фолдерын тохиргоо"
 
 #: frontend/src/components/Modals/FolderModal.vue:230
 msgid "Folder created."
@@ -4050,7 +4050,7 @@ msgstr "Фолдер шинэчлэгдсэн."
 
 #: mail/server/doctype/mail_account_request/mail_account_request.js:23
 msgid "Force Verify and Create Account"
-msgstr "Force Verify and Create данс"
+msgstr "Хүчээр баталгаажуулж, бүртгэл үүсгэх"
 
 #: mail/server/doctype/mail_domain_request/mail_domain_request.js:21
 msgid "Force Verify and Create Domain"
@@ -4100,7 +4100,7 @@ msgstr "Дамжуулсан (И-мэйл ID)"
 #. Option for the 'Type' (Select) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "FoundationDB"
-msgstr ""
+msgstr "FoundationDB"
 
 #. Option for the 'Free Busy Status' (Select) field in DocType 'Calendar Event'
 #: mail/client/doctype/calendar_event/calendar_event.json
@@ -4270,7 +4270,7 @@ msgstr "{0} руу очих"
 #. Option for the 'DNS Provider' (Select) field in DocType 'Mail Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "GoDaddy"
-msgstr ""
+msgstr "GoDaddy"
 
 #. Option for the 'Color' (Select) field in DocType 'Mailbox Settings'
 #: frontend/src/components/Modals/FolderModal.vue:292
@@ -4411,7 +4411,7 @@ msgstr "Хэтцнер"
 #. Label of the hide_attendees (Check) field in DocType 'Calendar Event'
 #: mail/client/doctype/calendar_event/calendar_event.json
 msgid "Hide Attendees"
-msgstr "Attendees нуух"
+msgstr "Оролцогчдыг нуух"
 
 #. Option for the 'Priority' (Select) field in DocType 'Mail Queue'
 #: mail/client/doctype/mail_queue/mail_queue.json
@@ -4656,7 +4656,7 @@ msgstr "Хувийн мэдээллийг устгах алдаа(ууд):<br>{0
 
 #: mail/client/doctype/identity/identity.py:250
 msgid "Identity Not Found"
-msgstr "Identity олдсонгүй"
+msgstr "Бие олдсонгүй"
 
 #: mail/client/doctype/identity/identity.py:281
 msgid "Identity Update Error"
@@ -4723,12 +4723,12 @@ msgstr "Импортлох"
 #: mail/client/doctype/mail_exchange/mail_exchange.py:565
 #: mail/server/doctype/mail_data_exchange/mail_data_exchange.py:84
 msgid "Import File is required."
-msgstr "Import File шаардлагатай"
+msgstr "Импортын файл шаардлагатай."
 
 #: mail/client/doctype/mail_exchange/mail_exchange.py:563
 #: mail/server/doctype/mail_data_exchange/mail_data_exchange.py:82
 msgid "Import Format is required."
-msgstr "Import Format шаардлагатай"
+msgstr "Импортын формат шаардлагатай."
 
 #: frontend/src/components/Settings/ImportSettings.vue:2
 msgid "Import Mail"
@@ -4961,15 +4961,15 @@ msgstr "Дотоод"
 
 #: mail/api/jmap.py:57
 msgid "Invalid Content-Encoding. Expected 'aes128gcm'."
-msgstr "Буруу Content-Encoding. Expected 'aes128gcm'"
+msgstr "Агуулгын кодчилол буруу байна. Хүлээгдэж буй \"aes128gcm\"."
 
 #: mail/mail/doctype/mail_settings/mail_settings.py:144
 msgid "Invalid JMAP Push Subscription keys: {0}"
-msgstr "Буруу JMAP Push Subscription keys: {0}"
+msgstr "Буруу JMAP Push захиалгын түлхүүрүүд: {0}"
 
 #: mail/utils/validation.py:211
 msgid "Invalid JMAP Structure"
-msgstr "Буруу JMAP Structure"
+msgstr "Буруу JMAP бүтэц"
 
 #: mail/client/doctype/push_subscription/push_subscription.py:324
 msgid "Invalid JMAP push private key length (must be 32 bytes)."
@@ -4978,23 +4978,23 @@ msgstr "Буруу JMAP push private key length (must be 32 bytes)"
 #: mail/utils/validation.py:242 mail/utils/validation.py:271
 #: mail/utils/validation.py:329
 msgid "Invalid Maildir"
-msgstr "Буруу Maildir"
+msgstr "Буруу шуудан"
 
 #: mail/utils/validation.py:268 mail/utils/validation.py:326
 msgid "Invalid Maildir format in the following directories: {0}"
-msgstr "Буруу Maildir format in the following directories: {0}"
+msgstr "Дараах сангууд дахь Maildir формат буруу байна: {0}"
 
 #: mail/utils/validation.py:239
 msgid "Invalid Maildir format: at least one of {0} must exist and contain files."
-msgstr "Буруу Maildir format: at least one of {0} must exist and contain files"
+msgstr "Хүчингүй Maildir формат: {0}-ийн дор хаяж нэг нь байх ёстой бөгөөд файл агуулсан байх ёстой."
 
 #: mail/api/account.py:69
 msgid "Invalid OTP. Please try again."
-msgstr "Буруу OTP. Please try again"
+msgstr "Буруу OTP. Дахин оролдоно уу."
 
 #: mail/api/jmap.py:140
 msgid "Invalid Push Notification @type = {0}"
-msgstr "Буруу Push Notification @type = {0}"
+msgstr "Буруу түлхэх мэдэгдэл @type = {0}"
 
 #: mail/client/doctype/push_subscription/push_subscription.py:321
 msgid "Invalid base64 encoding in JMAP push keys."
@@ -5047,7 +5047,7 @@ msgstr "Шифрлэгдсэн ачаалалд илгээгчийн нийти�
 #: frontend/src/pages/dashboard/InvitesView.vue:10
 #: frontend/src/pages/dashboard/InvitesView.vue:194
 msgid "Invitation Status"
-msgstr "Invitation төлөв"
+msgstr "Урилгын статус"
 
 #: frontend/src/components/Modals/EditInviteModal.vue:84
 msgid "Invite updated."
@@ -5114,7 +5114,7 @@ msgstr "JMAP итгэмжлэл"
 
 #: mail/client/doctype/user_settings/user_settings.js:27
 msgid "JMAP Identities"
-msgstr ""
+msgstr "JMAP таних тэмдэг"
 
 #: mail/server/doctype/principal/principal.py:418
 msgid "JMAP Identities can only be synced for Individual principals."
@@ -5128,7 +5128,7 @@ msgstr "JMAP шуудангийн хайрцгууд"
 #. Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "JMAP Push"
-msgstr ""
+msgstr "JMAP Push"
 
 #. Label of the jmap_push_auth (Password) field in DocType 'Mail Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
@@ -5285,7 +5285,7 @@ msgstr "Сүүлийн идэвхтэй"
 #. Settings'
 #: mail/client/doctype/user_settings/user_settings.json
 msgid "Last Active Sieve Script ID"
-msgstr "Last Active Sieve Script дугаар"
+msgstr "Сүүлийн идэвхтэй шигшүүрийн скрипт ID"
 
 #. Label of the last_checked_at (Datetime) field in DocType 'DNS Record'
 #: mail/server/doctype/dns_record/dns_record.json
@@ -5404,7 +5404,7 @@ msgstr "Эзлэхүүний зураглалын жагсаалт, жишээл
 #. Label of the listener_id (Data) field in DocType 'Mail Server Listener'
 #: mail/server/doctype/mail_server_listener/mail_server_listener.json
 msgid "Listener ID"
-msgstr "Listener дугаар"
+msgstr "Сонсогчийн ID"
 
 #. Label of the listeners (Table) field in DocType 'Mail Cluster'
 #. Label of the listeners_tab (Tab Break) field in DocType 'Mail Cluster'
@@ -5537,7 +5537,7 @@ msgstr ""
 #. Label of the machine (Data) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Machine ID"
-msgstr "Machine дугаар"
+msgstr "Машины ID"
 
 #. Description of the 'Machine ID' (Data) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
@@ -5585,7 +5585,7 @@ msgstr "Мэйл кластерын ул мөр"
 
 #: mail/server/doctype/mail_cluster/mail_cluster.py:123
 msgid "Mail Cluster {0} already exists."
-msgstr "Mail Cluster {0} аль хэдийн байна"
+msgstr "Мэйл кластер {0} аль хэдийн байна."
 
 #: mail/server/doctype/mail_server/mail_server.py:63
 msgid "Mail Cluster {0} is disabled."
@@ -5692,7 +5692,7 @@ msgstr "Мэйл серверийн TLS гэрчилгээ"
 
 #: mail/server/doctype/mail_server/mail_server.py:54
 msgid "Mail Server {0} already exists."
-msgstr "Mail Server {0} аль хэдийн байна"
+msgstr "Мэйл сервер {0} аль хэдийн байна."
 
 #: mail/server/doctype/server_ansible_play/server_ansible_play.py:49
 #: mail/server/doctype/server_deployment/server_deployment.py:121
@@ -5802,7 +5802,7 @@ msgstr "Шуудангийн хайрцгийг устгах алдаа(ууд):
 #: mail/client/doctype/mail_queue/mail_queue.json
 #: mail/client/doctype/mailbox_settings/mailbox_settings.json
 msgid "Mailbox ID"
-msgstr "Mailbox дугаар"
+msgstr "Шуудангийн хайрцгийн ID"
 
 #. Label of the mailbox_limits_section (Section Break) field in DocType 'Mail
 #. Cluster'
@@ -5813,11 +5813,11 @@ msgstr "Шуудангийн хайрцагны хязгаарлалт"
 #. Label of the mailbox_name (Data) field in DocType 'Mail Message Mailbox'
 #: mail/client/doctype/mail_message_mailbox/mail_message_mailbox.json
 msgid "Mailbox Name"
-msgstr "Mailbox нэр"
+msgstr "Шуудангийн хайрцгийн нэр"
 
 #: mail/client/doctype/mailbox/mailbox.py:155
 msgid "Mailbox Not Found"
-msgstr "Mailbox олдсонгүй"
+msgstr "Шуудангийн хайрцаг олдсонгүй"
 
 #: mail/client/doctype/mailbox/mailbox.py:343
 msgid "Mailbox Position Update Error"
@@ -5826,15 +5826,15 @@ msgstr "Шуудангийн хайрцгийн байршлыг шинэчлэ�
 #. Name of a DocType
 #: mail/client/doctype/mailbox_settings/mailbox_settings.json
 msgid "Mailbox Settings"
-msgstr "Mailbox тохиргоо"
+msgstr "Шуудангийн хайрцгийн тохиргоо"
 
 #: mail/client/doctype/mailbox_settings/mailbox_settings.py:34
 msgid "Mailbox Settings for user {0} with mailbox ID {1} already exists."
-msgstr "Mailbox Settings for user {0} with mailbox ID {1} аль хэдийн байна"
+msgstr "Шуудангийн хайрцаг ID {1}-тэй {0} хэрэглэгчийн шуудангийн хайрцгийн тохиргоо аль хэдийн байна."
 
 #: mail/client/doctype/mailbox_settings/mailbox_settings.py:60
 msgid "Mailbox Settings for user {0} with mailbox ID {1} not found."
-msgstr "Mailbox Settings for user {0} with mailbox ID {1} олдсонгүй"
+msgstr "{0} хэрэглэгчийн {1} шуудангийн хайрцгийн ID-тэй тохиргоо олдсонгүй."
 
 #: mail/client/doctype/mailbox/mailbox.py:173
 msgid "Mailbox Update Error"
@@ -6159,7 +6159,7 @@ msgstr "Өөрийгөө урьж болно"
 #: mail/client/doctype/calendar/calendar.json
 #: mail/client/doctype/calendar_rights/calendar_rights.json
 msgid "May RSVP"
-msgstr "RSVP"
+msgstr "RSVP хийж болно"
 
 #. Label of the may_read (Check) field in DocType 'Address Book'
 #: mail/client/doctype/address_book/address_book.json
@@ -6301,7 +6301,7 @@ msgstr "Мессеж"
 #: mail/api/mail.py:426 mail/client/doctype/mail_message/mail_message.json
 #: mail/client/doctype/mail_queue/mail_queue.json
 msgid "Message ID"
-msgstr "Message дугаар"
+msgstr "Зурвасын ID"
 
 #: frontend/src/pages/MimeMessageView.vue:15
 msgid "Message Information"
@@ -6589,7 +6589,7 @@ msgstr "Сүлжээний горим"
 #. Server'
 #: mail/server/doctype/mail_server/mail_server.json
 msgid "Network Settings"
-msgstr "Network тохиргоо"
+msgstr "Сүлжээний тохиргоо"
 
 #. Label of the networking_section (Section Break) field in DocType 'Mail
 #. Cluster'
@@ -6611,7 +6611,7 @@ msgstr "Шинэ"
 
 #: frontend/src/components/Modals/AddAddressBookModal.vue:5
 msgid "New Address Book"
-msgstr "Шинэ Address Book"
+msgstr "Шинэ хаягийн дэвтэр"
 
 #: frontend/src/components/Settings/IdentitySettings.vue:110
 msgid "New Bcc"
@@ -6619,41 +6619,41 @@ msgstr "Шинэ Bcc"
 
 #: frontend/src/components/Modals/AddContactModal.vue:5
 msgid "New Contact"
-msgstr "Шинэ Contact"
+msgstr "Шинэ харилцагч"
 
 #: frontend/src/components/Modals/AddMailingListExternalMemberModal.vue:5
 msgid "New External Member"
-msgstr "Шинэ External Member"
+msgstr "Шинэ гадаад гишүүн"
 
 #: frontend/src/components/AppSidebar.vue:253
 #: frontend/src/components/Modals/FolderModal.vue:5
 msgid "New Folder"
-msgstr "Шинэ Folder"
+msgstr "Шинэ хавтас"
 
 #: frontend/src/components/Modals/AddMailingListInternalMembersModal.vue:5
 msgid "New Internal Members"
-msgstr "Шинэ Internal Members"
+msgstr "Шинэ дотоод гишүүд"
 
 #: frontend/src/components/Modals/AddMailingListModal.vue:5
 msgid "New Mailing List"
-msgstr "Шинэ Mailing List"
+msgstr "Шинэ захидлын жагсаалт"
 
 #: frontend/src/components/Modals/ChangePasswordModal.vue:15
 #: frontend/src/pages/ResetPasswordView.vue:12
 msgid "New Password"
-msgstr "Шинэ Password"
+msgstr "Шинэ нууц үг"
 
 #: frontend/src/components/Settings/IdentitySettings.vue:110
 msgid "New Reply To"
-msgstr "Шинэ Reply To"
+msgstr "Шинэ хариу"
 
 #: frontend/src/components/Modals/SieveScriptModal.vue:5
 msgid "New Sieve Script"
-msgstr "Шинэ Sieve Script"
+msgstr "Шинэ шигшүүрийн скрипт"
 
 #: frontend/src/components/Modals/AddSignatureModal.vue:63
 msgid "New Signature"
-msgstr "Шинэ Signature"
+msgstr "Шинэ гарын үсэг"
 
 #: frontend/src/pages/LoginView.vue:29
 msgid "New member? Create an account."
@@ -7013,7 +7013,7 @@ msgstr "Офсет"
 #. Option for the 'Type' (Select) field in DocType 'Event Alert'
 #: mail/client/doctype/event_alert/event_alert.json
 msgid "OffsetTrigger"
-msgstr ""
+msgstr "OffsetTrigger"
 
 #: frontend/src/components/Settings/ExportSettings.vue:129
 msgid "Oldest Emails"
@@ -7094,7 +7094,7 @@ msgstr "Телеметрийг нээх"
 #. DocType 'Mail Cluster'
 #: mail/server/doctype/mail_cluster/mail_cluster.json
 msgid "OpenTelemetry Push Metrics"
-msgstr "OpenTelemetry түлхэх хэмжигдэхүүн"
+msgstr "OpenTelemetry Push Metrics"
 
 #. Label of the operation (Select) field in DocType 'Mail Exchange'
 #. Label of the operation (Select) field in DocType 'Mail Data Exchange'
@@ -7122,7 +7122,7 @@ msgstr "Зохион байгуулалт"
 #. Label of the organization_name (Data) field in DocType 'DMARC Report'
 #: mail/server/doctype/dmarc_report/dmarc_report.json
 msgid "Organization Name"
-msgstr "Organization нэр"
+msgstr "Байгууллагын нэр"
 
 #. Label of the organizer (Data) field in DocType 'Calendar Event'
 #: mail/client/doctype/calendar_event/calendar_event.json
@@ -7200,7 +7200,7 @@ msgstr "Эцэг эх"
 #. Label of the parent_id (Data) field in DocType 'Mailbox'
 #: mail/client/doctype/mailbox/mailbox.json
 msgid "Parent ID"
-msgstr "Parent дугаар"
+msgstr "Эцэг эхийн ID"
 
 #. Label of the parsing_limits_section (Section Break) field in DocType 'Mail
 #. Cluster'
@@ -7236,7 +7236,7 @@ msgstr "Оролцогчийн хувийн мэдээллийг устгах а
 
 #: mail/client/doctype/participant_identity/participant_identity.py:147
 msgid "Participant Identity Not Found"
-msgstr "Participant Identity олдсонгүй"
+msgstr "Оролцогчийн үнэмлэх олдсонгүй"
 
 #: mail/client/doctype/participant_identity/participant_identity.py:168
 msgid "Participant Identity Update Error"
@@ -7392,7 +7392,7 @@ msgstr "Тоглоомын дэвтэр"
 
 #: mail/server/doctype/server_ansible_play/server_ansible_play.py:57
 msgid "Playbook is required"
-msgstr "Playbook шаардлагатай"
+msgstr "Тоглоомын ном шаардлагатай"
 
 #: mail/ansible.py:116
 msgid "Playbook {0} does not exist"
@@ -7404,16 +7404,16 @@ msgstr "Тоглоомын ном {0} байхгүй байна."
 
 #: mail/server/doctype/server_job/server_job.py:57
 msgid "Please add at least one command to execute."
-msgstr "Add at least one command to execute уу"
+msgstr "Гүйцэтгэхийн тулд дор хаяж нэг тушаал нэмнэ үү."
 
 #: frontend/src/components/ComposeMailEditor.vue:389
 #: mail/client/doctype/mail_queue/mail_queue.py:455
 msgid "Please add at least one recipient."
-msgstr "Add at least one recipient уу"
+msgstr "Дор хаяж нэг хүлээн авагч нэмнэ үү."
 
 #: mail/server/doctype/mail_account_request/mail_account_request.py:154
 msgid "Please confirm your email address by clicking the button below."
-msgstr "Confirm your email address by clicking the button below уу"
+msgstr "Доорх товчийг дарж имэйл хаягаа баталгаажуулна уу."
 
 #: mail/server/doctype/server_deployment/server_deployment.js:76
 msgid "Please enter a contact email"
@@ -7421,15 +7421,15 @@ msgstr "Enter a contact email уу"
 
 #: mail/server/doctype/mail_server/mail_server.py:266
 msgid "Please generate the Server Config before installing Stalwart."
-msgstr "Generate the server config before installing stalwart уу"
+msgstr "Сталвартыг суулгахаасаа өмнө Серверийн тохиргоог үүсгэнэ үү."
 
 #: mail/client/doctype/address_book/address_book.py:57
 msgid "Please select a user to view address books."
-msgstr "Select a user to view address books уу"
+msgstr "Хаягийн дэвтрийг үзэхийн тулд хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/calendar_event/calendar_event.py:180
 msgid "Please select a user to view calendar events."
-msgstr "Select a user to view calendar events уу"
+msgstr "Календарийн үйл явдлуудыг үзэх хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/calendar/calendar.py:65
 msgid "Please select a user to view calendars."
@@ -7437,11 +7437,11 @@ msgstr "Select a user to view calendars уу"
 
 #: mail/client/doctype/contact_card/contact_card.py:135
 msgid "Please select a user to view contact cards."
-msgstr "Select a user to view contact cards уу"
+msgstr "Харилцагчийн картыг үзэх хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/event_notification/event_notification.py:47
 msgid "Please select a user to view event notifications."
-msgstr "Select a user to view event notifications уу"
+msgstr "Үйл явдлын мэдэгдлийг үзэхийн тулд хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/identity/identity.py:78
 msgid "Please select a user to view identities."
@@ -7457,11 +7457,11 @@ msgstr "Select a user to view messages уу"
 
 #: mail/client/doctype/participant_identity/participant_identity.py:58
 msgid "Please select a user to view participant identities."
-msgstr "Select a user to view participant identities уу"
+msgstr "Оролцогчийн хувийн мэдээллийг харахын тулд хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/push_subscription/push_subscription.py:60
 msgid "Please select a user to view push subscriptions."
-msgstr "Select a user to view push subscriptions уу"
+msgstr "Түлхүүр захиалгыг үзэхийн тулд хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/quota/quota.py:38
 msgid "Please select a user to view quotas."
@@ -7469,65 +7469,65 @@ msgstr "Select a user to view quotas уу"
 
 #: mail/client/doctype/sieve_script/sieve_script.py:51
 msgid "Please select a user to view the Sieve Scripts."
-msgstr "Select a user to view the sieve scripts уу"
+msgstr "Шигшүүрийн скриптүүдийг үзэх хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/vacation_response/vacation_response.py:33
 msgid "Please select a user to view vacation response details."
-msgstr "Select a user to view vacation response details уу"
+msgstr "Амралтын талаарх мэдээллийг харахын тулд хэрэглэгчийг сонгоно уу."
 
 #: mail/server/doctype/message_queue/message_queue.js:132
 msgid "Please select recipients to cancel delivery."
-msgstr "Select recipients to cancel delivery уу"
+msgstr "Хүргэлтийг цуцлахын тулд хүлээн авагчийг сонгоно уу."
 
 #: mail/mail/doctype/mail_settings/mail_settings.py:45
 msgid "Please set the DNS Provider Access Key and Secret."
-msgstr "Set the dns provider access key and secret уу"
+msgstr "DNS үйлчилгээ үзүүлэгчийн хандалтын түлхүүр болон нууцыг тохируулна уу."
 
 #: mail/mail/doctype/mail_settings/mail_settings.py:56
 msgid "Please set the DNS Provider Key and Secret."
-msgstr "Set the dns provider key and secret уу"
+msgstr "DNS үйлчилгээ үзүүлэгчийн түлхүүр болон нууцыг тохируулна уу."
 
 #: mail/mail/doctype/mail_settings/mail_settings.py:49
 msgid "Please set the DNS Provider Token."
-msgstr "Set the dns provider token уу"
+msgstr "DNS үйлчилгээ үзүүлэгчийн токеныг тохируулна уу."
 
 #: mail/mail/doctype/mail_settings/mail_settings.py:52
 msgid "Please set the DNS Provider Username and Client IP."
-msgstr "Set the dns provider username and client ip уу"
+msgstr "DNS үйлчилгээ үзүүлэгчийн хэрэглэгчийн нэр болон үйлчлүүлэгчийн IP-г тохируулна уу."
 
 #: mail/mail/doctype/mail_settings/mail_settings.py:40
 msgid "Please set the Root Domain Name before configuring the DNS Provider."
-msgstr "Set the root domain name before configuring the dns provider уу"
+msgstr "DNS үйлчилгээ үзүүлэгчийг тохируулахын өмнө root домэйн нэрийг тохируулна уу."
 
 #: mail/server/doctype/dns_record/dns_record.py:21
 msgid "Please set the Root Domain Name in Mail Settings."
-msgstr "Set the root domain name in mail settings уу"
+msgstr "Мэйл тохиргоонд үндэс домэйн нэрийг тохируулна уу."
 
 #: mail/server/doctype/server_ansible_play/server_ansible_play.py:51
 #: mail/server/doctype/server_deployment/server_deployment.py:123
 #: mail/server/doctype/server_job/server_job.py:51
 msgid "Please verify SSH connection for Mail Server {0}"
-msgstr "Verify ssh connection for mail server {0} уу"
+msgstr "{0} шуудангийн серверийн SSH холболтыг баталгаажуулна уу"
 
 #: mail/server/doctype/mail_server/mail_server.py:208
 msgid "Please verify the SSH connection before installing Ansible."
-msgstr "Verify the ssh connection before installing ansible уу"
+msgstr "Ansible-г суулгахаасаа өмнө SSH холболтыг шалгана уу."
 
 #: mail/server/doctype/mail_server/mail_server.py:234
 msgid "Please verify the SSH connection before installing Docker."
-msgstr "Verify the ssh connection before installing docker уу"
+msgstr "Docker суулгахаасаа өмнө SSH холболтыг шалгана уу."
 
 #: mail/server/doctype/mail_server/mail_server.py:256
 msgid "Please verify the SSH connection before installing Stalwart."
-msgstr "Verify the ssh connection before installing stalwart уу"
+msgstr "Сталвартыг суулгахаасаа өмнө SSH холболтыг шалгана уу."
 
 #: mail/server/doctype/mail_account_request/mail_account_request.py:188
 msgid "Please verify the email address first."
-msgstr "Verify the email address first уу"
+msgstr "Эхлээд имэйл хаягаа баталгаажуулна уу."
 
 #: mail/mail/doctype/mail_settings/mail_settings.py:193
 msgid "Please verify the {0} for the new {1}."
-msgstr "Verify the {0} for the new {1} уу"
+msgstr "Шинэ {1}-ийн {0}-г баталгаажуулна уу."
 
 #. Label of the pools_section (Section Break) field in DocType 'Mail Cluster
 #. Store'
@@ -7537,7 +7537,7 @@ msgstr "Усан сан"
 
 #: frontend/src/components/ComposeMailEditor.vue:503
 msgid "Pop Out"
-msgstr ""
+msgstr "Pop Out"
 
 #. Label of the spamd_port (Int) field in DocType 'Mail Settings'
 #. Label of the port (Int) field in DocType 'Mail Cluster Store'
@@ -7581,7 +7581,7 @@ msgstr "Шуудангийн код"
 #. Option for the 'Type' (Select) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "PostgreSQL"
-msgstr ""
+msgstr "PostgreSQL"
 
 #. Label of the prefix (Data) field in DocType 'Mail Cluster Trace'
 #: mail/server/doctype/mail_cluster_trace/mail_cluster_trace.json
@@ -7647,12 +7647,12 @@ msgstr "Үндсэн имэйл"
 #: mail/client/doctype/calendar_rights/calendar_rights.json
 #: mail/client/doctype/event_notification/event_notification.json
 msgid "Principal ID"
-msgstr "Principal дугаар"
+msgstr "Үндсэн ID"
 
 #. Name of a DocType
 #: mail/server/doctype/principal_list/principal_list.json
 msgid "Principal List"
-msgstr "Principal жагсаалт"
+msgstr "Үндсэн жагсаалт"
 
 #. Name of a DocType
 #: mail/server/doctype/principal_member/principal_member.json
@@ -7667,7 +7667,7 @@ msgstr "-ийн үндсэн гишүүн"
 #. Label of the principal_name (Link) field in DocType 'Principal Settings'
 #: mail/server/doctype/principal_settings/principal_settings.json
 msgid "Principal Name"
-msgstr "Principal нэр"
+msgstr "Үндсэн нэр"
 
 #. Name of a DocType
 #: mail/server/doctype/principal_password/principal_password.json
@@ -7689,7 +7689,7 @@ msgstr "Гол үүрэг"
 #: mail/server/doctype/principal_settings/principal_settings.json
 #: mail/workspace_sidebar/server.json
 msgid "Principal Settings"
-msgstr "Principal тохиргоо"
+msgstr "Үндсэн тохиргоо"
 
 #: mail/client/doctype/user_settings/user_settings.py:145
 msgid "Principal Settings for {0} does not exist. Please create Principal Settings with the principal name same as the JMAP username."
@@ -7698,7 +7698,7 @@ msgstr "{0}-д зориулсан үндсэн тохиргоо байхгүй �
 #. Label of the principal_type (Select) field in DocType 'Principal Settings'
 #: mail/server/doctype/principal_settings/principal_settings.json
 msgid "Principal Type"
-msgstr "Principal төрөл"
+msgstr "Үндсэн төрөл"
 
 #. Name of a DocType
 #: mail/server/doctype/principal_url/principal_url.json
@@ -7719,7 +7719,7 @@ msgstr "Үндсэн {0} арын хэсэгт олдсонгүй."
 
 #: mail/client/doctype/mailbox/mailbox.py:263
 msgid "Prior mailbox ID {0} not found."
-msgstr "Prior mailbox ID {0} олдсонгүй"
+msgstr "Өмнөх шуудангийн хайрцгийн ID {0} олдсонгүй."
 
 #. Label of the priority (Select) field in DocType 'Mail Queue'
 #. Label of the priority (Int) field in DocType 'DNS Record'
@@ -7792,7 +7792,7 @@ msgstr "Профайл шинэчлэгдсэн."
 #. DocType 'Mail Cluster'
 #: mail/server/doctype/mail_cluster/mail_cluster.json
 msgid "Prometheus Pull Metrics"
-msgstr ""
+msgstr "Prometheus Pull Metrics"
 
 #. Label of the protocol (Select) field in DocType 'Mail Server Listener'
 #: mail/server/doctype/mail_server_listener/mail_server_listener.json
@@ -7886,7 +7886,7 @@ msgstr "API хүсэлтийг баталгаажуулахад ашиглада
 #. 'DMARC Report'
 #: mail/server/doctype/dmarc_report/dmarc_report.json
 msgid "Published Policy"
-msgstr "Published бодлого"
+msgstr "Нийтэлсэн бодлого"
 
 #. Label of the purge_frequency (Data) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
@@ -7933,7 +7933,7 @@ msgstr "Түлхэх захиалгыг устгах алдаа(ууд):<br>{0}"
 
 #: mail/client/doctype/push_subscription/push_subscription.py:184
 msgid "Push Subscription Not Found"
-msgstr "Push Subscription олдсонгүй"
+msgstr "Түлхэх захиалга олдсонгүй"
 
 #: mail/client/doctype/push_subscription/push_subscription.py:201
 #: mail/client/doctype/push_subscription/push_subscription.py:218
@@ -8035,7 +8035,7 @@ msgstr "Квот (ГБ)"
 
 #: mail/client/doctype/quota/quota.py:88
 msgid "Quota Not Found"
-msgstr "Quota олдсонгүй"
+msgstr "Квот олдсонгүй"
 
 #: frontend/src/pages/dashboard/MemberView.vue:46
 msgid "Quota Usage"
@@ -8169,7 +8169,7 @@ msgstr "Дахилт"
 #. Label of the recurrence_id (Data) field in DocType 'Calendar Event'
 #: mail/client/doctype/calendar_event/calendar_event.json
 msgid "Recurrence ID"
-msgstr "Recurrence дугаар"
+msgstr "Давталтын ID"
 
 #. Label of the recurrence_id_time_zone (Autocomplete) field in DocType
 #. 'Calendar Event'
@@ -8210,7 +8210,7 @@ msgstr "Redis URL(ууд)"
 #. Option for the 'Type' (Select) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Redis/Memcached"
-msgstr ""
+msgstr "Redis/Memcached"
 
 #. Group in Mail Cluster's connections
 #. Group in Mail Server's connections
@@ -8377,7 +8377,7 @@ msgstr "Тайлан эхлэх"
 #. Report'
 #: mail/server/doctype/dmarc_report/dmarc_report.json
 msgid "Report Details"
-msgstr "Report дэлгэрэнгүй"
+msgstr "Мэдээллийн дэлгэрэнгүй мэдээлэл"
 
 #. Label of the report_end (Datetime) field in DocType 'DMARC Report'
 #: mail/server/doctype/dmarc_report/dmarc_report.json
@@ -8388,7 +8388,7 @@ msgstr "Төгсгөлийг мэдээлэх"
 #: mail/server/doctype/dmarc_report/dmarc_report.json
 #: mail/server/report/dmarc_report_viewer/dmarc_report_viewer.py:37
 msgid "Report ID"
-msgstr "Report дугаар"
+msgstr "Тайлан ID"
 
 #. Label of the request_key (Data) field in DocType 'Mail Account Request'
 #: mail/server/doctype/mail_account_request/mail_account_request.json
@@ -8427,7 +8427,7 @@ msgstr "Нөөц"
 #. Label of the resource_type (Data) field in DocType 'Quota'
 #: mail/client/doctype/quota/quota.json
 msgid "Resource Type"
-msgstr "Resource төрөл"
+msgstr "Нөөцийн төрөл"
 
 #. Label of the response (JSON) field in DocType 'Mail Queue'
 #. Label of the _response (JSON) field in DocType 'Mail Queue'
@@ -8552,7 +8552,7 @@ msgstr "Эрх"
 #. Option for the 'Type' (Select) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "RocksDB"
-msgstr ""
+msgstr "RocksDB"
 
 #. Label of the role (Select) field in DocType 'Mailbox'
 #. Option for the 'Type' (Select) field in DocType 'Principal'
@@ -8583,7 +8583,7 @@ msgstr "Дүрүүд"
 #. Label of the root_domain_name (Data) field in DocType 'Mail Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "Root Domain Name"
-msgstr "Root Domain нэр"
+msgstr "Үндсэн домэйн нэр"
 
 #: frontend/src/pages/dashboard/DomainView.vue:199
 #: frontend/src/pages/dashboard/DomainView.vue:236
@@ -8602,7 +8602,7 @@ msgstr "DKIM түлхүүрүүдийг эргүүлж байна..."
 
 #: mail/client/doctype/contact_card/contact_card.py:28
 msgid "Row #{0}: Address Book ID is required."
-msgstr "Row #{0}: Address Book ID шаардлагатай"
+msgstr "Мөр #{0}: Хаягийн дэвтрийн ID шаардлагатай."
 
 #: mail/client/doctype/calendar_event/calendar_event.py:30
 msgid "Row #{0}: Calendar ID is required."
@@ -8610,36 +8610,36 @@ msgstr "Row #{0}: Calendar ID шаардлагатай"
 
 #: mail/server/doctype/mail_server/mail_server.py:119
 msgid "Row #{0}: Certificate ID {1} is duplicated."
-msgstr "Мөр {0}: Certificate ID {1} is duplicated."
+msgstr "Мөр #{0}: Сертификат ID {1} давхардсан байна."
 
 #: mail/server/doctype/mail_server/mail_server.py:126
 msgid "Row #{0}: Certificate or Certificate Path is required."
-msgstr "Row #{0}: Certificate or Certificate Path шаардлагатай"
+msgstr "Мөр #{0}: Сертификат эсвэл гэрчилгээний зам шаардлагатай."
 
 #: mail/server/doctype/mail_server/mail_server.py:99
 msgid "Row #{0}: Directory ID {1} is duplicated."
-msgstr "Мөр {0}: Directory ID {1} is duplicated."
+msgstr "Мөр #{0}: Лавлах ID {1} давхардсан байна."
 
 #: mail/server/doctype/principal/principal.py:237
 msgid "Row #{0}: Failed to verify {1} : {2}"
-msgstr "Мөр {0}: Failed to verify {1} : {2}"
+msgstr "Мөр #{0}: Баталгаажуулж чадсангүй {1} : {2}"
 
 #: mail/server/doctype/mail_cluster/mail_cluster.py:192
 #: mail/server/doctype/mail_server/mail_server.py:140
 msgid "Row #{0}: Listener ID {1} is duplicated."
-msgstr "Мөр {0}: Listener ID {1} is duplicated."
+msgstr "Мөр #{0}: Сонсогчийн ID {1} давхардсан байна."
 
 #: mail/server/doctype/mail_server/mail_server.py:128
 msgid "Row #{0}: Private Key or Private Key Path is required."
-msgstr "Row #{0}: Private Key or Private Key Path шаардлагатай"
+msgstr "Мөр #{0}: Хувийн түлхүүр эсвэл хувийн түлхүүрийн зам шаардлагатай."
 
 #: mail/server/doctype/mail_cluster/mail_cluster.py:154
 msgid "Row #{0}: Store ID {1} is duplicated."
-msgstr "Мөр {0}: Store ID {1} is duplicated."
+msgstr "Мөр #{0}: Дэлгүүрийн ID {1} давхардсан байна."
 
 #: mail/server/doctype/mail_cluster/mail_cluster.py:206
 msgid "Row #{0}: Tracer ID {1} is duplicated."
-msgstr "Мөр {0}: Tracer ID {1} is duplicated."
+msgstr "Мөр #{0}: Tracer ID {1} давхардсан байна."
 
 #. Option for the 'Status' (Select) field in DocType 'Server Ansible Play'
 #. Option for the 'Status' (Select) field in DocType 'Server Ansible Play Task'
@@ -8704,7 +8704,7 @@ msgstr "SPF үр дүн"
 #. Option for the 'Type' (Select) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "SQLite"
-msgstr ""
+msgstr "SQLite"
 
 #. Option for the 'Type' (Select) field in DocType 'Principal DNS Record'
 #: mail/server/doctype/principal_dns_record/principal_dns_record.json
@@ -8793,7 +8793,7 @@ msgstr "Скан хийх горим"
 #: mail/client/doctype/event_notification/event_notification.json
 #: mail/client/doctype/event_participant/event_participant.json
 msgid "Schedule ID"
-msgstr "Schedule дугаар"
+msgstr "Хуваарийн ID"
 
 #. Label of the scope (Data) field in DocType 'Quota'
 #: mail/client/doctype/quota/quota.json
@@ -8807,7 +8807,7 @@ msgstr "Скриптийн агуулга"
 
 #: frontend/src/components/Modals/SieveScriptModal.vue:20
 msgid "Script Name"
-msgstr "Script нэр"
+msgstr "Скриптийн нэр"
 
 #: frontend/src/components/Modals/SearchModal.vue:95
 #: frontend/src/pages/AddressBookView.vue:32
@@ -8901,12 +8901,12 @@ msgstr "All ({0}+A) сонгох"
 
 #: frontend/src/components/Modals/ShortcutsModal.vue:68
 msgid "Select All Mails"
-msgstr "All Mails сонгох"
+msgstr "Бүх имэйлийг сонгоно уу"
 
 #: frontend/src/components/Modals/AddAddressBookContactsModal.vue:46
 #: frontend/src/components/Modals/ContactsModal.vue:58
 msgid "Select Contacts"
-msgstr "Contacts сонгох"
+msgstr "Харилцагчдыг сонгоно уу"
 
 #: frontend/src/components/Modals/ContactsModal.vue:7
 msgid "Select From"
@@ -8971,7 +8971,7 @@ msgstr "Илгээгчийн имэйл"
 #. Label of the sender_name (Data) field in DocType 'Mail Message'
 #: mail/client/doctype/mail_message/mail_message.json
 msgid "Sender Name"
-msgstr "Sender нэр"
+msgstr "Илгээгчийн нэр"
 
 #. Option for the 'Category' (Select) field in DocType 'Principal DNS Record'
 #: mail/server/doctype/principal_dns_record/principal_dns_record.json
@@ -9076,7 +9076,7 @@ msgstr "Серверийн хариу үйлдэл"
 #. Label of the redis_type (Select) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Server Type"
-msgstr "Server төрөл"
+msgstr "Серверийн төрөл"
 
 #. Label of the server_url (Data) field in DocType 'User Settings'
 #: mail/client/doctype/user_settings/user_settings.json
@@ -9191,22 +9191,22 @@ msgstr "Тухайн үед календарийн үйл явдлуудыг х�
 
 #: mail/client/doctype/user_settings/user_settings.js:13
 msgid "Show App Password"
-msgstr "App Password харуулах"
+msgstr "Аппын нууц үгийг харуулах"
 
 #: mail/server/doctype/mail_cluster/mail_cluster.js:148
 msgid "Show Password"
-msgstr "Password харуулах"
+msgstr "Нууц үгээ харуулах"
 
 #. Label of the show_reading_pane (Check) field in DocType 'User Settings'
 #: frontend/src/components/Settings/AppearanceSettings.vue:13
 #: mail/client/doctype/user_settings/user_settings.json
 msgid "Show Reading Pane"
-msgstr "Reading Pane харуулах"
+msgstr "Унших самбарыг харуулах"
 
 #. Label of the show_without_time (Check) field in DocType 'Calendar Event'
 #: mail/client/doctype/calendar_event/calendar_event.json
 msgid "Show Without Time"
-msgstr "Without Time харуулах"
+msgstr "Цаг хугацаагүй шоу"
 
 #. Description of the 'Show Reading Pane' (Check) field in DocType 'User
 #. Settings'
@@ -9243,7 +9243,7 @@ msgstr "Шигшүүрийн скриптийг устгах алдаа(ууд):
 #: mail/client/doctype/sieve_script/sieve_script.py:29
 #: mail/client/doctype/sieve_script/sieve_script.py:213
 msgid "Sieve Script Not Found"
-msgstr "Sieve Script олдсонгүй"
+msgstr "Шигшүүрийн скрипт олдсонгүй"
 
 #: mail/client/doctype/sieve_script/sieve_script.py:221
 msgid "Sieve Script Update Error"
@@ -9259,7 +9259,7 @@ msgstr "{0} ID-тай шигшүүрийн скрипт {1} хэрэглэгчэ
 
 #: mail/client/doctype/sieve_script/sieve_script.py:212
 msgid "Sieve Script with ID {0} not found."
-msgstr "Sieve Script with ID {0} олдсонгүй"
+msgstr "{0} ID-тай шигших скрипт олдсонгүй."
 
 #: frontend/src/components/Settings/AutomationSettings.vue:3
 msgid "Sieve Scripts"
@@ -9320,7 +9320,7 @@ msgstr "Гарын үсэг зурсан байгууллага"
 #: frontend/src/components/Modals/EditSignatureModal.vue:7
 #: mail/client/doctype/mail_signature/mail_signature.json
 msgid "Signature Name"
-msgstr "Signature нэр"
+msgstr "Гарын үсгийн нэр"
 
 #: frontend/src/components/Modals/AddSignatureModal.vue:55
 msgid "Signature created."
@@ -9524,7 +9524,7 @@ msgstr "Имэйлийн хавсралтын хамгийн дээд хэмжэ
 
 #: mail/utils/__init__.py:834
 msgid "Stalwart CLI not found at {0}."
-msgstr "Stalwart CLI {0} дээр олдсонгүй."
+msgstr "Stalwart CLI {0} дээрээс олдсонгүй."
 
 #: mail/server/doctype/server_deployment/server_deployment.py:288
 msgid "Stalwart service not found in deployment {0}"
@@ -9678,13 +9678,13 @@ msgstr "Хадгалах"
 #. Label of the storage_account (Data) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Storage Account Name"
-msgstr "Storage Account нэр"
+msgstr "Хадгалах дансны нэр"
 
 #. Label of the storage_settings_section (Section Break) field in DocType 'Mail
 #. Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Storage Settings"
-msgstr "Storage тохиргоо"
+msgstr "Хадгалах тохиргоо"
 
 #: frontend/src/pages/dashboard/MemberView.vue:152
 msgid "Storage Used (in Bytes)"
@@ -9702,11 +9702,11 @@ msgstr "Хадгалах сангийн төрөл."
 #. Label of the store_id (Data) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Store ID"
-msgstr "Store дугаар"
+msgstr "Дэлгүүрийн ID"
 
 #: mail/server/doctype/mail_cluster/mail_cluster.py:171
 msgid "Store with Store ID {0} not found."
-msgstr "Store with Store ID {0} олдсонгүй"
+msgstr "Дэлгүүрийн ID-тай дэлгүүр {0} олдсонгүй."
 
 #. Label of the stores_section (Section Break) field in DocType 'Mail Cluster'
 #. Label of the stores (Table) field in DocType 'Mail Cluster'
@@ -9734,7 +9734,7 @@ msgstr "Имэйл хаягаар дэд хаяг оруулахыг хориг�
 #. Label of the subdomain_policy (Data) field in DocType 'DMARC Report'
 #: mail/server/doctype/dmarc_report/dmarc_report.json
 msgid "Subdomain Policy"
-msgstr "Subdomain бодлого"
+msgstr "Дэд домайн бодлого"
 
 #. Label of the subject (Small Text) field in DocType 'Mail Message'
 #. Label of the subject (Small Text) field in DocType 'Mail Queue'
@@ -9979,7 +9979,7 @@ msgstr "TXT нь шифрлэгдсэн шуудан хүргэлтийг бат
 
 #: mail/client/doctype/mailbox/mailbox.py:249
 msgid "Target mailbox ID {0} not found."
-msgstr "Target mailbox ID {0} олдсонгүй"
+msgstr "Зорилтот шуудангийн хайрцгийн ID {0} олдсонгүй."
 
 #. Label of the task (Data) field in DocType 'Server Ansible Play Task'
 #: mail/server/doctype/server_ansible_play_task/server_ansible_play_task.json
@@ -10829,7 +10829,7 @@ msgstr "Энэ хүсэлтийн хугацаа дууссан. Шинээр ү
 
 #: frontend/src/components/MailThread.vue:224
 msgid "This sender is blocked"
-msgstr ""
+msgstr "Энэ илгээгчийг блоклосон байна"
 
 #. Description of the 'Default' (Check) field in DocType 'Address Book'
 #: mail/client/doctype/address_book/address_book.json
@@ -10854,16 +10854,16 @@ msgstr "Хэлхээ"
 #: mail/client/doctype/mail_message/mail_message.json
 #: mail/client/doctype/mail_queue/mail_queue.json
 msgid "Thread ID"
-msgstr "Thread дугаар"
+msgstr "Thread ID"
 
 #. Label of the workers (Int) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Thread Pool Size"
-msgstr ""
+msgstr "Thread Pool Size"
 
 #: frontend/src/pages/MailboxView.vue:1081
 msgid "Thread deleted."
-msgstr ""
+msgstr "Сэдвийг устгасан."
 
 #: frontend/src/pages/MailboxView.vue:1013
 #: frontend/src/pages/MailboxView.vue:1070
@@ -10880,7 +10880,7 @@ msgstr "Утас {0} руу зөөгдсөн."
 
 #: frontend/src/pages/MailboxView.vue:918
 msgid "Threads"
-msgstr ""
+msgstr "Threads"
 
 #: frontend/src/pages/MailboxView.vue:1081
 msgid "Threads deleted."
@@ -11029,42 +11029,42 @@ msgstr "Токен"
 #. Label of the total_cached_blobs (Int) field in DocType 'User Settings'
 #: mail/client/doctype/user_settings/user_settings.json
 msgid "Total Cached Blobs"
-msgstr "Нийт Cached Blobs"
+msgstr "Нийт кэшлэгдсэн толбо"
 
 #. Label of the total_cached_contact_cards (Int) field in DocType 'User
 #. Settings'
 #: mail/client/doctype/user_settings/user_settings.json
 msgid "Total Cached Contact Cards"
-msgstr "Нийт Cached Contact Cards"
+msgstr "Нийт кэштэй харилцах картууд"
 
 #. Label of the total_cached_mail_messages (Int) field in DocType 'User
 #. Settings'
 #: mail/client/doctype/user_settings/user_settings.json
 msgid "Total Cached Mail Messages"
-msgstr "Нийт Cached Mail Messages"
+msgstr "Нийт кэшлэгдсэн имэйл мессеж"
 
 #: frontend/src/pages/AddressBookView.vue:25
 msgid "Total Contacts"
-msgstr "Нийт Contacts"
+msgstr "Нийт харилцагчид"
 
 #. Label of the total_emails (Int) field in DocType 'Mailbox'
 #: mail/client/doctype/mailbox/mailbox.json
 msgid "Total Emails"
-msgstr "Нийт Emails"
+msgstr "Нийт имэйл"
 
 #. Label of the jmap_protocol_upload_quota_files (Int) field in DocType 'Mail
 #. Cluster'
 #: mail/server/doctype/mail_cluster/mail_cluster.json
 msgid "Total Files"
-msgstr "Нийт Files"
+msgstr "Нийт файлууд"
 
 #: frontend/src/pages/dashboard/MailingListView.vue:27
 msgid "Total Members"
-msgstr "Нийт Members"
+msgstr "Нийт гишүүд"
 
 #: frontend/src/components/QuotaProgressBar.vue:35
 msgid "Total Quota"
-msgstr "Нийт Quota"
+msgstr "Нийт квот"
 
 #. Label of the jmap_protocol_upload_quota_size (Int) field in DocType 'Mail
 #. Cluster'
@@ -11086,7 +11086,7 @@ msgstr "Мөр"
 #. Label of the tracer_id (Data) field in DocType 'Mail Cluster Trace'
 #: mail/server/doctype/mail_cluster_trace/mail_cluster_trace.json
 msgid "Tracer ID"
-msgstr "Tracer дугаар"
+msgstr "Tracer ID"
 
 #. Label of the tracer_configuration_section (Section Break) field in DocType
 #. 'Mail Cluster Trace'
@@ -11113,7 +11113,7 @@ msgstr "Хяналтын бүртгэл"
 #. 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Transaction Settings"
-msgstr "Transaction тохиргоо"
+msgstr "Гүйлгээний тохиргоо"
 
 #. Description of the 'Max Retry Delay (Seconds)' (Int) field in DocType 'Mail
 #. Cluster Store'
@@ -11507,7 +11507,7 @@ msgstr "Имэйл, шигшүүр скрипт болон бусад файлу
 #. Description of the 'Profile' (Data) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "Used when retrieving credentials from a shared credentials file. If specified, the server will use the access key ID, secret access key, and session token (if available) associated with the given profile."
-msgstr ""
+msgstr "Хуваалцсан итгэмжлэлийн файлаас итгэмжлэл авах үед ашигладаг. Хэрэв заасан бол сервер өгөгдсөн профайлтай холбоотой хандалтын түлхүүр ID, нууц хандалтын түлхүүр, сессийн токен (хэрэв байгаа бол) ашиглана."
 
 #. Label of the user (Link) field in DocType 'Address Book'
 #. Label of the user (Link) field in DocType 'Blocked Email Address'
@@ -11746,7 +11746,7 @@ msgstr "Хувьсагч"
 #. 'Mail Account Request'
 #: mail/server/doctype/mail_account_request/mail_account_request.json
 msgid "Verification Details"
-msgstr "Verification дэлгэрэнгүй"
+msgstr "Баталгаажуулах дэлгэрэнгүй мэдээлэл"
 
 #. Label of the verification_key (Data) field in DocType 'Mail Domain Request'
 #: frontend/src/components/Modals/AddDomainModal.vue:41
@@ -11792,7 +11792,7 @@ msgstr "Шалгах"
 
 #: mail/server/doctype/mail_account_request/mail_account_request.py:155
 msgid "Verify Account"
-msgstr "Verify данс"
+msgstr "Бүртгэлийг баталгаажуулах"
 
 #: frontend/src/components/Modals/AddDomainModal.vue:8
 msgid "Verify DNS"
@@ -11836,7 +11836,7 @@ msgstr "Видеог урьдчилан үзэх"
 
 #: frontend/src/components/Modals/ShortcutsModal.vue:105
 msgid "View Shortcuts"
-msgstr "Shortcuts харах"
+msgstr "Товчлол харах"
 
 #: mail/client/doctype/mail_exchange/mail_exchange.py:920
 #: mail/server/doctype/mail_data_exchange/mail_data_exchange.py:316
@@ -12163,7 +12163,7 @@ msgstr "emails.json импортын лавлахаас олдсонгүй."
 #. Option for the 'Format' (Select) field in DocType 'Mail Exchange'
 #: mail/client/doctype/mail_exchange/mail_exchange.json
 msgid "eml"
-msgstr ""
+msgstr "eml"
 
 #: frontend/src/components/Modals/SetSieveScriptStateModal.vue:29
 msgid "enable"
@@ -12178,7 +12178,7 @@ msgstr "идэвхжүүлсэн"
 #: mail/server/doctype/mail_cluster/mail_cluster.json
 #: mail/server/doctype/mail_cluster_trace/mail_cluster_trace.json
 msgid "gRPC"
-msgstr ""
+msgstr "gRPC"
 
 #. Option for the 'Network Mode' (Select) field in DocType 'Server Deployment
 #. Service'
@@ -12199,14 +12199,14 @@ msgstr "ирсэн хайрцаг"
 #. Option for the 'Disposition' (Select) field in DocType 'Mail Message Part'
 #: mail/client/doctype/mail_message_part/mail_message_part.json
 msgid "inline"
-msgstr ""
+msgstr "inline"
 
 #. Option for the 'Format' (Select) field in DocType 'Mail Exchange'
 #. Option for the 'Format' (Select) field in DocType 'Mail Data Exchange'
 #: mail/client/doctype/mail_exchange/mail_exchange.json
 #: mail/server/doctype/mail_data_exchange/mail_data_exchange.json
 msgid "jmap"
-msgstr ""
+msgstr "jmap"
 
 #. Option for the 'Role' (Select) field in DocType 'Mailbox'
 #: mail/client/doctype/mailbox/mailbox.json
@@ -12248,12 +12248,12 @@ msgstr "maildir-нуурласан"
 #: mail/client/doctype/mail_exchange/mail_exchange.json
 #: mail/server/doctype/mail_data_exchange/mail_data_exchange.json
 msgid "mbox"
-msgstr ""
+msgstr "mbox"
 
 #. Option for the 'Type' (Select) field in DocType 'Mail Cluster Store'
 #: mail/server/doctype/mail_cluster_store/mail_cluster_store.json
 msgid "mySQL"
-msgstr ""
+msgstr "mySQL"
 
 #. Option for the 'Restart' (Select) field in DocType 'Server Deployment
 #. Service'
@@ -12278,7 +12278,7 @@ msgstr "аль нь ч биш"
 #: mail/client/doctype/push_subscription/push_subscription.py:164
 #: mail/client/doctype/sieve_script/sieve_script.py:121
 msgid "notCreateddescription"
-msgstr ""
+msgstr "notCreateddescription"
 
 #: mail/client/doctype/calendar_event/calendar_event.py:508
 msgid "notDestroyeddescription"
@@ -12286,11 +12286,11 @@ msgstr "үгүй биш тайлбар"
 
 #: mail/client/doctype/calendar_event/calendar_event.py:553
 msgid "notFounddescription"
-msgstr ""
+msgstr "notFounddescription"
 
 #: mail/client/doctype/calendar_event/calendar_event.py:551
 msgid "notParsabledescription"
-msgstr ""
+msgstr "notParsabledescription"
 
 #: mail/client/doctype/address_book/address_book.py:200
 #: mail/client/doctype/calendar/calendar.py:218

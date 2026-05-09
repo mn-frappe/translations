@@ -284,7 +284,7 @@ msgstr "<h5>Тэмдэглэгдээгүй ажилчид</h5>"
 #. Attendance Tool'
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
 msgid "<hr>"
-msgstr ""
+msgstr "<hr>"
 
 #. Header text in the Payroll Workspace
 #: hrms/payroll/workspace/payroll/payroll.json
@@ -426,7 +426,7 @@ msgstr "Хуримтлагдсан ашиг тус"
 #. Name of a report
 #: hrms/payroll/report/accrued_earnings_report/accrued_earnings_report.json
 msgid "Accrued Earnings Report"
-msgstr "Accrued Earnings тайлан"
+msgstr "Хуримтлагдсан орлогын тайлан"
 
 #: hrms/payroll/doctype/employee_benefit_ledger/employee_benefit_ledger.py:99
 msgid "Accrued amount {0} is less than paid amount {1} for Benefit {2} in payroll period {3}"
@@ -440,13 +440,13 @@ msgstr "Өргөдөл гаргах арга хэмжээ"
 #. Activity'
 #: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
 msgid "Activity Name"
-msgstr "Activity нэр"
+msgstr "Үйл ажиллагааны нэр"
 
 #. Label of the amount (Currency) field in DocType 'Employee Tax Exemption
 #. Proof Submission Detail'
 #: hrms/payroll/doctype/employee_tax_exemption_proof_submission_detail/employee_tax_exemption_proof_submission_detail.json
 msgid "Actual Amount"
-msgstr "Actual дүн"
+msgstr "Бодит дүн"
 
 #. Label of the actual_encashable_days (Float) field in DocType 'Leave
 #. Encashment'
@@ -467,19 +467,19 @@ msgstr "Амралтын өргөдөл нь өөр өөр амралтын ху
 #. Label of the add_day_wise_dates (Button) field in DocType 'Leave Block List'
 #: hrms/hr/doctype/leave_block_list/leave_block_list.json
 msgid "Add Day-wise Dates"
-msgstr "Day-wise Dates нэмэх"
+msgstr "Өдрийн огноог нэмнэ үү"
 
 #: hrms/hr/employee_property_update.js:43
 msgid "Add Employee Property"
-msgstr "Employee Property нэмэх"
+msgstr "Ажилтны өмчийг нэмнэ үү"
 
 #: frontend/src/components/ExpensesTable.vue:123
 msgid "Add Expense"
-msgstr "Expense нэмэх"
+msgstr "Зардал нэмэх"
 
 #: hrms/public/js/performance/performance_feedback.js:95
 msgid "Add Feedback"
-msgstr "Feedback нэмэх"
+msgstr "Санал хүсэлт нэмэх"
 
 #: frontend/src/components/ExpenseTaxesTable.vue:118
 msgid "Add Tax"
@@ -514,7 +514,7 @@ msgstr "Дэлгэрэнгүй мэдээлэлд нэмсэн"
 #. Label of the additional_amount (Currency) field in DocType 'Salary Detail'
 #: hrms/payroll/doctype/salary_detail/salary_detail.json
 msgid "Additional Amount"
-msgstr "Additional дүн"
+msgstr "Нэмэлт дүн"
 
 #. Label of the additional_information_section (Section Break) field in DocType
 #. 'Employee Referral'
@@ -572,7 +572,7 @@ msgstr "Тохируулга амжилттай хийгдсэн"
 #. Label of the adjustment_type (Select) field in DocType 'Leave Adjustment'
 #: hrms/hr/doctype/leave_adjustment/leave_adjustment.json
 msgid "Adjustment Type"
-msgstr "Adjustment төрөл"
+msgstr "Тохируулах төрөл"
 
 #. Option for the 'Level' (Select) field in DocType 'Training Event'
 #: hrms/hr/doctype/training_event/training_event.json
@@ -581,11 +581,11 @@ msgstr "Урьдчилгаа"
 
 #: hrms/hr/doctype/employee_advance/employee_advance.py:44
 msgid "Advance Account is mandatory. Please set the <a href=\"/app/company/{0}#default_employee_advance_account\" target=\"_blank\">Default Employee Advance Account</a> in the Company record {0} and submit this document."
-msgstr ""
+msgstr "Урьдчилсан данс заавал байх ёстой. Компанийн бүртгэл {0}-д <a href=\"/app/company/{0}#default_employee_advance_account\" target=\"_blank\">Өгөгдмөл ажилтны урьдчилгаа данс</a>-г тохируулж, энэ баримт бичгийг ирүүлнэ үү."
 
 #: hrms/hr/doctype/employee_advance/employee_advance.py:79
 msgid "Advance Account {} currency should be same as Salary Currency of Employee {}. Please select same currency Advance Account"
-msgstr "Advance Account {} currency should be same as Salary Currency of Employee {}. Please select same currency Advance данс"
+msgstr "Урьдчилгаа дансны {} валют нь ажилтны цалингийн валют {}-тэй ижил байх ёстой. Ижил мөнгөн тэмдэгтийн Урьдчилгаа дансыг сонгоно уу"
 
 #. Label of the base_advance_paid (Currency) field in DocType 'Expense Claim
 #. Advance'
@@ -629,7 +629,7 @@ msgstr "Ажилтныг бий болгох зайлшгүй шаардлага
 #. Control Panel'
 #: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
 msgid "Allocate Based On Leave Policy"
-msgstr "Allocate Based On Leave бодлого"
+msgstr "Амралтын бодлогод үндэслэн хуваарилна"
 
 #: hrms/hr/doctype/leave_control_panel/leave_control_panel.js:176
 msgid "Allocate Leave"
@@ -668,13 +668,13 @@ msgstr "Амралт хуваарилах"
 #. Label of the allocation_date (Date) field in DocType 'Earned Leave Schedule'
 #: hrms/hr/doctype/earned_leave_schedule/earned_leave_schedule.json
 msgid "Allocation Date"
-msgstr "Allocation огноо"
+msgstr "Хуваарилалтын огноо"
 
 #. Label of the section_break_etvg (Section Break) field in DocType 'Leave
 #. Adjustment'
 #: hrms/hr/doctype/leave_adjustment/leave_adjustment.json
 msgid "Allocation Details"
-msgstr "Allocation дэлгэрэнгүй"
+msgstr "Хуваарилалтын дэлгэрэнгүй мэдээлэл"
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.js:119
 msgid "Allocation Expired!"
@@ -724,12 +724,12 @@ msgstr "(Ажлын өдрүүд) дараа өргөдөл гаргахыг з�
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 #: hrms/hr/doctype/shift_assignment/shift_assignment.py:105
 msgid "Allow Multiple Shift Assignments for Same Date"
-msgstr "Allow Multiple Shift Assignments for Same огноо"
+msgstr "Ижил огноонд олон ээлжийн даалгаврыг зөвшөөрөх"
 
 #. Label of the allow_negative (Check) field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "Allow Negative Balance"
-msgstr "Allow Negative үлдэгдэл"
+msgstr "Сөрөг үлдэгдлийг зөвшөөрөх"
 
 #. Label of the allow_over_allocation (Check) field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
@@ -855,7 +855,7 @@ msgstr "Жилийн цалин"
 #. Label of the annual_taxable_amount (Currency) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Annual Taxable Amount"
-msgstr "Annual Taxable дүн"
+msgstr "Жилийн татвар ногдох хэмжээ"
 
 #. Label of the description (Small Text) field in DocType 'Travel Request'
 #: hrms/hr/doctype/travel_request/travel_request.json
@@ -899,7 +899,7 @@ msgstr "Өргөдөл гаргагчийн имэйл хаяг"
 #: hrms/hr/doctype/job_offer/job_offer.json
 #: hrms/hr/web_form/job_application/job_application.json
 msgid "Applicant Name"
-msgstr "Applicant нэр"
+msgstr "Өргөдөл гаргагчийн нэр"
 
 #. Label of the applicant_rating (Rating) field in DocType 'Job Applicant'
 #: hrms/hr/doctype/job_applicant/job_applicant.json
@@ -922,7 +922,7 @@ msgstr "Аппликейшн"
 
 #: hrms/hr/report/recruitment_analytics/recruitment_analytics.py:46
 msgid "Application Status"
-msgstr "Application төлөв"
+msgstr "Хэрэглээний статус"
 
 #: hrms/hr/doctype/leave_application/leave_application.py:210
 msgid "Application period cannot be across two allocation records"
@@ -970,7 +970,7 @@ msgstr "Амралтын өдөр өргөдөл гаргана уу"
 #. Label of the appointment_date (Date) field in DocType 'Appointment Letter'
 #: hrms/hr/doctype/appointment_letter/appointment_letter.json
 msgid "Appointment Date"
-msgstr "Appointment огноо"
+msgstr "Уулзалтын огноо"
 
 #. Name of a DocType
 #. Label of a Link in the Recruitment Workspace
@@ -987,7 +987,7 @@ msgstr "Томилох бичиг"
 #: hrms/hr/doctype/appointment_letter_template/appointment_letter_template.json
 #: hrms/hr/workspace/recruitment/recruitment.json
 msgid "Appointment Letter Template"
-msgstr "Appointment Letter загвар"
+msgstr "Томилгооны захидлын загвар"
 
 #. Name of a DocType
 #: hrms/hr/doctype/appointment_letter_content/appointment_letter_content.json
@@ -1051,7 +1051,7 @@ msgstr "Үнэлгээний тойм"
 #: hrms/hr/doctype/appraisal_template/appraisal_template.json
 #: hrms/hr/doctype/appraisee/appraisee.json hrms/setup.py:162
 msgid "Appraisal Template"
-msgstr "Appraisal загвар"
+msgstr "Үнэлгээний загвар"
 
 #. Name of a DocType
 #: hrms/hr/doctype/appraisal_template_goal/appraisal_template_goal.json
@@ -1106,7 +1106,7 @@ msgstr "Зөвшөөрөл"
 #. Label of the approval_status (Select) field in DocType 'Expense Claim'
 #: hrms/hr/doctype/expense_claim/expense_claim.json
 msgid "Approval Status"
-msgstr "Approval төлөв"
+msgstr "Зөвшөөрлийн статус"
 
 #: hrms/hr/doctype/expense_claim/expense_claim.py:148
 msgid "Approval Status must be 'Approved' or 'Rejected'"
@@ -1179,7 +1179,7 @@ msgstr "Татвар ногдох цалин дээр үндэслэн Цали�
 #. Label of the arrear_start_date (Date) field in DocType 'Arrear'
 #: hrms/payroll/doctype/arrear/arrear.json
 msgid "Arrear Start Date"
-msgstr "Arrear Start огноо"
+msgstr "Хугацаа хэтэрсэн эхлэх огноо"
 
 #. Label of the arrears_tab (Tab Break) field in DocType 'Arrear'
 #: hrms/payroll/doctype/arrear/arrear.json
@@ -1258,7 +1258,7 @@ msgstr "Холбоотой баримт бичиг"
 #. Grievance'
 #: hrms/hr/doctype/employee_grievance/employee_grievance.json
 msgid "Associated Document Type"
-msgstr "Associated Document төрөл"
+msgstr "Холбоотой баримт бичгийн төрөл"
 
 #: hrms/hr/doctype/exit_interview/exit_interview.py:108
 msgid "At least one interview has to be selected."
@@ -1302,26 +1302,26 @@ msgstr "Ирцийн календарь"
 #. Label of a chart in the Shift & Attendance Workspace
 #: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
 msgid "Attendance Count"
-msgstr "Attendance тоо"
+msgstr "Ирцийн тоо"
 
 #. Label of the attendance_date (Date) field in DocType 'Attendance'
 #: hrms/hr/doctype/attendance/attendance.json
 #: hrms/hr/report/shift_attendance/shift_attendance.py:43
 msgid "Attendance Date"
-msgstr "Attendance огноо"
+msgstr "Ирсэн огноо"
 
 #. Label of the att_fr_date (Date) field in DocType 'Upload Attendance'
 #: hrms/hr/doctype/upload_attendance/upload_attendance.json
 msgid "Attendance From Date"
-msgstr "Attendance From огноо"
+msgstr "Огнооноос ирц"
 
 #: hrms/hr/doctype/upload_attendance/upload_attendance.js:20
 msgid "Attendance From Date and Attendance To Date is mandatory"
-msgstr "Attendance From Date and Attendance To Date заавал шаардлагатай"
+msgstr "Огнооноос өнөөг хүртэлх ирц заавал байх ёстой"
 
 #: hrms/hr/report/shift_attendance/shift_attendance.py:123
 msgid "Attendance ID"
-msgstr "Attendance дугаар"
+msgstr "Ирцийн ID"
 
 #. Label of the attendance (Link) field in DocType 'Employee Checkin'
 #: hrms/hr/doctype/attendance/attendance_list.js:122
@@ -1350,12 +1350,12 @@ msgstr "Ирцийн хүсэлтийн түүх"
 #. 'HR Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Attendance Settings"
-msgstr "Attendance тохиргоо"
+msgstr "Ирцийн тохиргоо"
 
 #. Label of the att_to_date (Date) field in DocType 'Upload Attendance'
 #: hrms/hr/doctype/upload_attendance/upload_attendance.json
 msgid "Attendance To Date"
-msgstr "Attendance To огноо"
+msgstr "Өнөөдрийг хүртэл ирц"
 
 #: hrms/hr/doctype/attendance_request/attendance_request.py:121
 msgid "Attendance Updated"
@@ -1431,7 +1431,7 @@ msgstr "Оролцогчид"
 
 #: hrms/hr/dashboard_chart_source/hiring_vs_attrition_count/hiring_vs_attrition_count.py:56
 msgid "Attrition Count"
-msgstr "Attrition тоо"
+msgstr "Элэгдлийн тоо"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:43
 #: hrms/public/js/salary_slip_deductions_report_filters.js:26
@@ -1442,7 +1442,7 @@ msgstr "Наймдугаар сар"
 #. DocType 'Shift Type'
 #: hrms/hr/doctype/shift_type/shift_type.json
 msgid "Auto Attendance Settings"
-msgstr "Auto Attendance тохиргоо"
+msgstr "Автомат ирцийн тохиргоо"
 
 #. Label of the auto_leave_encashment (Check) field in DocType 'HR Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
@@ -1561,13 +1561,13 @@ msgstr "Ашиг тус"
 #. Label of the amount (Currency) field in DocType 'Employee Benefit Detail'
 #: hrms/payroll/doctype/employee_benefit_detail/employee_benefit_detail.json
 msgid "Benefit Amount"
-msgstr "Benefit дүн"
+msgstr "Тэтгэмжийн хэмжээ"
 
 #. Label of the employee_benefit_details_section (Section Break) field in
 #. DocType 'Employee Benefit Ledger'
 #: hrms/payroll/doctype/employee_benefit_ledger/employee_benefit_ledger.json
 msgid "Benefit Details"
-msgstr "Benefit дэлгэрэнгүй"
+msgstr "Тэтгэмжийн дэлгэрэнгүй мэдээлэл"
 
 #: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.py:36
 msgid "Benefit amount of component {0} exceeds {1}"
@@ -1633,7 +1633,7 @@ msgstr "Төрсөн өдрүүд"
 #. Label of the block_date (Date) field in DocType 'Leave Block List Date'
 #: hrms/hr/doctype/leave_block_list_date/leave_block_list_date.json
 msgid "Block Date"
-msgstr "Block огноо"
+msgstr "Блоклох огноо"
 
 #. Label of the block_days (Section Break) field in DocType 'Leave Block List'
 #: hrms/hr/doctype/leave_block_list/leave_block_list.json
@@ -1654,12 +1654,12 @@ msgstr "Урамшуулал"
 #. Label of the bonus_amount (Currency) field in DocType 'Retention Bonus'
 #: hrms/payroll/doctype/retention_bonus/retention_bonus.json
 msgid "Bonus Amount"
-msgstr "Bonus дүн"
+msgstr "Урамшууллын хэмжээ"
 
 #. Label of the bonus_payment_date (Date) field in DocType 'Retention Bonus'
 #: hrms/payroll/doctype/retention_bonus/retention_bonus.json
 msgid "Bonus Payment Date"
-msgstr "Bonus Payment огноо"
+msgstr "Бонус төлөх огноо"
 
 #: hrms/payroll/doctype/retention_bonus/retention_bonus.py:17
 msgid "Bonus Payment Date cannot be a past date"
@@ -1729,7 +1729,7 @@ msgstr "Цуцлах дараалалд орсон"
 
 #: hrms/hr/doctype/employee_checkin/employee_checkin.py:55
 msgid "Cannot Modify Time"
-msgstr "Modify time боломжгүй"
+msgstr "Цагийг өөрчлөх боломжгүй"
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:323
 msgid "Cannot allocate leaves outside the allocation period {0} - {1}"
@@ -1737,11 +1737,11 @@ msgstr "Allocate leaves outside the allocation period {0} - {1} боломжгү
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:446
 msgid "Cannot allocate more leaves due to maximum leave allocation limit of {0} in leave policy assignment"
-msgstr "Allocate more leaves due to maximum leave allocation limit of {0} in leave policy assignment боломжгүй"
+msgstr "Амралтын бодлогын хуваарилалт дахь {0}-ийн амралтын дээд хязгаарын улмаас нэмэлт чөлөө олгох боломжгүй"
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:438
 msgid "Cannot allocate more leaves due to maximum leaves allowed limit of {0} in {1} leave type."
-msgstr "Allocate more leaves due to maximum leaves allowed limit of {0} in {1} leave type боломжгүй"
+msgstr "{1} чөлөөний төрөл дэх {0}-ийн зөвшөөрөгдөх дээд хязгаараас шалтгаалан илүү навч хуваарилах боломжгүй."
 
 #: hrms/api/roster.py:139
 msgid "Cannot break shift after end date"
@@ -1761,11 +1761,11 @@ msgstr "Cancel shift assignment: {0} as it is linked to employee checkin: {1} б
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:306
 msgid "Cannot create Salary Slip for Employee joining after Payroll Period"
-msgstr "Create salary slip for employee joining after payroll period боломжгүй"
+msgstr "Цалингийн хугацааны дараа ажилд орсон ажилтны цалингийн хуудас үүсгэх боломжгүй"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:309
 msgid "Cannot create Salary Slip for Employee who has left before Payroll Period"
-msgstr "Create salary slip for employee who has left before payroll period боломжгүй"
+msgstr "Цалингийн хугацаанаас өмнө гарсан ажилтны цалингийн хуудас үүсгэх боломжгүй"
 
 #: hrms/hr/doctype/job_applicant/job_applicant.py:49
 msgid "Cannot create a Job Applicant against a closed Job Opening"
@@ -1773,7 +1773,7 @@ msgstr "Create a job applicant against a closed job opening боломжгүй"
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:201
 msgid "Cannot create or change transactions against an Appraisal Cycle with status {0}."
-msgstr "Create or change transactions against an appraisal cycle with status {0} боломжгүй"
+msgstr "{0} статустай Үнэлгээний мөчлөгийн эсрэг гүйлгээ үүсгэх эсвэл өөрчлөх боломжгүй."
 
 #: hrms/hr/doctype/leave_application/leave_application.py:604
 msgid "Cannot find active Leave Period"
@@ -1928,7 +1928,7 @@ msgstr "Нэхэмжлэгдсэн"
 #: hrms/hr/report/employee_advance_summary/employee_advance_summary.py:77
 #: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
 msgid "Claimed Amount"
-msgstr "Claimed дүн"
+msgstr "Нэхэмжлэгдсэн дүн"
 
 #: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.py:34
 msgid "Claimed amount of employee {0} exceeds maximum amount eligible for claim {1}"
@@ -2072,7 +2072,7 @@ msgstr "Амралтын төрлүүдийг нэгтгэх"
 #: hrms/hr/doctype/training_program/training_program.json
 #: hrms/hr/doctype/travel_request/travel_request.json
 msgid "Contact Number"
-msgstr "Contact дугаар"
+msgstr "Холбоо барих дугаар"
 
 #. Label of the travel_proof (Attach) field in DocType 'Travel Request'
 #: hrms/hr/doctype/travel_request/travel_request.json
@@ -2116,60 +2116,60 @@ msgstr "Курс"
 #: hrms/hr/doctype/job_applicant/job_applicant.json
 #: hrms/hr/web_form/job_application/job_application.json
 msgid "Cover Letter"
-msgstr ""
+msgstr "Cover Letter"
 
 #: hrms/hr/doctype/employee_referral/employee_referral.js:40
 msgid "Create Additional Salary"
-msgstr "Additional Salary үүсгэх"
+msgstr "Нэмэлт цалин бий болгох"
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:34
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:38
 msgid "Create Appraisals"
-msgstr "Appraisals үүсгэх"
+msgstr "Үнэлгээг бий болгох"
 
 #: hrms/hr/doctype/interview_round/interview_round.js:7
 #: hrms/hr/doctype/job_applicant/job_applicant.js:95
 msgid "Create Interview"
-msgstr "Interview үүсгэх"
+msgstr "Ярилцлага үүсгэх"
 
 #: hrms/hr/doctype/employee_referral/employee_referral.js:21
 msgid "Create Job Applicant"
-msgstr "Job Applicant үүсгэх"
+msgstr "Ажилд орох өргөдөл гаргагч үүсгэх"
 
 #: hrms/hr/doctype/job_requisition/job_requisition.js:39
 msgid "Create Job Opening"
-msgstr "Job Opening үүсгэх"
+msgstr "Нээлттэй ажлын байр үүсгэх"
 
 #. Label of the create_new_employee_id (Check) field in DocType 'Employee
 #. Transfer'
 #: hrms/hr/doctype/employee_transfer/employee_transfer.json
 msgid "Create New Employee Id"
-msgstr "New Employee Id үүсгэх"
+msgstr "Шинэ ажилтны ID үүсгэх"
 
 #. Label of the create_overtime_slip (Check) field in DocType 'Payroll
 #. Settings'
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.json
 msgid "Create Overtime Slip For Eligible Employee(s)"
-msgstr "Overtime Slip For Eligible Employee(s) үүсгэх"
+msgstr "Эрх бүхий ажилчдад илүү цагийн хуудас үүсгэх"
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.js:83
 msgid "Create Overtime Slips"
-msgstr "Overtime Slips үүсгэх"
+msgstr "Илүү цагийн хуудас үүсгэх"
 
 #: hrms/public/js/erpnext/timesheet.js:8
 msgid "Create Salary Slip"
-msgstr "Salary Slip үүсгэх"
+msgstr "Цалингийн хуудас үүсгэх"
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.js:97
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.js:175
 msgid "Create Salary Slips"
-msgstr "Salary Slips үүсгэх"
+msgstr "Цалингийн хуудас үүсгэх"
 
 #. Label of the create_shifts_after (Date) field in DocType 'Shift Schedule
 #. Assignment'
 #: hrms/hr/doctype/shift_schedule_assignment/shift_schedule_assignment.json
 msgid "Create Shifts After"
-msgstr "Shifts After үүсгэх"
+msgstr "Дараа нь ээлж үүсгэх"
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:192
 msgid "Creating Appraisals"
@@ -2227,7 +2227,7 @@ msgstr "Одоогийн CTC"
 #. Label of the current_count (Int) field in DocType 'Staffing Plan Detail'
 #: hrms/hr/doctype/staffing_plan_detail/staffing_plan_detail.json
 msgid "Current Count"
-msgstr "Current тоо"
+msgstr "Одоогийн тоо"
 
 #. Label of the current_employer (Data) field in DocType 'Employee Referral'
 #: hrms/hr/doctype/employee_referral/employee_referral.json
@@ -2243,7 +2243,7 @@ msgstr "Одоогийн ажлын байрны нэр"
 #. Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Current Month Income Tax"
-msgstr "Current Month Income татвар"
+msgstr "Тухайн сарын орлогын албан татвар"
 
 #: hrms/hr/doctype/vehicle_log/vehicle_log.py:15
 msgid "Current Odometer Value should be greater than Last Odometer Value {0}"
@@ -2290,7 +2290,7 @@ msgstr "Тусгай хүрээ"
 #. Label of the cycle_name (Data) field in DocType 'Appraisal Cycle'
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
 msgid "Cycle Name"
-msgstr "Cycle нэр"
+msgstr "Циклийн нэр"
 
 #. Label of the cycles (Table) field in DocType 'Salary Withholding'
 #: hrms/payroll/doctype/salary_withholding/salary_withholding.json
@@ -2304,7 +2304,7 @@ msgstr "Цикл"
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.js:7
 #: hrms/hr/workspace/tenure/tenure.json
 msgid "Daily Work Summary"
-msgstr "Daily Work хураангуй"
+msgstr "Өдөр тутмын ажлын хураангуй"
 
 #. Label of the daily_work_summary_group (Link) field in DocType 'Daily Work
 #. Summary'
@@ -2341,7 +2341,7 @@ msgstr "Огноо давтагдана"
 
 #: hrms/hr/doctype/overtime_slip/overtime_slip.py:59
 msgid "Date {0} is repeated in Overtime Details"
-msgstr "Date {0} is repeated in Overtime дэлгэрэнгүй"
+msgstr "Нэмэлт цагийн дэлгэрэнгүй мэдээлэлд {0} огноог давтсан байна"
 
 #. Label of the section_break_5 (Section Break) field in DocType 'Leave
 #. Application'
@@ -2369,7 +2369,7 @@ msgstr "Урвуулах өдрүүд тэгээс их байх ёстой."
 
 #: hrms/payroll/report/bank_remittance/bank_remittance.py:19
 msgid "Debit A/C Number"
-msgstr "Debit A/C дугаар"
+msgstr "Дебит A/C дугаар"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:47
 #: hrms/public/js/salary_slip_deductions_report_filters.js:30
@@ -2390,7 +2390,7 @@ msgstr "Тунхаглал"
 #. Declaration Category'
 #: hrms/payroll/doctype/employee_tax_exemption_declaration_category/employee_tax_exemption_declaration_category.json
 msgid "Declared Amount"
-msgstr "Declared дүн"
+msgstr "Зарласан дүн"
 
 #. Label of the deduct_full_tax_on_selected_payroll_date (Check) field in
 #. DocType 'Additional Salary'
@@ -2402,7 +2402,7 @@ msgstr "Declared дүн"
 #: hrms/payroll/doctype/salary_component/salary_component.json
 #: hrms/payroll/doctype/salary_detail/salary_detail.json
 msgid "Deduct Full Tax on Selected Payroll Date"
-msgstr "Deduct Full Tax on Selected Payroll огноо"
+msgstr "Сонгосон цалингийн огнооны татварыг бүрэн хасна"
 
 #. Label of the deduct_tax_for_unsubmitted_tax_exemption_proof (Check) field in
 #. DocType 'Payroll Entry'
@@ -2452,7 +2452,7 @@ msgstr "Татвар тооцохын өмнөх суутгал"
 #. Label of the default_amount (Currency) field in DocType 'Salary Detail'
 #: hrms/payroll/doctype/salary_detail/salary_detail.json
 msgid "Default Amount"
-msgstr "Default дүн"
+msgstr "Өгөгдмөл дүн"
 
 #. Description of the 'Account' (Link) field in DocType 'Salary Component
 #. Account'
@@ -2467,15 +2467,15 @@ msgstr "Үндсэн төлбөр"
 
 #: hrms/setup.py:81
 msgid "Default Employee Advance Account"
-msgstr "Default Employee Advance данс"
+msgstr "Анхдагч ажилтны урьдчилгаа данс"
 
 #: hrms/setup.py:73
 msgid "Default Expense Claim Payable Account"
-msgstr "Default Expense Claim Payable данс"
+msgstr "Анхдагч зардлын нэхэмжлэлийн өглөгийн данс"
 
 #: hrms/overrides/company.py:133 hrms/setup.py:96
 msgid "Default Payroll Payable Account"
-msgstr "Default Payroll Payable данс"
+msgstr "Анхдагч цалингийн төлбөрийн данс"
 
 #. Label of the default_salary_structure (Link) field in DocType 'Employee
 #. Grade'
@@ -2490,7 +2490,7 @@ msgstr "Өгөгдмөл Shift"
 
 #: frontend/src/components/FileUploaderView.vue:49
 msgid "Delete Attachment"
-msgstr "Attachment устгах"
+msgstr "Хавсралтыг устгах"
 
 #: frontend/src/components/FormView.vue:224
 msgid "Delete {0}"
@@ -2685,7 +2685,7 @@ msgstr "Амралт авах журамд заасан жилийн хуваа�
 
 #: hrms/hr/doctype/leave_type/leave_type.js:59
 msgid "Earned Leaves are leaves earned by an Employee after working with the company for a certain amount of time. Enabling this will allocate leaves on pro-rata basis by automatically updating Leave Allocation for leaves of this type at intervals set by 'Earned Leave Frequency."
-msgstr ""
+msgstr "Ажилтан нь тухайн компанитай тодорхой хугацаанд ажилласны дараа олж авсан чөлөө юм. Үүнийг идэвхжүүлснээр энэ төрлийн навчны Амжилтын хуваарилалтыг \"Ажилласан чөлөөний давтамж\"-аар тохируулсан интервалаар автоматаар шинэчлэх замаар навчийг хувь тэнцүүлэн хуваарилах болно."
 
 #. Option for the 'Type' (Select) field in DocType 'Salary Component'
 #: hrms/payroll/doctype/salary_component/salary_component.json
@@ -2734,11 +2734,11 @@ msgstr "Орлого ба суутгал"
 
 #: frontend/src/components/ExpensesTable.vue:213
 msgid "Edit Expense Item"
-msgstr "Expense Item засах"
+msgstr "Зардлын зүйлийг засах"
 
 #: frontend/src/components/ExpenseTaxesTable.vue:221
 msgid "Edit Expense Tax"
-msgstr "Expense Tax засах"
+msgstr "Зардлын татварыг засах"
 
 #. Label of the effective_from (Date) field in DocType 'Leave Policy
 #. Assignment'
@@ -2779,16 +2779,16 @@ msgstr "Ажилтны сонгосон имэйлд үндэслэн цалин
 
 #: hrms/payroll/report/bank_remittance/bank_remittance.py:40
 msgid "Employee A/C Number"
-msgstr "Employee A/C дугаар"
+msgstr "Ажилтны A/C дугаар"
 
 #: hrms/patches/v16_0/create_custom_field_for_employee_advance_in_employee_master.py:11
 #: hrms/setup.py:267
 msgid "Employee Advance Account"
-msgstr "Employee Advance данс"
+msgstr "Ажилчдын урьдчилгаа данс"
 
 #: frontend/src/views/expense_claim/Dashboard.vue:35
 msgid "Employee Advance Balance"
-msgstr "Employee Advance үлдэгдэл"
+msgstr "Ажилчдын урьдчилгаа тэнцэл"
 
 #. Name of a report
 #. Label of a Link in the Expenses Workspace
@@ -2796,7 +2796,7 @@ msgstr "Employee Advance үлдэгдэл"
 #: hrms/hr/report/employee_advance_summary/employee_advance_summary.json
 #: hrms/hr/workspace/expenses/expenses.json hrms/hr/workspace/hr/hr.json
 msgid "Employee Advance Summary"
-msgstr "Employee Advance хураангуй"
+msgstr "Ажилчдын урьдчилгаа хураангуй"
 
 #. Name of a report
 #. Label of a Link in the HR Workspace
@@ -2910,7 +2910,7 @@ msgstr "Ажилчдын зардлын төв"
 #: hrms/payroll/doctype/employee_other_income/employee_other_income.json
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.json
 msgid "Employee Details"
-msgstr "Employee дэлгэрэнгүй"
+msgstr "Ажилтны дэлгэрэнгүй мэдээлэл"
 
 #. Label of the employee_emails (Small Text) field in DocType 'Training Event'
 #. Label of the employee_emails (Small Text) field in DocType 'Training Result'
@@ -2923,7 +2923,7 @@ msgstr "Ажилчдын имэйл"
 #. Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Employee Exit Settings"
-msgstr "Employee Exit тохиргоо"
+msgstr "Ажилтнаас гарах тохиргоо"
 
 #. Name of a report
 #. Label of a Link in the HR Workspace
@@ -3026,7 +3026,7 @@ msgstr "Ажилчдын аялал"
 #: hrms/hr/report/employee_leave_balance/employee_leave_balance.json
 #: hrms/hr/workspace/hr/hr.json hrms/hr/workspace/leaves/leaves.json
 msgid "Employee Leave Balance"
-msgstr "Employee Leave үлдэгдэл"
+msgstr "Ажилтны чөлөөний үлдэгдэл"
 
 #. Name of a report
 #. Label of a Link in the HR Workspace
@@ -3034,7 +3034,7 @@ msgstr "Employee Leave үлдэгдэл"
 #: hrms/hr/report/employee_leave_balance_summary/employee_leave_balance_summary.json
 #: hrms/hr/workspace/hr/hr.json hrms/hr/workspace/leaves/leaves.json
 msgid "Employee Leave Balance Summary"
-msgstr "Employee Leave Balance хураангуй"
+msgstr "Ажилтны чөлөөний үлдэгдлийн хураангуй"
 
 #: hrms/setup.py:779
 msgid "Employee Loan"
@@ -3061,7 +3061,7 @@ msgstr "Ажилтныг элсүүлэх"
 #: hrms/hr/doctype/employee_onboarding_template/employee_onboarding_template.json
 #: hrms/hr/workspace/tenure/tenure.json
 msgid "Employee Onboarding Template"
-msgstr "Employee Onboarding загвар"
+msgstr "Ажилтны ажилд авах загвар"
 
 #: hrms/hr/doctype/employee_onboarding/employee_onboarding.py:32
 msgid "Employee Onboarding: {0} already exists for Job Applicant: {1}"
@@ -3093,11 +3093,11 @@ msgstr "Ажилтны албан тушаал ахих"
 #. Promotion'
 #: hrms/hr/doctype/employee_promotion/employee_promotion.json
 msgid "Employee Promotion Details"
-msgstr "Employee Promotion дэлгэрэнгүй"
+msgstr "Ажилтны албан тушаал ахих тухай мэдээлэл"
 
 #: hrms/hr/doctype/employee_promotion/employee_promotion.py:20
 msgid "Employee Promotion cannot be submitted before Promotion Date"
-msgstr "Employee Promotion cannot be submitted before Promotion огноо"
+msgstr "Ажилтны дэвшлийг албан тушаал ахих өдрөөс өмнө гаргаж болохгүй"
 
 #. Name of a DocType
 #: hrms/hr/doctype/employee_property_history/employee_property_history.json
@@ -3153,13 +3153,13 @@ msgstr "Ажилтныг тусгаарлах"
 #: hrms/hr/doctype/employee_separation_template/employee_separation_template.json
 #: hrms/hr/workspace/tenure/tenure.json
 msgid "Employee Separation Template"
-msgstr "Employee Separation загвар"
+msgstr "Ажилтныг тусгаарлах загвар"
 
 #. Label of the employee_settings (Section Break) field in DocType 'HR
 #. Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Employee Settings"
-msgstr "Employee тохиргоо"
+msgstr "Ажилтны тохиргоо"
 
 #. Name of a DocType
 #: hrms/hr/doctype/employee_skill/employee_skill.json
@@ -3184,7 +3184,7 @@ msgstr "Ажилчдын ур чадвар"
 #: hrms/hr/report/leave_ledger/leave_ledger.js:34
 #: hrms/payroll/report/income_tax_computation/income_tax_computation.js:41
 msgid "Employee Status"
-msgstr "Employee төлөв"
+msgstr "Ажилтны статус"
 
 #. Name of a DocType
 #. Label of a Link in the Tax & Benefits Workspace
@@ -3246,11 +3246,11 @@ msgstr "Ажилтныг шилжүүлэх дэлгэрэнгүй мэдээл�
 #. Transfer'
 #: hrms/hr/doctype/employee_transfer/employee_transfer.json
 msgid "Employee Transfer Details"
-msgstr "Employee Transfer дэлгэрэнгүй"
+msgstr "Ажилтныг шилжүүлэх дэлгэрэнгүй мэдээлэл"
 
 #: hrms/hr/doctype/employee_transfer/employee_transfer.py:17
 msgid "Employee Transfer cannot be submitted before Transfer Date"
-msgstr "Employee Transfer cannot be submitted before Transfer огноо"
+msgstr "Ажилтны шилжүүлгийг шилжүүлэх өдрөөс өмнө гаргаж өгөх боломжгүй"
 
 #: hrms/hr/doctype/employee_advance/employee_advance.py:69
 #: hrms/hr/doctype/employee_advance/employee_advance.py:139
@@ -3401,26 +3401,26 @@ msgstr "Амралтын өдрөөр ажилладаг ажилчид"
 #: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.json
 #: hrms/setup.py:186 hrms/templates/generators/job_opening.html:141
 msgid "Employment Type"
-msgstr "Employment төрөл"
+msgstr "Хөдөлмөр эрхлэлтийн төрөл"
 
 #. Label of the enable_auto_attendance (Check) field in DocType 'Shift Type'
 #: hrms/hr/doctype/shift_type/shift_type.json
 msgid "Enable Auto Attendance"
-msgstr "Auto Attendance идэвхжүүлэх"
+msgstr "Автомат ирцийг идэвхжүүлэх"
 
 #. Label of the enable_early_exit_marking (Check) field in DocType 'Shift Type'
 #: hrms/hr/doctype/shift_type/shift_type.json
 msgid "Enable Early Exit Marking"
-msgstr "Early Exit Marking идэвхжүүлэх"
+msgstr "Эрт гарах тэмдэглэгээг идэвхжүүлнэ үү"
 
 #. Label of the enable_late_entry_marking (Check) field in DocType 'Shift Type'
 #: hrms/hr/doctype/shift_type/shift_type.json
 msgid "Enable Late Entry Marking"
-msgstr "Late Entry Marking идэвхжүүлэх"
+msgstr "Хожуу нэвтрэх тэмдэглэгээг идэвхжүүлэх"
 
 #: frontend/src/views/AppSettings.vue:25
 msgid "Enable Push Notifications"
-msgstr "Push Notifications идэвхжүүлэх"
+msgstr "Түлхэх мэдэгдлийг идэвхжүүлнэ үү"
 
 #. Description of the 'Apply for Public Holiday' (Check) field in DocType
 #. 'Overtime Type'
@@ -3453,7 +3453,7 @@ msgstr "Нэхэмжлэл"
 #. Encashment'
 #: hrms/hr/doctype/leave_encashment/leave_encashment.json
 msgid "Encashment Amount"
-msgstr "Encashment дүн"
+msgstr "Бэлэн мөнгөний хэмжээ"
 
 #. Label of the encashment_days (Float) field in DocType 'Leave Encashment'
 #: hrms/hr/doctype/leave_encashment/leave_encashment.json
@@ -3476,7 +3476,7 @@ msgstr "Цалингийн хуудсыг цахим шуудангаар шиф
 
 #: frontend/src/views/attendance/ShiftAssignmentForm.vue:75
 msgid "End Date cannot be before Start Date"
-msgstr "End Date cannot be before Start огноо"
+msgstr "Дуусах огноо нь эхлэх огнооноос өмнө байж болохгүй"
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:241
 msgid "End date: {0}"
@@ -3563,7 +3563,7 @@ msgstr "Үнэлгээ"
 #. Label of the evaluation_date (Date) field in DocType 'Employee Skill'
 #: hrms/hr/doctype/employee_skill/employee_skill.json
 msgid "Evaluation Date"
-msgstr "Evaluation огноо"
+msgstr "Үнэлгээний огноо"
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:25
 msgid "Evaluation Method cannot be changed as there are existing appraisals created for this cycle"
@@ -3572,7 +3572,7 @@ msgstr "Үнэлгээний аргыг өөрчлөх боломжгүй, уч�
 #. Label of the event_details (Section Break) field in DocType 'Travel Request'
 #: hrms/hr/doctype/travel_request/travel_request.json
 msgid "Event Details"
-msgstr "Event дэлгэрэнгүй"
+msgstr "Үйл явдлын дэлгэрэнгүй мэдээлэл"
 
 #: hrms/hr/notification/training_scheduled/training_scheduled.html:37
 msgid "Event Link"
@@ -3589,12 +3589,12 @@ msgstr "Үйл явдлын байршил"
 #: hrms/hr/doctype/training_feedback/training_feedback.json
 #: hrms/templates/emails/training_event.html:5
 msgid "Event Name"
-msgstr "Event нэр"
+msgstr "Үйл явдлын нэр"
 
 #. Label of the event_status (Select) field in DocType 'Training Event'
 #: hrms/hr/doctype/training_event/training_event.json
 msgid "Event Status"
-msgstr "Event төлөв"
+msgstr "Үйл явдлын төлөв"
 
 #. Option for the 'Frequency' (Select) field in DocType 'Shift Schedule'
 #: hrms/hr/doctype/shift_schedule/shift_schedule.json
@@ -3647,7 +3647,7 @@ msgstr "Баярын өдрүүдийг оруулахгүй"
 
 #: hrms/hr/doctype/leave_encashment/leave_encashment.py:106
 msgid "Excluded {0} Non-Encashable Leaves for {1}"
-msgstr ""
+msgstr "{1}-д зориулсан {0}-ийн мөнгө авах боломжгүй навчийг хассан"
 
 #. Label of the exempted_from_income_tax (Check) field in DocType 'Salary
 #. Component'
@@ -3656,7 +3656,7 @@ msgstr ""
 #: hrms/payroll/doctype/salary_component/salary_component.json
 #: hrms/payroll/doctype/salary_detail/salary_detail.json
 msgid "Exempted from Income Tax"
-msgstr "Exempted from Income татвар"
+msgstr "Орлогын албан татвараас чөлөөлөгдсөн"
 
 #. Label of a Card Break in the Tax & Benefits Workspace
 #: hrms/payroll/workspace/tax_&_benefits/tax_&_benefits.json
@@ -3723,7 +3723,7 @@ msgstr "Ярилцлагаас гарах хүлээгдэж байна"
 #. Separation'
 #: hrms/hr/doctype/employee_separation/employee_separation.json
 msgid "Exit Interview Summary"
-msgstr "Exit Interview хураангуй"
+msgstr "Ярилцлагын хураангуй"
 
 #: hrms/hr/doctype/exit_interview/exit_interview.py:33
 msgid "Exit Interview {0} already exists for Employee: {1}"
@@ -3747,7 +3747,7 @@ msgstr "Санал асуулгын мэдэгдлээс гарах"
 #. DocType 'HR Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Exit Questionnaire Notification Template"
-msgstr "Exit Questionnaire Notification загвар"
+msgstr "Санал асуулгын мэдэгдлийн загвараас гарах"
 
 #: hrms/hr/report/employee_exits/employee_exits.js:68
 msgid "Exit Questionnaire Pending"
@@ -3816,7 +3816,7 @@ msgstr "Зардлын батламжлагч Зардлын нэхэмжлэл�
 #. Name of a DocType
 #: hrms/hr/doctype/expense_claim_account/expense_claim_account.json
 msgid "Expense Claim Account"
-msgstr "Expense Claim данс"
+msgstr "Зардлын нэхэмжлэлийн данс"
 
 #. Name of a DocType
 #: hrms/hr/doctype/expense_claim_advance/expense_claim_advance.json
@@ -3830,7 +3830,7 @@ msgstr "Зардлын нэхэмжлэлийн дэлгэрэнгүй"
 
 #: frontend/src/components/ExpenseClaimSummary.vue:3
 msgid "Expense Claim Summary"
-msgstr "Expense Claim хураангуй"
+msgstr "Зардлын нэхэмжлэлийн хураангуй"
 
 #. Label of the expense_type (Link) field in DocType 'Expense Claim Detail'
 #. Name of a DocType
@@ -3841,7 +3841,7 @@ msgstr "Expense Claim хураангуй"
 #: hrms/hr/doctype/expense_claim_type/expense_claim_type.json
 #: hrms/hr/workspace/expenses/expenses.json
 msgid "Expense Claim Type"
-msgstr "Expense Claim төрөл"
+msgstr "Зардлын нэхэмжлэлийн төрөл"
 
 #: hrms/hr/doctype/vehicle_log/vehicle_log.py:48
 msgid "Expense Claim for Vehicle Log {0}"
@@ -3860,7 +3860,7 @@ msgstr "Зардлын нэхэмжлэл"
 #. Label of the expense_date (Date) field in DocType 'Expense Claim Detail'
 #: hrms/hr/doctype/expense_claim_detail/expense_claim_detail.json
 msgid "Expense Date"
-msgstr "Expense огноо"
+msgstr "Зардлын огноо"
 
 #: frontend/src/components/ExpensesTable.vue:211
 msgid "Expense Item"
@@ -3874,7 +3874,7 @@ msgstr "Зардлын баталгаа"
 
 #: frontend/src/components/ExpenseTaxesTable.vue:219
 msgid "Expense Tax"
-msgstr "Expense татвар"
+msgstr "Зардлын татвар"
 
 #. Label of the taxes (Table) field in DocType 'Expense Claim'
 #. Name of a DocType
@@ -3886,7 +3886,7 @@ msgstr "Зардлын татвар, хураамж"
 #. Label of the expense_type (Link) field in DocType 'Travel Request Costing'
 #: hrms/hr/doctype/travel_request_costing/travel_request_costing.json
 msgid "Expense Type"
-msgstr "Expense төрөл"
+msgstr "Зардлын төрөл"
 
 #. Label of the expenses_and_advances_tab (Tab Break) field in DocType 'Expense
 #. Claim'
@@ -3962,7 +3962,7 @@ msgstr "{0} {1} for employees: амжилтгүй боллоо"
 #. Entry'
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.json
 msgid "Failure Details"
-msgstr "Failure дэлгэрэнгүй"
+msgstr "Алдаа дутагдлын дэлгэрэнгүй мэдээлэл"
 
 #. Label of the failure_reason (Small Text) field in DocType 'Earned Leave
 #. Schedule'
@@ -3981,7 +3981,7 @@ msgstr "Хоёрдугаар сар"
 
 #: hrms/hr/report/appraisal_overview/appraisal_overview.py:48
 msgid "Feedback Count"
-msgstr "Feedback тоо"
+msgstr "Санал хүсэлтийн тоо"
 
 #. Label of the feedback_html (HTML) field in DocType 'Appraisal'
 #. Label of the feedback_html (HTML) field in DocType 'Interview'
@@ -4000,7 +4000,7 @@ msgstr "Санал хүсэлтийн үнэлгээ"
 #. 'HR Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Feedback Reminder Notification Template"
-msgstr "Feedback Reminder Notification загвар"
+msgstr "Сануулах санал хүсэлтийн мэдэгдлийн загвар"
 
 #: hrms/hr/report/appraisal_overview/appraisal_overview.py:124
 msgid "Feedback Score"
@@ -4013,7 +4013,7 @@ msgstr "Санал хүсэлт илгээсэн"
 
 #: hrms/public/js/templates/interview_feedback.html:14
 msgid "Feedback Summary"
-msgstr "Feedback хураангуй"
+msgstr "Санал хүсэлтийн хураангуй"
 
 #: hrms/hr/doctype/interview_feedback/interview_feedback.py:52
 msgid "Feedback already submitted for the Interview {0}. Please cancel the previous Interview Feedback {1} to continue."
@@ -4036,7 +4036,7 @@ msgstr "Газарзүйн байршлыг татах"
 
 #: hrms/hr/doctype/overtime_slip/overtime_slip.js:7
 msgid "Fetch Overtime Details"
-msgstr "Fetch Overtime дэлгэрэнгүй"
+msgstr "Илүү цагийн дэлгэрэнгүй мэдээллийг авах"
 
 #: hrms/hr/doctype/employee_checkin/employee_checkin.js:33
 msgid "Fetch Shift"
@@ -4118,22 +4118,22 @@ msgstr "Эхний өдөр"
 #. Label of the first_name (Data) field in DocType 'Employee Referral'
 #: hrms/hr/doctype/employee_referral/employee_referral.json
 msgid "First Name "
-msgstr "First нэр"
+msgstr "Нэр"
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:1520
 msgid "Fiscal Year {0} not found"
-msgstr "Fiscal Year {0} олдсонгүй"
+msgstr "Санхүүгийн жил {0} олдсонгүй"
 
 #. Option for the 'Overtime Amount Calculation' (Select) field in DocType
 #. 'Overtime Type'
 #: hrms/hr/doctype/overtime_type/overtime_type.json
 msgid "Fixed Hourly Rate"
-msgstr "Fixed Hourly хувь"
+msgstr "Тогтмол цагийн тариф"
 
 #. Label of a Card Break in the Expenses Workspace
 #: hrms/hr/workspace/expenses/expenses.json
 msgid "Fleet Management"
-msgstr "Fleet удирдлага"
+msgstr "Флотын удирдлага"
 
 #. Label of the flexible_benefit (Check) field in DocType 'Employee Benefit
 #. Ledger'
@@ -4228,7 +4228,7 @@ msgstr "Бутархай зардал"
 
 #: frontend/src/components/BaseLayout.vue:9
 msgid "Frappe HR"
-msgstr ""
+msgstr "Frappe HR"
 
 #. Label of the from_amount (Currency) field in DocType 'Taxable Salary Slab'
 #: hrms/payroll/doctype/taxable_salary_slab/taxable_salary_slab.json
@@ -4324,13 +4324,13 @@ msgstr "Бүрэн ивээн тэтгэсэн"
 #. Costing'
 #: hrms/hr/doctype/travel_request_costing/travel_request_costing.json
 msgid "Funded Amount"
-msgstr "Funded дүн"
+msgstr "Санхүүжүүлсэн дүн"
 
 #. Label of the future_income_tax_deductions (Currency) field in DocType
 #. 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Future Income Tax"
-msgstr "Future Income татвар"
+msgstr "Ирээдүйн орлогын албан татвар"
 
 #: hrms/hr/utils.py:195
 msgid "Future dates not allowed"
@@ -4500,7 +4500,7 @@ msgstr "Намын эсрэг гомдол"
 #. 'Employee Grievance'
 #: hrms/hr/doctype/employee_grievance/employee_grievance.json
 msgid "Grievance Details"
-msgstr "Grievance дэлгэрэнгүй"
+msgstr "Гомдлын дэлгэрэнгүй мэдээлэл"
 
 #. Label of the grievance_type (Link) field in DocType 'Employee Grievance'
 #. Name of a DocType
@@ -4509,7 +4509,7 @@ msgstr "Grievance дэлгэрэнгүй"
 #: hrms/hr/doctype/grievance_type/grievance_type.json
 #: hrms/hr/workspace/tenure/tenure.json
 msgid "Grievance Type"
-msgstr "Grievance төрөл"
+msgstr "Гомдлын төрөл"
 
 #: hrms/payroll/report/income_tax_computation/income_tax_computation.py:630
 msgid "Gross Earnings"
@@ -4532,7 +4532,7 @@ msgstr "Нийт цалин (Компанийн валют)"
 #. Label of the gross_year_to_date (Currency) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Gross Year To Date"
-msgstr "Gross Year To огноо"
+msgstr "Өнөөдрийг хүртэлх нийт жил"
 
 #. Label of the base_gross_year_to_date (Currency) field in DocType 'Salary
 #. Slip'
@@ -4555,7 +4555,7 @@ msgstr "Хүний нөөц ба цалин"
 
 #: hrms/setup.py:65
 msgid "HR & Payroll Settings"
-msgstr "HR & Payroll тохиргоо"
+msgstr "Хүний нөөц ба цалингийн тохиргоо"
 
 #. Label of a shortcut in the HR Workspace
 #: hrms/hr/workspace/hr/hr.json
@@ -4604,11 +4604,11 @@ msgstr "Half Day Date заавал шаардлагатай"
 
 #: hrms/hr/doctype/leave_application/leave_application.py:194
 msgid "Half Day Date should be between From Date and To Date"
-msgstr "Half Day Date should be between From Date and To огноо"
+msgstr "Хагас өдрийн огноо нь огнооноос өнөөг хүртэлх хооронд байх ёстой"
 
 #: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.py:29
 msgid "Half Day Date should be in between Work From Date and Work End Date"
-msgstr "Half Day Date should be in between Work From Date and Work End огноо"
+msgstr "Хагас өдрийн огноо нь ажлын өдрөөс хойш, ажил дуусах огнооны хооронд байх ёстой"
 
 #. Label of the half_day_marked_employee_header (HTML) field in DocType
 #. 'Employee Attendance Tool'
@@ -4637,7 +4637,7 @@ msgstr "Эрүүл мэндийн даатгал"
 #. Insurance'
 #: hrms/hr/doctype/employee_health_insurance/employee_health_insurance.json
 msgid "Health Insurance Name"
-msgstr "Health Insurance нэр"
+msgstr "Эрүүл мэндийн даатгалын нэр"
 
 #: hrms/setup.py:229
 msgid "Health Insurance No"
@@ -4657,13 +4657,13 @@ msgstr "Хөөе, {0} 👋"
 
 #: hrms/hr/dashboard_chart_source/hiring_vs_attrition_count/hiring_vs_attrition_count.py:55
 msgid "Hiring Count"
-msgstr "Hiring тоо"
+msgstr "Count ажилд авна"
 
 #. Label of the hiring_settings_section (Section Break) field in DocType 'HR
 #. Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Hiring Settings"
-msgstr "Hiring тохиргоо"
+msgstr "Ажилд авах тохиргоо"
 
 #. Label of the optional_holiday_list (Link) field in DocType 'Leave Period'
 #: hrms/hr/doctype/leave_period/leave_period.json
@@ -4692,7 +4692,7 @@ msgstr "Цагийн ханш (Компанийн валют)"
 #. Label of the hourly_rate (Currency) field in DocType 'Overtime Type'
 #: hrms/hr/doctype/overtime_type/overtime_type.json
 msgid "Hourly Rate"
-msgstr "Hourly хувь"
+msgstr "Цагийн тариф"
 
 #: hrms/regional/india/utils.py:184
 msgid "House rent paid days overlapping with {0}"
@@ -4722,7 +4722,7 @@ msgstr ""
 #. Label of the personal_id_number (Data) field in DocType 'Travel Request'
 #: hrms/hr/doctype/travel_request/travel_request.json
 msgid "Identification Document Number"
-msgstr "Identification Document дугаар"
+msgstr "Иргэний үнэмлэхний дугаар"
 
 #. Name of a DocType
 #. Label of the identification_document_type (Data) field in DocType
@@ -4731,7 +4731,7 @@ msgstr "Identification Document дугаар"
 #: hrms/hr/doctype/identification_document_type/identification_document_type.json
 #: hrms/hr/doctype/travel_request/travel_request.json
 msgid "Identification Document Type"
-msgstr "Identification Document төрөл"
+msgstr "Тодорхойлох баримт бичгийн төрөл"
 
 #. Description of the 'Process Payroll Accounting Entry based on Employee'
 #. (Check) field in DocType 'Payroll Settings'
@@ -4818,7 +4818,7 @@ msgstr "Хэрэв идэвхжүүлсэн бол нийт дугаар. Энэ
 #. Component'
 #: hrms/payroll/doctype/salary_component/salary_component.json
 msgid "If enabled, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. "
-msgstr ""
+msgstr "Хэрэв идэвхжүүлсэн бол энэ бүрэлдэхүүн хэсэгт заасан эсвэл тооцоолсон утга нь орлого, суутгалд нэмэр болохгүй. Гэсэн хэдий ч түүний үнэ цэнийг нэмж эсвэл хасаж болох бусад бүрэлдэхүүн хэсгүүдээс иш татаж болно."
 
 #. Description of the 'Accrual Component' (Check) field in DocType 'Salary
 #. Component'
@@ -4854,7 +4854,7 @@ msgstr "Хэрэв шалгаагүй бол уг жагсаалтыг хэрэ�
 #. Detail'
 #: hrms/payroll/doctype/salary_detail/salary_detail.json
 msgid "If selected, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. "
-msgstr ""
+msgstr "Сонгосон тохиолдолд энэ бүрэлдэхүүн хэсэгт заасан эсвэл тооцсон утга нь орлого, суутгалд нэмэр болохгүй. Гэсэн хэдий ч түүний үнэ цэнийг нэмж эсвэл хасаж болох бусад бүрэлдэхүүн хэсгүүдээс иш татаж болно."
 
 #. Description of the 'Closes On' (Date) field in DocType 'Job Opening'
 #: hrms/hr/doctype/job_opening/job_opening.json
@@ -4863,7 +4863,7 @@ msgstr "Хэрэв тохируулсан бол энэ өдрөөс хойш н
 
 #: hrms/patches/v15_0/notify_about_loan_app_separation.py:17
 msgid "If you are using loans in salary slips, please install the {0} app from Frappe Cloud Marketplace or GitHub to continue using loan integration with payroll."
-msgstr "Хэрэв та цалингийн хуудаст зээл ашиглаж байгаа бол Frappe Cloud Marketplace эсвэл GitHub-аас {0} програмыг суулгаж, цалингийн зээлийн интеграцийг үргэлжлүүлэн ашиглана уу."
+msgstr "Хэрэв та цалингийн хуудаст зээл ашиглаж байгаа бол Frappe Cloud Marketplace эсвэл GitHub-аас {0} програмыг суулгаж, цалинтай зээлийн интеграцчлалыг үргэлжлүүлэн ашиглана уу."
 
 #. Label of the upload_attendance_data (Section Break) field in DocType 'Upload
 #. Attendance'
@@ -4891,7 +4891,7 @@ msgstr "Урамшуулал"
 #. Incentive'
 #: hrms/payroll/doctype/employee_incentive/employee_incentive.json
 msgid "Incentive Amount"
-msgstr "Incentive дүн"
+msgstr "Урамшууллын хэмжээ"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:102
 msgid "Include Company Descendants"
@@ -4921,7 +4921,7 @@ msgstr "Орлогын эх үүсвэр"
 
 #: hrms/payroll/report/income_tax_deductions/income_tax_deductions.py:47
 msgid "Income Tax Amount"
-msgstr "Income Tax дүн"
+msgstr "Орлогын татварын хэмжээ"
 
 #. Label of the income_tax_calculation_breakup_section (Tab Break) field in
 #. DocType 'Salary Slip'
@@ -4947,7 +4947,7 @@ msgstr "Орлогын татварын тооцоо"
 #. 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Income Tax Deducted Till Date"
-msgstr "Income Tax Deducted Till огноо"
+msgstr "Орлогын албан татварыг өдөр хүртэл хассан"
 
 #. Name of a report
 #. Label of a Link in the Payroll Workspace
@@ -5010,7 +5010,7 @@ msgstr "Жингийн буруу хуваарилалт"
 #. Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "Indicates the number of leaves that cannot be encashed from the leave balance. E.g. with a leave balance of 10 and 4 Non-Encashable Leaves, you can encash 6, while the remaining 4 can be carried forward or expired"
-msgstr ""
+msgstr "Амралтын үлдэгдэлээс мөнгө авах боломжгүй навчны тоог заана. Жишээ нь: Үлдэгдэл 10 ба мөнгөн бус 4 навчтай бол та 6 навчийг мөнгөжүүлэх боломжтой бол үлдсэн 4 навчийг шилжүүлж эсвэл хугацаа нь дууссан байж болно."
 
 #. Option for the 'Type' (Select) field in DocType 'Vehicle Service'
 #: hrms/hr/doctype/vehicle_service/vehicle_service.json
@@ -5028,7 +5028,7 @@ msgstr "Frappe HR-г суулгана уу"
 
 #: hrms/hr/doctype/leave_application/leave_application.py:435
 msgid "Insufficient Balance"
-msgstr "Insufficient үлдэгдэл"
+msgstr "Үлдэгдэл хангалтгүй"
 
 #: hrms/hr/doctype/leave_application/leave_application.py:433
 msgid "Insufficient leave balance for Leave Type {0}"
@@ -5037,13 +5037,13 @@ msgstr "Амралтын төрлийн {0} чөлөөний үлдэгдэл х
 #. Label of the interest_amount (Currency) field in DocType 'Salary Slip Loan'
 #: hrms/payroll/doctype/salary_slip_loan/salary_slip_loan.json
 msgid "Interest Amount"
-msgstr "Interest дүн"
+msgstr "Хүүгийн хэмжээ"
 
 #. Label of the interest_income_account (Link) field in DocType 'Salary Slip
 #. Loan'
 #: hrms/payroll/doctype/salary_slip_loan/salary_slip_loan.json
 msgid "Interest Income Account"
-msgstr "Interest Income данс"
+msgstr "Хүүгийн орлогын данс"
 
 #: hrms/setup.py:395
 msgid "Intern"
@@ -5079,7 +5079,7 @@ msgstr "Ярилцлагын дэлгэрэнгүй"
 #. 'Exit Interview'
 #: hrms/hr/doctype/exit_interview/exit_interview.json
 msgid "Interview Details"
-msgstr "Interview дэлгэрэнгүй"
+msgstr "Ярилцлагын дэлгэрэнгүй мэдээлэл"
 
 #. Name of a DocType
 #. Label of a Link in the Recruitment Workspace
@@ -5117,7 +5117,7 @@ msgstr "Ярилцлагын сануулга"
 #. Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Interview Reminder Notification Template"
-msgstr "Interview Reminder Notification загвар"
+msgstr "Ярилцлагын сануулагчийн мэдэгдлийн загвар"
 
 #: hrms/hr/doctype/interview/interview.py:122
 msgid "Interview Rescheduled successfully"
@@ -5145,12 +5145,12 @@ msgstr "Ярилцлагын шат {0} нь зөвхөн {1} томилгоон
 
 #: hrms/hr/doctype/interview_feedback/interview_feedback.py:40
 msgid "Interview Scheduled Date"
-msgstr "Interview Scheduled огноо"
+msgstr "Ярилцлагын товлогдсон өдөр"
 
 #: hrms/hr/report/employee_exits/employee_exits.js:51
 #: hrms/hr/report/employee_exits/employee_exits.py:46
 msgid "Interview Status"
-msgstr "Interview төлөв"
+msgstr "Ярилцлагын статус"
 
 #. Label of the interview_summary (Text Editor) field in DocType 'Exit
 #. Interview'
@@ -5159,7 +5159,7 @@ msgstr "Interview төлөв"
 #: hrms/hr/doctype/interview/interview.json
 #: hrms/hr/doctype/job_applicant/job_applicant.js:77
 msgid "Interview Summary"
-msgstr "Interview хураангуй"
+msgstr "Ярилцлагын хураангуй"
 
 #. Label of the interview_type (Link) field in DocType 'Interview Round'
 #. Name of a DocType
@@ -5168,7 +5168,7 @@ msgstr "Interview хураангуй"
 #: hrms/hr/doctype/interview_type/interview_type.json
 #: hrms/hr/workspace/recruitment/recruitment.json
 msgid "Interview Type"
-msgstr "Interview төрөл"
+msgstr "Ярилцлагын төрөл"
 
 #: hrms/hr/doctype/interview/interview.py:103
 msgid "Interview: {0} Rescheduled"
@@ -5211,40 +5211,40 @@ msgstr "Ярилцлага (энэ долоо хоног)"
 #: hrms/payroll/doctype/salary_component/salary_component.py:81
 #: hrms/payroll/doctype/salary_component/salary_component.py:89
 msgid "Invalid Accrual Component"
-msgstr "Буруу Accrual Component"
+msgstr "Хүчингүй аккруэл бүрэлдэхүүн хэсэг"
 
 #: hrms/payroll/doctype/additional_salary/additional_salary.py:182
 msgid "Invalid Additional Salary"
-msgstr "Буруу Additional Salary"
+msgstr "Хүчингүй нэмэлт цалин"
 
 #: hrms/payroll/doctype/salary_component/salary_component.py:96
 msgid "Invalid Arrear Component"
-msgstr "Буруу Arrear Component"
+msgstr "Буруу хоцрогдсон бүрэлдэхүүн хэсэг"
 
 #: hrms/payroll/doctype/salary_structure/salary_structure.py:467
 msgid "Invalid Benefit Amounts"
-msgstr "Буруу Benefit Amounts"
+msgstr "Буруу тэтгэмжийн хэмжээ"
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:326
 msgid "Invalid Dates"
-msgstr "Буруу Dates"
+msgstr "Хүчингүй огноо"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:2646
 msgid "Invalid LWP Days Reversed"
-msgstr "Буруу LWP Days Reversed"
+msgstr "Буруу LWP өдрүүдийг буцаасан"
 
 #: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.py:25
 msgid "Invalid Leave Ledger Entry"
-msgstr "Буруу Leave Ledger Entry"
+msgstr "Бүртгэлийн хуудасны хүчингүй бичилт"
 
 #: hrms/payroll/doctype/salary_structure/salary_structure.py:294
 msgid "Invalid Payroll Payable Account. The account currency must be {0} or {1}"
-msgstr "Буруу Payroll Payable Account. The account currency must be {0} or {1}"
+msgstr "Цалингийн өглөгийн данс буруу байна. Дансны валют нь {0} эсвэл {1} байх ёстой"
 
 #: hrms/hr/doctype/shift_type/shift_type.py:48
 #: hrms/hr/doctype/shift_type/shift_type.py:57
 msgid "Invalid Shift Times"
-msgstr "Буруу Shift Times"
+msgstr "Буруу ээлжийн цаг"
 
 #: hrms/hr/doctype/expense_claim/expense_claim.py:933
 msgid "Invalid parameters provided. Please pass the required arguments."
@@ -5259,7 +5259,7 @@ msgstr "Шалгасан"
 #. 'Employee Grievance'
 #: hrms/hr/doctype/employee_grievance/employee_grievance.json
 msgid "Investigation Details"
-msgstr "Investigation дэлгэрэнгүй"
+msgstr "Мөрдөн байцаалтын дэлгэрэнгүй мэдээлэл"
 
 #. Option for the 'Status' (Select) field in DocType 'Training Event Employee'
 #: hrms/hr/doctype/training_event_employee/training_event_employee.json
@@ -5449,7 +5449,7 @@ msgstr "Ажлын санал болгох хугацаа"
 #: hrms/hr/doctype/job_offer/job_offer.json
 #: hrms/hr/doctype/job_offer_term_template/job_offer_term_template.json
 msgid "Job Offer Term Template"
-msgstr "Job Offer Term загвар"
+msgstr "Ажлын саналын хугацааны загвар"
 
 #. Label of the offer_terms (Table) field in DocType 'Job Offer'
 #: hrms/hr/doctype/job_offer/job_offer.json
@@ -5489,7 +5489,7 @@ msgstr "Ажлын байр нээх холбоотой"
 #: hrms/hr/doctype/job_opening/job_opening.json
 #: hrms/hr/doctype/job_opening_template/job_opening_template.json
 msgid "Job Opening Template"
-msgstr "Job Opening загвар"
+msgstr "Ажлын байрны нээлтийн загвар"
 
 #: hrms/www/jobs/index.html:2 hrms/www/jobs/index.html:5
 msgid "Job Openings"
@@ -5530,7 +5530,7 @@ msgstr "Ажлын байр"
 #: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
 #: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.json
 msgid "Joining Date"
-msgstr "Joining огноо"
+msgstr "Нэгдсэн огноо"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:42
 #: hrms/public/js/salary_slip_deductions_report_filters.js:25
@@ -5567,7 +5567,7 @@ msgstr "KRA бүх хүүхдийн зорилгод шинэчлэгдсэн."
 #. Label of the appraisal_kra (Table) field in DocType 'Appraisal'
 #: hrms/hr/doctype/appraisal/appraisal.json
 msgid "KRA vs Goals"
-msgstr ""
+msgstr "KRA vs Goals"
 
 #. Label of the kra_tab (Tab Break) field in DocType 'Appraisal'
 #. Label of the goals (Table) field in DocType 'Appraisal Template'
@@ -5575,7 +5575,7 @@ msgstr ""
 #: hrms/hr/doctype/appraisal/appraisal.py:145
 #: hrms/hr/doctype/appraisal_template/appraisal_template.json
 msgid "KRAs"
-msgstr ""
+msgstr "KRAs"
 
 #. Description of the 'KRA' (Link) field in DocType 'Appraisal KRA'
 #: hrms/hr/doctype/appraisal_kra/appraisal_kra.json
@@ -5719,7 +5719,7 @@ msgstr "Зөвшөөрлийн мэдэгдлийг үлдээх"
 #. 'HR Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Leave Approval Notification Template"
-msgstr "Leave Approval Notification загвар"
+msgstr "Зөвшөөрлийн мэдэгдлийн загварыг үлдээнэ үү"
 
 #. Label of the leave_approver (Link) field in DocType 'Leave Application'
 #. Name of a role
@@ -5738,7 +5738,7 @@ msgstr "Өргөдөл гаргахдаа зөвшөөрөл олгогчийг 
 #. Label of the leave_approver_name (Data) field in DocType 'Leave Application'
 #: hrms/hr/doctype/leave_application/leave_application.json
 msgid "Leave Approver Name"
-msgstr "Leave Approver нэр"
+msgstr "Зөвшөөрөгчийн нэрийг үлдээнэ үү"
 
 #. Label of the leave_balance (Float) field in DocType 'Leave Encashment'
 #: frontend/src/components/LeaveBalance.vue:4
@@ -5756,7 +5756,7 @@ msgstr "Өргөдөл гаргахын өмнө үлдэгдэлээ үлдээ
 #: hrms/hr/doctype/leave_block_list/leave_block_list.json
 #: hrms/hr/workspace/leaves/leaves.json hrms/setup.py:125
 msgid "Leave Block List"
-msgstr "Leave Block жагсаалт"
+msgstr "Блокийн жагсаалтыг орхи"
 
 #. Name of a DocType
 #: hrms/hr/doctype/leave_block_list_allow/leave_block_list_allow.json
@@ -5772,7 +5772,7 @@ msgstr "Блокийн жагсаалтаас гарахыг зөвшөөрсө�
 #. Name of a DocType
 #: hrms/hr/doctype/leave_block_list_date/leave_block_list_date.json
 msgid "Leave Block List Date"
-msgstr "Leave Block List огноо"
+msgstr "Блокийн жагсаалтын огноог орхи"
 
 #. Label of the leave_block_list_dates (Table) field in DocType 'Leave Block
 #. List'
@@ -5784,7 +5784,7 @@ msgstr "Блоклох огноог орхи"
 #. List'
 #: hrms/hr/doctype/leave_block_list/leave_block_list.json
 msgid "Leave Block List Name"
-msgstr "Leave Block List нэр"
+msgstr "Блок жагсаалтын нэрийг үлдээнэ үү"
 
 #: hrms/hr/doctype/leave_application/leave_application.py:1368
 msgid "Leave Blocked"
@@ -5800,7 +5800,7 @@ msgstr "Хяналтын самбараас гарна уу"
 #. Label of the leave_details (Table) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Leave Details"
-msgstr "Leave дэлгэрэнгүй"
+msgstr "Дэлгэрэнгүй мэдээллийг үлдээнэ үү"
 
 #. Name of a DocType
 #. Label of a Link in the Leaves Workspace
@@ -5828,11 +5828,11 @@ msgstr "Ledger-г орхи"
 #: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.json
 #: hrms/hr/report/leave_ledger/leave_ledger.py:21
 msgid "Leave Ledger Entry"
-msgstr "Leave Ledger бичилт"
+msgstr "Бүртгэлийн бүртгэлийг орхи"
 
 #: hrms/hr/doctype/leave_ledger_entry/leave_ledger_entry.py:18
 msgid "Leave Ledger Entry's To date needs to be after From date. Currently, From Date is {0} and To Date is {1}"
-msgstr "Leave Ledger Entry-ийн To date нь From date-ээс хойш байх ёстой. Одоогоор \"Өгсөн огноо\" нь {0}, өнөөг хүртэл нь {1} байна."
+msgstr "Leave Ledger Entry-ийн To date нь From date-ээс хойш байх ёстой. Одоогоор \"Өгсөн огноо\" нь {0}, \"Одоо хүртэл\" нь {1} байна."
 
 #. Label of the leave_period (Link) field in DocType 'Leave Allocation'
 #. Option for the 'Dates Based On' (Select) field in DocType 'Leave Control
@@ -5891,7 +5891,7 @@ msgstr "Бодлогын дэлгэрэнгүйг үлдээнэ үү"
 #. Label of the leave_policy_details (Table) field in DocType 'Leave Policy'
 #: hrms/hr/doctype/leave_policy/leave_policy.json
 msgid "Leave Policy Details"
-msgstr "Leave Policy дэлгэрэнгүй"
+msgstr "Бодлогын дэлгэрэнгүйг үлдээнэ үү"
 
 #: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.py:64
 msgid "Leave Policy: {0} already assigned for Employee {1} for period {2} to {3}"
@@ -5905,7 +5905,7 @@ msgstr "Статусын мэдэгдлийг орхи"
 #. Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Leave Status Notification Template"
-msgstr "Leave Status Notification загвар"
+msgstr "Статусын мэдэгдлийн загварыг орхи"
 
 #. Label of the leave_type (Link) field in DocType 'Attendance'
 #. Label of the leave_type (Link) field in DocType 'Compensatory Leave Request'
@@ -5945,7 +5945,7 @@ msgstr "Чөлөөний төрөл"
 #. Label of the leave_type_name (Data) field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "Leave Type Name"
-msgstr "Leave Type нэр"
+msgstr "Төрөл нэрээ үлдээнэ үү"
 
 #: hrms/hr/doctype/leave_type/leave_type.py:34
 msgid "Leave Type can either be compensatory or earned leave."
@@ -5957,7 +5957,7 @@ msgstr "Амралтын төрөл нь цалингүй эсвэл хэсэг�
 
 #: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.py:34
 msgid "Leave Type is mandatory"
-msgstr "Leave Type заавал шаардлагатай"
+msgstr "Амрах төрөл заавал байх ёстой"
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:185
 msgid "Leave Type {0} cannot be allocated since it is leave without pay"
@@ -5998,7 +5998,7 @@ msgstr "Энэ чөлөө олгох бодлогын даалгаварт ал�
 #. DocType 'HR Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Leave and Expense Claim Settings"
-msgstr "Leave and Expense Claim тохиргоо"
+msgstr "Амралт, зардлын нэхэмжлэлийн тохиргоо"
 
 #: hrms/hr/doctype/leave_type/leave_type.py:27
 msgid "Leave application is linked with leave allocations {0}. Leave application cannot be set as leave without pay"
@@ -6128,7 +6128,7 @@ msgstr "Зээлийн эргэн төлөлт"
 #. Label of the loan_repayment_entry (Link) field in DocType 'Salary Slip Loan'
 #: hrms/payroll/doctype/salary_slip_loan/salary_slip_loan.json
 msgid "Loan Repayment Entry"
-msgstr "Loan Repayment бичилт"
+msgstr "Зээлийн эргэн төлөлтийн бүртгэл"
 
 #: hrms/hr/utils.py:819
 msgid "Loan cannot be repayed from salary for Employee {0} because salary is processed in currency {1}"
@@ -6141,7 +6141,7 @@ msgstr "Байршуулж байна..."
 #. Label of the device_id (Data) field in DocType 'Employee Checkin'
 #: hrms/hr/doctype/employee_checkin/employee_checkin.json
 msgid "Location / Device ID"
-msgstr "Location / Device дугаар"
+msgstr "Байршил / Төхөөрөмжийн ID"
 
 #. Label of the lodging_required (Check) field in DocType 'Travel Itinerary'
 #: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
@@ -6295,7 +6295,7 @@ msgstr "Нэхэмжлэл гаргах боломжтой дээд хэмжээ
 #. Benefit Application Detail'
 #: hrms/payroll/doctype/employee_benefit_application_detail/employee_benefit_application_detail.json
 msgid "Max Benefit Amount"
-msgstr "Max Benefit дүн"
+msgstr "Тэтгэмжийн дээд хэмжээ"
 
 #. Label of the max_benefit_amount (Currency) field in DocType 'Salary
 #. Component'
@@ -6321,7 +6321,7 @@ msgstr "Хамгийн их ашиг тус (жил бүр)"
 #: hrms/payroll/doctype/employee_tax_exemption_category/employee_tax_exemption_category.json
 #: hrms/payroll/doctype/employee_tax_exemption_sub_category/employee_tax_exemption_sub_category.json
 msgid "Max Exemption Amount"
-msgstr "Max Exemption дүн"
+msgstr "Чөлөөлөлтийн дээд хэмжээ"
 
 #: hrms/payroll/doctype/employee_tax_exemption_sub_category/employee_tax_exemption_sub_category.py:18
 msgid "Max Exemption Amount cannot be greater than maximum exemption amount {0} of Tax Exemption Category {1}"
@@ -6343,7 +6343,7 @@ msgstr "Цагийн хүснэгттэй харьцуулахад хамгий�
 #. Assignment'
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
 msgid "Maximum Benefit Amount"
-msgstr "Maximum Benefit дүн"
+msgstr "Тэтгэмжийн дээд хэмжээ"
 
 #. Label of the maximum_carry_forwarded_leaves (Float) field in DocType 'Leave
 #. Type'
@@ -6369,13 +6369,13 @@ msgstr "Хамгийн их мөнгө авах боломжтой навч"
 #. Declaration Category'
 #: hrms/payroll/doctype/employee_tax_exemption_declaration_category/employee_tax_exemption_declaration_category.json
 msgid "Maximum Exempted Amount"
-msgstr "Maximum Exempted дүн"
+msgstr "Чөлөөлөгдсөн дээд хэмжээ"
 
 #. Label of the max_amount (Currency) field in DocType 'Employee Tax Exemption
 #. Proof Submission Detail'
 #: hrms/payroll/doctype/employee_tax_exemption_proof_submission_detail/employee_tax_exemption_proof_submission_detail.json
 msgid "Maximum Exemption Amount"
-msgstr "Maximum Exemption дүн"
+msgstr "Чөлөөлөлтийн дээд хэмжээ"
 
 #. Label of the max_leaves_allowed (Float) field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
@@ -6447,7 +6447,7 @@ msgstr "Энэхүү чөлөө авах хүсэлт гаргахын тулд 
 
 #: hrms/hr/doctype/employee_advance/employee_advance.py:47
 msgid "Missing Advance Account"
-msgstr "Missing Advance данс"
+msgstr "Урьдчилсан бүртгэл байхгүй байна"
 
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:85
 msgid "Missing Mandatory Field"
@@ -6459,7 +6459,7 @@ msgstr "Нээлтийн бүртгэл дутуу байна"
 
 #: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:48
 msgid "Missing Relieving Date"
-msgstr "Missing Relieving огноо"
+msgstr "Хөнгөлөх огноо дутуу байна"
 
 #: hrms/payroll/report/provident_fund_deductions/provident_fund_deductions.py:18
 msgid "Missing Salary Components"
@@ -6481,7 +6481,7 @@ msgstr "Төлбөр хийхдээ төлбөрийн хэлбэр шаардл
 #. Label of the month_to_date (Currency) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Month To Date"
-msgstr "Month To огноо"
+msgstr "Сар хүртэл"
 
 #. Label of the base_month_to_date (Currency) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
@@ -6568,7 +6568,7 @@ msgstr "Цэвэр төлбөр 0-ээс бага байж болохгүй"
 
 #: hrms/payroll/report/bank_remittance/bank_remittance.py:53
 msgid "Net Salary Amount"
-msgstr "Net Salary дүн"
+msgstr "Цалингийн цэвэр дүн"
 
 #: hrms/payroll/doctype/salary_structure/salary_structure.py:93
 msgid "Net pay cannot be negative"
@@ -6577,39 +6577,39 @@ msgstr "Цэвэр цалин сөрөг байж болохгүй"
 #. Label of the new_employee_id (Link) field in DocType 'Employee Transfer'
 #: hrms/hr/doctype/employee_transfer/employee_transfer.json
 msgid "New Employee ID"
-msgstr "Шинэ Employee ID"
+msgstr "Шинэ ажилтны үнэмлэх"
 
 #: frontend/src/components/ExpensesTable.vue:213
 msgid "New Expense Item"
-msgstr "Шинэ Expense Item"
+msgstr "Шинэ зардлын зүйл"
 
 #: frontend/src/components/ExpenseTaxesTable.vue:221
 msgid "New Expense Tax"
-msgstr "Шинэ Expense Tax"
+msgstr "Шинэ зардлын татвар"
 
 #: hrms/public/js/templates/performance_feedback.html:26
 msgid "New Feedback"
-msgstr "Шинэ Feedback"
+msgstr "Шинэ санал хүсэлт"
 
 #. Label of a quick_list in the Tenure Workspace
 #: hrms/hr/workspace/tenure/tenure.json
 msgid "New Hires (This Month)"
-msgstr "Шинэ Hires (This Month)"
+msgstr "Шинээр ажилд орсон хүмүүс (энэ сард)"
 
 #: hrms/hr/report/employee_leave_balance/employee_leave_balance.py:61
 msgid "New Leave(s) Allocated"
-msgstr "Шинэ Leave(s) Allocated"
+msgstr "Шинэ чөлөө (үүд) хуваарилагдсан"
 
 #. Label of the new_leaves_allocated (Float) field in DocType 'Leave
 #. Allocation'
 #: hrms/hr/doctype/leave_allocation/leave_allocation.json
 msgid "New Leaves Allocated"
-msgstr "Шинэ Leaves Allocated"
+msgstr "Шинэ навч хуваарилагдсан"
 
 #. Label of the no_of_days (Float) field in DocType 'Leave Control Panel'
 #: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
 msgid "New Leaves Allocated (In Days)"
-msgstr "Шинэ Leaves Allocated (In Days)"
+msgstr "Хуваарилсан шинэ навч (өдөрөөр)"
 
 #. Description of the 'Create Shifts After' (Date) field in DocType 'Shift
 #. Schedule Assignment'
@@ -6876,7 +6876,7 @@ msgstr "Мэдэгдлийн хугацаа"
 
 #: hrms/hr/doctype/exit_interview/exit_interview.py:125
 msgid "Notification Template"
-msgstr "Notification загвар"
+msgstr "Мэдэгдэлийн загвар"
 
 #. Label of the notify_users_by_email (Check) field in DocType 'Employee
 #. Onboarding'
@@ -7146,7 +7146,7 @@ msgstr "Илүү цагийн дүнгийн тооцоо"
 #: hrms/hr/doctype/overtime_details/overtime_details.json
 #: hrms/hr/doctype/overtime_slip/overtime_slip.json
 msgid "Overtime Details"
-msgstr "Overtime дэлгэрэнгүй"
+msgstr "Илүү цагийн дэлгэрэнгүй мэдээлэл"
 
 #. Label of the overtime_duration (Float) field in DocType 'Overtime Details'
 #: hrms/hr/doctype/overtime_details/overtime_details.json
@@ -7236,7 +7236,7 @@ msgstr "{0} ажилтны илүү цагийн хуудас ирүүлсэн"
 #: hrms/hr/doctype/shift_type/shift_type.json
 #: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
 msgid "Overtime Type"
-msgstr "Overtime төрөл"
+msgstr "Илүү цагийн төрөл"
 
 #. Description of the 'Overtime Salary Component' (Link) field in DocType
 #. 'Overtime Type'
@@ -7250,7 +7250,7 @@ msgstr "Илүү цагийн орлогыг энэ цалингийн бүрэ�
 #: hrms/payroll/doctype/additional_salary/additional_salary.py:153
 #: hrms/payroll/doctype/additional_salary/additional_salary.py:181
 msgid "Overwrite Salary Structure Amount"
-msgstr "Overwrite Salary Structure дүн"
+msgstr "Цалингийн бүтцийн хэмжээг дарж бичнэ үү"
 
 #: hrms/payroll/report/income_tax_deductions/income_tax_deductions.py:41
 msgid "PAN Number"
@@ -7302,7 +7302,7 @@ msgstr "Хэсэгчилсэн нэхэмжлэл гаргаж, буцаасан
 #. Label of the password_policy (Data) field in DocType 'Payroll Settings'
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.json
 msgid "Password Policy"
-msgstr "Password бодлого"
+msgstr "Нууц үгийн бодлого"
 
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.js:25
 msgid "Password policy cannot contain spaces or simultaneous hyphens. The format will be restructured automatically"
@@ -7322,7 +7322,7 @@ msgstr "Цалингийн хувь хэмжээг үржүүлэгч"
 #. Encashment'
 #: hrms/hr/doctype/leave_encashment/leave_encashment.json
 msgid "Pay Via Payment Entry"
-msgstr "Pay Via Payment бичилт"
+msgstr "Төлбөрийн бичилтээр төлнө"
 
 #. Label of the pay_via_salary_slip (Check) field in DocType 'Gratuity'
 #: hrms/payroll/doctype/gratuity/gratuity.json
@@ -7335,11 +7335,11 @@ msgstr "Төлбөрийн данс нь зардлын нэхэмжлэл га�
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.js:461
 msgid "Payment Account is mandatory"
-msgstr "Payment Account заавал шаардлагатай"
+msgstr "Төлбөрийн данс заавал байх ёстой"
 
 #: hrms/payroll/report/bank_remittance/bank_remittance.py:26
 msgid "Payment Date"
-msgstr "Payment огноо"
+msgstr "Төлбөрийн огноо"
 
 #. Label of the payment_days (Float) field in DocType 'Payroll Correction'
 #. Label of the payment_days (Float) field in DocType 'Salary Slip'
@@ -7362,7 +7362,7 @@ msgstr "Төлбөрийн өдрүүдийн хамаарал"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.js:282
 msgid "Payment Days calculations are based on these Payroll Settings"
-msgstr "Payment Days calculations are based on these Payroll тохиргоо"
+msgstr "Төлбөрийн өдрүүдийн тооцоог эдгээр Цалингийн Тохиргоон дээр үндэслэнэ"
 
 #. Label of the section_break_5 (Tab Break) field in DocType 'Gratuity'
 #: hrms/payroll/doctype/gratuity/gratuity.json
@@ -7442,7 +7442,7 @@ msgstr "Цалингийн хяналтын самбар"
 #: hrms/payroll/doctype/gratuity/gratuity.json
 #: hrms/payroll/doctype/payroll_correction/payroll_correction.json
 msgid "Payroll Date"
-msgstr "Payroll огноо"
+msgstr "Цалингийн огноо"
 
 #. Name of a DocType
 #: hrms/payroll/doctype/payroll_employee_detail/payroll_employee_detail.json
@@ -7473,7 +7473,7 @@ msgstr "Цалингийн мэдээлэл"
 
 #: hrms/payroll/report/bank_remittance/bank_remittance.py:12
 msgid "Payroll Number"
-msgstr "Payroll дугаар"
+msgstr "Цалингийн дугаар"
 
 #. Label of the payroll_payable_account (Link) field in DocType 'Bulk Salary
 #. Structure Assignment'
@@ -7485,7 +7485,7 @@ msgstr "Payroll дугаар"
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
 #: hrms/setup.py:845
 msgid "Payroll Payable Account"
-msgstr "Payroll Payable данс"
+msgstr "Цалингийн өглөгийн данс"
 
 #. Label of the payroll_period (Link) field in DocType 'Arrear'
 #. Label of the payroll_period (Link) field in DocType 'Employee Benefit
@@ -7518,7 +7518,7 @@ msgstr "Цалингийн хугацаа"
 #. Name of a DocType
 #: hrms/payroll/doctype/payroll_period_date/payroll_period_date.json
 msgid "Payroll Period Date"
-msgstr "Payroll Period огноо"
+msgstr "Цалингийн хугацаа"
 
 #. Label of the section_break_5 (Section Break) field in DocType 'Payroll
 #. Period'
@@ -7537,7 +7537,7 @@ msgstr "Цалингийн тайлан"
 #: hrms/hr/workspace/hr/hr.json
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.json
 msgid "Payroll Settings"
-msgstr "Payroll тохиргоо"
+msgstr "Цалингийн тохиргоо"
 
 #: hrms/payroll/doctype/additional_salary/additional_salary.py:95
 msgid "Payroll date can not be greater than employee's relieving date."
@@ -7590,7 +7590,7 @@ msgstr "{0} бүрмөсөн цуцлах"
 
 #: frontend/src/components/FormView.vue:260
 msgid "Permanently submit {0}"
-msgstr "{0}-г байнга оруулах"
+msgstr "{0}-г байнга батлах"
 
 #: hrms/setup.py:394
 msgid "Piecework"
@@ -7603,64 +7603,64 @@ msgstr "Төлөвлөсөн албан тушаалын тоо"
 
 #: hrms/hr/doctype/shift_type/shift_type.js:16
 msgid "Please Enable Auto Attendance and complete the setup first."
-msgstr "Enable auto attendance and complete the setup first уу"
+msgstr "Автомат оролцоог идэвхжүүлж эхлээд тохиргоог гүйцээнэ үү."
 
 #: hrms/payroll/doctype/retention_bonus/retention_bonus.js:8
 msgid "Please Select Company First"
-msgstr "Select company first уу"
+msgstr "Эхлээд компанийг сонгоно уу"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:832
 msgid "Please assign a Salary Structure for Employee {0} applicable from or before {1} first"
-msgstr "Assign a salary structure for employee {0} applicable from or before {1} first уу"
+msgstr "Эхлээд {1}-ээс өмнө эсвэл түүнээс өмнө хамаарах {0}-ийн ажилтны цалингийн бүтцийг зааж өгнө үү."
 
 #: hrms/hr/doctype/attendance_request/attendance_request.py:41
 msgid "Please check if employee is on leave or attendance with the same status exists for selected day(s)."
-msgstr "Check if employee is on leave or attendance with the same status exists for selected day(s) уу"
+msgstr "Ажилтан чөлөөнд байгаа эсэх, эсвэл сонгосон өдрүүдэд ижил статустай ирц байгаа эсэхийг шалгана уу."
 
 #: hrms/templates/emails/training_event.html:17
 msgid "Please confirm once you have completed your training"
-msgstr "Confirm once you have completed your training уу"
+msgstr "Сургалтаа дуусгасны дараа баталгаажуулна уу"
 
 #: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.py:101
 msgid "Please create a new {0} for the date {1} first."
-msgstr "Create a new {0} for the date {1} first уу"
+msgstr "Эхлээд {1} огноогоор шинэ {0} үүсгэнэ үү."
 
 #: hrms/hr/doctype/employee_transfer/employee_transfer.py:55
 msgid "Please delete the Employee {0} to cancel this document"
-msgstr "Delete the employee {0} to cancel this document уу"
+msgstr "Энэ баримт бичгийг цуцлахын тулд ажилтан {0}-г устгана уу"
 
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.py:20
 msgid "Please enable default incoming account before creating Daily Work Summary Group"
-msgstr "Enable default incoming account before creating daily work summary group уу"
+msgstr "Өдөр тутмын ажлын хураангуй бүлгийг үүсгэхээсээ өмнө өгөгдмөл ирсэн бүртгэлийг идэвхжүүлнэ үү"
 
 #: hrms/hr/doctype/staffing_plan/staffing_plan.js:97
 msgid "Please enter the designation"
-msgstr "Enter the designation уу"
+msgstr "Тодорхойлолтыг оруулна уу"
 
 #: hrms/hr/doctype/overtime_slip/overtime_slip.js:11
 msgid "Please fill in Employee, Posting Date, and Company before fetching overtime details."
-msgstr "Fill in employee, posting date, and company before fetching overtime details уу"
+msgstr "Илүү цагийн дэлгэрэнгүй мэдээллийг авахын өмнө ажилтан, нийтэлсэн огноо, компанийг бөглөнө үү."
 
 #: hrms/hr/doctype/shift_type/shift_type.py:58
 msgid "Please reduce {0} to avoid shift time overlapping with itself"
-msgstr "Reduce {0} to avoid shift time overlapping with itself уу"
+msgstr "Ээлжийн цаг өөртэйгээ давхцахаас зайлсхийхийн тулд {0}-г багасгана уу"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:2158
 msgid "Please see attachment"
-msgstr "See attachment уу"
+msgstr "Хавсралтыг харна уу"
 
 #: hrms/hr/doctype/staffing_plan/staffing_plan.py:225
 msgid "Please select Company and Designation"
-msgstr "Select company and designation уу"
+msgstr "Компани болон нэрийг сонгоно уу"
 
 #: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.js:22
 msgid "Please select Employee"
-msgstr "Select employee уу"
+msgstr "Ажилтнаа сонгоно уу"
 
 #: hrms/hr/doctype/department_approver/department_approver.py:19
 #: hrms/hr/employee_property_update.js:45
 msgid "Please select Employee first."
-msgstr "Select employee first уу"
+msgstr "Эхлээд Ажилтнаа сонгоно уу."
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:41
 msgid "Please select Filter Based On"
@@ -7668,19 +7668,19 @@ msgstr "Select filter based on уу"
 
 #: hrms/payroll/doctype/salary_withholding/salary_withholding.js:25
 msgid "Please select From Date and Payroll Frequency first"
-msgstr "Select from date and payroll frequency first уу"
+msgstr "Эхлээд огноо болон цалингийн давтамжийг сонгоно уу"
 
 #: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:113
 msgid "Please select From Date."
-msgstr "Select from date уу"
+msgstr "Огнооноос сонгоно уу."
 
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:167
 msgid "Please select Shift Schedule and assignment date(s)."
-msgstr "Select shift schedule and assignment date(s) уу"
+msgstr "Шилжилтийн хуваарь болон хуваарилалтын огноог сонгоно уу."
 
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:160
 msgid "Please select Shift Type and assignment date(s)."
-msgstr "Select shift type and assignment date(s) уу"
+msgstr "Шилжилтийн төрөл болон хуваарилалтын огноог сонгоно уу."
 
 #: hrms/public/js/hierarchy_chart/hierarchy_chart_mobile.js:233
 msgid "Please select a company first"
@@ -7705,52 +7705,52 @@ msgstr "Select an applicant уу"
 
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.py:260
 msgid "Please select at least one Shift Request to perform this action."
-msgstr "Select at least one shift request to perform this action уу"
+msgstr "Энэ үйлдлийг гүйцэтгэхийн тулд дор хаяж нэг ээлжийн хүсэлтийг сонгоно уу."
 
 #: hrms/hr/utils.py:921
 msgid "Please select at least one employee to perform this action."
-msgstr "Select at least one employee to perform this action уу"
+msgstr "Энэ үйлдлийг гүйцэтгэхийн тулд дор хаяж нэг ажилтныг сонгоно уу."
 
 #: hrms/public/js/utils/index.js:47
 msgid "Please select at least one row to perform this action."
-msgstr "Select at least one row to perform this action уу"
+msgstr "Энэ үйлдлийг гүйцэтгэхийн тулд дор хаяж нэг мөр сонгоно уу."
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:55
 msgid "Please select company."
-msgstr "Select company уу"
+msgstr "Компани сонгоно уу."
 
 #: hrms/hr/doctype/employee_advance/employee_advance.js:16
 #: hrms/hr/doctype/leave_encashment/leave_encashment.js:30
 msgid "Please select employee first"
-msgstr "Select employee first уу"
+msgstr "Эхлээд ажилтнаа сонгоно уу"
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:111
 msgid "Please select employees to create appraisals for"
-msgstr "Select employees to create appraisals for уу"
+msgstr "Үнэлгээ үүсгэх ажилчдаа сонгоно уу"
 
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:256
 msgid "Please select half day attendance status."
-msgstr "Select half day attendance status уу"
+msgstr "Хагас өдрийн ирцийн төлөвийг сонгоно уу."
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:44
 msgid "Please select month and year."
-msgstr "Select month and year уу"
+msgstr "Сар, жилийг сонгоно уу."
 
 #: hrms/hr/doctype/goal/goal.js:103
 msgid "Please select the Appraisal Cycle first."
-msgstr "Select the appraisal cycle first уу"
+msgstr "Эхлээд үнэлгээний мөчлөгийг сонгоно уу."
 
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:250
 msgid "Please select the attendance status."
-msgstr "Select the attendance status уу"
+msgstr "Ирцийн төлөвөө сонгоно уу."
 
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:243
 msgid "Please select the employees you want to mark attendance for."
-msgstr "Select the employees you want to mark attendance for уу"
+msgstr "Ирцээ тэмдэглэхийг хүсч буй ажилчдаа сонгоно уу."
 
 #: hrms/payroll/doctype/salary_slip/salary_slip_list.js:15
 msgid "Please select the salary slips to email"
-msgstr "Select the salary slips to email уу"
+msgstr "Цалингийн хуудсыг сонгон цахим шуудангаар илгээнэ үү"
 
 #: hrms/payroll/doctype/salary_structure/salary_structure.py:286
 msgid "Please set \"Default Payroll Payable Account\" in Company Defaults"
@@ -7758,61 +7758,61 @@ msgstr "Set \"default payroll payable account\" in company defaults уу"
 
 #: hrms/regional/india/utils.py:18
 msgid "Please set Basic and HRA component in Company {0}"
-msgstr "Set basic and hra component in company {0} уу"
+msgstr "{0} компанид Үндсэн болон HRA бүрэлдэхүүнийг тохируулна уу"
 
 #: hrms/hr/doctype/leave_encashment/leave_encashment.py:162
 msgid "Please set Earning Component for Leave type: {0}."
-msgstr "Set earning component for leave type: {0} уу"
+msgstr "Амралтын төрөлд зориулж Орлогын бүрэлдэхүүн хэсгийг тохируулна уу: {0}."
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:493
 msgid "Please set Payroll based on in Payroll settings"
-msgstr "Set payroll based on in payroll settings уу"
+msgstr "Цалингийн тохиргоонд үндэслэн Цалингийн хэмжээг тохируулна уу"
 
 #: hrms/payroll/doctype/gratuity/gratuity.py:173
 msgid "Please set Relieving Date for employee: {0}"
-msgstr "Set relieving date for employee: {0} уу"
+msgstr "Ажилтныг чөлөөлөх огноог тохируулна уу: {0}"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:166
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:52
 msgid "Please set a date range less than 90 days."
-msgstr "Set a date range less than 90 days уу"
+msgstr "Огнооны хязгаарыг 90 хоногоос бага хугацаагаар тохируулна уу."
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:357
 msgid "Please set account in Salary Component {0}"
-msgstr "Set account in salary component {0} уу"
+msgstr "{0} цалингийн бүрэлдэхүүн хэсэгт данс тохируулна уу"
 
 #: hrms/hr/doctype/leave_application/leave_application.py:665
 msgid "Please set default template for Leave Approval Notification in HR Settings."
-msgstr "Set default template for leave approval notification in hr settings уу"
+msgstr "Хүний нөөцийн тохиргоонд зөвшөөрөл олгох мэдэгдлийн өгөгдмөл загварыг тохируулна уу."
 
 #: hrms/hr/doctype/leave_application/leave_application.py:640
 msgid "Please set default template for Leave Status Notification in HR Settings."
-msgstr "Set default template for leave status notification in hr settings уу"
+msgstr "Хүний нөөцийн тохиргоонд Орхих статусын мэдэгдлийн өгөгдмөл загварыг тохируулна уу."
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:137
 msgid "Please set the Appraisal Template for all the {0} or select the template in the Employees table below."
-msgstr "Set the appraisal template for all the {0} or select the template in the employees table below уу"
+msgstr "Бүх {0}-д Үнэлгээний загварыг тохируулна уу эсвэл доорх Ажилчдын хүснэгтээс загварыг сонгоно уу."
 
 #: hrms/hr/doctype/expense_claim/expense_claim.js:521
 msgid "Please set the Company"
-msgstr "Set the company уу"
+msgstr "Компанийг тохируулна уу"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:302
 msgid "Please set the Date Of Joining for employee {0}"
-msgstr "Set the date of joining for employee {0} уу"
+msgstr "{0} ажилтанд элссэн огноог тохируулна уу"
 
 #: hrms/controllers/employee_boarding_controller.py:110
 msgid "Please set the Holiday List."
-msgstr "Set the holiday list уу"
+msgstr "Амралтын жагсаалтыг тохируулна уу."
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:48
 msgid "Please set the date range."
-msgstr "Set the date range уу"
+msgstr "Огнооны хязгаарыг тохируулна уу."
 
 #: hrms/hr/doctype/exit_interview/exit_interview.js:21
 #: hrms/hr/doctype/exit_interview/exit_interview.py:21
 msgid "Please set the relieving date for employee {0}"
-msgstr "Set the relieving date for employee {0} уу"
+msgstr "{0} ажилтны чөлөөлөх огноог тохируулна уу"
 
 #: hrms/hr/doctype/exit_interview/exit_interview.py:123
 msgid "Please set {0} and {1} in {2}."
@@ -7820,7 +7820,7 @@ msgstr "Set {0} and {1} in {2} уу"
 
 #: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:44
 msgid "Please set {0} for Employee {1}"
-msgstr "Set {0} for employee {1} уу"
+msgstr "{0}-г ажилтан {1}-д тохируулна уу"
 
 #: hrms/hr/doctype/department_approver/department_approver.py:84
 msgid "Please set {0} for the Employee: {1}"
@@ -7833,11 +7833,11 @@ msgstr "Set {0} уу"
 
 #: hrms/overrides/employee_master.py:16
 msgid "Please setup Employee Naming System in Human Resource > HR Settings"
-msgstr "Please setup Employee Naming System in Human Resource > HR тохиргоо"
+msgstr "Хүний нөөц > Хүний нөөцийн тохиргоо хэсэгт Ажилтны нэрсийн системийг тохируулна уу"
 
 #: hrms/hr/doctype/upload_attendance/upload_attendance.py:159
 msgid "Please setup numbering series for Attendance via Setup > Numbering Series"
-msgstr "Setup numbering series for attendance via setup > numbering series уу"
+msgstr "Тохируулах > Дугаарлах цувралаар ирцийг дугаарлах цувралыг тохируулна уу"
 
 #: hrms/hr/notification/training_feedback/training_feedback.html:6
 msgid "Please share your feedback to the training by clicking on 'Training Feedback' and then 'New'"
@@ -7845,19 +7845,19 @@ msgstr "Share your feedback to the training by clicking on 'training feedback' a
 
 #: hrms/hr/doctype/interview/interview.py:194
 msgid "Please specify the job applicant to be updated."
-msgstr "Specify the job applicant to be updated уу"
+msgstr "Шинэчлэх ажил горилогчийг зааж өгнө үү."
 
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:158
 msgid "Please specify {0} and {1} (if any), for the correct tax calculation in future salary slips."
-msgstr "Specify {0} and {1} (if any), for the correct tax calculation in future salary slips уу"
+msgstr "Цалингийн хуудасны татварыг зөв тооцохын тулд {0} ба {1} (хэрэв байгаа бол)-ыг зааж өгнө үү."
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:157
 msgid "Please submit the {0} before marking the cycle as Completed"
-msgstr "Submit the {0} before marking the cycle as completed уу"
+msgstr "Циклийг дууссан гэж тэмдэглэхээс өмнө {0}-г оруулна уу"
 
 #: hrms/templates/emails/training_event.html:13
 msgid "Please update your status for this training event"
-msgstr "Update your status for this training event уу"
+msgstr "Энэхүү сургалтын арга хэмжээнд оролцох статусаа шинэчилнэ үү"
 
 #. Label of the posted_on (Datetime) field in DocType 'Job Opening'
 #: hrms/hr/doctype/job_opening/job_opening.json
@@ -7896,7 +7896,7 @@ msgstr "Одоо байна"
 
 #: hrms/hr/report/shift_attendance/shift_attendance.py:162
 msgid "Present Records"
-msgstr ""
+msgstr "Одоогийн бичлэгүүд"
 
 #. Label of the prevent_self_expense_approval (Check) field in DocType 'HR
 #. Settings'
@@ -7914,12 +7914,12 @@ msgstr "Хэрэглэгч зөвшөөрөлтэй байсан ч навчий
 #: hrms/payroll/doctype/salary_structure/salary_structure.js:193
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.js:73
 msgid "Preview Salary Slip"
-msgstr ""
+msgstr "Цалингийн хуудсыг урьдчилан үзэх"
 
 #. Label of the principal_amount (Currency) field in DocType 'Salary Slip Loan'
 #: hrms/payroll/doctype/salary_slip_loan/salary_slip_loan.json
 msgid "Principal Amount"
-msgstr "Principal дүн"
+msgstr "Үндсэн төлбөрийн хэмжээ"
 
 #: hrms/payroll/report/salary_register/salary_register.html:40
 msgid "Printed On {0}"
@@ -8013,7 +8013,7 @@ msgstr "Урамшуулал"
 #. Label of the promotion_date (Date) field in DocType 'Employee Promotion'
 #: hrms/hr/doctype/employee_promotion/employee_promotion.json
 msgid "Promotion Date"
-msgstr "Promotion огноо"
+msgstr "Сурталчилгааны огноо"
 
 #: hrms/hr/employee_property_update.js:172
 msgid "Property already added"
@@ -8052,7 +8052,7 @@ msgstr "Вэбсайт дээр нийтлэх"
 #. Advance'
 #: hrms/hr/doctype/employee_advance/employee_advance.json
 msgid "Purpose & Amount"
-msgstr "Purpose & дүн"
+msgstr "Зорилго ба хэмжээ"
 
 #. Name of a DocType
 #. Label of the purpose_of_travel (Data) field in DocType 'Purpose of Travel'
@@ -8211,24 +8211,24 @@ msgstr "Лавлагаа: {0}"
 #. Referral'
 #: hrms/hr/doctype/employee_referral/employee_referral.json
 msgid "Referral Bonus Payment Status"
-msgstr "Referral Bonus Payment төлөв"
+msgstr "Лавлагааны урамшууллын төлбөрийн байдал"
 
 #. Label of the referral_details_section (Section Break) field in DocType
 #. 'Employee Referral'
 #: hrms/hr/doctype/employee_referral/employee_referral.json
 msgid "Referral Details"
-msgstr "Referral дэлгэрэнгүй"
+msgstr "Лавлах дэлгэрэнгүй мэдээлэл"
 
 #. Label of the referrer_details_section (Section Break) field in DocType
 #. 'Employee Referral'
 #: hrms/hr/doctype/employee_referral/employee_referral.json
 msgid "Referrer Details"
-msgstr "Referrer дэлгэрэнгүй"
+msgstr "Илгээгчийн дэлгэрэнгүй мэдээлэл"
 
 #. Label of the referrer_name (Data) field in DocType 'Employee Referral'
 #: hrms/hr/doctype/employee_referral/employee_referral.json
 msgid "Referrer Name"
-msgstr "Referrer нэр"
+msgstr "Илгээгчийн нэр"
 
 #. Label of the reflections_section (Section Break) field in DocType
 #. 'Appraisal'
@@ -8240,7 +8240,7 @@ msgstr "Тусгал"
 #. Log'
 #: hrms/hr/doctype/vehicle_log/vehicle_log.json
 msgid "Refuelling Details"
-msgstr "Refuelling дэлгэрэнгүй"
+msgstr "Шатахуун цэнэглэх дэлгэрэнгүй мэдээлэл"
 
 #: frontend/src/components/RequestActionSheet.vue:96
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:126
@@ -8268,7 +8268,7 @@ msgstr "Суллагдсан"
 #. Statement'
 #: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
 msgid "Relieving Date "
-msgstr "Relieving огноо"
+msgstr "Хөнгөвчлөх огноо"
 
 #: hrms/hr/doctype/exit_interview/exit_interview.js:28
 #: hrms/hr/doctype/exit_interview/exit_interview.py:24
@@ -8475,7 +8475,7 @@ msgstr "Шүүмжлэгч"
 #. Feedback'
 #: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
 msgid "Reviewer Name"
-msgstr "Reviewer нэр"
+msgstr "Шүүгчийн нэр"
 
 #. Label of the revised_ctc (Currency) field in DocType 'Employee Promotion'
 #: hrms/hr/doctype/employee_promotion/employee_promotion.json
@@ -8503,7 +8503,7 @@ msgstr "Жагсаалтын өнгө"
 #. Label of the round_name (Data) field in DocType 'Interview Round'
 #: hrms/hr/doctype/interview_round/interview_round.json
 msgid "Round Name"
-msgstr "Round нэр"
+msgstr "Дугуй нэр"
 
 #. Option for the 'Work Experience Calculation Method' (Select) field in
 #. DocType 'Gratuity Rule'
@@ -8530,15 +8530,15 @@ msgstr "Захиалгат ажлын өргөдлийн вэб маягт ру�
 
 #: hrms/payroll/doctype/salary_structure/salary_structure.py:86
 msgid "Row #{0}: Cannot set amount or formula for Salary Component {1} with Variable Based On Taxable Salary"
-msgstr "Мөр {0}: Cannot set amount or formula for Salary Component {1} with Variable Based On Taxable Salary"
+msgstr "Мөр #{0}: Татвар ногдох цалинд суурилсан хувьсах хэмжигдэхүүнтэй {1} цалингийн бүрэлдэхүүн хэсгийн хэмжээ эсвэл томъёог тохируулах боломжгүй"
 
 #: hrms/payroll/doctype/salary_structure/salary_structure.py:105
 msgid "Row #{0}: The {1} Component has the options {2} and {3} enabled."
-msgstr "Мөр {0}: The {1} Component has the options {2} and {3} enabled."
+msgstr "Мөр #{0}: {1} Бүрэлдэхүүн хэсэг нь {2} болон {3} гэсэн сонголттой."
 
 #: hrms/payroll/doctype/salary_structure/salary_structure.py:129
 msgid "Row #{0}: Timesheet amount will overwrite the Earning component amount for the Salary Component {1}"
-msgstr "Мөр {0}: Timesheet amount will overwrite the Earning component amount for the Salary Component {1}"
+msgstr "Мөр #{0}: Цагийн хуудасны дүн нь Цалингийн бүрэлдэхүүн хэсгийн Орлогын бүрэлдэхүүн хэсгийн дүнг дарж бичнэ {1}"
 
 #: hrms/hr/doctype/expense_claim/expense_claim.py:908
 msgid "Row No {0}: Amount cannot be greater than the Outstanding Amount against Expense Claim {1}. Outstanding Amount is {2}"
@@ -8566,11 +8566,11 @@ msgstr "Мөр {0}: From (Year) can not be greater than To (Year)"
 
 #: hrms/hr/doctype/appraisal/appraisal.py:137
 msgid "Row {0}: Goal Score cannot be greater than {1}"
-msgstr "Мөр {0}: Goal Score cannot be greater than {1}"
+msgstr "Мөр {0}: Зорилгын оноо {1}-ээс их байж болохгүй"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip_loan_utils.py:59
 msgid "Row {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3}"
-msgstr "Мөр {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3}"
+msgstr "{0} мөр: Төлсөн дүн {1} {3} зээлийн эсрэг хүлээгдэж буй хуримтлагдсан {2} дүнгээс их байна"
 
 #: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:65
 msgid "Row {0}: {1}"
@@ -8618,7 +8618,7 @@ msgstr "Цалингийн бүрэлдэхүүн хэсэг"
 #. Name of a DocType
 #: hrms/payroll/doctype/salary_component_account/salary_component_account.json
 msgid "Salary Component Account"
-msgstr "Salary Component данс"
+msgstr "Цалингийн бүрэлдэхүүн хэсгийн данс"
 
 #. Option for the 'Overtime Amount Calculation' (Select) field in DocType
 #. 'Overtime Type'
@@ -8629,7 +8629,7 @@ msgstr "Цалингийн бүрэлдэхүүн хэсэгт суурилса�
 #. Label of the type (Data) field in DocType 'Additional Salary'
 #: hrms/payroll/doctype/additional_salary/additional_salary.json
 msgid "Salary Component Type"
-msgstr "Salary Component төрөл"
+msgstr "Цалингийн бүрэлдэхүүн хэсгийн төрөл"
 
 #. Description of the 'Salary Component' (Link) field in DocType 'Salary
 #. Structure'
@@ -8658,7 +8658,7 @@ msgstr "Цалингийн дэлгэрэнгүй"
 #. 'Employee Promotion'
 #: hrms/hr/doctype/employee_promotion/employee_promotion.json
 msgid "Salary Details"
-msgstr "Salary дэлгэрэнгүй"
+msgstr "Цалингийн дэлгэрэнгүй мэдээлэл"
 
 #. Label of the section_break_16 (Section Break) field in DocType 'Job
 #. Applicant'
@@ -8732,7 +8732,7 @@ msgstr "Цагийн хүснэгтэд үндэслэн цалингийн ху
 
 #: hrms/payroll/report/salary_register/salary_register.py:113
 msgid "Salary Slip ID"
-msgstr "Salary Slip дугаар"
+msgstr "Цалингийн хуудасны үнэмлэх"
 
 #. Name of a DocType
 #: hrms/payroll/doctype/salary_slip_leave/salary_slip_leave.json
@@ -8767,7 +8767,7 @@ msgstr "Цалингийн хуудас үүсгэх дараалалд байн
 
 #: hrms/payroll/doctype/payroll_correction/payroll_correction.py:121
 msgid "Salary Slip not found."
-msgstr "Salary Slip олдсонгүй"
+msgstr "Цалингийн хуудас олдсонгүй."
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:336
 msgid "Salary Slip of employee {0} already created for this period"
@@ -8843,7 +8843,7 @@ msgstr "Цалингийн бүтэц томилох талбар"
 
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:46
 msgid "Salary Structure Assignment for Employee already exists"
-msgstr "Salary Structure Assignment for Employee аль хэдийн байна"
+msgstr "Ажилтны цалингийн бүтцийн хуваарилалт аль хэдийн байгаа"
 
 #: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.py:223
 msgid "Salary Structure Assignment not found for employee {0} on date {1}"
@@ -8918,7 +8918,7 @@ msgstr "Цалингийн хуудас илгээхээр дараалалд о
 #: hrms/hr/doctype/expense_claim_detail/expense_claim_detail.json
 #: hrms/hr/report/unpaid_expense_claim/unpaid_expense_claim.py:22
 msgid "Sanctioned Amount"
-msgstr "Sanctioned дүн"
+msgstr "Шийдвэрлэсэн хэмжээ"
 
 #. Label of the base_sanctioned_amount (Currency) field in DocType 'Expense
 #. Claim Detail'
@@ -8954,53 +8954,53 @@ msgstr "Ажлын байр хайх"
 
 #: hrms/hr/doctype/overtime_type/overtime_type.py:16
 msgid "Select Applicable Components for Overtime Type"
-msgstr "Applicable Components for Overtime Type сонгох"
+msgstr "Илүү цагийн төрөлд тохирох бүрэлдэхүүн хэсгүүдийг сонгоно уу"
 
 #: hrms/hr/doctype/interview/interview.js:209
 msgid "Select Interview Round First"
-msgstr "Interview Round First сонгох"
+msgstr "Эхлээд ярилцлагын шатыг сонгоно уу"
 
 #: hrms/hr/doctype/interview_feedback/interview_feedback.js:49
 msgid "Select Interview first"
-msgstr "Interview first сонгох"
+msgstr "Эхлээд ярилцлага сонгоно уу"
 
 #. Label of the month_for_lwp_reversal (Select) field in DocType 'Payroll
 #. Correction'
 #: hrms/payroll/doctype/payroll_correction/payroll_correction.json
 msgid "Select Month for LWP Reversal"
-msgstr "Month for LWP Reversal сонгох"
+msgstr "LWP буцаах сарыг сонгоно уу"
 
 #. Description of the 'Payment Account' (Link) field in DocType 'Payroll Entry'
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.json
 msgid "Select Payment Account to make Bank Entry"
-msgstr "Payment Account to make Bank Entry сонгох"
+msgstr "Төлбөрийн дансыг сонгон Банкны бичилт хийх"
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:1730
 msgid "Select Payroll Frequency."
-msgstr "Payroll Frequency сонгох"
+msgstr "Цалингийн давтамжийг сонгоно уу."
 
 #: frontend/src/views/salary_slip/Dashboard.vue:23
 msgid "Select Payroll Period"
-msgstr "Payroll Period сонгох"
+msgstr "Цалингийн хугацааг сонгоно уу"
 
 #: hrms/hr/employee_property_update.js:109
 msgid "Select Property"
-msgstr "Property сонгох"
+msgstr "Property сонгоно уу"
 
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:134
 msgid "Select Shift Requests"
-msgstr "Shift Requests сонгох"
+msgstr "Shift хүсэлтийг сонгоно уу"
 
 #. Label of the select_terms (Link) field in DocType 'Job Offer'
 #: hrms/hr/doctype/job_offer/job_offer.json
 msgid "Select Terms and Conditions"
-msgstr "Terms and Conditions сонгох"
+msgstr "Нөхцөлүүдийг сонгоно уу"
 
 #. Label of the select_users (Section Break) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "Select Users"
-msgstr "Users сонгох"
+msgstr "Хэрэглэгчийг сонгоно уу"
 
 #: hrms/hr/doctype/expense_claim/expense_claim.js:566
 msgid "Select an employee to get the employee advance."
@@ -9008,7 +9008,7 @@ msgstr "an employee to get the employee advance сонгох"
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.js:237
 msgid "Select the Employee for which you want to allocate leaves."
-msgstr "the Employee for which you want to allocate leaves сонгох"
+msgstr "Амралт өгөхийг хүсч буй ажилтнаа сонгоно уу."
 
 #: hrms/hr/doctype/leave_application/leave_application.js:300
 msgid "Select the Employee."
@@ -9016,43 +9016,43 @@ msgstr "the Employee сонгох"
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.js:242
 msgid "Select the Leave Type like Sick leave, Privilege Leave, Casual Leave, etc."
-msgstr "the Leave Type like Sick leave, Privilege Leave, Casual Leave, etc сонгох"
+msgstr "Өвчний чөлөө, давуу эрх олгох, энгийн чөлөө гэх мэт чөлөөний төрлийг сонгоно уу."
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.js:254
 msgid "Select the date after which this Leave Allocation will expire."
-msgstr "the date after which this Leave Allocation will expire сонгох"
+msgstr "Энэ чөлөө олгох хугацаа дуусах огноог сонгоно уу."
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.js:249
 msgid "Select the date from which this Leave Allocation will be valid."
-msgstr "the date from which this Leave Allocation will be valid сонгох"
+msgstr "Энэ чөлөөний хуваарилалт хүчинтэй байх огноог сонгоно уу."
 
 #: hrms/hr/doctype/leave_application/leave_application.js:317
 msgid "Select the end date for your Leave Application."
-msgstr "the end date for your Leave Application сонгох"
+msgstr "Амрах өргөдлөө дуусгах огноог сонгоно уу."
 
 #. Description of the 'Applicable Salary Components' (Table MultiSelect) field
 #. in DocType 'Overtime Type'
 #: hrms/hr/doctype/overtime_type/overtime_type.json
 msgid "Select the salary components whose total will be used from the salary slip to calculate the hourly overtime rate."
-msgstr "the salary components whose total will be used from the salary slip to calculate the hourly overtime rate сонгох"
+msgstr "Цагийн илүү цагийн хэмжээг тооцоолохын тулд цалингийн хуудаснаас нийтдээ ашиглагдах цалингийн бүрэлдэхүүн хэсгүүдийг сонгоно уу."
 
 #: hrms/hr/doctype/leave_application/leave_application.js:312
 msgid "Select the start date for your Leave Application."
-msgstr "the start date for your Leave Application сонгох"
+msgstr "Амрах өргөдлөө эхлүүлэх огноогоо сонгоно уу."
 
 #. Description of the 'Enabled' (Check) field in DocType 'Shift Schedule
 #. Assignment'
 #: hrms/hr/doctype/shift_schedule_assignment/shift_schedule_assignment.json
 msgid "Select this if you want shift assignments to be automatically created indefinitely."
-msgstr "this if you want shift assignments to be automatically created indefinitely сонгох"
+msgstr "Хэрэв та ээлжийн даалгаврыг автоматаар тодорхойгүй хугацаагаар үүсгэхийг хүсвэл үүнийг сонгоно уу."
 
 #: hrms/hr/doctype/leave_application/leave_application.js:305
 msgid "Select type of leave the employee wants to apply for, like Sick Leave, Privilege Leave, Casual Leave, etc."
-msgstr "type of leave the employee wants to apply for, like Sick Leave, Privilege Leave, Casual Leave, etc сонгох"
+msgstr "Ажилтны өргөдөл гаргахыг хүссэн амралтын төрлийг сонгоно уу, тухайлбал өвчний чөлөө, давуу эрх чөлөө, энгийн чөлөө гэх мэт."
 
 #: hrms/hr/doctype/leave_application/leave_application.js:327
 msgid "Select your Leave Approver i.e. the person who approves or rejects your leaves."
-msgstr "your Leave Approver i.e. the person who approves or rejects your leaves сонгох"
+msgstr "Таныг зөвшөөрөх эсвэл татгалзсан хүнийг сонгох."
 
 #. Label of the self_appraisal_tab (Tab Break) field in DocType 'Appraisal'
 #: hrms/hr/doctype/appraisal/appraisal.json
@@ -9154,7 +9154,7 @@ msgstr "Салалт эхэлнэ"
 #. Label of the service_details (Section Break) field in DocType 'Vehicle Log'
 #: hrms/hr/doctype/vehicle_log/vehicle_log.json
 msgid "Service Details"
-msgstr "Service дэлгэрэнгүй"
+msgstr "Үйлчилгээний дэлгэрэнгүй мэдээлэл"
 
 #: hrms/hr/report/vehicle_expenses/vehicle_expenses.py:49
 msgid "Service Expense"
@@ -9170,13 +9170,13 @@ msgstr "Дээд доод хязгааргүй байхын тулд \"From(Year
 #. 'Bulk Salary Structure Assignment'
 #: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.json
 msgid "Set Assignment Details"
-msgstr "Set Assignment дэлгэрэнгүй"
+msgstr "Даалгаврын дэлгэрэнгүйг тохируулах"
 
 #. Label of the allocate_leaves_section (Section Break) field in DocType 'Leave
 #. Control Panel'
 #: hrms/hr/doctype/leave_control_panel/leave_control_panel.json
 msgid "Set Leave Details"
-msgstr "Set Leave дэлгэрэнгүй"
+msgstr "Амрах дэлгэрэнгүй мэдээллийг тохируулах"
 
 #: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:79
 msgid "Set Relieving Date for Employee: {0}"
@@ -9274,7 +9274,7 @@ msgstr "Шилжилтийн даалгавар"
 #. DocType 'Shift Assignment Tool'
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.json
 msgid "Shift Assignment Details"
-msgstr "Shift Assignment дэлгэрэнгүй"
+msgstr "Ээлжийн даалгаврын дэлгэрэнгүй мэдээлэл"
 
 #: frontend/src/views/attendance/ShiftAssignmentList.vue:5
 msgid "Shift Assignment History"
@@ -9310,7 +9310,7 @@ msgstr "Ээлжийн ирц"
 #: hrms/hr/doctype/shift_assignment/shift_assignment.json
 #: hrms/hr/doctype/shift_schedule_assignment/shift_schedule_assignment.json
 msgid "Shift Details"
-msgstr "Shift дэлгэрэнгүй"
+msgstr "Шилжилтийн дэлгэрэнгүй мэдээлэл"
 
 #. Label of the shift_end (Datetime) field in DocType 'Employee Checkin'
 #: hrms/hr/doctype/employee_checkin/employee_checkin.json
@@ -9393,12 +9393,12 @@ msgstr "Ээлжийн хуваарийн даалгавар"
 #. Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Shift Settings"
-msgstr "Shift тохиргоо"
+msgstr "Тохиргоог шилжүүлэх"
 
 #. Label of the shift_start (Datetime) field in DocType 'Employee Checkin'
 #: hrms/hr/doctype/employee_checkin/employee_checkin.json
 msgid "Shift Start"
-msgstr ""
+msgstr "Shift Start"
 
 #: hrms/hr/report/shift_attendance/shift_attendance.py:55
 msgid "Shift Start Time"
@@ -9408,7 +9408,7 @@ msgstr "Шилжилт эхлэх цаг"
 #. Assignment'
 #: hrms/hr/doctype/shift_schedule_assignment/shift_schedule_assignment.json
 msgid "Shift Status"
-msgstr "Shift төлөв"
+msgstr "Шилжилтийн төлөв"
 
 #. Label of the shift_timings_section (Section Break) field in DocType
 #. 'Employee Checkin'
@@ -9457,23 +9457,23 @@ msgstr "Шилжилт"
 
 #: hrms/hr/doctype/job_offer/job_offer.js:51
 msgid "Show Employee"
-msgstr "Employee харуулах"
+msgstr "Ажилчдыг харуулах"
 
 #. Label of the show_leave_balances_in_salary_slip (Check) field in DocType
 #. 'Payroll Settings'
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.json
 msgid "Show Leave Balances in Salary Slip"
-msgstr "Leave Balances in Salary Slip харуулах"
+msgstr "Цалингийн хуудаст чөлөөний үлдэгдлийг харуул"
 
 #. Label of the show_leaves_of_all_department_members_in_calendar (Check) field
 #. in DocType 'HR Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Show Leaves Of All Department Members In Calendar"
-msgstr "Leaves Of All Department Members In Calendar харуулах"
+msgstr "Календарт хэлтсийн бүх гишүүдийн навчийг харуулах"
 
 #: hrms/payroll/doctype/salary_structure/salary_structure.js:204
 msgid "Show Salary Slip"
-msgstr "Salary Slip харуулах"
+msgstr "Цалингийн хуудсыг үзүүл"
 
 #: hrms/www/jobs/index.html:121
 msgid "Showing"
@@ -9512,7 +9512,7 @@ msgstr "Ур чадварын үнэлгээ"
 #. Label of the skill_name (Data) field in DocType 'Skill'
 #: hrms/hr/doctype/skill/skill.json
 msgid "Skill Name"
-msgstr "Skill нэр"
+msgstr "Ур чадварын нэр"
 
 #. Label of the skills_section (Section Break) field in DocType 'Employee Skill
 #. Map'
@@ -9544,12 +9544,12 @@ msgstr "Эх сурвалж болон зорилтот шилжилтүүд и�
 #. Costing'
 #: hrms/hr/doctype/travel_request_costing/travel_request_costing.json
 msgid "Sponsored Amount"
-msgstr "Sponsored дүн"
+msgstr "Ивээн тэтгэсэн дүн"
 
 #. Label of the staffing_details (Table) field in DocType 'Staffing Plan'
 #: hrms/hr/doctype/staffing_plan/staffing_plan.json
 msgid "Staffing Details"
-msgstr "Staffing дэлгэрэнгүй"
+msgstr "Боловсон хүчний дэлгэрэнгүй мэдээлэл"
 
 #. Label of the staffing_plan (Link) field in DocType 'Job Opening'
 #. Name of a DocType
@@ -9582,7 +9582,7 @@ msgstr "Стандарт үржүүлэгч"
 #: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Standard Tax Exemption Amount"
-msgstr "Standard Tax Exemption дүн"
+msgstr "Татвараас чөлөөлөх стандарт хэмжээ"
 
 #. Label of the standard_working_hours (Float) field in DocType 'Attendance'
 #. Label of the standard_working_hours (Float) field in DocType 'HR Settings'
@@ -9656,7 +9656,7 @@ msgstr "Бүтцүүдийг амжилттай томилсон"
 #. Proof Submission'
 #: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
 msgid "Submission Date"
-msgstr "Submission огноо"
+msgstr "Оруулсан огноо"
 
 #: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.py:475
 msgid "Submission Failed"
@@ -9700,7 +9700,7 @@ msgstr "Ажилтны бүртгэлийг үүсгэхийн тулд үүни
 #. Slip'
 #: hrms/hr/doctype/overtime_slip/overtime_slip.json
 msgid "Submitted via Payroll Entry"
-msgstr "Submitted via Payroll бичилт"
+msgstr "Цалингийн бүртгэлээр илгээсэн"
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.js:430
 msgid "Submitting Salary Slips and creating Journal Entry..."
@@ -9764,7 +9764,7 @@ msgstr "Татвар ба тэтгэмж"
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:162
 msgid "Tax Deducted Till Date"
-msgstr "Tax Deducted Till огноо"
+msgstr "Татварыг өдөр хүртэл хассан"
 
 #. Label of the exemption_category (Link) field in DocType 'Employee Tax
 #. Exemption Sub Category'
@@ -9809,7 +9809,7 @@ msgstr "Уян хатан тэтгэмжийн татвар"
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:161
 msgid "Taxable Earnings Till Date"
-msgstr "Taxable Earnings Till огноо"
+msgstr "Өнөөдрийг хүртэлх татвар ногдох орлого"
 
 #. Label of the tax_relief_limit (Currency) field in DocType 'Income Tax Slab'
 #: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
@@ -9839,7 +9839,7 @@ msgstr "Татвар, хураамж"
 #. in DocType 'Income Tax Slab'
 #: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
 msgid "Taxes and Charges on Income Tax"
-msgstr "Taxes and Charges on Income татвар"
+msgstr "Орлогын албан татвар, хураамж"
 
 #. Option for the 'Mode of Travel' (Select) field in DocType 'Travel Itinerary'
 #: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
@@ -9983,7 +9983,7 @@ msgstr "Энэ үйлдэл нь холбосон үнэлгээний сана�
 
 #: hrms/hr/doctype/employee_checkin/employee_checkin.js:9
 msgid "This check-in is outside assigned shift hours and will not be considered for attendance. If a shift is assigned, adjust its time window and Fetch Shift again."
-msgstr "Энэхүү бүртгэл нь товлосон ээлжийн цагаас гадуур явагдах тул ирцийг тооцохгүй. Хэрэв ээлж өгөгдсөн бол түүний цагийн цонх болон Fetch Shift-ийг дахин тохируулна уу."
+msgstr "Энэхүү бүртгэл нь товлосон ээлжийн цагаас гадуур явагдах тул ирцийг тооцохгүй. Хэрэв ээлж өгөгдсөн бол түүний цагийн цонхыг тохируулж, Fetch Shift-ийг дахин тохируулна уу."
 
 #: hrms/hr/doctype/compensatory_leave_request/compensatory_leave_request.py:97
 msgid "This compensatory leave will be applicable from {0}."
@@ -10011,7 +10011,7 @@ msgstr "Энэ талбар нь ажилтны өргөдөл гаргаж бо
 
 #: hrms/hr/doctype/leave_type/leave_type.js:21
 msgid "This field allows you to set the maximum number of leaves that can be allocated annually for this Leave Type while creating the Leave Policy"
-msgstr "This field allows you to set the maximum number of leaves that can be allocated annually for this Leave Type while creating the Leave бодлого"
+msgstr "Энэ талбар нь Амралтын бодлогыг үүсгэх явцад энэ Амралтын төрөлд жил бүр хуваарилж болох навчны дээд хэмжээг тогтоох боломжийг танд олгоно."
 
 #: hrms/overrides/dashboard_overrides.py:60
 msgid "This is based on the attendance of this Employee"
@@ -10056,7 +10056,7 @@ msgstr "Он цагийн хэлхээс"
 #. Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Timesheet Details"
-msgstr "Timesheet дэлгэрэнгүй"
+msgstr "Цагийн хуудасны дэлгэрэнгүй мэдээлэл"
 
 #: hrms/hr/notification/training_scheduled/training_scheduled.html:29
 msgid "Timing"
@@ -10069,7 +10069,7 @@ msgstr "To дүн"
 
 #: hrms/hr/doctype/upload_attendance/upload_attendance.py:30
 msgid "To Date should be greater than From Date"
-msgstr "To Date should be greater than From огноо"
+msgstr "To Date нь From Date-аас их байх ёстой"
 
 #. Label of the to_user (Link) field in DocType 'PWA Notification'
 #: hrms/hr/doctype/pwa_notification/pwa_notification.json
@@ -10082,7 +10082,7 @@ msgstr "Үүнийг зөвшөөрөхийн тулд {1} доор {0}-г ид�
 
 #: hrms/hr/doctype/leave_application/leave_application.js:322
 msgid "To apply for a Half Day check 'Half Day' and select the Half Day Date"
-msgstr "To apply for a Half Day check 'Half Day' and select the Half Day огноо"
+msgstr "Хагас өдрийн өргөдөл гаргахдаа \"Хагас өдөр\" гэснийг шалгаад хагас өдрийн огноог сонгоно уу"
 
 #: hrms/hr/doctype/leave_period/leave_period.py:20
 msgid "To date can not be equal or less than from date"
@@ -10132,79 +10132,79 @@ msgstr "Өнөөдөр манай компанид {0} {1} {2} дууссан! �
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:149
 msgid "Total Absent"
-msgstr "Нийт Absent"
+msgstr "Нийт байхгүй"
 
 #: hrms/payroll/report/accrued_earnings_report/accrued_earnings_report.py:46
 msgid "Total Accrued"
-msgstr "Нийт Accrued"
+msgstr "Нийт хуримтлагдсан"
 
 #. Label of the total_actual_amount (Currency) field in DocType 'Employee Tax
 #. Exemption Proof Submission'
 #: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
 msgid "Total Actual Amount"
-msgstr "Нийт Actual Amount"
+msgstr "Нийт бодит дүн"
 
 #. Label of the total_advance_amount (Currency) field in DocType 'Expense
 #. Claim'
 #: hrms/hr/doctype/expense_claim/expense_claim.json
 msgid "Total Advance Amount"
-msgstr "Нийт Advance Amount"
+msgstr "Урьдчилгаа нийт дүн"
 
 #. Label of the base_total_advance_amount (Currency) field in DocType 'Expense
 #. Claim'
 #: hrms/hr/doctype/expense_claim/expense_claim.json
 msgid "Total Advance Amount (Company Currency)"
-msgstr "Нийт Advance Amount (Company Currency)"
+msgstr "Урьдчилгаа нийт дүн (Компанийн валют)"
 
 #. Label of the total_allocated_leaves (Float) field in DocType 'Salary Slip
 #. Leave'
 #: hrms/payroll/doctype/salary_slip_leave/salary_slip_leave.json
 msgid "Total Allocated Leave(s)"
-msgstr "Нийт Allocated Leave(s)"
+msgstr "Нийт хуваарилагдсан чөлөө(үүд)"
 
 #: hrms/hr/doctype/leave_application/leave_application_dashboard.html:7
 msgid "Total Allocated Leaves"
-msgstr "Нийт Allocated Leaves"
+msgstr "Нийт хуваарилагдсан навч"
 
 #. Label of the total_amount_reimbursed (Currency) field in DocType 'Expense
 #. Claim'
 #: hrms/hr/doctype/expense_claim/expense_claim.json
 msgid "Total Amount Reimbursed"
-msgstr "Нийт Amount Reimbursed"
+msgstr "Нөхөн олгосон нийт дүн"
 
 #: hrms/payroll/doctype/gratuity/gratuity.py:102
 msgid "Total Amount cannot be zero"
-msgstr "Нийт Amount cannot be zero"
+msgstr "Нийт дүн тэг байж болохгүй"
 
 #. Label of the total_asset_recovery_cost (Currency) field in DocType 'Full and
 #. Final Statement'
 #: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
 msgid "Total Asset Recovery Cost"
-msgstr "Нийт Asset Recovery Cost"
+msgstr "Хөрөнгийг нөхөн сэргээх нийт зардал"
 
 #. Label of the total_claimed_amount (Currency) field in DocType 'Expense
 #. Claim'
 #: frontend/src/components/ExpenseClaimSummary.vue:9
 #: hrms/hr/doctype/expense_claim/expense_claim.json
 msgid "Total Claimed Amount"
-msgstr "Нийт Claimed Amount"
+msgstr "Нэхэмжлэгдсэн нийт дүн"
 
 #. Label of the base_total_claimed_amount (Currency) field in DocType 'Expense
 #. Claim'
 #: hrms/hr/doctype/expense_claim/expense_claim.json
 msgid "Total Claimed Amount (Company Currency)"
-msgstr "Нийт Claimed Amount (Company Currency)"
+msgstr "Нэхэмжлэгдсэн нийт дүн (Компанийн мөнгөн тэмдэгт)"
 
 #. Label of the lwp_days (Float) field in DocType 'Payroll Correction'
 #: hrms/payroll/doctype/payroll_correction/payroll_correction.json
 msgid "Total Days Without Pay"
-msgstr "Нийт Days Without Pay"
+msgstr "Төлбөргүй нийт өдрүүд"
 
 #. Label of the total_declared_amount (Currency) field in DocType 'Employee Tax
 #. Exemption Declaration'
 #: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
 msgid "Total Declared Amount"
-msgstr "Нийт Declared Amount"
+msgstr "Нийт зарласан дүн"
 
 #. Label of the total_deduction (Currency) field in DocType 'Salary Slip'
 #. Label of the total_deduction (Currency) field in DocType 'Salary Structure'
@@ -10213,44 +10213,44 @@ msgstr "Нийт Declared Amount"
 #: hrms/payroll/report/salary_payments_based_on_payment_mode/salary_payments_based_on_payment_mode.py:148
 #: hrms/payroll/report/salary_register/salary_register.py:240
 msgid "Total Deduction"
-msgstr "Нийт Deduction"
+msgstr "Нийт хасалт"
 
 #. Label of the base_total_deduction (Currency) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Total Deduction (Company Currency)"
-msgstr "Нийт Deduction (Company Currency)"
+msgstr "Нийт суутгал (Компанийн мөнгөн тэмдэгт)"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:174
 msgid "Total Early Exits"
-msgstr "Нийт Early Exits"
+msgstr "Нийт эрт гарах"
 
 #. Label of the total_earning (Currency) field in DocType 'Salary Structure'
 #: hrms/payroll/doctype/salary_structure/salary_structure.json
 msgid "Total Earning"
-msgstr "Нийт Earning"
+msgstr "Нийт орлого"
 
 #. Label of the total_earnings (Currency) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Total Earnings"
-msgstr "Нийт Earnings"
+msgstr "Нийт орлого"
 
 #. Label of the total_estimated_budget (Currency) field in DocType 'Staffing
 #. Plan'
 #: hrms/hr/doctype/staffing_plan/staffing_plan.json
 msgid "Total Estimated Budget"
-msgstr "Нийт Estimated Budget"
+msgstr "Нийт тооцоолсон төсөв"
 
 #. Label of the total_estimated_cost (Currency) field in DocType 'Staffing Plan
 #. Detail'
 #: hrms/hr/doctype/staffing_plan_detail/staffing_plan_detail.json
 msgid "Total Estimated Cost"
-msgstr "Нийт Estimated Cost"
+msgstr "Нийт тооцоолсон зардал"
 
 #. Label of the total_exchange_gain_loss (Currency) field in DocType 'Expense
 #. Claim'
 #: hrms/hr/doctype/expense_claim/expense_claim.json
 msgid "Total Exchange Gain/Loss"
-msgstr "Нийт Exchange Gain/Loss"
+msgstr "Нийт солилцооны ашиг/алдагдал"
 
 #. Label of the total_exemption_amount (Currency) field in DocType 'Employee
 #. Tax Exemption Declaration'
@@ -10259,71 +10259,71 @@ msgstr "Нийт Exchange Gain/Loss"
 #: hrms/payroll/doctype/employee_tax_exemption_declaration/employee_tax_exemption_declaration.json
 #: hrms/payroll/doctype/employee_tax_exemption_proof_submission/employee_tax_exemption_proof_submission.json
 msgid "Total Exemption Amount"
-msgstr "Нийт Exemption Amount"
+msgstr "Чөлөөлөлтийн нийт дүн"
 
 #: hrms/setup.py:299
 msgid "Total Expense Claim (via Expense Claim)"
-msgstr "Нийт Expense Claim (via Expense Claim)"
+msgstr "Нийт зардлын нэхэмжлэл (зардлын нэхэмжлэлээр)"
 
 #: hrms/setup.py:290
 msgid "Total Expense Claim (via Expense Claims)"
-msgstr "Нийт Expense Claim (via Expense Claims)"
+msgstr "Нийт зардлын нэхэмжлэл (зардлын нэхэмжлэлээр)"
 
 #. Label of the total_score (Float) field in DocType 'Appraisal'
 #: hrms/hr/doctype/appraisal/appraisal.json
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:79
 msgid "Total Goal Score"
-msgstr "Нийт Goal Score"
+msgstr "Нийт гоолын оноо"
 
 #: hrms/payroll/report/salary_payments_based_on_payment_mode/salary_payments_based_on_payment_mode.py:141
 msgid "Total Gross Pay"
-msgstr "Нийт Gross Pay"
+msgstr "Нийт цалин"
 
 #: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:66
 msgid "Total Hours (T)"
-msgstr "Нийт Hours (T)"
+msgstr "Нийт цаг (T)"
 
 #. Label of the total_income_tax (Currency) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Total Income Tax"
-msgstr "Нийт Income Tax"
+msgstr "Нийт орлогын албан татвар"
 
 #: hrms/setup.py:802
 msgid "Total Interest Amount"
-msgstr "Нийт Interest Amount"
+msgstr "Хүүгийн нийт дүн"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:168
 msgid "Total Late Entries"
-msgstr "Нийт Late Entries"
+msgstr "Нийт хоцорсон оруулгууд"
 
 #. Label of the total_leave_days (Float) field in DocType 'Leave Application'
 #: hrms/hr/doctype/leave_application/leave_application.json
 msgid "Total Leave Days"
-msgstr "Нийт Leave Days"
+msgstr "Нийт амралтын өдрүүд"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:148
 msgid "Total Leaves"
-msgstr "Нийт Leaves"
+msgstr "Нийт навч"
 
 #: hrms/hr/report/leave_ledger/leave_ledger.py:192
 msgid "Total Leaves ({0})"
-msgstr "Нийт Leaves ({0})"
+msgstr "Нийт навч ({0})"
 
 #. Label of the total_leaves_allocated (Float) field in DocType 'Leave
 #. Allocation'
 #: hrms/hr/doctype/leave_allocation/leave_allocation.json
 msgid "Total Leaves Allocated"
-msgstr "Нийт Leaves Allocated"
+msgstr "Нийт хуваарилагдсан навч"
 
 #. Label of the total_leaves_encashed (Float) field in DocType 'Leave
 #. Allocation'
 #: hrms/hr/doctype/leave_allocation/leave_allocation.json
 msgid "Total Leaves Encashed"
-msgstr "Нийт Leaves Encashed"
+msgstr "Бэлэн болсон нийт навч"
 
 #: hrms/setup.py:816
 msgid "Total Loan Repayment"
-msgstr "Нийт Loan Repayment"
+msgstr "Зээлийн нийт эргэн төлөлт"
 
 #: hrms/payroll/report/salary_payments_based_on_payment_mode/salary_payments_based_on_payment_mode.py:155
 msgid "Total Net Pay"
@@ -10331,69 +10331,69 @@ msgstr "Нийт Net Pay"
 
 #: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:228
 msgid "Total Non-Billed Hours"
-msgstr "Нийт Non-Billed Hours"
+msgstr "Нийт төлбөр тооцоогүй цаг"
 
 #. Label of the total_overtime_duration (Float) field in DocType 'Overtime
 #. Slip'
 #: hrms/hr/doctype/overtime_slip/overtime_slip.json
 msgid "Total Overtime Duration"
-msgstr "Нийт Overtime Duration"
+msgstr "Илүү цагийн нийт хугацаа"
 
 #. Label of the total_payable_amount (Currency) field in DocType 'Full and
 #. Final Statement'
 #: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
 msgid "Total Payable Amount"
-msgstr "Нийт Payable Amount"
+msgstr "Нийт өглөгийн дүн"
 
 #. Label of the total_payment (Currency) field in DocType 'Salary Slip Loan'
 #: hrms/payroll/doctype/salary_slip_loan/salary_slip_loan.json
 msgid "Total Payment"
-msgstr "Нийт Payment"
+msgstr "Нийт төлбөр"
 
 #: hrms/payroll/report/accrued_earnings_report/accrued_earnings_report.py:52
 msgid "Total Payout"
-msgstr "Нийт Payout"
+msgstr "Нийт төлбөр"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:143
 msgid "Total Present"
-msgstr "Нийт Present"
+msgstr "Нийт одоогийн"
 
 #: hrms/setup.py:793
 msgid "Total Principal Amount"
-msgstr "Нийт Principal Amount"
+msgstr "Үндсэн зээлийн нийт дүн"
 
 #. Label of the total_receivable_amount (Currency) field in DocType 'Full and
 #. Final Statement'
 #: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.json
 msgid "Total Receivable Amount"
-msgstr "Нийт Receivable Amount"
+msgstr "Нийт авлагын дүн"
 
 #: hrms/hr/report/employee_exits/employee_exits.py:215
 msgid "Total Resignations"
-msgstr "Нийт Resignations"
+msgstr "Нийт огцрох"
 
 #. Label of the total_sanctioned_amount (Currency) field in DocType 'Expense
 #. Claim'
 #: hrms/hr/doctype/expense_claim/expense_claim.json
 msgid "Total Sanctioned Amount"
-msgstr "Нийт Sanctioned Amount"
+msgstr "Шийтгэлийн нийт дүн"
 
 #. Label of the base_total_sanctioned_amount (Currency) field in DocType
 #. 'Expense Claim'
 #: hrms/hr/doctype/expense_claim/expense_claim.json
 msgid "Total Sanctioned Amount (Company Currency)"
-msgstr "Нийт Sanctioned Amount (Company Currency)"
+msgstr "Хоригдсон нийт дүн (Компанийн мөнгөн тэмдэгт)"
 
 #. Label of the total_score (Float) field in DocType 'Employee Performance
 #. Feedback'
 #: hrms/hr/doctype/employee_performance_feedback/employee_performance_feedback.json
 msgid "Total Score"
-msgstr "Нийт Score"
+msgstr "Нийт оноо"
 
 #. Label of the self_score (Float) field in DocType 'Appraisal'
 #: hrms/hr/doctype/appraisal/appraisal.json
 msgid "Total Self Score"
-msgstr "Нийт Self Score"
+msgstr "Өөрийнхөө нийт оноо"
 
 #: hrms/hr/doctype/expense_claim/expense_claim.py:539
 msgid "Total advance amount cannot be greater than total sanctioned amount"
@@ -10478,7 +10478,7 @@ msgstr "Дасгалжуулагчийн имэйл"
 #: hrms/hr/doctype/training_feedback/training_feedback.json
 #: hrms/hr/doctype/training_program/training_program.json
 msgid "Trainer Name"
-msgstr "Trainer нэр"
+msgstr "Дасгалжуулагчийн нэр"
 
 #. Label of the training (Link) field in DocType 'Employee Training'
 #. Label of a Card Break in the Tenure Workspace
@@ -10491,7 +10491,7 @@ msgstr "Сургалт"
 #. Label of the training_date (Date) field in DocType 'Employee Training'
 #: hrms/hr/doctype/employee_training/employee_training.json
 msgid "Training Date"
-msgstr "Training огноо"
+msgstr "Сургалтын огноо"
 
 #. Name of a DocType
 #. Label of the training_event (Link) field in DocType 'Training Feedback'
@@ -10570,7 +10570,7 @@ msgstr "Идэвхгүй ажилтны хувьд гүйлгээ үүсгэх �
 #. Label of the transfer_date (Date) field in DocType 'Employee Transfer'
 #: hrms/hr/doctype/employee_transfer/employee_transfer.json
 msgid "Transfer Date"
-msgstr "Transfer огноо"
+msgstr "Шилжүүлгийн огноо"
 
 #. Label of a Card Break in the Expenses Workspace
 #: hrms/hr/workspace/expenses/expenses.json hrms/setup.py:336
@@ -10622,7 +10622,7 @@ msgstr "Аялах"
 #. Label of the travel_type (Select) field in DocType 'Travel Request'
 #: hrms/hr/doctype/travel_request/travel_request.json
 msgid "Travel Type"
-msgstr "Travel төрөл"
+msgstr "Аялал жуулчлалын төрөл"
 
 #. Label of the type_of_proof (Data) field in DocType 'Employee Tax Exemption
 #. Proof Submission Detail'
@@ -10643,7 +10643,7 @@ msgstr "Архиваас гаргах"
 #: frontend/src/components/ExpenseAdvancesTable.vue:36
 #: hrms/hr/doctype/expense_claim_advance/expense_claim_advance.json
 msgid "Unclaimed Amount"
-msgstr "Unclaimed дүн"
+msgstr "Нэхэмжлэлгүй дүн"
 
 #. Label of the base_unclaimed_amount (Currency) field in DocType 'Expense
 #. Claim Advance'
@@ -10752,27 +10752,27 @@ msgstr "Удахгүй болох ээлжүүд"
 
 #: frontend/src/components/ExpensesTable.vue:123
 msgid "Update Expense"
-msgstr "Expense шинэчлэх"
+msgstr "Зардал шинэчлэх"
 
 #: hrms/hr/doctype/interview/interview.py:71
 msgid "Update Job Applicant"
-msgstr "Job Applicant шинэчлэх"
+msgstr "Ажил горилогчийг шинэчлэх"
 
 #: hrms/hr/doctype/goal/goal_tree.js:232 hrms/hr/doctype/goal/goal_tree.js:238
 msgid "Update Progress"
-msgstr "Progress шинэчлэх"
+msgstr "Явцыг шинэчлэх"
 
 #: hrms/templates/emails/training_event.html:11
 msgid "Update Response"
-msgstr "Response шинэчлэх"
+msgstr "Хариуг шинэчлэх"
 
 #: hrms/payroll/doctype/salary_component/salary_component.js:120
 msgid "Update Salary Structures"
-msgstr "Salary Structures шинэчлэх"
+msgstr "Цалингийн бүтцийг шинэчлэх"
 
 #: hrms/hr/doctype/goal/goal_list.js:35
 msgid "Update Status"
-msgstr "Status шинэчлэх"
+msgstr "Статусыг шинэчлэх"
 
 #: frontend/src/components/ExpenseTaxesTable.vue:118
 msgid "Update Tax"
@@ -10922,15 +10922,15 @@ msgstr "Тээврийн хэрэгслийн үйлчилгээний зүйл"
 #: hrms/hr/doctype/appraisal/appraisal.js:56
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:22
 msgid "View Goals"
-msgstr "Goals харах"
+msgstr "Зорилго харах"
 
 #: frontend/src/components/LeaveBalance.vue:14
 msgid "View Leave History"
-msgstr "Leave History харах"
+msgstr "Орхих түүхийг харах"
 
 #: frontend/src/views/Home.vue:57
 msgid "View Salary Slips"
-msgstr "Salary Slips харах"
+msgstr "Цалингийн хуудас үзэх"
 
 #. Option for the 'Roster Color' (Select) field in DocType 'Shift Type'
 #: hrms/hr/doctype/shift_type/shift_type.json
@@ -11122,7 +11122,7 @@ msgstr "Өнөөдрийг хүртэлх он (Компанийн валют)"
 #. Claim'
 #: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
 msgid "Yearly Amount"
-msgstr "Yearly дүн"
+msgstr "Жилийн хэмжээ"
 
 #. Label of the yearly_benefit (Currency) field in DocType 'Employee Benefit
 #. Ledger'
@@ -11242,7 +11242,7 @@ msgstr "үүсгэсэн"
 
 #: frontend/src/views/Login.vue:16
 msgid "johndoe@mail.com"
-msgstr ""
+msgstr "johndoe@mail.com"
 
 #. Label of the modify_half_day_status (Check) field in DocType 'Attendance'
 #: hrms/hr/doctype/attendance/attendance.json
@@ -11395,7 +11395,7 @@ msgstr "{0} нь ярилцлагын санал хүсэлтийг илгээх
 
 #: hrms/hr/doctype/leave_application/leave_application.py:618
 msgid "{0} is not in Optional Holiday List"
-msgstr "{0} is not in Optional Holiday жагсаалт"
+msgstr "{0} нэмэлт амралтын жагсаалтад ороогүй байна"
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:361
 msgid "{0} leaves allocated successfully"
@@ -11412,7 +11412,7 @@ msgstr "{0} навчийг {2}-д {1} гараар хуваарилсан."
 #: hrms/hr/doctype/training_feedback/training_feedback.py:14
 #: hrms/hr/doctype/training_result/training_result.py:16
 msgid "{0} must be submitted"
-msgstr "{0} оруулах ёстой"
+msgstr "{0}-г батлах шаардлагатай"
 
 #: hrms/hr/doctype/goal/goal.py:194
 msgid "{0} of {1} Completed"
@@ -11444,7 +11444,7 @@ msgstr "{0} нь дараах цалингийн бүтцийн хувьд ши�
 
 #: hrms/hr/doctype/goal/goal_list.js:70
 msgid "{0} {1} {2}?"
-msgstr ""
+msgstr "{0} {1} {2}?"
 
 #: hrms/hr/utils.py:454
 msgid "{0}. Check error log for more details."
@@ -11463,7 +11463,7 @@ msgstr "{0}: {1} төрлийн {0}-аас"
 #: frontend/src/components/ShiftAssignmentItem.vue:12
 #: frontend/src/components/ShiftRequestItem.vue:17
 msgid "{0}d"
-msgstr ""
+msgstr "{0}d"
 
 #. Count format of shortcut in the Shift & Attendance Workspace
 #: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json

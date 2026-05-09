@@ -134,7 +134,7 @@ msgstr "Курсуудад нэвтэрч, багцад нэгдэж, сурга
 #: lms/lms/doctype/lms_zoom_settings/lms_zoom_settings.json
 #: lms/lms/doctype/zoom_settings/zoom_settings.json
 msgid "Account ID"
-msgstr "Account дугаар"
+msgstr "Дансны ID"
 
 #. Label of the account_name (Data) field in DocType 'LMS Google Meet Settings'
 #. Label of the account_name (Data) field in DocType 'LMS Zoom Settings'
@@ -145,7 +145,7 @@ msgstr "Account дугаар"
 #: lms/lms/doctype/lms_google_meet_settings/lms_google_meet_settings.json
 #: lms/lms/doctype/lms_zoom_settings/lms_zoom_settings.json
 msgid "Account Name"
-msgstr "Account нэр"
+msgstr "Дансны нэр"
 
 #: frontend/src/pages/ProfileAbout.vue:34
 msgid "Achievements"
@@ -180,31 +180,31 @@ msgstr "Нэмэх"
 #: frontend/src/components/CreateOutline.vue:18
 #: frontend/src/components/Modals/ChapterModal.vue:5
 msgid "Add Chapter"
-msgstr "Chapter нэмэх"
+msgstr "Бүлэг нэмэх"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:176
 msgid "Add Course to Program"
-msgstr "Course to Program нэмэх"
+msgstr "Хөтөлбөрт курс нэмэх"
 
 #: frontend/src/components/Modals/AddEvaluatorModal.vue:5
 msgid "Add Existing User as Evaluator"
-msgstr "Existing User as Evaluator нэмэх"
+msgstr "Одоо байгаа хэрэглэгчийг үнэлгээчээр нэмнэ үү"
 
 #: frontend/src/components/CourseOutline.vue:163
 msgid "Add Lesson"
-msgstr "Lesson нэмэх"
+msgstr "Хичээл нэмэх"
 
 #: frontend/src/components/Modals/NewMemberModal.vue:5
 msgid "Add New Member"
-msgstr "New Member нэмэх"
+msgstr "Шинэ гишүүн нэмэх"
 
 #: frontend/src/pages/QuizForm.vue:205
 msgid "Add Question"
-msgstr "Question нэмэх"
+msgstr "Асуулт нэмэх"
 
 #: frontend/src/components/VideoBlock.vue:126
 msgid "Add Quiz to Video"
-msgstr "Quiz to Video нэмэх"
+msgstr "Видеонд Quiz нэмэх"
 
 #: frontend/src/components/Controls/ChildTable.vue:77
 #: frontend/src/components/Settings/Coupons/CouponItems.vue:55
@@ -221,7 +221,7 @@ msgstr "Test Case нэмэх"
 
 #: frontend/src/components/Settings/Transactions/TransactionList.vue:16
 msgid "Add Transaction"
-msgstr "Transaction нэмэх"
+msgstr "Гүйлгээ нэмэх"
 
 #: lms/templates/onboarding_header.html:26
 msgid "Add a Chapter"
@@ -443,7 +443,7 @@ msgstr "Зарыг амжилттай илгээлээ"
 
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:101
 msgid "Announcement is required"
-msgstr "Announcement шаардлагатай"
+msgstr "Зарлах шаардлагатай"
 
 #: frontend/src/pages/Batches/components/Announcements.vue:4
 msgid "Announcements"
@@ -560,12 +560,12 @@ msgstr "Үнэлгээ"
 #. Assessment'
 #: lms/lms/doctype/lms_assessment/lms_assessment.json
 msgid "Assessment Name"
-msgstr "Assessment нэр"
+msgstr "Үнэлгээний нэр"
 
 #. Label of the assessment_type (Link) field in DocType 'LMS Assessment'
 #: lms/lms/doctype/lms_assessment/lms_assessment.json
 msgid "Assessment Type"
-msgstr "Assessment төрөл"
+msgstr "Үнэлгээний төрөл"
 
 #: frontend/src/components/Modals/AssessmentModal.vue:95
 msgid "Assessment added successfully"
@@ -651,7 +651,7 @@ msgstr "Даалгаврыг амжилттай үүсгэсэн"
 
 #: lms/lms/doctype/lms_assignment_submission/lms_assignment_submission.py:29
 msgid "Assignment for Lesson {0} by {1} already exists."
-msgstr "Assignment for Lesson {0} by {1} аль хэдийн байна"
+msgstr "{1}-н {0} хичээлийн даалгавар аль хэдийн байна."
 
 #: frontend/src/components/Assignment.vue:318
 msgid "Assignment submitted successfully"
@@ -727,7 +727,7 @@ msgstr "Боломжтой слотууд"
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:9
 msgid "Average Completion Rate"
-msgstr "Average Completion хувь"
+msgstr "Дундаж гүйцэтгэлийн хувь"
 
 #: frontend/src/pages/Batches/components/BatchFeedback.vue:12
 msgid "Average Feedback Received"
@@ -804,7 +804,7 @@ msgstr "Энэ {1}-д {0} тэмдгийг аль хэдийн өгсөн бай
 
 #: lms/lms/doctype/lms_badge/lms_badge.py:75
 msgid "Badge {0} not found"
-msgstr "Badge {0} олдсонгүй"
+msgstr "Тэмдэг {0} олдсонгүй"
 
 #. Label of the batch (Link) field in DocType 'LMS Batch Enrollment'
 #. Label of the batch (Link) field in DocType 'LMS Batch Feedback'
@@ -829,7 +829,7 @@ msgstr "Бүлэг"
 #. Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Batch Confirmation Template"
-msgstr "Batch Confirmation загвар"
+msgstr "Багц баталгаажуулах загвар"
 
 #. Name of a DocType
 #: lms/lms/doctype/batch_course/batch_course.json
@@ -842,7 +842,7 @@ msgstr "Багц курс"
 #: lms/lms/doctype/lms_batch/lms_batch.json
 #: lms/templates/emails/batch_confirmation.html:26
 msgid "Batch Details"
-msgstr "Batch дэлгэрэнгүй"
+msgstr "Багцын дэлгэрэнгүй мэдээлэл"
 
 #. Label of the batch_details_raw (HTML Editor) field in DocType 'LMS Batch'
 #: lms/lms/doctype/lms_batch/lms_batch.json
@@ -851,7 +851,7 @@ msgstr "Багцын дэлгэрэнгүй мэдээлэл түүхий"
 
 #: frontend/src/pages/Batches/BatchForm.vue:33
 msgid "Batch End Date"
-msgstr "Batch End огноо"
+msgstr "Багц дуусах огноо"
 
 #: frontend/src/components/Settings/BadgeForm.vue:201
 #: frontend/src/components/Settings/Badges.vue:202
@@ -889,17 +889,17 @@ msgstr "Багцын үнэлгээчин"
 #. Label of the batch_name (Link) field in DocType 'LMS Certificate Evaluation'
 #: lms/lms/doctype/lms_certificate_evaluation/lms_certificate_evaluation.json
 msgid "Batch Name"
-msgstr "Batch нэр"
+msgstr "Багцын нэр"
 
 #. Label of the section_break_szgq (Section Break) field in DocType 'LMS
 #. Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Batch Settings"
-msgstr "Batch тохиргоо"
+msgstr "Багцын тохиргоо"
 
 #: frontend/src/pages/Batches/BatchForm.vue:26
 msgid "Batch Start Date"
-msgstr "Batch Start огноо"
+msgstr "Багц эхлэх огноо"
 
 #: lms/templates/emails/batch_confirmation.html:11
 msgid "Batch Start Date:"
@@ -907,7 +907,7 @@ msgstr "Багц эхлэх огноо:"
 
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:131
 msgid "Batch Summary"
-msgstr "Batch хураангуй"
+msgstr "Багцын хураангуй"
 
 #. Label of the batch_title (Data) field in DocType 'LMS Certificate'
 #. Label of the batch_title (Data) field in DocType 'LMS Certificate Request'
@@ -969,7 +969,7 @@ msgstr "Хүндэтгэсэн"
 #: frontend/src/pages/Billing.vue:8 frontend/src/pages/Billing.vue:479
 #: lms/lms/doctype/lms_payment/lms_payment.json
 msgid "Billing Details"
-msgstr "Billing дэлгэрэнгүй"
+msgstr "Тооцооны дэлгэрэнгүй мэдээлэл"
 
 #. Label of the billing_name (Data) field in DocType 'LMS Payment'
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:63
@@ -977,7 +977,7 @@ msgstr "Billing дэлгэрэнгүй"
 #: frontend/src/pages/Billing.vue:115
 #: lms/lms/doctype/lms_payment/lms_payment.json
 msgid "Billing Name"
-msgstr "Billing нэр"
+msgstr "Тооцооны нэр"
 
 #: frontend/src/components/Modals/EditProfile.vue:75
 msgid "Bio"
@@ -1024,12 +1024,12 @@ msgstr "Энэ курсыг худалдаж аваарай"
 
 #: lms/templates/emails/lms_message.html:11
 msgid "By"
-msgstr ""
+msgstr "By"
 
 #. Option for the 'Grade Type' (Select) field in DocType 'Education Detail'
 #: lms/lms/doctype/education_detail/education_detail.json
 msgid "CGPA/4"
-msgstr ""
+msgstr "CGPA/4"
 
 #: frontend/src/components/Controls/Link.vue:37
 #: frontend/src/components/UpcomingEvaluations.vue:48
@@ -1050,7 +1050,7 @@ msgstr "Search for roles: {0} боломжгүй"
 #. 'User'
 #: lms/fixtures/custom_field.json
 msgid "Career Preference Details"
-msgstr "Career Preference дэлгэрэнгүй"
+msgstr "Ажил мэргэжлийн талаарх дэлгэрэнгүй мэдээлэл"
 
 #. Option for the 'Attire Preference' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -1075,7 +1075,7 @@ msgstr "Ангилал"
 
 #: frontend/src/components/Settings/Categories.vue:39
 msgid "Category Name"
-msgstr "Category нэр"
+msgstr "Ангилал нэр"
 
 #: frontend/src/components/Settings/Categories.vue:133
 msgid "Category added successfully"
@@ -1103,7 +1103,7 @@ msgstr "Гэрчилгээ"
 #. Label of the certification_template (Link) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Certificate Email Template"
-msgstr "Certificate Email загвар"
+msgstr "Гэрчилгээний имэйлийн загвар"
 
 #: lms/templates/emails/certification.html:13
 msgid "Certificate Link"
@@ -1153,12 +1153,12 @@ msgstr "Гэрчилгээжүүлэлт"
 #. Label of the certification_details (Section Break) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "Certification Details"
-msgstr "Certification дэлгэрэнгүй"
+msgstr "Баталгаажуулалтын дэлгэрэнгүй мэдээлэл"
 
 #. Label of the certification_name (Data) field in DocType 'Certification'
 #: lms/lms/doctype/certification/certification.json
 msgid "Certification Name"
-msgstr "Certification нэр"
+msgstr "Баталгаажуулалтын нэр"
 
 #: lms/lms/doctype/lms_certificate/lms_certificate.py:94
 msgid "Certification cannot be issued as the member has not completed the course."
@@ -1348,7 +1348,7 @@ msgstr "Энд дарна уу"
 #: lms/lms/doctype/lms_zoom_settings/lms_zoom_settings.json
 #: lms/lms/doctype/zoom_settings/zoom_settings.json
 msgid "Client ID"
-msgstr "Client дугаар"
+msgstr "Үйлчлүүлэгчийн ID"
 
 #. Label of the client_secret (Password) field in DocType 'LMS Zoom Settings'
 #. Label of the client_secret (Password) field in DocType 'Zoom Settings'
@@ -1396,7 +1396,7 @@ msgstr "Хураах"
 #. Label of the college (Data) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "College Name"
-msgstr "College нэр"
+msgstr "Коллежийн нэр"
 
 #. Label of the card_gradient (Select) field in DocType 'LMS Course'
 #. Label of the color (Select) field in DocType 'LMS Lesson Note'
@@ -1449,7 +1449,7 @@ msgstr "Компани"
 #: frontend/src/pages/JobForm.vue:68
 #: lms/job/doctype/job_opportunity/job_opportunity.json
 msgid "Company Details"
-msgstr "Company дэлгэрэнгүй"
+msgstr "Компанийн дэлгэрэнгүй мэдээлэл"
 
 #. Label of the company_email_address (Data) field in DocType 'Job Opportunity'
 #: frontend/src/pages/JobForm.vue:87
@@ -1471,12 +1471,12 @@ msgstr "Компанийн лого"
 #: lms/job/doctype/job_opportunity/job_opportunity.json
 #: lms/job/web_form/job_opportunity/job_opportunity.json
 msgid "Company Name"
-msgstr "Company нэр"
+msgstr "Компанийн нэр"
 
 #. Label of the company_type (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "Company Type"
-msgstr "Company төрөл"
+msgstr "Компанийн төрөл"
 
 #. Label of the company_website (Data) field in DocType 'Job Opportunity'
 #. Label of a field in the job-opportunity Web Form
@@ -1533,7 +1533,7 @@ msgstr "Гүйцэтгэлийн гэрчилгээ"
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:414
 msgid "Completion Rate"
-msgstr "Completion хувь"
+msgstr "Гүйцэтгэлийн хувь"
 
 #. Label of the condition (Code) field in DocType 'LMS Badge'
 #: frontend/src/components/Settings/BadgeForm.vue:62
@@ -1604,7 +1604,7 @@ msgstr "Баталгаажуулах имэйл илгээсэн"
 #. Label of the confirmation_email_template (Link) field in DocType 'LMS Batch'
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Confirmation Email Template"
-msgstr "Confirmation Email загвар"
+msgstr "Баталгаажуулах имэйлийн загвар"
 
 #: lms/lms/doctype/lms_certificate/lms_certificate.py:33
 msgid "Congratulations on getting certified!"
@@ -1698,11 +1698,11 @@ msgstr "Купон код"
 
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:115
 msgid "Coupon Details"
-msgstr "Coupon дэлгэрэнгүй"
+msgstr "Купонын дэлгэрэнгүй мэдээлэл"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:133
 msgid "Coupon created successfully"
-msgstr ""
+msgstr "Купоныг амжилттай үүсгэсэн"
 
 #: frontend/src/components/Settings/Coupons/CouponList.vue:154
 msgid "Coupon deleted successfully"
@@ -1790,7 +1790,7 @@ msgstr "Курсын төгсөлт"
 #. Label of the course_count (Int) field in DocType 'LMS Program'
 #: lms/lms/doctype/lms_program/lms_program.json
 msgid "Course Count"
-msgstr "Course тоо"
+msgstr "Хичээлийн тоо"
 
 #. Name of a role
 #: frontend/src/components/Modals/NewMemberModal.vue:55
@@ -1860,11 +1860,11 @@ msgstr "Курсын хичээл"
 
 #: lms/www/_lms.py:90
 msgid "Course List"
-msgstr "Course жагсаалт"
+msgstr "Хичээлийн жагсаалт"
 
 #: lms/lms/report/course_progress_summary/course_progress_summary.py:58
 msgid "Course Name"
-msgstr "Course нэр"
+msgstr "Хичээлийн нэр"
 
 #: frontend/src/pages/Courses/CourseOverview.vue:70
 msgid "Course Outline"
@@ -1877,12 +1877,12 @@ msgstr "Хичээлийн явц"
 #. Name of a report
 #: lms/lms/report/course_progress_summary/course_progress_summary.json
 msgid "Course Progress Summary"
-msgstr "Course Progress хураангуй"
+msgstr "Хичээлийн явцын хураангуй"
 
 #. Label of the section_break_7 (Section Break) field in DocType 'LMS Course'
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Course Settings"
-msgstr "Course тохиргоо"
+msgstr "Курсын тохиргоо"
 
 #. Label of a Card Break in the Learning Workspace
 #: lms/lms/workspace/learning/learning.json
@@ -1998,15 +1998,15 @@ msgstr "Үүсгэх"
 
 #: lms/lms/doctype/lms_certificate_evaluation/lms_certificate_evaluation.js:7
 msgid "Create Certificate"
-msgstr "Certificate үүсгэх"
+msgstr "Сертификат үүсгэх"
 
 #: frontend/src/pages/Home/AdminHome.vue:191
 msgid "Create Course"
-msgstr "Course үүсгэх"
+msgstr "Курс үүсгэх"
 
 #: frontend/src/pages/LessonForm.vue:504
 msgid "Create Lesson"
-msgstr "Lesson үүсгэх"
+msgstr "Хичээл үүсгэх"
 
 #: frontend/src/components/Controls/Link.vue:69
 #: frontend/src/components/Controls/Link.vue:74
@@ -2016,11 +2016,11 @@ msgstr "New үүсгэх"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:12
 msgid "Create Program"
-msgstr "Program үүсгэх"
+msgstr "Програм үүсгэх"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseForm.vue:8
 msgid "Create Programming Exercise"
-msgstr "Programming Exercise үүсгэх"
+msgstr "Програмчлалын дасгал хийх"
 
 #: lms/templates/onboarding_header.html:19
 msgid "Create a Course"
@@ -2187,7 +2187,7 @@ msgstr "Эрхэм ээ"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:67
 msgid "Dear {{ member_name }},\\n\\nYou have been enrolled in our upcoming batch {{ batch_name }}.\\n\\nThanks,\\nFrappe Learning"
-msgstr "Эрхэм {{ member_name }},\\n\\nТа манай удахгүй болох {{ batch_name }} багцад бүртгүүллээ.\\n\\nБаярлалаа,\\nFrappe Learning"
+msgstr "Эрхэм хүндэт {{ member_name }},\\\n\\\nТа манай удахгүй болох багцад {{ batch_name }} бүртгүүлсэн байна.\\\n\\\nБаярлалаа,\\\nФраппе сурах"
 
 #: frontend/src/pages/QuizForm.vue:125
 msgid "Deduct marks for incorrect answers."
@@ -2201,7 +2201,7 @@ msgstr "Өгөгдмөл валют"
 #. Label of the degree_type (Data) field in DocType 'Education Detail'
 #: lms/lms/doctype/education_detail/education_detail.json
 msgid "Degree Type"
-msgstr "Degree төрөл"
+msgstr "Зэрэглэлийн төрөл"
 
 #: frontend/src/components/Controls/ChildTable.vue:63
 #: frontend/src/components/CourseOutline.vue:314
@@ -2221,15 +2221,15 @@ msgstr "Устгах"
 
 #: frontend/src/components/CourseOutline.vue:70
 msgid "Delete Chapter"
-msgstr "Chapter устгах"
+msgstr "Бүлгийг устгах"
 
 #: frontend/src/pages/Courses/CourseForm.vue:538
 msgid "Delete Course"
-msgstr "Course устгах"
+msgstr "Курсыг устгах"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:561
 msgid "Delete Program"
-msgstr "Program устгах"
+msgstr "Програмыг устгах"
 
 #: frontend/src/components/CourseOutline.vue:374
 msgid "Delete this chapter?"
@@ -2326,12 +2326,12 @@ msgstr "PWA идэвхгүй болгох"
 #. Label of the disable_self_learning (Check) field in DocType 'LMS Course'
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Disable Self Learning"
-msgstr "Self Learning идэвхгүй болгох"
+msgstr "Өөрөө суралцахыг идэвхгүй болгох"
 
 #. Label of the disable_signup (Check) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Disable Signup"
-msgstr "Signup идэвхгүй болгох"
+msgstr "Бүртгэлийг идэвхгүй болгох"
 
 #: frontend/src/components/Settings/Badges.vue:56
 #: frontend/src/components/Settings/Coupons/CouponList.vue:46
@@ -2356,7 +2356,7 @@ msgstr "Хөнгөлөлт"
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:132
 #: lms/lms/doctype/lms_payment/lms_payment.json
 msgid "Discount Amount"
-msgstr "Discount дүн"
+msgstr "Хөнгөлөлтийн хэмжээ"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:47
 msgid "Discount Percentage"
@@ -2366,7 +2366,7 @@ msgstr "Хөнгөлөлтийн хувь"
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:31
 #: lms/lms/doctype/lms_coupon/lms_coupon.json
 msgid "Discount Type"
-msgstr "Discount төрөл"
+msgstr "Хөнгөлөлтийн төрөл"
 
 #. Label of the show_discussions (Check) field in DocType 'LMS Settings'
 #: frontend/src/pages/Batches/BatchDetail.vue:47
@@ -2393,11 +2393,11 @@ msgstr "Баримт"
 
 #: frontend/src/components/Settings/Coupons/CouponItems.vue:11
 msgid "Document Name"
-msgstr "Document нэр"
+msgstr "Баримт бичгийн нэр"
 
 #: frontend/src/components/Settings/Coupons/CouponItems.vue:8
 msgid "Document Type"
-msgstr "Document төрөл"
+msgstr "Баримт бичгийн төрөл"
 
 #: lms/templates/emails/payment_reminder.html:11
 msgid "Don’t miss this opportunity to enhance your skills. Click below to complete your enrollment"
@@ -2445,40 +2445,40 @@ msgstr "Засах"
 
 #: frontend/src/components/Modals/AssignmentForm.vue:14
 msgid "Edit Assignment"
-msgstr "Assignment засах"
+msgstr "Даалгаврыг засах"
 
 #: frontend/src/components/Settings/BadgeForm.vue:5
 msgid "Edit Badge"
-msgstr "Badge засах"
+msgstr "Тэмдгийг засах"
 
 #: frontend/src/components/Settings/BadgeAssignmentForm.vue:8
 msgid "Edit Badge Assignment"
-msgstr "Badge Assignment засах"
+msgstr "Тэмдгийн даалгаврыг засах"
 
 #: frontend/src/components/CourseOutline.vue:63
 #: frontend/src/components/Modals/ChapterModal.vue:5
 msgid "Edit Chapter"
-msgstr "Chapter засах"
+msgstr "Бүлэг засах"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:9
 msgid "Edit Coupon"
-msgstr "Coupon засах"
+msgstr "Купон засварлах"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:8
 msgid "Edit Email Template"
-msgstr "Email Template засах"
+msgstr "Имэйлийн загварыг засах"
 
 #: frontend/src/components/Settings/GoogleMeetAccountModal.vue:8
 msgid "Edit Google Meet Account"
-msgstr "Google Meet Account засах"
+msgstr "Google Meet бүртгэлийг засах"
 
 #: frontend/src/pages/LessonForm.vue:503
 msgid "Edit Lesson"
-msgstr "Lesson засах"
+msgstr "Хичээлийг засах"
 
 #: frontend/src/components/Settings/PaymentGatewayDetails.vue:13
 msgid "Edit Payment Gateway"
-msgstr "Payment Gateway засах"
+msgstr "Төлбөрийн гарцыг засах"
 
 #: frontend/src/components/Modals/EditProfile.vue:11
 #: frontend/src/pages/Profile.vue:124
@@ -2487,19 +2487,19 @@ msgstr "Профайл засах"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:12
 msgid "Edit Program"
-msgstr "Program засах"
+msgstr "Хөтөлбөрийг засах"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseForm.vue:9
 msgid "Edit Programming Exercise"
-msgstr "Programming Exercise засах"
+msgstr "Програмчлалын дасгалыг засах"
 
 #: frontend/src/pages/QuizForm.vue:205
 msgid "Edit Question"
-msgstr "Question засах"
+msgstr "Асуулт засах"
 
 #: frontend/src/components/Modals/ZoomAccountModal.vue:6
 msgid "Edit Zoom Account"
-msgstr "Zoom Account засах"
+msgstr "Zoom бүртгэлийг засах"
 
 #. Label of the education (Table) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -2514,7 +2514,7 @@ msgstr "Боловсролын дэлгэрэнгүй"
 #. Label of the education_details (Section Break) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "Education Details"
-msgstr "Education дэлгэрэнгүй"
+msgstr "Боловсролын дэлгэрэнгүй"
 
 #. Option for the 'Send Notification for Published Courses' (Select) field in
 #. DocType 'LMS Settings'
@@ -2579,12 +2579,12 @@ msgstr "Идэвхжүүлэх"
 
 #: lms/lms/doctype/lms_settings/lms_settings.py:22
 msgid "Enable Google API in Google Settings to send calendar invites for evaluations."
-msgstr "Google API in Google Settings to send calendar invites for evaluations идэвхжүүлэх"
+msgstr "Үнэлгээнд зориулж календарийн урилга илгээхийн тулд Google тохиргоонд Google API-г идэвхжүүлнэ үү."
 
 #. Label of the enable_negative_marking (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:124 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Enable Negative Marking"
-msgstr "Negative Marking идэвхжүүлэх"
+msgstr "Сөрөг тэмдэглэгээг идэвхжүүлэх"
 
 #: frontend/src/pages/Batches/BatchForm.vue:99
 msgid "Enable evaluations for batch participants."
@@ -2657,7 +2657,7 @@ msgstr "Дууслаа"
 #: frontend/src/pages/Programs/ProgramForm.vue:39
 #: lms/lms/doctype/lms_program/lms_program.json
 msgid "Enforce Course Order"
-msgstr "Enforce Course захиалга"
+msgstr "Курсын тушаалыг хэрэгжүүлэх"
 
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:43
 #: frontend/src/pages/Courses/CourseDashboard.vue:38
@@ -2699,7 +2699,7 @@ msgstr "Бүртгүүлсэн оюутнууд"
 
 #: frontend/src/pages/Batches/BatchForm.vue:168
 msgid "Enrollment Confirmation Email Template"
-msgstr "Enrollment Confirmation Email загвар"
+msgstr "Бүртгэлийг баталгаажуулах цахим шуудангийн загвар"
 
 #: lms/lms/doctype/lms_batch_enrollment/lms_batch_enrollment.py:147
 msgid "Enrollment Confirmation for {0}"
@@ -2708,7 +2708,7 @@ msgstr "{0} элсэлтийн баталгаажуулалт"
 #: lms/lms/web_template/lms_statistics/lms_statistics.html:14
 #: lms/templates/statistics.html:20
 msgid "Enrollment Count"
-msgstr "Enrollment тоо"
+msgstr "Элсэлтийн тоо"
 
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:10
 msgid "Enrollment for Program {0}"
@@ -2758,11 +2758,11 @@ msgstr "Файл байршуулахад алдаа гарлаа"
 
 #: frontend/src/components/Settings/GoogleMeetAccountModal.vue:154
 msgid "Error creating Google Meet Account"
-msgstr "Error creating Google Meet данс"
+msgstr "Google Meet бүртгэл үүсгэхэд алдаа гарлаа"
 
 #: frontend/src/components/Modals/ZoomAccountModal.vue:168
 msgid "Error creating Zoom Account"
-msgstr "Error creating Zoom данс"
+msgstr "Zoom бүртгэл үүсгэхэд алдаа гарлаа"
 
 #: frontend/src/components/Settings/BadgeForm.vue:183
 msgid "Error creating badge"
@@ -2782,7 +2782,7 @@ msgstr "Асуулт үүсгэхэд алдаа гарлаа: {0}"
 
 #: frontend/src/components/Settings/GoogleMeetSettings.vue:177
 msgid "Error deleting Google Meet Account"
-msgstr "Error deleting Google Meet данс"
+msgstr "Google Meet бүртгэлийг устгахад алдаа гарлаа"
 
 #: frontend/src/components/Settings/Badges.vue:193
 msgid "Error deleting badge"
@@ -2802,11 +2802,11 @@ msgstr "Файлыг татаж авахад алдаа гарлаа"
 
 #: frontend/src/components/Settings/GoogleMeetAccountModal.vue:194
 msgid "Error updating Google Meet Account"
-msgstr "Error updating Google Meet данс"
+msgstr "Google Meet бүртгэлийг шинэчлэхэд алдаа гарлаа"
 
 #: frontend/src/components/Modals/ZoomAccountModal.vue:206
 msgid "Error updating Zoom Account"
-msgstr "Error updating Zoom данс"
+msgstr "Zoom бүртгэлийг шинэчлэхэд алдаа гарлаа"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:154
 msgid "Error updating email template"
@@ -2826,13 +2826,13 @@ msgstr "Үнэлгээ"
 #. Certificate Evaluation'
 #: lms/lms/doctype/lms_certificate_evaluation/lms_certificate_evaluation.json
 msgid "Evaluation Details"
-msgstr "Evaluation дэлгэрэнгүй"
+msgstr "Үнэлгээний дэлгэрэнгүй мэдээлэл"
 
 #. Label of the evaluation_end_date (Date) field in DocType 'LMS Batch'
 #: frontend/src/pages/Batches/BatchForm.vue:104
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Evaluation End Date"
-msgstr "Evaluation End огноо"
+msgstr "Үнэлгээ дуусах огноо"
 
 #. Label of a Link in the Learning Workspace
 #: lms/lms/workspace/learning/learning.json
@@ -2883,7 +2883,7 @@ msgstr "Үнэлгээчин"
 #: lms/lms/doctype/lms_certificate_evaluation/lms_certificate_evaluation.json
 #: lms/lms/doctype/lms_certificate_request/lms_certificate_request.json
 msgid "Evaluator Name"
-msgstr "Evaluator нэр"
+msgstr "Үнэлгээчний нэр"
 
 #. Name of a DocType
 #: lms/lms/doctype/evaluator_schedule/evaluator_schedule.json
@@ -2951,7 +2951,7 @@ msgstr "Хүлээгдэж буй үр дүн"
 #. Label of the expiration_date (Data) field in DocType 'Certification'
 #: lms/lms/doctype/certification/certification.json
 msgid "Expiration Date"
-msgstr "Expiration огноо"
+msgstr "Дуусах огноо"
 
 #. Label of the expires_on (Date) field in DocType 'LMS Coupon'
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:39
@@ -3097,7 +3097,7 @@ msgstr "Даалгавруудыг курсээр нь шүүнэ үү"
 
 #: frontend/src/components/Settings/Transactions/TransactionList.vue:23
 msgid "Filter by Billing Name"
-msgstr "Filter by Billing нэр"
+msgstr "Тооцооны нэрээр шүүнэ үү"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:23
 msgid "Filter by Exercise"
@@ -3110,13 +3110,13 @@ msgstr "Гишүүнээр шүүх"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:41
 msgid "Filter by Status"
-msgstr "Filter by төлөв"
+msgstr "Статусаар шүүх"
 
 #: frontend/src/components/Modals/EditProfile.vue:39
 #: frontend/src/components/Modals/EditProfile.vue:148
 #: frontend/src/components/Modals/NewMemberModal.vue:30
 msgid "First Name"
-msgstr "First нэр"
+msgstr "Нэр"
 
 #. Option for the 'Time Preference' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -3126,7 +3126,7 @@ msgstr "9-5-ыг зассан"
 #. Option for the 'Discount Type' (Select) field in DocType 'LMS Coupon'
 #: lms/lms/doctype/lms_coupon/lms_coupon.json
 msgid "Fixed Amount"
-msgstr "Fixed дүн"
+msgstr "Тогтмол хэмжээ"
 
 #. Label of the fixed_amount_discount (Int) field in DocType 'LMS Coupon'
 #: lms/lms/doctype/lms_coupon/lms_coupon.json
@@ -3279,7 +3279,7 @@ msgstr "GitHub дугаар"
 #. Label of the github (Data) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "Github ID"
-msgstr "Github дугаар"
+msgstr "Github ID"
 
 #. Option for the 'Language' (Select) field in DocType 'LMS Programming
 #. Exercise'
@@ -3301,7 +3301,7 @@ msgstr "Google Календарь"
 #: lms/lms/doctype/lms_batch/lms_batch.json
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
 msgid "Google Meet"
-msgstr ""
+msgstr "Google Meet"
 
 #. Label of the google_meet_account (Link) field in DocType 'LMS Batch'
 #. Label of the google_meet_account (Link) field in DocType 'LMS Live Class'
@@ -3343,7 +3343,7 @@ msgstr "Ангийн даалгавар"
 #. Label of the grade_type (Select) field in DocType 'Education Detail'
 #: lms/lms/doctype/education_detail/education_detail.json
 msgid "Grade Type"
-msgstr "Grade төрөл"
+msgstr "Зэрэглэлийн төрөл"
 
 #: frontend/src/components/Assignment.vue:171
 msgid "Grading"
@@ -3663,7 +3663,7 @@ msgstr "Frappe Learning суулгана уу"
 #. Label of the institution_name (Data) field in DocType 'Education Detail'
 #: lms/lms/doctype/education_detail/education_detail.json
 msgid "Institution Name"
-msgstr "Institution нэр"
+msgstr "Байгууллагын нэр"
 
 #. Label of the instructor (Link) field in DocType 'Course Instructor'
 #: lms/lms/doctype/course_instructor/course_instructor.json
@@ -3776,7 +3776,7 @@ msgstr "SCORM багц юм"
 #: lms/lms/doctype/certification/certification.json
 #: lms/lms/doctype/lms_certificate/lms_certificate.json
 msgid "Issue Date"
-msgstr "Issue огноо"
+msgstr "Гаргасан огноо"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:622
 msgid "Issue a Certificate"
@@ -3818,7 +3818,7 @@ msgstr "Жэйн Доу"
 #. Exercise'
 #: lms/lms/doctype/lms_programming_exercise/lms_programming_exercise.json
 msgid "JavaScript"
-msgstr ""
+msgstr "JavaScript"
 
 #. Label of the job (Link) field in DocType 'LMS Job Application'
 #: frontend/src/pages/Search/Search.vue:237
@@ -4163,7 +4163,7 @@ msgstr "LMS цагийн хуваарийн домог"
 #. Name of a DocType
 #: lms/lms/doctype/lms_timetable_template/lms_timetable_template.json
 msgid "LMS Timetable Template"
-msgstr "LMS Timetable загвар"
+msgstr "LMS цагийн хуваарийн загвар"
 
 #. Name of a DocType
 #: lms/lms/doctype/lms_video_watch_duration/lms_video_watch_duration.json
@@ -4315,13 +4315,13 @@ msgstr "Хязгаар нь шалгалтын асуултуудын тооно
 
 #: frontend/src/pages/ProfileAbout.vue:96
 msgid "LinkedIn"
-msgstr ""
+msgstr "LinkedIn"
 
 #. Label of the linkedin (Data) field in DocType 'User'
 #: frontend/src/components/Modals/EditProfile.vue:51
 #: lms/fixtures/custom_field.json
 msgid "LinkedIn ID"
-msgstr "LinkedIn дугаар"
+msgstr "LinkedIn ID"
 
 #: frontend/src/pages/Courses/Courses.vue:318
 msgid "Live"
@@ -4338,7 +4338,7 @@ msgstr "Шууд хичээл"
 #. Label of the livecode_url (Data) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "LiveCode URL"
-msgstr ""
+msgstr "LiveCode URL"
 
 #: frontend/src/components/Settings/Evaluators.vue:110
 #: frontend/src/components/Settings/Members.vue:79
@@ -4524,7 +4524,7 @@ msgstr "Дунд зэрэг"
 #. Label of the medium (Data) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "Medium ID"
-msgstr "Medium дугаар"
+msgstr "Дундаж ID"
 
 #: lms/templates/emails/batch_confirmation.html:16
 #: lms/templates/emails/batch_start_reminder.html:19
@@ -4534,7 +4534,7 @@ msgstr "Дунд:"
 #. Label of the meeting_id (Data) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
 msgid "Meeting ID"
-msgstr "Meeting дугаар"
+msgstr "Уулзалтын ID"
 
 #. Label of the member (Link) field in DocType 'LMS Assignment Submission'
 #. Label of the member (Link) field in DocType 'LMS Badge Assignment'
@@ -4602,7 +4602,7 @@ msgstr "Гишүүний зөвшөөрөл"
 #. Label of the member_count (Int) field in DocType 'LMS Program'
 #: lms/lms/doctype/lms_program/lms_program.json
 msgid "Member Count"
-msgstr "Member тоо"
+msgstr "Гишүүдийн тоо"
 
 #. Label of the member_image (Attach Image) field in DocType 'LMS Badge
 #. Assignment'
@@ -4668,12 +4668,12 @@ msgstr "Гишүүний зураг"
 #: lms/lms/doctype/lms_zoom_settings/lms_zoom_settings.json
 #: lms/lms/report/course_progress_summary/course_progress_summary.py:71
 msgid "Member Name"
-msgstr "Member нэр"
+msgstr "Гишүүн нэр"
 
 #. Label of the member_type (Select) field in DocType 'LMS Enrollment'
 #: lms/lms/doctype/lms_enrollment/lms_enrollment.json
 msgid "Member Type"
-msgstr "Member төрөл"
+msgstr "Гишүүн төрөл"
 
 #. Label of the member_username (Data) field in DocType 'LMS Badge Assignment'
 #. Label of the member_username (Data) field in DocType 'LMS Batch Enrollment'
@@ -4728,7 +4728,7 @@ msgstr "Ментор"
 #. Label of the mentor_name (Data) field in DocType 'LMS Course Mentor Mapping'
 #: lms/lms/doctype/lms_course_mentor_mapping/lms_course_mentor_mapping.json
 msgid "Mentor Name"
-msgstr "Mentor нэр"
+msgstr "Менторын нэр"
 
 #. Label of the mentor_request_section (Section Break) field in DocType 'LMS
 #. Settings'
@@ -4742,7 +4742,7 @@ msgstr "Менторын хүсэлт"
 #: lms/patches/create_mentor_request_email_templates.py:16
 #: lms/patches/create_mentor_request_email_templates.py:26
 msgid "Mentor Request Creation Template"
-msgstr "Mentor Request Creation загвар"
+msgstr "Менторын хүсэлт үүсгэх загвар"
 
 #. Label of the mentor_request_status_update (Link) field in DocType 'LMS
 #. Settings'
@@ -4751,7 +4751,7 @@ msgstr "Mentor Request Creation загвар"
 #: lms/patches/create_mentor_request_email_templates.py:34
 #: lms/patches/create_mentor_request_email_templates.py:44
 msgid "Mentor Request Status Update Template"
-msgstr "Mentor Request Status Update загвар"
+msgstr "Менторын хүсэлтийн статусыг шинэчлэх загвар"
 
 #: frontend/src/components/ContactUsEmail.vue:19
 #: frontend/src/pages/JobApplications.vue:137
@@ -4760,7 +4760,7 @@ msgstr "Мессеж"
 
 #: frontend/src/pages/JobApplications.vue:261
 msgid "Message is required"
-msgstr "Message шаардлагатай"
+msgstr "Зурвас оруулах шаардлагатай"
 
 #. Label of the meta_description (Small Text) field in DocType 'LMS Settings'
 #: frontend/src/pages/Batches/BatchForm.vue:258
@@ -4928,29 +4928,29 @@ msgstr "Шинэ"
 #: frontend/src/pages/Batches/components/NewBatchModal.vue:5
 #: frontend/src/pages/Notifications.vue:95 lms/www/_lms.py:154
 msgid "New Batch"
-msgstr "Шинэ Batch"
+msgstr "Шинэ багц"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:9
 msgid "New Coupon"
-msgstr "Шинэ Coupon"
+msgstr "Шинэ купон"
 
 #: frontend/src/pages/Courses/Courses.vue:346
 #: frontend/src/pages/Courses/NewCourseModal.vue:5
 #: frontend/src/pages/Notifications.vue:94 lms/www/_lms.py:98
 msgid "New Course"
-msgstr "Шинэ Course"
+msgstr "Шинэ курс"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:7
 msgid "New Email Template"
-msgstr "Шинэ Email Template"
+msgstr "Шинэ имэйлийн загвар"
 
 #: frontend/src/components/Settings/Evaluators.vue:18
 msgid "New Evaluator"
-msgstr "Шинэ Evaluator"
+msgstr "Шинэ үнэлгээчин"
 
 #: frontend/src/components/Settings/GoogleMeetAccountModal.vue:7
 msgid "New Google Meet Account"
-msgstr "Шинэ Google Meet Account"
+msgstr "Шинэ Google Meet бүртгэл"
 
 #: frontend/src/pages/JobForm.vue:321 frontend/src/pages/JobForm.vue:333
 #: frontend/src/pages/Jobs.vue:25
@@ -4959,19 +4959,19 @@ msgstr "Шинэ Job"
 
 #: lms/job/doctype/lms_job_application/lms_job_application.py:31
 msgid "New Job Applicant"
-msgstr "Шинэ Job Applicant"
+msgstr "Шинээр ажилд орох өргөдөл гаргагч"
 
 #: frontend/src/pages/LessonForm.vue:521
 msgid "New Lesson"
-msgstr "Шинэ Lesson"
+msgstr "Шинэ хичээл"
 
 #: frontend/src/components/Settings/PaymentGatewayDetails.vue:12
 msgid "New Payment Gateway"
-msgstr "Шинэ Payment Gateway"
+msgstr "Шинэ төлбөрийн гарц"
 
 #: frontend/src/pages/QuizForm.vue:145
 msgid "New Question"
-msgstr "Шинэ Question"
+msgstr "Шинэ асуулт"
 
 #: lms/www/new-sign-up.html:3
 msgid "New Sign Up"
@@ -4979,7 +4979,7 @@ msgstr "Шинэ Sign Up"
 
 #: frontend/src/components/Modals/ZoomAccountModal.vue:6
 msgid "New Zoom Account"
-msgstr "Шинэ Zoom Account"
+msgstr "Шинэ Zoom бүртгэл"
 
 #: lms/lms/utils.py:471
 msgid "New comment in batch {0}"
@@ -5001,15 +5001,15 @@ msgstr "Дараах"
 
 #: lms/templates/assessments.html:58
 msgid "No Assessments"
-msgstr "Assessments байхгүй"
+msgstr "Үнэлгээ байхгүй"
 
 #: frontend/src/components/Settings/BadgeAssignments.vue:87
 msgid "No Assignments"
-msgstr "Assignments байхгүй"
+msgstr "Даалгавар байхгүй"
 
 #: lms/templates/notifications.html:26
 msgid "No Notifications"
-msgstr "Notifications байхгүй"
+msgstr "Мэдэгдэл байхгүй"
 
 #: frontend/src/components/Quiz.vue:378
 msgid "No Quiz submissions found"
@@ -5018,11 +5018,11 @@ msgstr "Quiz submissions олдсонгүй"
 #. Option for the 'Auto Recording' (Select) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
 msgid "No Recording"
-msgstr "Recording байхгүй"
+msgstr "Бичлэг байхгүй"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:13
 msgid "No Submissions"
-msgstr "Submissions байхгүй"
+msgstr "Оруулсан зүйл байхгүй"
 
 #: lms/templates/upcoming_evals.html:43
 msgid "No Upcoming Evaluations"
@@ -5220,7 +5220,7 @@ msgstr "Боломжтой суудлын тоо"
 #. Label of the sb_00 (Section Break) field in DocType 'Zoom Settings'
 #: lms/lms/doctype/zoom_settings/zoom_settings.json
 msgid "OAuth Client ID"
-msgstr "OAuth Client дугаар"
+msgstr "OAuth Client ID"
 
 #. Option for the 'Location Preference' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -5372,7 +5372,7 @@ msgstr "Улбар шар"
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:171
 #: lms/lms/doctype/lms_payment/lms_payment.json
 msgid "Order ID"
-msgstr "Order дугаар"
+msgstr "Захиалгын ID"
 
 #. Label of the organization (Data) field in DocType 'Certification'
 #: lms/lms/doctype/certification/certification.json
@@ -5384,7 +5384,7 @@ msgstr "Зохион байгуулалт"
 #: frontend/src/pages/Billing.vue:34
 #: lms/lms/doctype/lms_payment/lms_payment.json
 msgid "Original Amount"
-msgstr "Original дүн"
+msgstr "Анхны дүн"
 
 #. Option for the 'User Category' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json lms/templates/signup-form.html:28
@@ -5530,7 +5530,7 @@ msgstr "Төлбөрийн улс"
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:91
 #: lms/lms/doctype/lms_payment/lms_payment.json
 msgid "Payment Details"
-msgstr "Payment дэлгэрэнгүй"
+msgstr "Төлбөрийн дэлгэрэнгүй мэдээлэл"
 
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:43
 #: frontend/src/components/Settings/Transactions/TransactionList.vue:38
@@ -5543,7 +5543,7 @@ msgstr "Баримт бичгийн төлбөр"
 
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:76
 msgid "Payment For Document Type"
-msgstr "Payment For Document төрөл"
+msgstr "Баримт бичгийн төрөлд зориулсан төлбөр"
 
 #. Label of the payment_gateway (Data) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -5554,7 +5554,7 @@ msgstr "Төлбөрийн гарц"
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:166
 #: lms/lms/doctype/lms_payment/lms_payment.json
 msgid "Payment ID"
-msgstr "Payment дугаар"
+msgstr "Төлбөрийн ID"
 
 #. Label of the payment_received (Check) field in DocType 'LMS Payment'
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:37
@@ -5568,13 +5568,13 @@ msgstr "Төлбөрийг хүлээн авсан"
 #. Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Payment Reminder Template"
-msgstr "Payment Reminder загвар"
+msgstr "Төлбөрийн сануулагч загвар"
 
 #. Label of the payment_settings_tab (Tab Break) field in DocType 'LMS
 #. Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Payment Settings"
-msgstr "Payment тохиргоо"
+msgstr "Төлбөрийн тохиргоо"
 
 #: frontend/src/pages/Billing.vue:20
 msgid "Payment for "
@@ -5596,7 +5596,7 @@ msgstr "Баримт бичгийн төлбөр"
 #. Payment'
 #: lms/lms/doctype/lms_payment/lms_payment.json
 msgid "Payment for Document Type"
-msgstr "Payment for Document төрөл"
+msgstr "Баримт бичгийн төрлийн төлбөр"
 
 #: frontend/src/components/Settings/PaymentGateways.vue:141
 msgid "Payment gateways deleted successfully"
@@ -5604,7 +5604,7 @@ msgstr "Төлбөрийн гарцыг амжилттай устгалаа"
 
 #: lms/lms/doctype/lms_batch_enrollment/lms_batch_enrollment.py:46
 msgid "Payment is required to enroll in this batch."
-msgstr ""
+msgstr "Энэ багцад бүртгүүлэхийн тулд төлбөр төлөх шаардлагатай."
 
 #. Label of the payments_app_is_not_installed (HTML) field in DocType 'LMS
 #. Settings'
@@ -5652,7 +5652,7 @@ msgstr "Баривчлагдсан хүн"
 
 #: frontend/src/pages/Billing.vue:154
 msgid "Phone Number"
-msgstr "Phone дугаар"
+msgstr "Утасны дугаар"
 
 #. Option for the 'Color' (Select) field in DocType 'LMS Course'
 #: lms/lms/doctype/lms_course/lms_course.json
@@ -5661,43 +5661,43 @@ msgstr "Ягаан"
 
 #: lms/lms/doctype/lms_settings/lms_settings.py:35
 msgid "Please add <a href='{0}'>{1}</a> for <a href='{2}'>{3}</a> to send calendar invites for evaluations."
-msgstr "Add <a href='{0}'>{1}</a> for <a href='{2}'>{3}</a> to send calendar invites for evaluations уу"
+msgstr "Үнэлгээнд зориулж хуанлийн урилга илгээхийн тулд <a href='{2}'>{3}</a>-д <a href='{0}'>{1}</a> нэмнэ үү."
 
 #: lms/lms/user.py:77
 msgid "Please ask your administrator to verify your sign-up"
-msgstr "Ask your administrator to verify your sign-up уу"
+msgstr "Бүртгэлээ баталгаажуулахыг админаасаа хүснэ үү"
 
 #: lms/lms/user.py:75
 msgid "Please check your email for verification"
-msgstr "Check your email for verification уу"
+msgstr "Баталгаажуулахын тулд имэйлээ шалгана уу"
 
 #: lms/templates/emails/community_course_membership.html:7
 msgid "Please click on the following button to set your new password"
-msgstr "Click on the following button to set your new password уу"
+msgstr "Дараах товчийг дарж шинэ нууц үгээ тохируулна уу"
 
 #: frontend/src/pages/Programs/ProgramDetail.vue:54
 msgid "Please complete the previous course to unlock this one."
-msgstr "Complete the previous course to unlock this one уу"
+msgstr "Үүнийг нээхийн тулд өмнөх курсээ дуусгана уу."
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:306
 msgid "Please enable the Google Meet account to use this feature."
-msgstr "Enable the google meet account to use this feature уу"
+msgstr "Энэ функцийг ашиглахын тулд Google Meet бүртгэлийг идэвхжүүлнэ үү."
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:337
 msgid "Please enable the zoom account to use this feature."
-msgstr "Enable the zoom account to use this feature уу"
+msgstr "Энэ функцийг ашиглахын тулд томруулах бүртгэлийг идэвхжүүлнэ үү."
 
 #: frontend/src/components/CourseOutline.vue:397
 msgid "Please enroll for this course to view this lesson"
-msgstr "Enroll for this course to view this lesson уу"
+msgstr "Энэ хичээлийг үзэхийн тулд энэ сургалтанд бүртгүүлнэ үү"
 
 #: frontend/src/pages/Billing.vue:99
 msgid "Please ensure that the billing name you enter is correct, as it will be used on your invoice."
-msgstr "Ensure that the billing name you enter is correct, as it will be used on your invoice уу"
+msgstr "Таны нэхэмжлэх дээр ашиглагдах тул таны оруулсан төлбөрийн нэр зөв эсэхийг шалгана уу."
 
 #: frontend/src/components/Quiz.vue:31
 msgid "Please ensure that you complete all the questions in {0} minutes."
-msgstr "Ensure that you complete all the questions in {0} minutes уу"
+msgstr "Та бүх асуултыг {0} минутын дотор бөглөнө үү."
 
 #: frontend/src/pages/Billing.vue:371
 msgid "Please enter a coupon code"
@@ -5733,27 +5733,27 @@ msgstr "Fill the mandatory fields: {0} уу"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:71
 msgid "Please install the Payments App to create a paid batch. Refer to the documentation for more details. {0}"
-msgstr "Install the payments app to create a paid batch. refer to the documentation for more details. {0} уу"
+msgstr "Төлбөртэй багц үүсгэхийн тулд төлбөрийн програмыг суулгана уу. Дэлгэрэнгүй мэдээллийг баримт бичигт хандана уу. {0}"
 
 #: lms/lms/doctype/lms_course/lms_course.py:67
 msgid "Please install the Payments App to create a paid course. Refer to the documentation for more details. {0}"
-msgstr "Install the payments app to create a paid course. refer to the documentation for more details. {0} уу"
+msgstr "Төлбөртэй курс үүсгэхийн тулд төлбөрийн програмыг суулгана уу. Дэлгэрэнгүй мэдээллийг баримт бичигт хандана уу. {0}"
 
 #: frontend/src/pages/Billing.vue:350
 msgid "Please let us know where you heard about us from."
-msgstr "Let us know where you heard about us from уу"
+msgstr "Бидний тухай хаанаас сонссоноо бидэнд мэдэгдээрэй."
 
 #: frontend/src/components/QuizBlock.vue:5
 msgid "Please login to access the quiz."
-msgstr "Login to access the quiz уу"
+msgstr "Асуултанд нэвтрэхийн тулд нэвтэрнэ үү."
 
 #: lms/lms/api.py:162
 msgid "Please login to continue with payment."
-msgstr "Login to continue with payment уу"
+msgstr "Төлбөрийг үргэлжлүүлэхийн тулд нэвтэрнэ үү."
 
 #: lms/lms/utils.py:2081
 msgid "Please login to view program details."
-msgstr "Login to view program details уу"
+msgstr "Хөтөлбөрийн дэлгэрэнгүй мэдээллийг үзэхийн тулд нэвтэрнэ үү."
 
 #: lms/lms/utils.py:2046
 msgid "Please login to view programs."
@@ -5761,40 +5761,40 @@ msgstr "Login to view programs уу"
 
 #: frontend/src/components/UpcomingEvaluations.vue:19
 msgid "Please make sure to schedule your evaluation before this date."
-msgstr "Make sure to schedule your evaluation before this date уу"
+msgstr "Энэ өдрөөс өмнө үнэлгээгээ товлохоо мартуузай."
 
 #: lms/lms/notification/certificate_request_reminder/certificate_request_reminder.html:7
 #: lms/templates/emails/certificate_request_notification.html:7
 msgid "Please prepare well and be on time for the evaluations."
-msgstr "Prepare well and be on time for the evaluations уу"
+msgstr "Бэлтгэлээ сайн хийж, үнэлгээ өгөхдөө цагтаа ирээрэй."
 
 #: frontend/src/pages/Billing.vue:198
 msgid "Please provide your consent to proceed with the payment"
-msgstr "Provide your consent to proceed with the payment уу"
+msgstr "Төлбөрийг үргэлжлүүлэх зөвшөөрлөө өгнө үү"
 
 #: frontend/src/pages/Billing.vue:354
 msgid "Please provide your consent to proceed with the payment."
-msgstr "Provide your consent to proceed with the payment уу"
+msgstr "Төлбөрийг үргэлжлүүлэх зөвшөөрлөө өгнө үү."
 
 #: frontend/src/components/Quiz.vue:8
 msgid "Please read the following instructions carefully before starting the quiz"
-msgstr "Read the following instructions carefully before starting the quiz уу"
+msgstr "Асуултыг эхлүүлэхийн өмнө дараах зааврыг анхааралтай уншина уу"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:142
 msgid "Please run the code to execute the test cases."
-msgstr "Run the code to execute the test cases уу"
+msgstr "Туршилтын тохиолдлуудыг гүйцэтгэхийн тулд кодыг ажиллуулна уу."
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:136
 msgid "Please select a Google Meet account for this batch."
-msgstr "Select a google meet account for this batch уу"
+msgstr "Энэ багцад Google Meet бүртгэл сонгоно уу."
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:153
 msgid "Please select a Zoom account for this batch."
-msgstr "Select a zoom account for this batch уу"
+msgstr "Энэ багцад Zoom бүртгэл сонгоно уу."
 
 #: frontend/src/pages/Batches/components/LiveClass.vue:10
 msgid "Please select a conferencing provider and add an account to the batch to create live classes."
-msgstr "Select a conferencing provider and add an account to the batch to create live classes уу"
+msgstr "Шууд хичээл үүсгэхийн тулд хурлын үйлчилгээ үзүүлэгчийг сонгоод багцад бүртгэл нэмнэ үү."
 
 #: frontend/src/pages/Programs/ProgramForm.vue:428
 msgid "Please select a course"
@@ -5802,7 +5802,7 @@ msgstr "Select a course уу"
 
 #: frontend/src/components/Modals/EvaluationModal.vue:59
 msgid "Please select a course to view available slots."
-msgstr "Select a course to view available slots уу"
+msgstr "Боломжтой багцуудыг үзэхийн тулд курсээ сонгоно уу."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:197
 msgid "Please select a date."
@@ -5814,7 +5814,7 @@ msgstr "Select a duration уу"
 
 #: frontend/src/components/Modals/LiveClassModal.vue:218
 msgid "Please select a future date and time."
-msgstr "Select a future date and time уу"
+msgstr "Ирээдүйн огноо, цагийг сонгоно уу."
 
 #: frontend/src/pages/Programs/ProgramForm.vue:452
 msgid "Please select a member"
@@ -5822,7 +5822,7 @@ msgstr "Select a member уу"
 
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:99
 msgid "Please select a payment for the purchased certificate."
-msgstr "Select a payment for the purchased certificate уу"
+msgstr "Худалдан авсан гэрчилгээний төлбөрийг сонгоно уу."
 
 #: frontend/src/components/Modals/QuizInVideo.vue:186
 msgid "Please select a quiz"
@@ -5830,7 +5830,7 @@ msgstr "Select a quiz уу"
 
 #: frontend/src/components/Modals/EvaluationModal.vue:112
 msgid "Please select a slot for your evaluation."
-msgstr "Select a slot for your evaluation уу"
+msgstr "Үнэлгээ хийх зайг сонгоно уу."
 
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:95
 msgid "Please select a student to enroll."
@@ -6100,7 +6100,7 @@ msgstr "Явцын хуваарилалт"
 #: frontend/src/pages/Courses/CourseDashboard.vue:130
 #: frontend/src/pages/Programs/ProgramForm.vue:125
 msgid "Progress Summary"
-msgstr "Progress хураангуй"
+msgstr "Явцын хураангуй"
 
 #: frontend/src/pages/Programs/ProgramProgressSummary.vue:5
 msgid "Progress Summary for {0}"
@@ -6144,7 +6144,7 @@ msgstr "Нийтэлсэн"
 
 #: frontend/src/pages/Courses/CourseForm.vue:104
 msgid "Publishing Settings"
-msgstr "Publishing тохиргоо"
+msgstr "Нийтлэх тохиргоо"
 
 #. Label of the purchased_certificate (Check) field in DocType 'LMS Enrollment'
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:13
@@ -6163,7 +6163,7 @@ msgstr "Нил ягаан"
 #. Exercise'
 #: lms/lms/doctype/lms_programming_exercise/lms_programming_exercise.json
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #. Label of the question (Small Text) field in DocType 'Course Lesson'
 #. Label of the question (Text Editor) field in DocType 'LMS Assignment'
@@ -6192,7 +6192,7 @@ msgstr "Асуултын дэлгэрэнгүй"
 #. Label of the question_name (Link) field in DocType 'LMS Quiz Result'
 #: lms/lms/doctype/lms_quiz_result/lms_quiz_result.json
 msgid "Question Name"
-msgstr "Question нэр"
+msgstr "Асуултын нэр"
 
 #: frontend/src/components/Modals/Question.vue:283
 msgid "Question added successfully"
@@ -6322,11 +6322,11 @@ msgstr "Улаан"
 #: frontend/src/components/Settings/Coupons/CouponList.vue:189
 #: lms/lms/doctype/lms_coupon/lms_coupon.json
 msgid "Redemption Count"
-msgstr "Redemption тоо"
+msgstr "Гэнэтийн тоо"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:65
 msgid "Redemptions Count"
-msgstr "Redemptions тоо"
+msgstr "Эргэн төлөлтийн тоо"
 
 #. Label of the reference_docname (Dynamic Link) field in DocType 'LMS Batch
 #. Timetable'
@@ -6347,13 +6347,13 @@ msgstr "Лавлах DocType"
 #. Label of the reference_doctype (Link) field in DocType 'LMS Badge'
 #: lms/lms/doctype/lms_badge/lms_badge.json
 msgid "Reference Document Type"
-msgstr "Reference Document төрөл"
+msgstr "Лавлах баримт бичгийн төрөл"
 
 #. Label of the reference_name (Dynamic Link) field in DocType 'LMS Coupon
 #. Item'
 #: lms/lms/doctype/lms_coupon_item/lms_coupon_item.json
 msgid "Reference Name"
-msgstr "Reference нэр"
+msgstr "Лавлах нэр"
 
 #: lms/templates/emails/community_course_membership.html:17
 msgid "Regards"
@@ -6397,7 +6397,7 @@ msgstr "Хариулах"
 
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:104
 msgid "Reply To is required"
-msgstr "Reply To шаардлагатай"
+msgstr "Хариу бичих шаардлагатай"
 
 #: frontend/src/components/DiscussionReplies.vue:178
 #: frontend/src/components/DiscussionReplies.vue:201
@@ -6473,11 +6473,11 @@ msgstr "Мөр {0}: End time cannot be outside the batch duration."
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:108
 msgid "Row #{0} Start time cannot be greater than or equal to end time."
-msgstr "Мөр {0}: Start time cannot be greater than or equal to end time."
+msgstr "Мөр #{0} Эхлэх цаг дуусах хугацаатай тэнцүү эсвэл их байж болохгүй."
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:117
 msgid "Row #{0} Start time cannot be outside the batch duration."
-msgstr "Мөр {0}: Start time cannot be outside the batch duration."
+msgstr "Мөр #{0} Эхлэх цаг нь багцын хугацаанаас гадуур байж болохгүй."
 
 #: lms/lms/doctype/lms_quiz/lms_quiz.py:33
 msgid "Rows {0} have the duplicate questions."
@@ -6615,7 +6615,7 @@ msgstr "Гишүүнээр хайх"
 
 #: frontend/src/pages/CertifiedParticipants.vue:26
 msgid "Search by Name"
-msgstr "Search by нэр"
+msgstr "Нэрээр хайх"
 
 #: frontend/src/pages/Batches/Batches.vue:65
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:45
@@ -6677,7 +6677,7 @@ msgstr "Огноо сонгох"
 
 #: frontend/src/components/Settings/PaymentGatewayDetails.vue:26
 msgid "Select Payment Gateway"
-msgstr "Payment Gateway сонгох"
+msgstr "Төлбөрийн гарцыг сонгоно уу"
 
 #: frontend/src/components/Modals/AddEvaluatorModal.vue:18
 msgid "Select User"
@@ -6685,11 +6685,11 @@ msgstr "Хэрэглэгч сонгох"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseModal.vue:23
 msgid "Select a Programming Exercise"
-msgstr "a Programming Exercise сонгох"
+msgstr "Програмчлалын дасгалыг сонгоно уу"
 
 #: frontend/src/pages/Courses/CourseForm.vue:92
 msgid "Select a fallback color for the course card when no image is set."
-msgstr "a fallback color for the course card when no image is set сонгох"
+msgstr "Зургийг тохируулаагүй үед курсын картын нөөц өнгийг сонгоно уу."
 
 #: frontend/src/components/Modals/Question.vue:99
 msgid "Select a question"
@@ -6702,7 +6702,7 @@ msgstr "a quiz сонгох"
 #: frontend/src/components/AssessmentPlugin.vue:41
 #: frontend/src/components/AssessmentPlugin.vue:49
 msgid "Select an Assignment"
-msgstr "an Assignment сонгох"
+msgstr "Даалгавар сонгоно уу"
 
 #: frontend/src/components/Modals/Question.vue:17
 msgid "Select from questions you have already created"
@@ -6814,28 +6814,28 @@ msgstr "Багцын товч тайлбар"
 #. Label of the show_answer (Check) field in DocType 'LMS Assignment'
 #: lms/lms/doctype/lms_assignment/lms_assignment.json
 msgid "Show Answer"
-msgstr "Answer харуулах"
+msgstr "Хариултыг харуулах"
 
 #. Label of the show_answers (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:93 frontend/src/pages/Quizzes.vue:296
 #: lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Show Answers"
-msgstr "Answers харуулах"
+msgstr "Хариултуудыг харуулах"
 
 #. Label of the show_submission_history (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:101 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Show Submission History"
-msgstr "Submission History харуулах"
+msgstr "Илгээсэн түүхийг харуулах"
 
 #. Label of the column_break_2 (Column Break) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Show Tab in Batch"
-msgstr "Tab in Batch харуулах"
+msgstr "Цонхыг багцаар харуулах"
 
 #. Label of the show_usd_equivalent (Check) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Show USD Equivalent"
-msgstr "USD Equivalent харуулах"
+msgstr "долларын эквивалентыг харуулах"
 
 #. Label of the show_day_view (Check) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -6873,7 +6873,7 @@ msgstr "Бүртгүүлэх"
 #. Label of the signup_settings_tab (Tab Break) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Signup Settings"
-msgstr "Signup тохиргоо"
+msgstr "Бүртгэлийн тохиргоо"
 
 #. Label of a chart in the Learning Workspace
 #: lms/lms/workspace/learning/learning.json
@@ -6889,12 +6889,12 @@ msgstr "Ур чадвар"
 #. Label of the skill_details (Section Break) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "Skill Details"
-msgstr "Skill дэлгэрэнгүй"
+msgstr "Ур чадварын дэлгэрэнгүй мэдээлэл"
 
 #. Label of the skill_name (Link) field in DocType 'Skills'
 #: lms/lms/doctype/skills/skills.json
 msgid "Skill Name"
-msgstr "Skill нэр"
+msgstr "Ур чадварын нэр"
 
 #. Name of a DocType
 #: lms/lms/doctype/skills/skills.json
@@ -7105,7 +7105,7 @@ msgstr "Сэдэв"
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:98
 #: frontend/src/pages/JobApplications.vue:258
 msgid "Subject is required"
-msgstr "Subject шаардлагатай"
+msgstr "Сэдвийг оруулах шаардлагатай"
 
 #: frontend/src/components/Assignment.vue:32
 msgid "Submission"
@@ -7113,7 +7113,7 @@ msgstr "Илгээлт"
 
 #: frontend/src/components/Modals/AssignmentForm.vue:27
 msgid "Submission Type"
-msgstr "Submission төрөл"
+msgstr "Илгээлтийн төрөл"
 
 #: frontend/src/components/Assignment.vue:13
 #: frontend/src/components/Assignment.vue:16
@@ -7549,7 +7549,7 @@ msgstr "Хуваарийн домог"
 #. Label of the timetable_template (Link) field in DocType 'LMS Batch'
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Timetable Template"
-msgstr "Timetable загвар"
+msgstr "Цагийн хуваарийн загвар"
 
 #. Label of the timezone (Data) field in DocType 'LMS Batch'
 #. Label of the timezone (Data) field in DocType 'LMS Certificate Request'
@@ -7626,7 +7626,7 @@ msgstr "Гарчиг хоосон байж болохгүй."
 
 #: frontend/src/components/Modals/ChapterModal.vue:177
 msgid "Title is required"
-msgstr "Title шаардлагатай"
+msgstr "Гарчиг шаардлагатай"
 
 #. Label of the unavailable_to (Date) field in DocType 'Course Evaluator'
 #: frontend/src/pages/ProfileEvaluator.vue:120
@@ -7655,16 +7655,16 @@ msgstr "Нийт"
 #: frontend/src/pages/QuizForm.vue:73 frontend/src/pages/Quizzes.vue:275
 #: lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Total Marks"
-msgstr "Нийт Marks"
+msgstr "Нийт оноо"
 
 #: frontend/src/components/Quiz.vue:406
 msgid "Total Questions"
-msgstr "Нийт Questions"
+msgstr "Нийт асуултууд"
 
 #: lms/lms/web_template/lms_statistics/lms_statistics.html:14
 #: lms/templates/statistics.html:12
 msgid "Total Signups"
-msgstr "Нийт Signups"
+msgstr "Бүртгэлийн нийт тоо"
 
 #: frontend/src/components/Modals/FeedbackModal.vue:11
 msgid "Training Feedback"
@@ -7672,7 +7672,7 @@ msgstr "Сургалтын санал хүсэлт"
 
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:10
 msgid "Transaction Details"
-msgstr "Transaction дэлгэрэнгүй"
+msgstr "Гүйлгээний дэлгэрэнгүй мэдээлэл"
 
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:215
 msgid "Transaction created successfully"
@@ -7700,13 +7700,13 @@ msgstr "Мягмар гараг"
 
 #: frontend/src/pages/ProfileAbout.vue:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #. Label of the twitter (Data) field in DocType 'User'
 #: frontend/src/components/Modals/EditProfile.vue:56
 #: lms/fixtures/custom_field.json
 msgid "Twitter ID"
-msgstr "Twitter дугаар"
+msgstr "Twitter ID"
 
 #. Label of the type (Select) field in DocType 'Job Opportunity'
 #. Label of a field in the job-opportunity Web Form
@@ -7783,7 +7783,7 @@ msgstr "Боломжгүй байдал амжилттай шинэчлэгдс�
 
 #: lms/lms/doctype/course_evaluator/course_evaluator.py:36
 msgid "Unavailable From Date cannot be greater than Unavailable To Date"
-msgstr "Unavailable From Date cannot be greater than Unavailable To огноо"
+msgstr "Огнооноос эхлэн боломжгүй байна. Огноо хүртэл боломжгүй байна"
 
 #. Option for the 'Status' (Select) field in DocType 'LMS Course'
 #: lms/lms/doctype/lms_course/lms_course.json
@@ -7845,7 +7845,7 @@ msgstr "Шинэчлэх"
 
 #: lms/templates/emails/community_course_membership.html:11
 msgid "Update Password"
-msgstr "Password шинэчлэх"
+msgstr "Нууц үгээ шинэчлэх"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:291
 #: frontend/src/pages/Quizzes.vue:303
@@ -7974,12 +7974,12 @@ msgstr "Видео статистик"
 
 #: frontend/src/pages/JobDetail.vue:31
 msgid "View Applications"
-msgstr "Applications харах"
+msgstr "Програмуудыг харах"
 
 #: frontend/src/components/CertificationLinks.vue:10
 #: frontend/src/components/Modals/Event.vue:73
 msgid "View Certificate"
-msgstr "Certificate харах"
+msgstr "Сертификат үзэх"
 
 #: frontend/src/pages/JobApplications.vue:283
 msgid "View Resume"
@@ -8076,7 +8076,7 @@ msgstr "Та бидний тухай хаанаас сонссон бэ?"
 
 #: lms/templates/emails/certification.html:10
 msgid "With this certification, you can now showcase your updated skills and share your achievement with your colleagues and on LinkedIn. To access your certificate, please click on the link provided below. Make sure you are logged in to the portal."
-msgstr ""
+msgstr "Энэхүү гэрчилгээг авснаар та одоо шинэчлэгдсэн ур чадвараа харуулж, амжилтаа хамтран ажиллагсад болон LinkedIn дээр хуваалцах боломжтой. Сертификаттаа хандах бол доорх холбоос дээр дарна уу. Та портал руу нэвтэрсэн эсэхээ шалгаарай."
 
 #. Option for the 'Open to' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -8098,7 +8098,7 @@ msgstr "Ажлын туршлага"
 #. Label of the work_experience_details (Section Break) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "Work Experience Details"
-msgstr "Work Experience дэлгэрэнгүй"
+msgstr "Ажлын туршлагын дэлгэрэнгүй мэдээлэл"
 
 #. Label of the work_mode (Select) field in DocType 'Job Opportunity'
 #: frontend/src/pages/JobForm.vue:37 frontend/src/pages/Jobs.vue:93
@@ -8601,7 +8601,7 @@ msgstr "дууссан"
 
 #: frontend/src/pages/Programs/StudentPrograms.vue:29
 msgid "course"
-msgstr "мэдээж"
+msgstr "Курс"
 
 #: frontend/src/pages/Programs/StudentPrograms.vue:29
 msgid "courses"
@@ -8645,7 +8645,7 @@ msgstr "хамгийн сүүлд"
 
 #: lms/templates/signup-form.html:12
 msgid "jane@example.com"
-msgstr ""
+msgstr "jane@example.com"
 
 #: frontend/src/components/CourseCardOverlay.vue:101
 msgid "lesson"
@@ -8733,7 +8733,7 @@ msgstr "санал хүсэлтээ харахын тулд."
 
 #: frontend/src/components/StudentHeatmap.vue:10
 msgid "weeks"
-msgstr ""
+msgstr "долоо хоног"
 
 #: lms/templates/emails/mentor_request_creation_email.html:5
 msgid "you can"
@@ -8753,7 +8753,7 @@ msgstr "{0} Асуулт"
 
 #: lms/lms/api.py:775 lms/lms/api.py:783
 msgid "{0} Settings not found"
-msgstr "{0} Settings олдсонгүй"
+msgstr "{0} Тохиргоо олдсонгүй"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:12
 msgid "{0} Submissions"
