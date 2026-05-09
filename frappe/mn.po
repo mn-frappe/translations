@@ -162,7 +162,7 @@ msgstr "1 өдөр"
 
 #: frappe/integrations/doctype/google_calendar/google_calendar.py:375
 msgid "1 Google Calendar Event synced."
-msgstr "1 Google Календарийн арга хэмжээг синк хийсэн."
+msgstr "1 Google Календарийн арга хэмжээг синхрончиллоо."
 
 #: frappe/public/js/frappe/views/reports/query_report.js:996
 msgid "1 Report"
@@ -4188,11 +4188,11 @@ msgstr "Илгээсний дараа шинэчлэх боломжгүй"
 
 #: frappe/core/doctype/file/file.py:686
 msgid "Cannot access file path {0}"
-msgstr "Access file path {0} боломжгүй"
+msgstr "{0} файлын замд хандах боломжгүй."
 
 #: frappe/core/doctype/file/file.py:149
 msgid "Cannot attach a folder to a document"
-msgstr "Attach a folder to a document боломжгүй"
+msgstr "Баримт бичигт хавтас хавсаргах боломжгүй."
 
 #: frappe/public/js/workflow_builder/utils.js:183
 msgid "Cannot cancel before submitting while transitioning from <b>{0} State</b> to <b>{1} State</b>"
@@ -4200,86 +4200,86 @@ msgstr "<b>{0} төлөв</b>-с <b>{1} төлөв</b> руу шилжих үе�
 
 #: frappe/workflow/doctype/workflow/workflow.py:110
 msgid "Cannot cancel before submitting. See Transition {0}"
-msgstr "Cancel before submitting. see transition {0} боломжгүй"
+msgstr "Батлахаас өмнө цуцлах боломжгүй. {0} шилжилтийг харна уу."
 
 #: frappe/public/js/frappe/list/bulk_operations.js:294
 msgid "Cannot cancel {0}."
-msgstr "Cancel {0} боломжгүй"
+msgstr "{0}-г цуцлах боломжгүй."
 
 #: frappe/model/document.py:1064
 msgid "Cannot change docstatus from 0 (Draft) to 2 (Cancelled)"
-msgstr "Change docstatus from 0 (draft) to 2 (cancelled) боломжгүй"
+msgstr "docstatus-ийг 0 (Ноорог)-оос 2 (Цуцлагдсан) болгож өөрчлөх боломжгүй."
 
 #: frappe/model/document.py:1078
 msgid "Cannot change docstatus from 1 (Submitted) to 0 (Draft)"
-msgstr "Change docstatus from 1 (submitted) to 0 (draft) боломжгүй"
+msgstr "docstatus-ийг 1 (Батлагдсан)-аас 0 (Ноорог) болгож өөрчлөх боломжгүй."
 
 #: frappe/public/js/workflow_builder/utils.js:170
 msgid "Cannot change state of Cancelled Document <b>({0} State)</b>"
-msgstr "Change state of cancelled document <b>({0} state)</b> боломжгүй"
+msgstr "Цуцлагдсан баримт бичгийн <b>({0} төлөв)</b> төлөвийг өөрчлөх боломжгүй."
 
 #: frappe/workflow/doctype/workflow/workflow.py:99
 msgid "Cannot change state of Cancelled Document. Transition row {0}"
-msgstr "Change state of cancelled document. transition row {0} боломжгүй"
+msgstr "Цуцлагдсан баримт бичгийн төлөвийг өөрчлөх боломжгүй. {0} шилжилтийн мөрийг шалгана уу."
 
 #: frappe/core/doctype/doctype/doctype.py:1177
 msgid "Cannot change to/from autoincrement autoname in Customize Form"
-msgstr "Change to/from autoincrement autoname in customize form боломжгүй"
+msgstr "Customize Form дээр autoincrement autoname руу эсвэл түүнээс өөрчлөх боломжгүй."
 
 #: frappe/core/doctype/communication/communication.py:169
 msgid "Cannot create a {0} against a child document: {1}"
-msgstr "Create a {0} against a child document: {1} боломжгүй"
+msgstr "{1} child баримт бичиг дээр {0} үүсгэх боломжгүй."
 
 #: frappe/desk/doctype/workspace/workspace.py:306
 msgid "Cannot create private workspace of other users"
-msgstr "Create private workspace of other users боломжгүй"
+msgstr "Бусад хэрэглэгчийн хувийн ажлын талбарыг үүсгэх боломжгүй."
 
 #: frappe/desk/doctype/desktop_icon/desktop_icon.py:55
 msgid "Cannot delete Desktop Icon '{0}' as it is restricted"
-msgstr "Delete desktop icon '{0}' as it is restricted боломжгүй"
+msgstr "'{0}' desktop icon-ыг устгах боломжгүй. Учир нь энэ нь хязгаарлагдсан байна."
 
 #: frappe/core/doctype/file/file.py:208
 msgid "Cannot delete Home and Attachments folders"
-msgstr "Delete home and attachments folders боломжгүй"
+msgstr "Home болон Attachments хавтсуудыг устгах боломжгүй."
 
 #: frappe/model/delete_doc.py:477
 msgid "Cannot delete or cancel because {0} {1} is linked with {2} {3} {4}"
-msgstr "Delete or cancel because {0} {1} is linked with {2} {3} {4} боломжгүй"
+msgstr "{0} {1} нь {2} {3} {4}-тэй холбогдсон тул устгах эсвэл цуцлах боломжгүй."
 
 #: frappe/custom/doctype/customize_form/customize_form.js:392
 msgid "Cannot delete standard action. You can hide it if you want"
-msgstr "Delete standard action. you can hide it if you want боломжгүй"
+msgstr "Стандарт үйлдлийг устгах боломжгүй. Хэрэв хүсвэл нууж болно."
 
 #: frappe/custom/doctype/customize_form/customize_form.js:414
 msgid "Cannot delete standard document state."
-msgstr "Delete standard document state боломжгүй"
+msgstr "Стандарт баримт бичгийн төлөвийг устгах боломжгүй."
 
 #: frappe/custom/doctype/customize_form/customize_form.js:344
 msgid "Cannot delete standard field <strong>{0}</strong>. You can hide it instead."
-msgstr "Delete standard field <strong>{0}</strong>. you can hide it instead боломжгүй"
+msgstr "<strong>{0}</strong> стандарт талбарыг устгах боломжгүй. Оронд нь нууж болно."
 
 #: frappe/public/js/form_builder/components/Field.vue:38
 #: frappe/public/js/form_builder/components/Section.vue:117
 #: frappe/public/js/form_builder/components/Section.vue:190
 #: frappe/public/js/form_builder/components/Tabs.vue:56
 msgid "Cannot delete standard field. You can hide it if you want"
-msgstr "Delete standard field. you can hide it if you want боломжгүй"
+msgstr "Стандарт талбарыг устгах боломжгүй. Хэрэв хүсвэл нууж болно."
 
 #: frappe/custom/doctype/customize_form/customize_form.js:370
 msgid "Cannot delete standard link. You can hide it if you want"
-msgstr "Delete standard link. you can hide it if you want боломжгүй"
+msgstr "Стандарт холбоосыг устгах боломжгүй. Хэрэв хүсвэл нууж болно."
 
 #: frappe/custom/doctype/customize_form/customize_form.js:336
 msgid "Cannot delete system generated field <strong>{0}</strong>. You can hide it instead."
-msgstr "Delete system generated field <strong>{0}</strong>. you can hide it instead боломжгүй"
+msgstr "Системээс үүсгэсэн <strong>{0}</strong> талбарыг устгах боломжгүй. Оронд нь нууж болно."
 
 #: frappe/public/js/frappe/list/bulk_operations.js:215
 msgid "Cannot delete {0}"
-msgstr "Delete {0} боломжгүй"
+msgstr "{0}-г устгах боломжгүй."
 
 #: frappe/utils/nestedset.py:316
 msgid "Cannot delete {0} as it has child nodes"
-msgstr "Delete {0} as it has child nodes боломжгүй"
+msgstr "{0}-г устгах боломжгүй. Учир нь child node-уудтай байна."
 
 #: frappe/desk/doctype/dashboard/dashboard.py:48
 msgid "Cannot edit Standard Dashboards"
@@ -4299,72 +4299,72 @@ msgstr "Стандарт тайланг засах боломжгүй. Хуул�
 
 #: frappe/model/document.py:1084
 msgid "Cannot edit cancelled document"
-msgstr "Edit cancelled document боломжгүй"
+msgstr "Цуцлагдсан баримт бичгийг засах боломжгүй."
 
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.js:378
 msgid "Cannot edit filters for standard charts"
-msgstr "Edit filters for standard charts боломжгүй"
+msgstr "Стандарт диаграммын шүүлтүүрийг засах боломжгүй."
 
 #: frappe/desk/doctype/number_card/number_card.js:284
 #: frappe/desk/doctype/number_card/number_card.js:376
 msgid "Cannot edit filters for standard number cards"
-msgstr "Edit filters for standard number cards боломжгүй"
+msgstr "Стандарт тоон картын шүүлтүүрийг засах боломжгүй."
 
 #: frappe/client.py:176
 msgid "Cannot edit standard fields"
-msgstr "Edit standard fields боломжгүй"
+msgstr "Стандарт талбаруудыг засах боломжгүй."
 
 #: frappe/automation/doctype/auto_repeat/auto_repeat.py:131
 msgid "Cannot enable {0} for a non-submittable doctype"
-msgstr "Enable {0} for a non-submittable doctype боломжгүй"
+msgstr "Илгээх боломжгүй doctype-д {0}-г идэвхжүүлэх боломжгүй."
 
 #: frappe/core/doctype/file/file.py:307
 msgid "Cannot find file {} on disk"
-msgstr "Find file {} on disk боломжгүй"
+msgstr "Диск дээрх {} файлыг олж чадсангүй."
 
 #: frappe/core/doctype/file/file.py:626
 msgid "Cannot get file contents of a Folder"
-msgstr "Get file contents of a folder боломжгүй"
+msgstr "Хавтасны файлын агуулгыг авах боломжгүй."
 
 #: frappe/printing/page/print/print.js:910
 msgid "Cannot have multiple printers mapped to a single print format."
-msgstr "Have multiple printers mapped to a single print format боломжгүй"
+msgstr "Нэг хэвлэх форматад хэд хэдэн принтер холбох боломжгүй."
 
 #: frappe/public/js/frappe/form/grid.js:1232
 msgid "Cannot import table with more than 5000 rows."
-msgstr "Import table with more than 5000 rows боломжгүй"
+msgstr "5000-аас олон мөртэй хүснэгт импортлох боломжгүй."
 
 #: frappe/model/document.py:1152
 msgid "Cannot link cancelled document: {0}"
-msgstr "Link cancelled document: {0} боломжгүй"
+msgstr "Цуцлагдсан баримт бичгийг холбох боломжгүй: {0}"
 
 #: frappe/model/mapper.py:175
 msgid "Cannot map because following condition fails:"
-msgstr "Map because following condition fails: боломжгүй"
+msgstr "Дараах нөхцөл хангагдаагүй тул map хийх боломжгүй:"
 
 #: frappe/core/doctype/data_import/importer.py:975
 msgid "Cannot match column {0} with any field"
-msgstr "Match column {0} with any field боломжгүй"
+msgstr "{0} баганыг аль ч талбартай тааруулах боломжгүй."
 
 #: frappe/public/js/frappe/form/grid_row.js:167
 msgid "Cannot move row"
-msgstr "Move row боломжгүй"
+msgstr "Мөрийг зөөх боломжгүй."
 
 #: frappe/utils/xlsxutils.py:150
 msgid "Cannot register an empty XLSX style"
-msgstr "Register an empty xlsx style боломжгүй"
+msgstr "Хоосон XLSX хэв маягийг бүртгэх боломжгүй."
 
 #: frappe/public/js/frappe/views/reports/report_view.js:1022
 msgid "Cannot remove ID field"
-msgstr "Remove id field боломжгүй"
+msgstr "ID талбарыг устгах боломжгүй."
 
 #: frappe/core/page/permission_manager/permission_manager.py:142
 msgid "Cannot set 'Report' permission if 'Only If Creator' permission is set"
-msgstr "Set 'report' permission if 'only if creator' permission is set боломжгүй"
+msgstr "'Only If Creator' зөвшөөрөл тохируулсан бол 'Report' зөвшөөрөл тохируулах боломжгүй."
 
 #: frappe/email/doctype/notification/notification.py:240
 msgid "Cannot set Notification with event {0} on Document Type {1}"
-msgstr "Set notification with event {0} on document type {1} боломжгүй"
+msgstr "{1} Document Type дээр {0} event-тэй Notification тохируулах боломжгүй."
 
 #: frappe/core/doctype/docshare/docshare.py:67
 msgid "Cannot share {0} with submit permission as the doctype {1} is not submittable"
@@ -4372,24 +4372,24 @@ msgstr "{1} баримт бичгийг илгээх боломжгүй тул �
 
 #: frappe/public/js/frappe/list/bulk_operations.js:291
 msgid "Cannot submit {0}."
-msgstr "Submit {0} боломжгүй"
+msgstr "{0}-г батлах боломжгүй."
 
 #: frappe/desk/doctype/bulk_update/bulk_update.js:26
 #: frappe/public/js/frappe/list/bulk_operations.js:378
 msgid "Cannot update {0}"
-msgstr "Update {0} боломжгүй"
+msgstr "{0}-г шинэчлэх боломжгүй."
 
 #: frappe/model/db_query.py:1244
 msgid "Cannot use sub-query here."
-msgstr "Use sub-query here боломжгүй"
+msgstr "Энд sub-query ашиглах боломжгүй."
 
 #: frappe/model/db_query.py:1276
 msgid "Cannot use {0} in order/group by"
-msgstr "Use {0} in order/group by боломжгүй"
+msgstr "{0}-г order/group by-д ашиглах боломжгүй."
 
 #: frappe/public/js/frappe/list/bulk_operations.js:297
 msgid "Cannot {0} {1}."
-msgstr "{0} {1} боломжгүй"
+msgstr "{1}-г {0} хийх боломжгүй."
 
 #: frappe/utils/password_strength.py:181
 msgid "Capitalization doesn't help very much."
@@ -5611,7 +5611,7 @@ msgstr "Холбоо барих утас"
 
 #: frappe/integrations/doctype/google_contacts/google_contacts.py:291
 msgid "Contact Synced with Google Contacts."
-msgstr "Google Contacts-тэй синк хийсэн харилцагч."
+msgstr "Харилцагчийг Google Contacts-тэй синхрончиллоо."
 
 #: frappe/www/contact.html:4
 msgid "Contact Us"
@@ -8951,7 +8951,7 @@ msgstr "Имэйл хаяг"
 #. Description of the 'Email Address' (Data) field in DocType 'Google Contacts'
 #: frappe/integrations/doctype/google_contacts/google_contacts.json
 msgid "Email Address whose Google Contacts are to be synced."
-msgstr "Google-н харилцагчдыг синк хийх имэйл хаяг."
+msgstr "Google Contacts-тэй синхрончлох имэйл хаяг."
 
 #: frappe/email/doctype/email_group/email_group.js:43
 msgid "Email Addresses"
@@ -9090,7 +9090,7 @@ msgstr "Email төлөв"
 #. Label of the email_sync_option (Select) field in DocType 'Email Account'
 #: frappe/email/doctype/email_account/email_account.json
 msgid "Email Sync Option"
-msgstr "Имэйл синк хийх сонголт"
+msgstr "Имэйлийн синхрончлолын сонголт"
 
 #. Label of the email_template (Link) field in DocType 'Communication'
 #. Name of a DocType
@@ -9763,7 +9763,7 @@ msgstr "Үйл явдлын сануулга"
 #: frappe/integrations/doctype/google_calendar/google_calendar.py:494
 #: frappe/integrations/doctype/google_calendar/google_calendar.py:578
 msgid "Event Synced with Google Calendar."
-msgstr "Үйл явдлыг Google Календарь-тай синк хийсэн."
+msgstr "Үйл явдлыг Google Календарьтай синхрончиллоо."
 
 #. Label of the event_type (Data) field in DocType 'Recorder'
 #. Label of the event_type (Select) field in DocType 'Event'
@@ -11552,11 +11552,11 @@ msgstr "GNU нийтийн нийтийн лиценз"
 #: frappe/desk/doctype/form_tour/form_tour.json
 #: frappe/public/js/frappe/views/gantt/gantt_view.js:10
 msgid "Gantt"
-msgstr "Гант диаграммм"
+msgstr "Гант"
 
 #: frappe/public/js/frappe/list/base_list.js:206
 msgid "Gantt View"
-msgstr "Гант харах"
+msgstr "Гант харагдац"
 
 #. Label of the gender (Link) field in DocType 'Contact'
 #. Name of a DocType
@@ -11874,11 +11874,11 @@ msgstr "Google Харилцагчид"
 
 #: frappe/integrations/doctype/google_contacts/google_contacts.py:137
 msgid "Google Contacts - Could not sync contacts from Google Contacts {0}, error code {1}."
-msgstr "Google Contacts - Google Contacts-аас харилцагчдыг синк хийж чадсангүй {0}, алдааны код {1}."
+msgstr "Google Contacts: {0} дахь харилцагчдыг синхрончилж чадсангүй. Алдааны код: {1}."
 
 #: frappe/integrations/doctype/google_contacts/google_contacts.py:294
 msgid "Google Contacts - Could not update contact in Google Contacts {0}, error code {1}."
-msgstr "Google Харилцагчид - Google Харилцагчид {0}, алдааны код {1} доторх харилцагчийг шинэчилж чадсангүй."
+msgstr "Google Contacts: {0} дахь харилцагчийг шинэчилж чадсангүй. Алдааны код: {1}."
 
 #. Label of the google_contacts_id (Data) field in DocType 'Contact'
 #: frappe/contacts/doctype/contact/contact.json
@@ -15038,12 +15038,12 @@ msgstr "Сүүлийн гүйлт"
 #. Label of the last_sync_on (Datetime) field in DocType 'Google Contacts'
 #: frappe/integrations/doctype/google_contacts/google_contacts.json
 msgid "Last Sync On"
-msgstr "Сүүлийн синк асаалттай"
+msgstr "Сүүлд синхрончилсон огноо"
 
 #. Label of the last_synced_on (Datetime) field in DocType 'Dashboard Chart'
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.json
 msgid "Last Synced On"
-msgstr "Сүүлд синк хийгдсэн"
+msgstr "Сүүлд синхрончилсон огноо"
 
 #. Label of the last_updated (Datetime) field in DocType 'User Session Display'
 #: frappe/core/doctype/user_session_display/user_session_display.json
@@ -15079,7 +15079,7 @@ msgstr "Өнгөрсөн жил"
 
 #: frappe/public/js/frappe/widgets/chart_widget.js:778
 msgid "Last synced {0}"
-msgstr "Сүүлд синк хийсэн {0}"
+msgstr "Сүүлд синхрончилсон: {0}"
 
 #. Label of the layout (Code) field in DocType 'Desktop Layout'
 #: frappe/desk/doctype/desktop_layout/desktop_layout.json
@@ -17660,7 +17660,7 @@ msgstr "Шүүлтүүр тохируулаагүй"
 
 #: frappe/integrations/doctype/google_calendar/google_calendar.py:373
 msgid "No Google Calendar Event to sync."
-msgstr "Синк хийх Google Календарийн арга хэмжээ байхгүй."
+msgstr "Синхрончлох Google Календарийн арга хэмжээ байхгүй."
 
 #: frappe/email/doctype/email_account/email_account.py:244
 msgid "No IMAP folders were found on the server. Please verify the email account settings and ensure the mailbox contains folders."
@@ -17699,7 +17699,7 @@ msgstr "{0}-д нэр заагаагүй"
 
 #: frappe/public/js/frappe/ui/notifications/notifications.js:354
 msgid "No New notifications"
-msgstr "New notifications байхгүй"
+msgstr "Шинэ мэдэгдэл байхгүй"
 
 #: frappe/core/doctype/doctype/doctype.py:1798
 msgid "No Permissions Specified"
@@ -17711,11 +17711,11 @@ msgstr "Энэ шалгуурт зөвшөөрөл өгөөгүй."
 
 #: frappe/core/page/dashboard_view/dashboard_view.js:93
 msgid "No Permitted Charts"
-msgstr "Зөвшөөрөгдсөн график байхгүй"
+msgstr "Зөвшөөрөгдсөн диаграмм байхгүй"
 
 #: frappe/core/page/dashboard_view/dashboard_view.js:92
 msgid "No Permitted Charts on this Dashboard"
-msgstr "Энэ хяналтын самбар дээр зөвшөөрөгдсөн график байхгүй"
+msgstr "Энэ хяналтын самбар дээр зөвшөөрөгдсөн диаграмм байхгүй"
 
 #: frappe/printing/doctype/print_settings/print_settings.js:13
 msgid "No Preview"
@@ -17735,11 +17735,11 @@ msgstr "RQ ажилчид холбогдоогүй байна. Вандан са
 
 #: frappe/public/js/frappe/form/link_selector.js:142
 msgid "No Results"
-msgstr "Үр дүн байхгүй"
+msgstr "Илэрц байхгүй"
 
 #: frappe/public/js/frappe/ui/toolbar/search.js:51
 msgid "No Results found"
-msgstr "Үр дүн олдсонгүй"
+msgstr "Илэрц олдсонгүй"
 
 #: frappe/core/doctype/user/user.py:884
 msgid "No Roles Specified"
@@ -17755,7 +17755,7 @@ msgstr "Санал байхгүй"
 
 #: frappe/desk/reportview.py:760 frappe/public/js/frappe/list/base_list.js:1051
 msgid "No Tags"
-msgstr "Tags байхгүй"
+msgstr "Шошго байхгүй"
 
 #: frappe/public/js/frappe/ui/notifications/notifications.js:482
 msgid "No Upcoming Events"
@@ -17791,7 +17791,7 @@ msgstr "Хуучин болон шинэ нэр ижил тул өөрчлөлт
 
 #: frappe/custom/doctype/doctype_layout/doctype_layout.js:59
 msgid "No changes to sync"
-msgstr "Синк хийх өөрчлөлт байхгүй"
+msgstr "Синхрончлох өөрчлөлт байхгүй"
 
 #: frappe/core/doctype/data_import/importer.py:299
 msgid "No changes to update"
@@ -19410,7 +19410,7 @@ msgstr "Хуудасны өндөр ба өргөн тэг байж болохг
 
 #: frappe/public/js/frappe/views/container.js:52 frappe/www/404.html:23
 msgid "Page not found"
-msgstr "Page олдсонгүй"
+msgstr "Хуудас олдсонгүй"
 
 #. Description of a DocType
 #: frappe/website/doctype/web_page/web_page.json
@@ -20060,11 +20060,11 @@ msgstr "Багцыг хавсаргана уу"
 
 #: frappe/utils/dashboard.py:58
 msgid "Please check the filter values set for Dashboard Chart: {}"
-msgstr "Хяналтын самбар диаграмммд тохируулсан шүүлтүүрийн утгыг шалгана уу: {}"
+msgstr "Хяналтын самбарын диаграммд тохируулсан шүүлтүүрийн утгыг шалгана уу: {}"
 
 #: frappe/model/base_document.py:1079
 msgid "Please check the value of \"Fetch From\" set for field {0}"
-msgstr "Check the value of \"fetch from\" set for field {0} уу"
+msgstr "{0} талбарт тохируулсан \"Fetch From\" утгыг шалгана уу."
 
 #: frappe/core/doctype/user/user.py:1154
 msgid "Please check your email for verification"
@@ -20108,7 +20108,7 @@ msgstr "Эхлээд карт үүсгэнэ үү"
 
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.js:42
 msgid "Please create chart first"
-msgstr "Эхлээд диаграммм үүсгэнэ үү"
+msgstr "Эхлээд диаграмм үүсгэнэ үү"
 
 #: frappe/desk/form/meta.py:193
 msgid "Please delete the field from {0} or add the required doctype."
@@ -24123,11 +24123,11 @@ msgstr "Шүүлтүүрийг сонгоно уу"
 
 #: frappe/desk/doctype/event/event.py:112
 msgid "Select Google Calendar to which event should be synced."
-msgstr "Аль үйл явдалтай синк хийх Google Хуанли сонгоно уу."
+msgstr "Үйл явдлыг синхрончлох Google Хуанли сонгоно уу."
 
 #: frappe/contacts/doctype/contact/contact.py:77
 msgid "Select Google Contacts to which contact should be synced."
-msgstr "Синк хийх Google харилцагчийг сонгоно уу."
+msgstr "Харилцагчийг синхрончлох Google Contacts-ийг сонгоно уу."
 
 #: frappe/public/js/frappe/ui/group_by/group_by.html:10
 msgid "Select Group By..."
@@ -24705,7 +24705,7 @@ msgstr "Диаграмыг тохируулах"
 #. Description of the 'Chart Options' (Code) field in DocType 'Dashboard'
 #: frappe/desk/doctype/dashboard/dashboard.json
 msgid "Set Default Options for all charts on this Dashboard (Ex: \"colors\": [\"#d1d8dd\", \"#ff5858\"])"
-msgstr "Энэ хяналтын самбар дээрх бүх диаграмммд өгөгдмөл сонголтуудыг тохируулах (Жишээ нь: \"өнгө\": [\"#d1d8dd\", \"#ff5858\"])"
+msgstr "Энэ хяналтын самбар дээрх бүх диаграммд өгөгдмөл сонголтуудыг тохируулах (Жишээ нь: \"өнгө\": [\"#d1d8dd\", \"#ff5858\"])"
 
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.js:467
 #: frappe/desk/doctype/number_card/number_card.js:379
@@ -26596,51 +26596,51 @@ msgstr "Синхрончлох"
 
 #: frappe/integrations/doctype/google_calendar/google_calendar.js:28
 msgid "Sync Calendar"
-msgstr "Хуанли синк хийх"
+msgstr "Хуанли синхрончлох"
 
 #: frappe/integrations/doctype/google_contacts/google_contacts.js:28
 msgid "Sync Contacts"
-msgstr "Харилцагчдыг синк хийх"
+msgstr "Харилцагчдыг синхрончлох"
 
 #. Label of the sync_as_public (Check) field in DocType 'Google Calendar'
 #: frappe/integrations/doctype/google_calendar/google_calendar.json
 msgid "Sync events from Google as public"
-msgstr "Google-н үйл явдлуудыг олон нийтэд синк хийх"
+msgstr "Google-ийн үйл явдлуудыг нийтийн байдлаар синхрончлох"
 
 #: frappe/custom/doctype/customize_form/customize_form.js:269
 msgid "Sync on Migrate"
-msgstr "Шилжүүлэлт дээр синк хийх"
+msgstr "Шилжүүлэлтийн үед синхрончлох"
 
 #: frappe/integrations/doctype/google_calendar/google_calendar.py:312
 msgid "Sync token was invalid and has been reset, Retry syncing."
-msgstr "Синк хийх токен хүчингүй байсан тул дахин тохирууллаа. ​​Синк хийхийг дахин оролдоно уу."
+msgstr "Синхрончлолын токен хүчингүй байсан тул дахин тохирууллаа. Дахин синхрончилж үзнэ үү."
 
 #. Label of the sync_with_google_calendar (Check) field in DocType 'Event'
 #: frappe/desk/doctype/event/event.json
 msgid "Sync with Google Calendar"
-msgstr "Google Хуанлитай синк хийх"
+msgstr "Google Хуанлитай синхрончлох"
 
 #. Label of the sync_with_google_contacts (Check) field in DocType 'Contact'
 #: frappe/contacts/doctype/contact/contact.json
 msgid "Sync with Google Contacts"
-msgstr "Google Харилцагчидтай синк хийх"
+msgstr "Google Contacts-тэй синхрончлох"
 
 #: frappe/custom/doctype/doctype_layout/doctype_layout.js:46
 msgid "Sync {0} Fields"
-msgstr "{0} талбаруудыг синк хийнэ үү"
+msgstr "{0} талбаруудыг синхрончлоно уу"
 
 #: frappe/custom/doctype/doctype_layout/doctype_layout.js:100
 msgid "Synced Fields"
-msgstr "Синк хийгдсэн талбарууд"
+msgstr "Синхрончилсон талбарууд"
 
 #: frappe/integrations/doctype/google_calendar/google_calendar.js:31
 #: frappe/integrations/doctype/google_contacts/google_contacts.js:31
 msgid "Syncing"
-msgstr "Синк хийж байна"
+msgstr "Синхрончилж байна"
 
 #: frappe/integrations/doctype/google_calendar/google_calendar.js:19
 msgid "Syncing {0} of {1}"
-msgstr "{1}-ийн {0}-г синк хийж байна"
+msgstr "{1}-с {0}-г синхрончилж байна"
 
 #: frappe/utils/data.py:2645
 msgid "Syntax Error"
@@ -27297,7 +27297,7 @@ msgstr "Баримт бичгийг {0}-д оноосон"
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.json
 #: frappe/desk/doctype/number_card/number_card.json
 msgid "The document type selected is a child table, so the parent document type is required."
-msgstr "The document type selected is a child table, so the parent document type шаардлагатай"
+msgstr "Сонгосон баримт бичгийн төрөл нь child table тул эх баримт бичгийн төрөл шаардлагатай."
 
 #: frappe/core/page/permission_manager/permission_manager_help.html:58
 msgid "The email button is enabled for the user in the document."
@@ -28459,7 +28459,7 @@ msgstr "Ажлын нийт хугацаа"
 #. Account'
 #: frappe/email/doctype/email_account/email_account.json
 msgid "Total number of emails to sync in initial sync process"
-msgstr "Эхний синк хийх явцад синк хийх имэйлийн нийт тоо"
+msgstr "Эхний синхрончлолын үед синхрончлох имэйлийн нийт тоо"
 
 #: frappe/public/js/print_format_builder/ConfigureColumns.vue:12
 msgid "Total:"
@@ -31220,7 +31220,7 @@ msgstr "Та зөвхөн дарааллыг шинэчлэх боломжтой
 
 #: frappe/email/doctype/email_account/email_account.js:284
 msgid "You are selecting Sync Option as ALL, It will resync all read as well as unread message from server. This may also cause the duplication of Communication (emails)."
-msgstr "Та синк хийх сонголтыг БҮХ гэж сонгож байгаа бөгөөд энэ нь серверээс уншсан болон уншаагүй бүх мессежийг дахин синк хийнэ. Энэ нь мөн Харилцаа холбооны (и-мэйл) давхардал үүсгэж болзошгүй."
+msgstr "Та синхрончлолын сонголтыг БҮХ гэж сонгож байна. Ингэснээр серверээс уншсан болон уншаагүй бүх мессежийг дахин синхрончилно. Энэ нь Communication (имэйл)-ийн давхардал үүсгэж болзошгүй."
 
 #: frappe/public/js/frappe/form/footer/form_timeline.js:414
 msgctxt "Form timeline"
@@ -32518,11 +32518,11 @@ msgstr "{0} Талбарууд"
 
 #: frappe/integrations/doctype/google_calendar/google_calendar.py:377
 msgid "{0} Google Calendar Events synced."
-msgstr "{0} Google Календарийн арга хэмжээг синк хийсэн."
+msgstr "{0} Google Календарийн арга хэмжээг синхрончиллоо."
 
 #: frappe/integrations/doctype/google_contacts/google_contacts.py:193
 msgid "{0} Google Contacts synced."
-msgstr "{0} Google Харилцагчийг синк хийсэн."
+msgstr "{0} Google Contacts-ийг синхрончиллоо."
 
 #: frappe/public/js/frappe/form/footer/form_timeline.js:464
 msgid "{0} Liked"

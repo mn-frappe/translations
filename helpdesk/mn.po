@@ -428,35 +428,35 @@ msgstr "Архивлагдсан"
 
 #: desk/src/components/Settings/SettingsModal.vue:61
 msgid "Are you sure you want to change tabs? Unsaved changes will be lost."
-msgstr "Change tabs? unsaved changes will be lost хийхийг та итгэлтэй байна уу?"
+msgstr "Таб солихдоо итгэлтэй байна уу? Хадгалаагүй өөрчлөлтүүд алдагдана."
 
 #: desk/src/pages/ticket/TicketCustomer.vue:293
 msgid "Are you sure you want to close this ticket?"
-msgstr "Close this ticket хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ хүсэлтийг хаахдаа итгэлтэй байна уу?"
 
 #: desk/src/pages/knowledge-base/KnowledgeBaseAgent.vue:201
 msgid "Are you sure you want to delete these articles?"
-msgstr "Delete these articles хийхийг та итгэлтэй байна уу?"
+msgstr "Эдгээр нийтлэлийг устгахдаа итгэлтэй байна уу?"
 
 #: desk/src/components/Settings/Teams/TeamEdit.vue:107
 msgid "Are you sure you want to delete this team? This action cannot be reversed!"
-msgstr "Delete this team? this action cannot be reversed! хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ багийг устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй."
 
 #: desk/src/components/ticket-agent/TicketHeader.vue:204
 msgid "Are you sure you want to delete this ticket? This is an irreversible action and cannot be undone."
-msgstr "Delete this ticket? this is an irreversible action and cannot be undone хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ хүсэлтийг устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй."
 
 #: desk/src/pages/ticket/Tickets.vue:493
 msgid "Are you sure you want to delete this view?"
-msgstr "Delete this view хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ харагдацыг устгахдаа итгэлтэй байна уу?"
 
 #: desk/src/pages/knowledge-base/Article.vue:147
 msgid "Are you sure you want to discard changes?"
-msgstr "Discard changes хийхийг та итгэлтэй байна уу?"
+msgstr "Өөрчлөлтүүдийг хэрэгсэхгүй болгохдоо итгэлтэй байна уу?"
 
 #: desk/src/pages/knowledge-base/NewArticle.vue:146
 msgid "Are you sure you want to discard this article?"
-msgstr "Discard this article хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ нийтлэлийн өөрчлөлтүүдийг хэрэгсэхгүй болгохдоо итгэлтэй байна уу?"
 
 #: desk/src/components/Settings/Assignment Rules/AssignmentRuleView.vue:465
 #: desk/src/components/Settings/EmailNotifications/Notification.vue:109
@@ -468,19 +468,19 @@ msgstr "Discard this article хийхийг та итгэлтэй байна у�
 #: desk/src/components/Settings/Telephony/ExotelSettings.vue:239
 #: desk/src/components/Settings/Telephony/TwilioSettings.vue:198
 msgid "Are you sure you want to go back? Unsaved changes will be lost."
-msgstr "Go back? unsaved changes will be lost хийхийг та итгэлтэй байна уу?"
+msgstr "Буцахдаа итгэлтэй байна уу? Хадгалаагүй өөрчлөлтүүд алдагдана."
 
 #: desk/src/components/Settings/Assignment Rules/AssigneeSearch.vue:162
 msgid "Are you sure you want to leave? Unsaved changes will be lost."
-msgstr "Leave? unsaved changes will be lost хийхийг та итгэлтэй байна уу?"
+msgstr "Гарахдаа итгэлтэй байна уу? Хадгалаагүй өөрчлөлтүүд алдагдана."
 
 #: desk/src/components/Settings/General/components/Branding.vue:111
 msgid "Are you sure you want to remove the logo?"
-msgstr "Remove the logo хийхийг та итгэлтэй байна уу?"
+msgstr "Логог устгахдаа итгэлтэй байна уу?"
 
 #: desk/src/components/Settings/EmailNotifications/Notification.vue:122
 msgid "Are you sure you want to reset the content? Current content will be overridden."
-msgstr "Reset the content? current content will be overridden хийхийг та итгэлтэй байна уу?"
+msgstr "Агуулгыг анхны төлөвт нь оруулахдаа итгэлтэй байна уу? Одоогийн агуулга дарж бичигдэнэ."
 
 #. Label of the article (Link) field in DocType 'HD Article Feedback'
 #: desk/src/pages/knowledge-base/KnowledgeBaseAgent.vue:110
@@ -624,7 +624,7 @@ msgstr "Даалгаврын дүрмийг {0} амжилттай шинэчи�
 
 #: desk/src/pages/desk/contact/ContactDialog.vue:131
 msgid "At least one email is required"
-msgstr "At least one email шаардлагатай"
+msgstr "Дор хаяж нэг имэйл хаяг шаардлагатай."
 
 #: desk/src/components/Settings/InviteAgents.vue:171
 msgid "At least one email required"
@@ -640,11 +640,11 @@ msgstr "{0} үнэлгээ өгөхийн тулд дор хаяж нэг сан
 
 #: desk/src/components/Settings/SavedReplies/SavedReplyView.vue:450
 msgid "At least one team is required"
-msgstr "At least one team шаардлагатай"
+msgstr "Дор хаяж нэг баг шаардлагатай."
 
 #: helpdesk/helpdesk/doctype/hd_escalation_rule/hd_escalation_rule.py:28
 msgid "At-least one of priority, team and ticket type is required"
-msgstr "At-least one of priority, team and ticket type шаардлагатай"
+msgstr "Тэргүүлэх зэрэглэл, баг, хүсэлтийн төрлөөс дор хаяж нэгийг заавал оруулна уу."
 
 #. Label of the attachment (Attach) field in DocType 'HD Ticket'
 #. Label of a field in the tickets Web Form
@@ -889,19 +889,19 @@ msgstr "Өгөгдмөл SLA-г устгах боломжгүй. Дор хаяж
 
 #: helpdesk/helpdesk/doctype/hd_ticket_status/hd_ticket_status.py:110
 msgid "Cannot disable this status as it is linked in HD Settings:<br><br>"
-msgstr "Disable this status as it is linked in hd settings:<br><br> боломжгүй"
+msgstr "Энэ төлөвийг идэвхгүй болгох боломжгүй. Учир нь энэ нь HD Settings-д холбогдсон байна:<br><br>"
 
 #: helpdesk/helpdesk/doctype/hd_ticket_status/hd_ticket_status.py:88
 msgid "Cannot disable this status as it is linked in the following SLAs:<br><br>"
-msgstr "Disable this status as it is linked in the following slas:<br><br> боломжгүй"
+msgstr "Энэ төлөвийг идэвхгүй болгох боломжгүй. Учир нь энэ нь дараах SLA-уудтай холбогдсон байна:<br><br>"
 
 #: desk/src/components/Settings/Assignment Rules/AssignmentRuleListItem.vue:198
 msgid "Cannot enable rule without adding users in it"
-msgstr "Enable rule without adding users in it боломжгүй"
+msgstr "Дотор нь хэрэглэгч нэмэлгүйгээр дүрмийг идэвхжүүлэх боломжгүй."
 
 #: helpdesk/api/knowledge_base.py:128
 msgid "Cannot merge General category"
-msgstr "Merge general category боломжгүй"
+msgstr "Ерөнхий ангиллыг нэгтгэх боломжгүй."
 
 #. Label of the category (Link) field in DocType 'HD Article'
 #. Label of the category (Select) field in DocType 'HD Ticket Status'
@@ -1208,7 +1208,7 @@ msgstr "Холбогч хүн"
 #. Label of the contact_html (HTML) field in DocType 'HD Customer'
 #: helpdesk/helpdesk/doctype/hd_customer/hd_customer.json
 msgid "Contact HTML"
-msgstr "HTML-тэй холбоо барина уу"
+msgstr "Холбоо барих HTML"
 
 #: desk/src/components/desk/global/NewContactDialog.vue:185
 msgid "Contact created successfully."
@@ -1916,48 +1916,48 @@ msgstr "Амжилтгүй"
 
 #: desk/src/pages/knowledge-base/KnowledgeBaseAgent.vue:274
 msgid "Failed to create category"
-msgstr "Create category амжилтгүй боллоо"
+msgstr "Ангилал үүсгэж чадсангүй."
 
 #: desk/src/components/Settings/EmailAdd.vue:313
 msgid "Failed to create email account, Invalid credentials"
-msgstr "Create email account, invalid credentials амжилтгүй боллоо"
+msgstr "Имэйл хаяг үүсгэж чадсангүй. Нэвтрэх мэдээлэл буруу байна."
 
 #: desk/src/components/ticket-agent/TicketHeader.vue:223
 msgid "Failed to delete ticket."
-msgstr "Delete ticket амжилтгүй боллоо"
+msgstr "Хүсэлтийг устгаж чадсангүй."
 
 #: desk/src/components/Settings/Telephony/ExotelSettings.vue:218
 #: desk/src/components/Settings/Telephony/Telephony.vue:191
 #: desk/src/components/Settings/Telephony/TwilioSettings.vue:186
 msgid "Failed to load telephony agent"
-msgstr "Load telephony agent амжилтгүй боллоо"
+msgstr "Утасны үйлчилгээний агентыг ачаалж чадсангүй."
 
 #: desk/src/components/Settings/EmailEdit.vue:229
 msgid "Failed to pull emails"
-msgstr "Pull emails амжилтгүй боллоо"
+msgstr "Имэйлүүдийг татаж чадсангүй."
 
 #: desk/src/components/Settings/Telephony/ExotelSettings.vue:283
 #: desk/src/components/Settings/Telephony/Telephony.vue:234
 msgid "Failed to save Exotel settings"
-msgstr "Save exotel settings амжилтгүй боллоо"
+msgstr "Exotel тохиргоог хадгалж чадсангүй."
 
 #: desk/src/components/Settings/Telephony/ExotelSettings.vue:275
 #: desk/src/components/Settings/Telephony/Telephony.vue:226
 #: desk/src/components/Settings/Telephony/TwilioSettings.vue:229
 msgid "Failed to save Twilio settings"
-msgstr "Save twilio settings амжилтгүй боллоо"
+msgstr "Twilio тохиргоог хадгалж чадсангүй."
 
 #: desk/src/components/ticket-agent/AssignTo.vue:83
 msgid "Failed to update Assignee's."
-msgstr "Update assignee's амжилтгүй боллоо"
+msgstr "Хариуцагчийг шинэчилж чадсангүй."
 
 #: desk/src/pages/knowledge-base/KnowledgeBaseAgent.vue:308
 msgid "Failed to update category."
-msgstr "Update category амжилтгүй боллоо"
+msgstr "Ангиллыг шинэчилж чадсангүй."
 
 #: desk/src/components/Settings/EmailEdit.vue:476
 msgid "Failed to update email account, Invalid credentials"
-msgstr "Update email account, invalid credentials амжилтгүй боллоо"
+msgstr "Имэйл хаягийг шинэчилж чадсангүй. Нэвтрэх мэдээлэл буруу байна."
 
 #. Label of the favicon (Attach Image) field in DocType 'HD Settings'
 #: desk/src/components/Settings/General/components/Branding.vue:27
@@ -2135,7 +2135,7 @@ msgstr "F огноо"
 
 #: desk/src/pages/call-logs/CallLogModal.vue:374
 msgid "From is required"
-msgstr "From шаардлагатай"
+msgstr "From талбар шаардлагатай."
 
 #. Option for the 'SLA Status' (Select) field in DocType 'HD Ticket'
 #: desk/src/pages/ticket/Tickets.vue:200 desk/src/pages/ticket/Tickets.vue:231
@@ -3234,7 +3234,7 @@ msgstr "Шинэ баг"
 #: desk/src/components/Settings/Teams/RenameTeamModal.vue:46
 #: desk/src/components/Settings/Teams/TeamEdit.vue:262
 msgid "New title is required"
-msgstr "New title шаардлагатай"
+msgstr "Шинэ гарчиг шаардлагатай."
 
 #: desk/src/components/Settings/General/General.vue:52
 msgid "New users will have to be manually registered by system managers."
@@ -3258,7 +3258,7 @@ msgstr "Амралтын жагсаалт олдсонгүй"
 
 #: desk/src/components/Settings/Sla/SlaPolicyList.vue:20
 msgid "No SLA found"
-msgstr "SLA олдсонгүй"
+msgstr "SLA олдсонгүй."
 
 #: helpdesk/api/dashboard.py:442
 msgid "No Team"
@@ -3270,7 +3270,7 @@ msgstr "Нэмэлт сэтгэгдэл байхгүй"
 
 #: desk/src/components/Settings/Agents.vue:98
 msgid "No agent found"
-msgstr "agent олдсонгүй"
+msgstr "Агент олдсонгүй."
 
 #: desk/src/pages/knowledge-base/KnowledgeBaseAgent.vue:421
 msgid "No articles found for the applied filters. Try adjusting or clearing your filters."
@@ -3286,7 +3286,7 @@ msgstr "Төлөөлөгч байхгүй"
 
 #: desk/src/components/Settings/Assignment Rules/AssignmentRulesListView.vue:20
 msgid "No assignment rule found"
-msgstr "assignment rule олдсонгүй"
+msgstr "Оноох дүрэм олдсонгүй."
 
 
 #: desk/src/pages/home/components/AvgTimeMetrics.vue:34
@@ -3319,7 +3319,7 @@ msgstr "Хэрэглэсэн шүүлтүүрт үйлчлүүлэгч олдс�
 
 #: desk/src/components/Settings/EmailAccountList.vue:52
 msgid "No email account found"
-msgstr "email account олдсонгүй"
+msgstr "Имэйл хаяг олдсонгүй."
 
 #: desk/src/pages/home/components/RecentFeedback.vue:207
 msgid "No feedback"
@@ -3327,11 +3327,11 @@ msgstr "Санал хүсэлт байхгүй"
 
 #: desk/src/components/Settings/FieldDependency/FieldDependencyList.vue:59
 msgid "No field dependency found"
-msgstr "field dependency олдсонгүй"
+msgstr "Талбарын хамаарал олдсонгүй."
 
 #: desk/src/components/Settings/Teams/TeamEdit.vue:94
 msgid "No members found"
-msgstr "members олдсонгүй"
+msgstr "Гишүүд олдсонгүй."
 
 #: desk/src/pages/MobileNotifications.vue:68
 msgid "No new notifications"
@@ -3363,20 +3363,20 @@ msgstr "Саяхан оноосон тасалбар алга"
 
 #: desk/src/components/Settings/Assignment Rules/AssigneeSearch.vue:76
 msgid "No results found"
-msgstr "results олдсонгүй"
+msgstr "Илэрц олдсонгүй."
 
 #: desk/src/components/SavedRepliesSelectorModal.vue:106
 #: desk/src/components/Settings/SavedReplies/SavedRepliesList.vue:95
 msgid "No saved replies found"
-msgstr "saved replies олдсонгүй"
+msgstr "Хадгалсан хариултууд олдсонгүй."
 
 #: desk/src/components/Settings/Teams/TeamsList.vue:113
 msgid "No team found"
-msgstr "team олдсонгүй"
+msgstr "Баг олдсонгүй."
 
 #: desk/src/pages/ticket/Tickets.vue:168
 msgid "No tickets found"
-msgstr "tickets олдсонгүй"
+msgstr "Хүсэлтүүд олдсонгүй."
 
 #: desk/src/pages/ticket/Tickets.vue:178
 msgid "No tickets found for the applied filters. Try adjusting or clearing your filters."
@@ -3536,7 +3536,7 @@ msgstr "Эзэмшигч"
 
 #: desk/src/pages/InvalidPage.vue:11
 msgid "Page not found"
-msgstr "Page олдсонгүй"
+msgstr "Хуудас олдсонгүй."
 
 #: desk/src/components/Settings/FieldDependency/FieldDependencyFieldsSelection.vue:5
 msgid "Parent field"
@@ -3664,7 +3664,7 @@ msgstr "Энэ давуу талыг <a href='/app/hd-service-level-agreement'>r
 
 #: helpdesk/helpdesk/doctype/hd_service_level_agreement/hd_service_level_agreement.py:326
 msgid "Please add {0} priority in {1} SLA"
-msgstr "Add {0} priority in {1} sla уу"
+msgstr "{1} SLA-д {0} тэргүүлэх зэрэглэлийг нэмнэ үү."
 
 #: desk/src/components/Settings/Telephony/Telephony.vue:215
 msgid "Please configure your Exotel settings correctly"
@@ -3676,7 +3676,7 @@ msgstr "Twilio тохиргоогоо зөв тохируулна уу"
 
 #: desk/src/pages/ticket/TicketNew.vue:82
 msgid "Please enter a subject to continue"
-msgstr "Enter a subject to continue уу"
+msgstr "Үргэлжлүүлэхийн тулд гарчиг оруулна уу."
 
 #: desk/src/pages/call-logs/CallLogModal.vue:368
 #: desk/src/pages/call-logs/CallLogModal.vue:376
@@ -3712,7 +3712,7 @@ msgstr "Маягт дээрх алдааг засна уу"
 
 #: helpdesk/api/saved_replies.py:11
 msgid "Please provide saved_reply_id"
-msgstr "Provide saved_reply_id уу"
+msgstr "saved_reply_id утгыг оруулна уу."
 
 #: helpdesk/helpdesk/doctype/hd_service_holiday_list/hd_service_holiday_list.py:41
 msgid "Please select weekly off day"
@@ -5347,7 +5347,7 @@ msgstr "Өнөөдрийг хүртэл"
 
 #: desk/src/pages/call-logs/CallLogModal.vue:366
 msgid "To is required"
-msgstr "To шаардлагатай"
+msgstr "To талбар шаардлагатай."
 
 #: desk/src/components/Settings/EmailEdit.vue:147
 msgid "To know more about setting up email accounts, click"
@@ -5426,7 +5426,7 @@ msgstr "Зурвас бичнэ үү"
 
 #: desk/src/pages/call-logs/CallLogModal.vue:360
 msgid "Type is required"
-msgstr "Type шаардлагатай"
+msgstr "Төрөл шаардлагатай."
 
 #. Label of the url_method (Data) field in DocType 'HD Ticket Template Field'
 #: helpdesk/helpdesk/doctype/hd_ticket_template_field/hd_ticket_template_field.json

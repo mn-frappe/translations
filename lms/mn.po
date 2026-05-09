@@ -518,27 +518,27 @@ msgstr "Архивлагдсан"
 
 #: frontend/src/components/UpcomingEvaluations.vue:205
 msgid "Are you sure you want to cancel this evaluation? This action cannot be undone."
-msgstr "Cancel this evaluation? this action cannot be undone хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ үнэлгээг цуцлахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй."
 
 #: frontend/src/components/Sidebar/UserDropdown.vue:254
 msgid "Are you sure you want to clear the demo data? This would delete the course \"A guide  to Frappe Learning\" along with all its associated data. This action cannot be undone."
-msgstr "Clear the demo data? this would delete the course \"a guide  to frappe learning\" along with all its associated data. this action cannot be undone хийхийг та итгэлтэй байна уу?"
+msgstr "Демо өгөгдлийг цэвэрлэхдээ итгэлтэй байна уу? Энэ нь \"A guide to Frappe Learning\" сургалт болон түүнтэй холбоотой бүх өгөгдлийг устгана. Энэ үйлдлийг буцаах боломжгүй."
 
 #: frontend/src/pages/Programs/ProgramForm.vue:562
 msgid "Are you sure you want to delete this program? This action cannot be undone."
-msgstr "Delete this program? this action cannot be undone хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ хөтөлбөрийг устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй."
 
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:38
 msgid "Are you sure you want to enroll?"
-msgstr "Enroll хийхийг та итгэлтэй байна уу?"
+msgstr "Бүртгүүлэхдээ итгэлтэй байна уу?"
 
 #: frontend/src/components/Sidebar/UserDropdown.vue:197
 msgid "Are you sure you want to login to your Frappe Cloud dashboard?"
-msgstr "Login to your frappe cloud dashboard хийхийг та итгэлтэй байна уу?"
+msgstr "Frappe Cloud хяналтын самбартаа нэвтрэхдээ итгэлтэй байна уу?"
 
 #: frontend/src/components/Quiz.vue:387
 msgid "Are you sure you want to submit the quiz?"
-msgstr "Submit the quiz хийхийг та итгэлтэй байна уу?"
+msgstr "Шалгалтаа илгээхдээ итгэлтэй байна уу?"
 
 #: frontend/src/pages/Batches/components/BatchDashboard.vue:11
 msgid "As a part of this batch's curriculum you will have to complete the following courses and assessments."
@@ -675,7 +675,7 @@ msgstr "Даалгавар"
 
 #: lms/lms/doctype/lms_coupon/lms_coupon.py:27
 msgid "At least one applicable item is required"
-msgstr "At least one applicable item шаардлагатай"
+msgstr "Дор хаяж нэг тохирох зүйл шаардлагатай."
 
 #: lms/lms/doctype/lms_question/lms_question.py:46
 msgid "At least one option must be correct for this question."
@@ -2529,7 +2529,7 @@ msgstr "Цахим шуудан"
 
 #: frontend/src/components/Modals/Event.vue:16
 msgid "Email ID"
-msgstr "Email дугаар"
+msgstr "Email ID"
 
 #. Label of the email_sent (Check) field in DocType 'LMS Course Interest'
 #: lms/lms/doctype/lms_course_interest/lms_course_interest.json
@@ -2555,7 +2555,7 @@ msgstr "Имэйлийн загваруудыг амжилттай устгал�
 
 #: frontend/src/components/Modals/NewMemberModal.vue:146
 msgid "Email is required"
-msgstr "Email шаардлагатай"
+msgstr "Имэйл хаяг шаардлагатай."
 
 #: frontend/src/components/ContactUsEmail.vue:57
 #: frontend/src/pages/JobApplications.vue:265
@@ -3014,39 +3014,39 @@ msgstr "Амжилтгүй"
 
 #: lms/lms/doctype/lms_badge/lms_badge.js:58
 msgid "Failed to assign badge"
-msgstr "Assign badge амжилтгүй боллоо"
+msgstr "Тэмдгийг оноож чадсангүй."
 
 #: frontend/src/components/Settings/BadgeAssignmentForm.vue:136
 msgid "Failed to create badge assignment: "
-msgstr "Create badge assignment: амжилтгүй боллоо"
+msgstr "Тэмдэг оноох тохиргоог үүсгэж чадсангүй: "
 
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:153
 msgid "Failed to enroll in program: {0}"
-msgstr "Enroll in program: {0} амжилтгүй боллоо"
+msgstr "{0} хөтөлбөрт бүртгэж чадсангүй."
 
 #: lms/lms/doctype/lms_live_class/lms_live_class.py:223
 msgid "Failed to fetch attendance data from Zoom for class {0}: {1}"
-msgstr "Fetch attendance data from zoom for class {0}: {1} амжилтгүй боллоо"
+msgstr "{0} хичээлийн Zoom ирцийн мэдээллийг авч чадсангүй: {1}"
 
 #: frontend/src/pages/Profile.vue:291
 msgid "Failed to refresh session"
-msgstr "Refresh session амжилтгүй боллоо"
+msgstr "Сессийг шинэчилж чадсангүй."
 
 #: frontend/src/components/ContactUsEmail.vue:63
 msgid "Failed to send email"
-msgstr "Send email амжилтгүй боллоо"
+msgstr "Имэйлийг илгээж чадсангүй."
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:373
 msgid "Failed to submit. Please try again. {0}"
-msgstr "Submit. please try again. {0} амжилтгүй боллоо"
+msgstr "Илгээж чадсангүй. Дахин оролдоно уу. {0}"
 
 #: frontend/src/components/Settings/BadgeAssignmentForm.vue:117
 msgid "Failed to update badge assignment: "
-msgstr "Update badge assignment: амжилтгүй боллоо"
+msgstr "Тэмдэг оноох тохиргоог шинэчилж чадсангүй: "
 
 #: frontend/src/utils/index.js:901
 msgid "Failed to update meta tags {0}"
-msgstr "Update meta tags {0} амжилтгүй боллоо"
+msgstr "{0} мета шошгыг шинэчилж чадсангүй."
 
 #. Label of the featured (Check) field in DocType 'LMS Course'
 #: frontend/src/components/CourseCard.vue:25
@@ -3084,7 +3084,7 @@ msgstr "File төрөл"
 
 #: lms/lms/course_import_export.py:286
 msgid "File not found"
-msgstr "File олдсонгүй"
+msgstr "Файл олдсонгүй."
 
 #: frontend/src/pages/Courses/CourseImportModal.vue:150
 #: frontend/src/pages/Courses/CourseImportModal.vue:166
@@ -3199,7 +3199,7 @@ msgstr "Эхлэх огноо"
 #: lms/lms/doctype/lms_program_member/lms_program_member.json
 #: lms/templates/signup-form.html:5
 msgid "Full Name"
-msgstr "Full нэр"
+msgstr "Бүтэн нэр"
 
 #. Option for the 'Type' (Select) field in DocType 'Job Opportunity'
 #. Option in a Select field in the job-opportunity Web Form
@@ -3274,12 +3274,12 @@ msgstr "Хялбар хандаж, илүү сайн ашиглахын тулд
 
 #: frontend/src/components/Modals/EditProfile.vue:53
 msgid "GitHub ID"
-msgstr "GitHub дугаар"
+msgstr "GitHub ID"
 
 #. Label of the github (Data) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "Github ID"
-msgstr "Github ID"
+msgstr "GitHub ID"
 
 #. Option for the 'Language' (Select) field in DocType 'LMS Programming
 #. Exercise'
@@ -4192,7 +4192,7 @@ msgstr "Хэл"
 #: frontend/src/components/Modals/EditProfile.vue:149
 #: frontend/src/components/Modals/NewMemberModal.vue:37
 msgid "Last Name"
-msgstr "Last нэр"
+msgstr "Овог"
 
 #. Label of the launch_file (Code) field in DocType 'Course Chapter'
 #: lms/lms/doctype/course_chapter/course_chapter.json
@@ -5013,7 +5013,7 @@ msgstr "Мэдэгдэл байхгүй"
 
 #: frontend/src/components/Quiz.vue:378
 msgid "No Quiz submissions found"
-msgstr "Quiz submissions олдсонгүй"
+msgstr "Шалгалтын илгээлтүүд олдсонгүй."
 
 #. Option for the 'Auto Recording' (Select) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
@@ -5088,7 +5088,7 @@ msgstr "Одоогоор гишүүн нэмээгүй байна."
 
 #: frontend/src/pages/Programs/ProgramProgressSummary.vue:60
 msgid "No members found."
-msgstr "members олдсонгүй"
+msgstr "Гишүүд олдсонгүй."
 
 #: frontend/src/pages/Programs/StudentPrograms.vue:51
 msgid "No programs found in this category."
@@ -5110,7 +5110,7 @@ msgstr "Уншсан мэдэгдэл алга"
 #: frontend/src/components/Controls/MultiSelect.vue:77
 #: frontend/src/pages/Search/Search.vue:47
 msgid "No results found"
-msgstr "results олдсонгүй"
+msgstr "Илэрц олдсонгүй."
 
 #: frontend/src/components/Modals/EvaluationModal.vue:62
 msgid "No slots available for the selected course."
@@ -5701,35 +5701,35 @@ msgstr "Та бүх асуултыг {0} минутын дотор бөглөн�
 
 #: frontend/src/pages/Billing.vue:371
 msgid "Please enter a coupon code"
-msgstr "Enter a coupon code уу"
+msgstr "Купоны код оруулна уу."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:194
 msgid "Please enter a title."
-msgstr "Enter a title уу"
+msgstr "Гарчиг оруулна уу."
 
 #: lms/lms/doctype/lms_settings/lms_settings.py:51
 msgid "Please enter a valid Contact Us Email."
-msgstr "Enter a valid contact us email уу"
+msgstr "Холбоо барих хүчинтэй имэйл хаяг оруулна уу."
 
 #: lms/lms/doctype/lms_settings/lms_settings.py:53
 msgid "Please enter a valid Contact Us URL."
-msgstr "Enter a valid contact us url уу"
+msgstr "Холбоо барих хүчинтэй URL оруулна уу."
 
 #: lms/lms/doctype/lms_assignment_submission/lms_assignment_submission.py:34
 msgid "Please enter a valid URL."
-msgstr "Enter a valid url уу"
+msgstr "Хүчинтэй URL оруулна уу."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:206
 msgid "Please enter a valid time in the format HH:mm."
-msgstr "Enter a valid time in the format hh:mm уу"
+msgstr "HH:mm форматаар хүчинтэй цаг оруулна уу."
 
 #: frontend/src/components/Modals/QuizInVideo.vue:181
 msgid "Please enter a valid timestamp"
-msgstr "Enter a valid timestamp уу"
+msgstr "Хүчинтэй хугацааны тэмдэглэгээ оруулна уу."
 
 #: frontend/src/components/Modals/EditProfile.vue:153
 msgid "Please fill the mandatory fields: {0}"
-msgstr "Fill the mandatory fields: {0} уу"
+msgstr "Дараах заавал бөглөх талбаруудыг бөглөнө үү: {0}"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:71
 msgid "Please install the Payments App to create a paid batch. Refer to the documentation for more details. {0}"
@@ -5757,7 +5757,7 @@ msgstr "Хөтөлбөрийн дэлгэрэнгүй мэдээллийг үз�
 
 #: lms/lms/utils.py:2046
 msgid "Please login to view programs."
-msgstr "Login to view programs уу"
+msgstr "Хөтөлбөрүүдийг үзэхийн тулд нэвтэрнэ үү."
 
 #: frontend/src/components/UpcomingEvaluations.vue:19
 msgid "Please make sure to schedule your evaluation before this date."
@@ -5798,7 +5798,7 @@ msgstr "Шууд хичээл үүсгэхийн тулд хурлын үйлч�
 
 #: frontend/src/pages/Programs/ProgramForm.vue:428
 msgid "Please select a course"
-msgstr "Select a course уу"
+msgstr "Курс сонгоно уу."
 
 #: frontend/src/components/Modals/EvaluationModal.vue:59
 msgid "Please select a course to view available slots."
@@ -5806,11 +5806,11 @@ msgstr "Боломжтой багцуудыг үзэхийн тулд курсэ
 
 #: frontend/src/components/Modals/LiveClassModal.vue:197
 msgid "Please select a date."
-msgstr "Select a date уу"
+msgstr "Огноо сонгоно уу."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:221
 msgid "Please select a duration."
-msgstr "Select a duration уу"
+msgstr "Үргэлжлэх хугацаа сонгоно уу."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:218
 msgid "Please select a future date and time."
@@ -5818,7 +5818,7 @@ msgstr "Ирээдүйн огноо, цагийг сонгоно уу."
 
 #: frontend/src/pages/Programs/ProgramForm.vue:452
 msgid "Please select a member"
-msgstr "Select a member уу"
+msgstr "Гишүүн сонгоно уу."
 
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:99
 msgid "Please select a payment for the purchased certificate."
@@ -5826,7 +5826,7 @@ msgstr "Худалдан авсан гэрчилгээний төлбөрийг 
 
 #: frontend/src/components/Modals/QuizInVideo.vue:186
 msgid "Please select a quiz"
-msgstr "Select a quiz уу"
+msgstr "Шалгалт сонгоно уу."
 
 #: frontend/src/components/Modals/EvaluationModal.vue:112
 msgid "Please select a slot for your evaluation."
@@ -5834,31 +5834,31 @@ msgstr "Үнэлгээ хийх зайг сонгоно уу."
 
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:95
 msgid "Please select a student to enroll."
-msgstr "Select a student to enroll уу"
+msgstr "Бүртгүүлэх оюутнаа сонгоно уу."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:200
 msgid "Please select a time."
-msgstr "Select a time уу"
+msgstr "Цаг сонгоно уу."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:203
 msgid "Please select a timezone."
-msgstr "Select a timezone уу"
+msgstr "Цагийн бүс сонгоно уу."
 
 #: frontend/src/components/Modals/AddEvaluatorModal.vue:45
 msgid "Please select a user"
-msgstr "Select a user уу"
+msgstr "Хэрэглэгч сонгоно уу."
 
 #: frontend/src/components/Quiz.vue:755
 msgid "Please select an option"
-msgstr "Select an option уу"
+msgstr "Сонголт хийнэ үү."
 
 #: lms/templates/emails/job_report.html:6
 msgid "Please take appropriate action at {0}"
-msgstr "Take appropriate action at {0} уу"
+msgstr "{0} дээр шаардлагатай арга хэмжээг авна уу."
 
 #: frontend/src/components/Modals/ChapterModal.vue:180
 msgid "Please upload a SCORM package"
-msgstr "Upload a scorm package уу"
+msgstr "SCORM багц байршуулна уу."
 
 #. Option for the 'Grade Type' (Select) field in DocType 'Education Detail'
 #: lms/lms/doctype/education_detail/education_detail.json

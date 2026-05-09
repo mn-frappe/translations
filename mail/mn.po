@@ -809,77 +809,77 @@ msgstr "Архивын төрөл шаардлагатай."
 
 #: frontend/src/pages/ContactView.vue:286
 msgid "Are you sure you want to delete the contact for {0}?"
-msgstr "Delete the contact for {0} хийхийг та итгэлтэй байна уу?"
+msgstr "{0}-ын харилцагчийг устгахдаа итгэлтэй байна уу?"
 
 #: frontend/src/pages/ContactsView.vue:133
 msgid "Are you sure you want to delete the selected contacts?"
-msgstr "Delete the selected contacts хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон харилцагчдыг устгахдаа итгэлтэй байна уу?"
 
 #: frontend/src/pages/dashboard/InvitesView.vue:183
 msgid "Are you sure you want to delete the selected invites? This will invalidate them for the recipients if pending."
-msgstr "Delete the selected invites? this will invalidate them for the recipients if pending хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон урилгуудыг устгахдаа итгэлтэй байна уу? Хэрэв тэдгээр нь хүлээгдэж байгаа бол хүлээн авагчдад хүчингүй болно."
 
 #: frontend/src/pages/dashboard/MailingListsView.vue:98
 msgid "Are you sure you want to delete the selected mailing lists?"
-msgstr "Delete the selected mailing lists хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон шуудангийн жагсаалтуудыг устгахдаа итгэлтэй байна уу?"
 
 #: frontend/src/pages/dashboard/UsersView.vue:181
 msgid "Are you sure you want to delete the selected members? This action cannot be undone."
-msgstr "Delete the selected members? this action cannot be undone хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон гишүүдийг устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй."
 
 #: frontend/src/pages/dashboard/DomainView.vue:207
 msgid "Are you sure you want to delete this domain? This action cannot be undone."
-msgstr "Delete this domain? this action cannot be undone хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ доменыг устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй."
 
 #: frontend/src/pages/dashboard/MailingListView.vue:283
 msgid "Are you sure you want to delete this mailing list? This action cannot be undone."
-msgstr "Delete this mailing list? this action cannot be undone хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ шуудангийн жагсаалтыг устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй."
 
 #: frontend/src/pages/dashboard/MemberView.vue:304
 msgid "Are you sure you want to delete this member? This action cannot be undone."
-msgstr "Delete this member? this action cannot be undone хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ гишүүнийг устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй."
 
 #: frontend/src/pages/AddressBookView.vue:252
 msgid "Are you sure you want to delete {0}?"
-msgstr "Delete {0} хийхийг та итгэлтэй байна уу?"
+msgstr "{0}-г устгахдаа итгэлтэй байна уу?"
 
 #: frontend/src/pages/MailboxView.vue:929
 msgid "Are you sure you want to mark the selected {0} as junk?"
-msgstr "Mark the selected {0} as junk хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон {0}-г хог шуудан гэж тэмдэглэхдээ итгэлтэй байна уу?"
 
 #: frontend/src/pages/MailboxView.vue:930
 msgid "Are you sure you want to permanently delete the selected {0}?"
-msgstr "Permanently delete the selected {0} хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон {0}-г бүр мөсөн устгахдаа итгэлтэй байна уу?"
 
 #: mail/server/doctype/mail_server/mail_server.js:62
 #: mail/server/doctype/server_config/server_config.js:16
 #: mail/server/doctype/server_config/server_config.js:25
 msgid "Are you sure you want to proceed?"
-msgstr "Proceed хийхийг та итгэлтэй байна уу?"
+msgstr "Үргэлжлүүлэхдээ итгэлтэй байна уу?"
 
 #: mail/server/doctype/principal/principal.js:25
 msgid "Are you sure you want to refresh the DNS records? If there are any changes, you'll need to update the DNS settings with your DNS provider accordingly."
-msgstr "Refresh the dns records? if there are any changes, you'll need to update the dns settings with your dns provider accordingly хийхийг та итгэлтэй байна уу?"
+msgstr "DNS бичлэгүүдийг шинэчлэхдээ итгэлтэй байна уу? Хэрэв өөрчлөлт гарсан бол DNS үйлчилгээ үзүүлэгч дээрх тохиргоогоо мөн шинэчлэх шаардлагатай болно."
 
 #: frontend/src/pages/ContactView.vue:357
 msgid "Are you sure you want to remove the selected addresses?"
-msgstr "Remove the selected addresses хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон хаягуудыг хасахдаа итгэлтэй байна уу?"
 
 #: frontend/src/pages/AddressBookView.vue:259
 msgid "Are you sure you want to remove the selected contacts?"
-msgstr "Remove the selected contacts хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон харилцагчдыг хасахдаа итгэлтэй байна уу?"
 
 #: frontend/src/pages/ContactView.vue:315
 msgid "Are you sure you want to remove the selected emails?"
-msgstr "Remove the selected emails хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон имэйл хаягуудыг хасахдаа итгэлтэй байна уу?"
 
 #: frontend/src/pages/ContactView.vue:336
 msgid "Are you sure you want to remove the selected phones?"
-msgstr "Remove the selected phones хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон утасны дугааруудыг хасахдаа итгэлтэй байна уу?"
 
 #: frontend/src/pages/ContactView.vue:294
 msgid "Are you sure you want to remove this contact from the selected address books?"
-msgstr "Remove this contact from the selected address books хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ харилцагчийг сонгосон хаягийн дэвтрүүдээс хасахдаа итгэлтэй байна уу?"
 
 #: mail/server/doctype/principal/principal.js:38
 msgid "Are you sure you want to rotate the DKIM keys? This will generate new keys for email signing and you'll need to update the DNS settings with your DNS provider accordingly. This may take some time to propagate across DNS servers. Emails sent during this period may fail DKIM verification."
@@ -887,7 +887,7 @@ msgstr "Та DKIM товчлууруудыг эргүүлэхдээ итгэлт
 
 #: frontend/src/components/Settings/BlockListSettings.vue:92
 msgid "Are you sure you want to unblock the selected email addresses?"
-msgstr "Unblock the selected email addresses хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон имэйл хаягуудын блокыг цуцлахдаа итгэлтэй байна уу?"
 
 #: frontend/src/components/Modals/EditInviteModal.vue:20
 #: frontend/src/pages/dashboard/InvitesView.vue:190
@@ -1404,23 +1404,23 @@ msgstr "Хүргэлтийг цуцалж байна..."
 
 #: mail/client/doctype/sieve_script/sieve_script.py:40
 msgid "Cannot delete an active sieve script. Please deactivate it first."
-msgstr "Delete an active sieve script. please deactivate it first боломжгүй"
+msgstr "Идэвхтэй Sieve скриптийг устгах боломжгүй. Эхлээд идэвхгүй болгоно уу."
 
 #: mail/server/doctype/principal/principal.py:636
 msgid "Cannot delete domain {0} as there are addresses associated with it."
-msgstr "Delete domain {0} as there are addresses associated with it боломжгүй"
+msgstr "{0} доменыг устгах боломжгүй. Үүнтэй холбоотой хаягууд байна."
 
 #: mail/api/inbound.py:84
 msgid "Cannot fetch more than {0} emails at a time."
-msgstr "Fetch more than {0} emails at a time боломжгүй"
+msgstr "Нэг дор {0}-аас олон имэйл авч болохгүй."
 
 #: mail/client/doctype/calendar_event/calendar_event.py:226
 msgid "Cannot mark an existing event as draft."
-msgstr "Mark an existing event as draft боломжгүй"
+msgstr "Одоо байгаа үйл явдлыг ноорог болгож тэмдэглэх боломжгүй."
 
 #: mail/client/doctype/mail_queue/mail_queue.py:569
 msgid "Cannot retry a mail with status {0}"
-msgstr "Retry a mail with status {0} боломжгүй"
+msgstr "{0} төлөвтэй имэйлийг дахин оролдох боломжгүй."
 
 #: mail/server/doctype/principal/principal.py:197
 msgid "Catch-all email addresses are not allowed for principals."
@@ -3800,140 +3800,140 @@ msgstr "Илгээж чадсангүй"
 
 #: mail/server/doctype/principal/principal.py:354
 msgid "Failed to add principal {0}: {1}"
-msgstr "Add principal {0}: {1} амжилтгүй боллоо"
+msgstr "{0} principal-г нэмж чадсангүй: {1}"
 
 #: mail/server/doctype/mail_data_exchange/mail_data_exchange.py:211
 msgid "Failed to clean import output"
-msgstr "Clean import output амжилтгүй боллоо"
+msgstr "Импортын үр дүнг цэвэрлэж чадсангүй."
 
 #: mail/client/doctype/push_subscription/push_subscription.py:329
 msgid "Failed to construct EC private key."
-msgstr "Construct ec private key амжилтгүй боллоо"
+msgstr "EC нууц түлхүүрийг үүсгэж чадсангүй."
 
 #: frontend/src/components/CopyCode.vue:26
 msgid "Failed to copy code"
-msgstr "Copy code амжилтгүй боллоо"
+msgstr "Кодыг хуулж чадсангүй."
 
 #: mail/server/doctype/principal/principal.py:406
 msgid "Failed to create DKIM signature for domain {0}"
-msgstr "Create dkim signature for domain {0} амжилтгүй боллоо"
+msgstr "{0} доменд DKIM гарын үсэг үүсгэж чадсангүй."
 
 #: mail/client/doctype/push_subscription/push_subscription.py:413
 msgid "Failed to decrypt push payload (authentication failed)."
-msgstr "Decrypt push payload (authentication failed) амжилтгүй боллоо"
+msgstr "Push payload-ийн шифрийг тайлж чадсангүй. Баталгаажуулалт амжилтгүй боллоо."
 
 #: mail/server/doctype/principal/principal.py:684
 msgid "Failed to delete DKIM signature for domain {0}"
-msgstr "Delete dkim signature for domain {0} амжилтгүй боллоо"
+msgstr "{0} домены DKIM гарын үсгийг устгаж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:762
 msgid "Failed to delete mail(s)"
-msgstr "Delete mail(s) амжилтгүй боллоо"
+msgstr "Имэйл(үүд)-ийг устгаж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:765
 msgid "Failed to delete mail(s)."
-msgstr "Delete mail(s) амжилтгүй боллоо"
+msgstr "Имэйл(үүд)-ийг устгаж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:790
 msgid "Failed to empty mailbox"
-msgstr "Empty mailbox амжилтгүй боллоо"
+msgstr "Шуудангийн хайрцгийг хоосолж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:793
 msgid "Failed to empty mailbox."
-msgstr "Empty mailbox амжилтгүй боллоо"
+msgstr "Шуудангийн хайрцгийг хоосолж чадсангүй."
 
 #: mail/client/doctype/mail_queue/mail_queue.py:560
 msgid "Failed to fetch In Reply To ID"
-msgstr "Fetch in reply to id амжилтгүй боллоо"
+msgstr "In-Reply-To ID-г авч чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:947
 msgid "Failed to fetch blob(s)"
-msgstr "Fetch blob(s) амжилтгүй боллоо"
+msgstr "Blob өгөгдлийг авч чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:950
 msgid "Failed to fetch blob(s)."
-msgstr "Fetch blob(s) амжилтгүй боллоо"
+msgstr "Blob өгөгдлийг авч чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:1284
 msgid "Failed to fetch changes"
-msgstr "Fetch changes амжилтгүй боллоо"
+msgstr "Өөрчлөлтүүдийг авч чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:744
 #: mail/client/doctype/mail_message/mail_message.py:745
 msgid "Failed to fetch message IDs."
-msgstr "Fetch message ids амжилтгүй боллоо"
+msgstr "Мессежийн ID-үүдийг авч чадсангүй."
 
 #: mail/patches/generate_ssh_keypair_for_cluster.py:12
 msgid "Failed to generate SSH keypair"
-msgstr "Generate ssh keypair амжилтгүй боллоо"
+msgstr "SSH түлхүүрийн хос үүсгэж чадсангүй."
 
 #: mail/api/jmap.py:145
 msgid "Failed to handle JMAP Push Notification."
-msgstr "Handle jmap push notification амжилтгүй боллоо"
+msgstr "JMAP push мэдэгдлийг боловсруулах чадсангүй."
 
 #: frontend/src/components/AttachmentViewer.vue:116
 msgid "Failed to load attachment"
-msgstr "Load attachment амжилтгүй боллоо"
+msgstr "Хавсралтыг ачаалж чадсангүй."
 
 #: mail/utils/__init__.py:463
 msgid "Failed to load content from the compressed file."
-msgstr "Load content from the compressed file амжилтгүй боллоо"
+msgstr "Шахсан файлаас агуулгыг ачаалж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:811
 msgid "Failed to move mail(s) to mailbox"
-msgstr "Move mail(s) to mailbox амжилтгүй боллоо"
+msgstr "Имэйл(үүд)-ийг шуудангийн хайрцаг руу шилжүүлж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:814
 msgid "Failed to move mail(s) to mailbox."
-msgstr "Move mail(s) to mailbox амжилтгүй боллоо"
+msgstr "Имэйл(үүд)-ийг шуудангийн хайрцаг руу шилжүүлж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:871
 msgid "Failed to set flagged status for mail(s)"
-msgstr "Set flagged status for mail(s) амжилтгүй боллоо"
+msgstr "Имэйл(үүд)-ийн тэмдэглэсэн төлөвийг тохируулж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:874
 msgid "Failed to set flagged status for mail(s)."
-msgstr "Set flagged status for mail(s) амжилтгүй боллоо"
+msgstr "Имэйл(үүд)-ийн тэмдэглэсэн төлөвийг тохируулж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:841
 msgid "Failed to set seen status for mail(s)"
-msgstr "Set seen status for mail(s) амжилтгүй боллоо"
+msgstr "Имэйл(үүд)-ийн уншсан төлөвийг тохируулж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:844
 msgid "Failed to set seen status for mail(s)."
-msgstr "Set seen status for mail(s) амжилтгүй боллоо"
+msgstr "Имэйл(үүд)-ийн уншсан төлөвийг тохируулж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:902
 msgid "Failed to set spam status for mail(s)"
-msgstr "Set spam status for mail(s) амжилтгүй боллоо"
+msgstr "Имэйл(үүд)-ийн хог шуудангийн төлөвийг тохируулж чадсангүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:905
 msgid "Failed to set spam status for mail(s)."
-msgstr "Set spam status for mail(s) амжилтгүй боллоо"
+msgstr "Имэйл(үүд)-ийн хог шуудангийн төлөвийг тохируулж чадсангүй."
 
 #: mail/server/doctype/server_config/server_config.py:138
 msgid "Failed to update configuration"
-msgstr "Update configuration амжилтгүй боллоо"
+msgstr "Тохиргоог шинэчилж чадсангүй."
 
 #: mail/events.py:64
 msgid "Failed to update password for Principal {0}. Response: {1}"
-msgstr "Update password for principal {0}. response: {1} амжилтгүй боллоо"
+msgstr "{0} principal-ийн нууц үгийг шинэчилж чадсангүй. Хариу: {1}"
 
 #: mail/server/doctype/principal/principal.py:610
 msgid "Failed to update principal {0}: {1}"
-msgstr "Update principal {0}: {1} амжилтгүй боллоо"
+msgstr "{0} principal-г шинэчилж чадсангүй: {1}"
 
 #: mail/client/doctype/calendar_event/calendar_event.py:538
 msgid "Failed to upload ICS data."
-msgstr "Upload ics data амжилтгүй боллоо"
+msgstr "ICS өгөгдлийг байршуулж чадсангүй."
 
 #: frontend/src/components/ComposeMailEditor.vue:679
 msgid "Failed to upload {0}"
-msgstr "Upload {0} амжилтгүй боллоо"
+msgstr "{0}-г байршуулж чадсангүй."
 
 #: frontend/src/components/Modals/AddDomainModal.vue:87
 msgid "Failed to verify DNS record."
-msgstr "Verify dns record амжилтгүй боллоо"
+msgstr "DNS бичлэгийг баталгаажуулж чадсангүй."
 
 #. Label of the failures (Int) field in DocType 'Server Ansible Play'
 #: mail/server/doctype/server_ansible_play/server_ansible_play.json
@@ -4143,7 +4143,7 @@ msgstr "Имэйлээс"
 
 #: mail/client/doctype/mail_queue/mail_queue.py:344
 msgid "From Email is required."
-msgstr "From Email шаардлагатай"
+msgstr "From Email талбар шаардлагатай."
 
 #. Label of the from_host (Data) field in DocType 'Mail Message'
 #: mail/client/doctype/mail_message/mail_message.json
@@ -5118,7 +5118,7 @@ msgstr "JMAP таних тэмдэг"
 
 #: mail/server/doctype/principal/principal.py:418
 msgid "JMAP Identities can only be synced for Individual principals."
-msgstr "JMAP Identities нь зөвхөн хувь хүний ​​үндсэн захирлуудад синк хийх боломжтой."
+msgstr "JMAP Identities-ийг зөвхөн Individual principal-д синхрончлох боломжтой."
 
 #: mail/client/doctype/user_settings/user_settings.js:33
 msgid "JMAP Mailboxes"
@@ -5315,7 +5315,7 @@ msgstr "Хамгийн сүүлд хүлээн авсан захидал"
 #. Settings'
 #: mail/client/doctype/user_settings/user_settings.json
 msgid "Latest email state retrieved from the server for synchronization."
-msgstr "Синк хийх зорилгоор серверээс хамгийн сүүлийн имэйлийн төлөвийг авсан."
+msgstr "Синхрончлолд ашиглахын тулд серверээс авсан хамгийн сүүлийн имэйлийн төлөв."
 
 #: frontend/src/components/Settings/AutomationSettings.vue:41
 msgid "Learn more."
@@ -6721,11 +6721,11 @@ msgstr "Хариу бичихгүй хаяг нэмсэн."
 
 #: mail/client/doctype/address_book/address_book.py:68
 msgid "No address book found."
-msgstr "address book олдсонгүй"
+msgstr "Хаягийн дэвтэр олдсонгүй."
 
 #: frontend/src/pages/AddressBooksView.vue:84
 msgid "No address books found."
-msgstr "address books олдсонгүй"
+msgstr "Хаягийн дэвтрүүд олдсонгүй."
 
 #: frontend/src/pages/ContactView.vue:39
 msgid "No address books."
@@ -6737,7 +6737,7 @@ msgstr "Хаяг байхгүй."
 
 #: mail/server/doctype/allowed_ip/allowed_ip.py:49
 msgid "No allowed IPs found."
-msgstr "allowed IPs олдсонгүй"
+msgstr "Зөвшөөрөгдсөн IP хаягууд олдсонгүй."
 
 #: mail/utils/dns.py:27
 msgid "No answer for {0}."
@@ -6745,7 +6745,7 @@ msgstr "{0} хариулт алга."
 
 #: mail/server/doctype/blocked_ip/blocked_ip.py:49
 msgid "No blocked IPs found."
-msgstr "blocked IPs олдсонгүй"
+msgstr "Хориглосон IP хаягууд олдсонгүй."
 
 #: frontend/src/components/Settings/BlockListSettings.vue:38
 msgid "No blocked email addresses."
@@ -6757,20 +6757,20 @@ msgstr "Өгөгдсөн ICS өгөгдлөөс календарийн үйл я
 
 #: mail/client/doctype/calendar_event/calendar_event.py:198
 msgid "No calendar events found."
-msgstr "calendar events олдсонгүй"
+msgstr "Календарийн үйл явдлууд олдсонгүй."
 
 #: mail/client/doctype/calendar/calendar.py:71
 msgid "No calendars found."
-msgstr "calendars олдсонгүй"
+msgstr "Календарууд олдсонгүй."
 
 #: mail/client/doctype/contact_card/contact_card.py:162
 msgid "No contact card found."
-msgstr "contact card олдсонгүй"
+msgstr "Харилцагчийн карт олдсонгүй."
 
 #: frontend/src/pages/AddressBookView.vue:289
 #: frontend/src/pages/ContactsView.vue:121
 msgid "No contacts found."
-msgstr "contacts олдсонгүй"
+msgstr "Харилцагчид олдсонгүй."
 
 #: frontend/src/components/Modals/AddAddressBookContactsModal.vue:99
 msgid "No contacts to add."
@@ -6782,7 +6782,7 @@ msgstr "Харилцагч байхгүй."
 
 #: frontend/src/pages/dashboard/DomainsView.vue:102
 msgid "No domains found."
-msgstr "domains олдсонгүй"
+msgstr "Доменууд олдсонгүй."
 
 #: mail/client/doctype/mail_exchange/mail_exchange.py:735
 msgid "No emails found for export."
@@ -6798,7 +6798,7 @@ msgstr "Имэйл байхгүй."
 
 #: mail/client/doctype/event_notification/event_notification.py:56
 msgid "No event notifications found."
-msgstr "event notifications олдсонгүй"
+msgstr "Үйл явдлын мэдэгдлүүд олдсонгүй."
 
 #: frontend/src/components/Settings/ExportSettings.vue:168
 msgid "No exports in progress."
@@ -6810,11 +6810,11 @@ msgstr "Хүсэлтээс файл олдсонгүй."
 
 #: mail/api/outbound.py:174
 msgid "No file part named 'raw_message' found."
-msgstr "file part named 'raw_message' олдсонгүй"
+msgstr "'raw_message' нэртэй файлын хэсэг олдсонгүй."
 
 #: mail/client/doctype/identity/identity.py:89
 msgid "No identities found."
-msgstr "identities олдсонгүй"
+msgstr "Таниулбарууд олдсонгүй."
 
 #: frontend/src/components/Settings/ImportSettings.vue:134
 msgid "No imports in progress."
@@ -6822,19 +6822,19 @@ msgstr "Импорт хийгдээгүй байна."
 
 #: frontend/src/pages/dashboard/InvitesView.vue:200
 msgid "No invites found."
-msgstr "invites олдсонгүй"
+msgstr "Урилгууд олдсонгүй."
 
 #: frontend/src/pages/MailExchangesView.vue:143
 msgid "No mail exchanges found."
-msgstr "mail exchanges олдсонгүй"
+msgstr "Шуудан солилцоонууд олдсонгүй."
 
 #: mail/client/doctype/mailbox/mailbox.py:63
 msgid "No mailboxes found."
-msgstr "mailboxes олдсонгүй"
+msgstr "Шуудангийн хайрцгууд олдсонгүй."
 
 #: frontend/src/pages/dashboard/MailingListsView.vue:104
 msgid "No mailing lists found."
-msgstr "mailing lists олдсонгүй"
+msgstr "Шуудангийн жагсаалтууд олдсонгүй."
 
 #: frontend/src/pages/MailboxView.vue:217
 msgid "No mails found for the selected filter."
@@ -6843,16 +6843,16 @@ msgstr "Сонгосон шүүлтүүрт имэйл олдсонгүй."
 #: frontend/src/pages/dashboard/MailingListView.vue:266
 #: frontend/src/pages/dashboard/UsersView.vue:160
 msgid "No members found."
-msgstr "members олдсонгүй"
+msgstr "Гишүүд олдсонгүй."
 
 #: mail/client/doctype/mail_message/mail_message.py:261
 #: mail/server/doctype/message_queue/message_queue.py:37
 msgid "No messages found."
-msgstr "messages олдсонгүй"
+msgstr "Мессежүүд олдсонгүй."
 
 #: mail/client/doctype/participant_identity/participant_identity.py:64
 msgid "No participant identities found."
-msgstr "participant identities олдсонгүй"
+msgstr "Оролцогчийн таниулбарууд олдсонгүй."
 
 #: frontend/src/pages/ContactView.vue:98
 msgid "No phones."
@@ -6860,11 +6860,11 @@ msgstr "Утас байхгүй."
 
 #: mail/client/doctype/push_subscription/push_subscription.py:71
 msgid "No push subscriptions found."
-msgstr "push subscriptions олдсонгүй"
+msgstr "Push бүртгэлүүд олдсонгүй."
 
 #: mail/client/doctype/quota/quota.py:49
 msgid "No quotas found."
-msgstr "quotas олдсонгүй"
+msgstr "Квотууд олдсонгүй."
 
 #: frontend/src/components/Modals/SearchModal.vue:149
 #: frontend/src/pages/MailboxView.vue:272
@@ -6878,11 +6878,11 @@ msgstr "Мөр байхгүй."
 #: frontend/src/components/Settings/AutomationSettings.vue:29
 #: mail/client/doctype/sieve_script/sieve_script.py:71
 msgid "No sieve scripts found."
-msgstr "sieve scripts олдсонгүй"
+msgstr "Sieve скриптүүд олдсонгүй."
 
 #: frontend/src/components/Settings/SignatureSettings.vue:25
 msgid "No signatures found."
-msgstr "signatures олдсонгүй"
+msgstr "Гарын үсгүүд олдсонгүй."
 
 #: mail/server/doctype/mail_data_exchange/mail_data_exchange.py:190
 msgid "No {0} file found in the archive."
@@ -7417,7 +7417,7 @@ msgstr "Доорх товчийг дарж имэйл хаягаа баталг�
 
 #: mail/server/doctype/server_deployment/server_deployment.js:76
 msgid "Please enter a contact email"
-msgstr "Enter a contact email уу"
+msgstr "Холбоо барих имэйл хаяг оруулна уу."
 
 #: mail/server/doctype/mail_server/mail_server.py:266
 msgid "Please generate the Server Config before installing Stalwart."
@@ -7433,7 +7433,7 @@ msgstr "Календарийн үйл явдлуудыг үзэх хэрэглэ
 
 #: mail/client/doctype/calendar/calendar.py:65
 msgid "Please select a user to view calendars."
-msgstr "Select a user to view calendars уу"
+msgstr "Календаруудыг үзэх хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/contact_card/contact_card.py:135
 msgid "Please select a user to view contact cards."
@@ -7445,15 +7445,15 @@ msgstr "Үйл явдлын мэдэгдлийг үзэхийн тулд хэр�
 
 #: mail/client/doctype/identity/identity.py:78
 msgid "Please select a user to view identities."
-msgstr "Select a user to view identities уу"
+msgstr "Таниулбаруудыг үзэх хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/mailbox/mailbox.py:52
 msgid "Please select a user to view mailboxes."
-msgstr "Select a user to view mailboxes уу"
+msgstr "Шуудангийн хайрцгуудыг үзэх хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/mail_message/mail_message.py:202
 msgid "Please select a user to view messages."
-msgstr "Select a user to view messages уу"
+msgstr "Мессежүүдийг үзэх хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/participant_identity/participant_identity.py:58
 msgid "Please select a user to view participant identities."
@@ -7465,7 +7465,7 @@ msgstr "Түлхүүр захиалгыг үзэхийн тулд хэрэглэ
 
 #: mail/client/doctype/quota/quota.py:38
 msgid "Please select a user to view quotas."
-msgstr "Select a user to view quotas уу"
+msgstr "Квотуудыг үзэх хэрэглэгчийг сонгоно уу."
 
 #: mail/client/doctype/sieve_script/sieve_script.py:51
 msgid "Please select a user to view the Sieve Scripts."
@@ -7622,7 +7622,7 @@ msgstr "Өмнөх сэдэв (↑/K)"
 #. Settings'
 #: mail/client/doctype/user_settings/user_settings.json
 msgid "Previously synced email state used to detect changes from the server."
-msgstr "Өмнө нь синк хийгдсэн имэйлийн төлөвийг серверээс гарсан өөрчлөлтийг илрүүлэхэд ашигласан."
+msgstr "Серверээс гарсан өөрчлөлтийг илрүүлэхэд ашигладаг өмнө нь синхрончилсон имэйлийн төлөв."
 
 #. Name of a DocType
 #. Label of a Workspace Sidebar Item
@@ -8152,7 +8152,7 @@ msgstr "Бичлэгүүд"
 
 #: frontend/src/pages/dashboard/DomainView.vue:68
 msgid "Records that allow mail and sync apps to automatically locate and connect to your domain’s email, calendar, and contacts services."
-msgstr "Мэйл болон синк хийх аппликешнүүдэд таны домены имэйл, календарь болон харилцагчийн үйлчилгээнүүдийг автоматаар олж, холбогдох боломжийг олгодог бичлэгүүд."
+msgstr "Mail болон синхрончлолын аппууд таны домены имэйл, календарь, харилцагчийн үйлчилгээг автоматаар олж холбогдоход ашиглагддаг бичлэгүүд."
 
 #. Label of the recovery_section (Section Break) field in DocType 'User
 #. Settings'
@@ -9347,7 +9347,7 @@ msgstr "Бүртгүүлэх"
 #. Settings'
 #: mail/mail/doctype/mail_settings/mail_settings.json
 msgid "Signup Domains"
-msgstr "Домэйнуудад бүртгүүлэх"
+msgstr "Бүртгэлийн доменууд"
 
 #: mail/api/account.py:42
 msgid "Signup is disabled."
@@ -9844,19 +9844,19 @@ msgstr "Дэмжигдсэн: <code>.zip</code>, <code>.tgz</code>, <code>.tar.g
 
 #: mail/server/doctype/dns_record/dns_record.js:21
 msgid "Sync DNS Record"
-msgstr "DNS бичлэгийг синк хийх"
+msgstr "DNS бичлэгийг синхрончлох"
 
 #: mail/server/doctype/principal/principal.js:48
 msgid "Sync JMAP Identities"
-msgstr "JMAP таних мэдээллийг синк хийх"
+msgstr "JMAP таниулбаруудыг синхрончлох"
 
 #: mail/server/doctype/dns_record/dns_record.js:64
 msgid "Syncing DNS Record..."
-msgstr "DNS бичлэгийг синк хийж байна..."
+msgstr "DNS бичлэгийг синхрончилж байна..."
 
 #: mail/server/doctype/principal/principal.js:122
 msgid "Syncing JMAP Identities..."
-msgstr "JMAP таниулбаруудыг синк хийж байна..."
+msgstr "JMAP таниулбаруудыг синхрончилж байна..."
 
 #. Option for the 'Color Scheme' (Select) field in DocType 'User Settings'
 #: frontend/src/components/Settings/AppearanceSettings.vue:74

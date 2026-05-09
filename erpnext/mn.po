@@ -9053,23 +9053,23 @@ msgstr "{0} хүүхдийн хүснэгтийг устгах жагсаалт�
 
 #: erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:226
 msgid "Cannot amend {0} {1}, please create a new one instead."
-msgstr "Amend {0} {1}, please create a new one instead боломжгүй"
+msgstr "{0} {1}-г засварлах боломжгүй. Оронд нь шинээр үүсгэнэ үү."
 
 #: erpnext/accounts/doctype/tax_withholding_entry/tax_withholding_entry.py:1298
 msgid "Cannot apply TDS against multiple parties in one entry"
-msgstr "Apply tds against multiple parties in one entry боломжгүй"
+msgstr "Нэг бичилтэд хэд хэдэн талд TDS хэрэглэх боломжгүй."
 
 #: erpnext/stock/doctype/item/item.py:329
 msgid "Cannot be a fixed asset item as Stock Ledger is created."
-msgstr "Be a fixed asset item as stock ledger is created боломжгүй"
+msgstr "Stock Ledger үүссэн тул энэ нь үндсэн хөрөнгийн зүйл байх боломжгүй."
 
 #: erpnext/assets/doctype/asset_depreciation_schedule/asset_depreciation_schedule.py:118
 msgid "Cannot cancel Asset Depreciation Schedule {0} as it has a draft journal entry {1}."
-msgstr "{0} хөрөнгийн элэгдлийн хуваарь нь {1} журналын ноорогтой тул цуцлах боломжгүй."
+msgstr "{0} хөрөнгийн элэгдлийн хуваарь нь {1} ноорог ажил гүйлгээтэй тул цуцлах боломжгүй."
 
 #: erpnext/accounts/doctype/pos_closing_entry/pos_closing_entry.py:246
 msgid "Cannot cancel POS Closing Entry"
-msgstr "Cancel pos closing entry боломжгүй"
+msgstr "POS хаалтын бичилтийг цуцлах боломжгүй."
 
 #: erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:140
 msgid "Cannot cancel Stock Reservation Entry {0}, as it has used in the work order {1}. Please cancel the work order first or unreserved the stock"
@@ -9077,11 +9077,11 @@ msgstr "{1} ажлын захиалгад ашигласан тул хувьца
 
 #: erpnext/stock/doctype/repost_item_valuation/repost_item_valuation.py:273
 msgid "Cannot cancel as processing of cancelled documents is pending."
-msgstr "Cancel as processing of cancelled documents is pending боломжгүй"
+msgstr "Цуцлагдсан баримтуудын боловсруулалт хүлээгдэж байгаа тул цуцлах боломжгүй."
 
 #: erpnext/manufacturing/doctype/work_order/work_order.py:1115
 msgid "Cannot cancel because submitted Stock Entry {0} exists"
-msgstr "Cancel because submitted stock entry {0} exists боломжгүй"
+msgstr "Батлагдсан Stock Entry {0} байгаа тул цуцлах боломжгүй."
 
 #: erpnext/stock/stock_ledger.py:179
 msgid "Cannot cancel the transaction. Reposting of item valuation on submission is not completed yet."
@@ -9101,7 +9101,7 @@ msgstr "Энэ баримт бичиг нь илгээсэн {asset_link} өмч
 
 #: erpnext/stock/doctype/stock_entry/stock_entry.py:558
 msgid "Cannot cancel transaction for Completed Work Order."
-msgstr "Cancel transaction for completed work order боломжгүй"
+msgstr "Дууссан Work Order-ийн гүйлгээг цуцлах боломжгүй."
 
 #: erpnext/stock/doctype/item/item.py:907
 msgid "Cannot change Attributes after stock transaction. Make a new Item and transfer stock to the new Item"
@@ -9109,7 +9109,7 @@ msgstr "Хувьцааны гүйлгээний дараа шинж чанару
 
 #: erpnext/accounts/doctype/accounting_dimension/accounting_dimension.py:73
 msgid "Cannot change Reference Document Type."
-msgstr "Change reference document type боломжгүй"
+msgstr "Reference Document Type-ийг өөрчлөх боломжгүй."
 
 #: erpnext/accounts/deferred_revenue.py:53
 msgid "Cannot change Service Stop Date for item in row {0}"
@@ -9129,7 +9129,7 @@ msgstr "{1}-ээс хамааралтай даалгавар дуусаагүй/
 
 #: erpnext/accounts/doctype/cost_center/cost_center.py:61
 msgid "Cannot convert Cost Center to ledger as it has child nodes"
-msgstr "Convert cost center to ledger as it has child nodes боломжгүй"
+msgstr "Cost Center-ийг ledger болгон хөрвүүлэх боломжгүй. Учир нь child node-уудтай байна."
 
 #: erpnext/projects/doctype/task/task.js:49
 msgid "Cannot convert Task to non-group because the following child Tasks exist: {0}."
@@ -9137,11 +9137,11 @@ msgstr "Дараах хүүхэд даалгаврууд байгаа тул д�
 
 #: erpnext/accounts/doctype/account/account.py:440
 msgid "Cannot convert to Group because Account Type is selected."
-msgstr "Convert to group because account type is selected боломжгүй"
+msgstr "Account Type сонгогдсон тул Group болгон хөрвүүлэх боломжгүй."
 
 #: erpnext/accounts/doctype/account/account.py:276
 msgid "Cannot covert to Group because Account Type is selected."
-msgstr "Covert to group because account type is selected боломжгүй"
+msgstr "Account Type сонгогдсон тул Group болгон хөрвүүлэх боломжгүй."
 
 #: erpnext/stock/doctype/purchase_receipt/purchase_receipt.py:1017
 msgid "Cannot create Stock Reservation Entries for future dated Purchase Receipts."
@@ -9154,41 +9154,41 @@ msgstr "{0} борлуулалтын захиалгын жагсаалт үүс�
 
 #: erpnext/accounts/general_ledger.py:150
 msgid "Cannot create accounting entries against disabled accounts: {0}"
-msgstr "Create accounting entries against disabled accounts: {0} боломжгүй"
+msgstr "Идэвхгүй дансуудад нягтлан бодох бичилт үүсгэх боломжгүй: {0}"
 
 #: erpnext/controllers/sales_and_purchase_return.py:437
 msgid "Cannot create return for consolidated invoice {0}."
-msgstr "Create return for consolidated invoice {0} боломжгүй"
+msgstr "Нэгтгэсэн нэхэмжлэх {0}-д буцаалт үүсгэх боломжгүй."
 
 #: erpnext/manufacturing/doctype/bom/bom.py:1211
 msgid "Cannot deactivate or cancel BOM as it is linked with other BOMs"
-msgstr "Deactivate or cancel bom as it is linked with other boms боломжгүй"
+msgstr "BOM нь бусад BOM-уудтай холбогдсон тул идэвхгүй болгох эсвэл цуцлах боломжгүй."
 
 #: erpnext/crm/doctype/opportunity/opportunity.py:282
 msgid "Cannot declare as lost, because Quotation has been made."
-msgstr "Declare as lost, because quotation has been made боломжгүй"
+msgstr "Quotation үүссэн тул алдсан гэж тэмдэглэх боломжгүй."
 
 #: erpnext/accounts/doctype/purchase_taxes_and_charges_template/purchase_taxes_and_charges_template.js:16
 #: erpnext/accounts/doctype/purchase_taxes_and_charges_template/purchase_taxes_and_charges_template.js:26
 msgid "Cannot deduct when category is for 'Valuation' or 'Valuation and Total'"
-msgstr "Deduct when category is for 'valuation' or 'valuation and total' боломжгүй"
+msgstr "Ангилал нь 'Valuation' эсвэл 'Valuation and Total' үед суутгах боломжгүй."
 
 #: erpnext/accounts/doctype/payment_entry/payment_entry.js:1832
 msgid "Cannot delete Exchange Gain/Loss row"
-msgstr "Delete exchange gain/loss row боломжгүй"
+msgstr "Exchange Gain/Loss мөрийг устгах боломжгүй."
 
 #: erpnext/stock/doctype/serial_no/serial_no.py:120
 msgid "Cannot delete Serial No {0}, as it is used in stock transactions"
-msgstr "Delete serial no {0}, as it is used in stock transactions боломжгүй"
+msgstr "Serial No {0}-г устгах боломжгүй. Учир нь stock transaction-уудад ашиглагдсан байна."
 
 #: erpnext/controllers/accounts_controller.py:3790
 msgid "Cannot delete an item which has been ordered"
-msgstr "Delete an item which has been ordered боломжгүй"
+msgstr "Захиалагдсан зүйлийг устгах боломжгүй."
 
 #: erpnext/setup/doctype/transaction_deletion_record/transaction_deletion_record.py:197
 #: erpnext/setup/doctype/transaction_deletion_record/transaction_deletion_record.py:782
 msgid "Cannot delete protected core DocType: {0}"
-msgstr "Delete protected core doctype: {0} боломжгүй"
+msgstr "Хамгаалагдсан үндсэн DocType {0}-г устгах боломжгүй."
 
 #: erpnext/setup/doctype/transaction_deletion_record/transaction_deletion_record.py:213
 msgid "Cannot delete virtual DocType: {0}. Virtual DocTypes do not have database tables."
@@ -9204,11 +9204,11 @@ msgstr "{0} компанийн хувьцааны дэвтэрийн бүртг�
 
 #: erpnext/stock/doctype/stock_settings/stock_settings.py:127
 msgid "Cannot disable {0} as it may lead to incorrect stock valuation."
-msgstr "Disable {0} as it may lead to incorrect stock valuation боломжгүй"
+msgstr "{0}-г идэвхгүй болгох боломжгүй. Учир нь энэ нь буруу stock valuation-д хүргэж болзошгүй."
 
 #: erpnext/manufacturing/doctype/work_order/work_order.py:727
 msgid "Cannot disassemble more than produced quantity."
-msgstr "Disassemble more than produced quantity боломжгүй"
+msgstr "Үйлдвэрлэсэн тоо хэмжээнээс илүүг задалж болохгүй."
 
 #: erpnext/stock/doctype/stock_entry/stock_entry.py:924
 msgid "Cannot disassemble {0} qty against Stock Entry {1}. Only {2} qty available to disassemble."
@@ -9225,15 +9225,15 @@ msgstr "{0} зүйл нэмсэн тул Цуврал дугаараар хүр�
 
 #: erpnext/accounts/doctype/payment_request/payment_request.js:111
 msgid "Cannot fetch selected rows for submitted Payment Request"
-msgstr "Fetch selected rows for submitted payment request боломжгүй"
+msgstr "Батлагдсан Payment Request-ийн сонгосон мөрүүдийг авчрах боломжгүй."
 
 #: erpnext/public/js/utils/barcode_scanner.js:62
 msgid "Cannot find Item or Warehouse with this Barcode"
-msgstr "Find item or warehouse with this barcode боломжгүй"
+msgstr "Энэ barcode-оор Item эсвэл Warehouse олдсонгүй."
 
 #: erpnext/public/js/utils/barcode_scanner.js:63
 msgid "Cannot find Item with this Barcode"
-msgstr "Find item with this barcode боломжгүй"
+msgstr "Энэ barcode-оор Item олдсонгүй."
 
 #: erpnext/controllers/accounts_controller.py:3742
 msgid "Cannot find a default warehouse for item {0}. Please set one in the Item Master or in Stock Settings."
@@ -9245,23 +9245,23 @@ msgstr "{0} '{1}'-г '{2}'-д нэгтгэх боломжгүй, учир нь �
 
 #: erpnext/manufacturing/doctype/work_order/work_order.py:577
 msgid "Cannot produce more Item {0} than Sales Order quantity {1} {2}"
-msgstr "Produce more item {0} than sales order quantity {1} {2} боломжгүй"
+msgstr "Sales Order-ийн {1} {2} тоо хэмжээнээс илүү {0} item үйлдвэрлэх боломжгүй."
 
 #: erpnext/manufacturing/doctype/work_order/work_order.py:1472
 msgid "Cannot produce more item for {0}"
-msgstr "Produce more item for {0} боломжгүй"
+msgstr "{0}-д илүү item үйлдвэрлэх боломжгүй."
 
 #: erpnext/manufacturing/doctype/work_order/work_order.py:1476
 msgid "Cannot produce more than {0} items for {1}"
-msgstr "Produce more than {0} items for {1} боломжгүй"
+msgstr "{1}-д {0}-аас олон item үйлдвэрлэх боломжгүй."
 
 #: erpnext/accounts/doctype/payment_entry/payment_entry.py:359
 msgid "Cannot receive from customer against negative outstanding"
-msgstr "Receive from customer against negative outstanding боломжгүй"
+msgstr "Сөрөг үлдэгдэлтэй үед хэрэглэгчээс төлбөр хүлээн авах боломжгүй."
 
 #: erpnext/controllers/accounts_controller.py:3938
 msgid "Cannot reduce quantity than ordered or purchased quantity"
-msgstr "Reduce quantity than ordered or purchased quantity боломжгүй"
+msgstr "Тоо хэмжээг захиалсан эсвэл худалдан авсан хэмжээнээс бага болгож бууруулах боломжгүй."
 
 #: erpnext/accounts/doctype/payment_entry/payment_entry.js:1530
 #: erpnext/controllers/accounts_controller.py:3206
@@ -9275,7 +9275,7 @@ msgstr "Шинэчлэхийн тулд холбоосын токеныг ава
 
 #: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:68
 msgid "Cannot retrieve link token. Check Error Log for more information"
-msgstr "Retrieve link token. check error log for more information боломжгүй"
+msgstr "Link token-ийг авч чадсангүй. Дэлгэрэнгүйг Error Log-оос шалгана уу."
 
 #: erpnext/selling/doctype/customer/customer.py:367
 msgid "Cannot select a Group type Customer Group. Please select a non-group Customer Group."
@@ -9288,35 +9288,35 @@ msgstr "Бүлгийн төрлийн Хэрэглэгчийн бүлгийг с
 #: erpnext/public/js/controllers/accounts.js:112
 #: erpnext/public/js/controllers/taxes_and_totals.js:550
 msgid "Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row"
-msgstr "Select charge type as 'on previous row amount' or 'on previous row total' for first row боломжгүй"
+msgstr "Эхний мөрөнд төлбөрийн төрлийг 'On Previous Row Amount' эсвэл 'On Previous Row Total' гэж сонгох боломжгүй."
 
 #: erpnext/selling/doctype/quotation/quotation.py:287
 msgid "Cannot set as Lost as Sales Order is made."
-msgstr "Set as lost as sales order is made боломжгүй"
+msgstr "Sales Order үүссэн тул Lost гэж тэмдэглэх боломжгүй."
 
 #: erpnext/setup/doctype/authorization_rule/authorization_rule.py:91
 msgid "Cannot set authorization on basis of Discount for {0}"
-msgstr "Set authorization on basis of discount for {0} боломжгүй"
+msgstr "{0}-д Discount-ийг үндэслэн authorization тохируулах боломжгүй."
 
 #: erpnext/stock/doctype/item/item.py:740
 msgid "Cannot set multiple Item Defaults for a company."
-msgstr "Set multiple item defaults for a company боломжгүй"
+msgstr "Нэг компанид олон Item Default тохируулах боломжгүй."
 
 #: erpnext/controllers/accounts_controller.py:3904
 msgid "Cannot set quantity less than delivered quantity"
-msgstr "Set quantity less than delivered quantity боломжгүй"
+msgstr "Тоо хэмжээг хүргэсэн хэмжээнээс бага болгож тохируулах боломжгүй."
 
 #: erpnext/controllers/accounts_controller.py:3905
 msgid "Cannot set quantity less than received quantity"
-msgstr "Set quantity less than received quantity боломжгүй"
+msgstr "Тоо хэмжээг хүлээн авсан хэмжээнээс бага болгож тохируулах боломжгүй."
 
 #: erpnext/stock/doctype/item_variant_settings/item_variant_settings.py:69
 msgid "Cannot set the field <b>{0}</b> for copying in variants"
-msgstr "Set the field <b>{0}</b> for copying in variants боломжгүй"
+msgstr "<b>{0}</b> талбарыг variant-уудад хуулбарлахаар тохируулах боломжгүй."
 
 #: erpnext/setup/doctype/transaction_deletion_record/transaction_deletion_record.py:266
 msgid "Cannot start deletion. Another deletion {0} is already queued/running. Please wait for it to complete."
-msgstr "Start deletion. another deletion {0} is already queued/running. please wait for it to complete боломжгүй"
+msgstr "Устгалтыг эхлүүлэх боломжгүй. Өөр {0} устгалт аль хэдийн дараалалд орсон эсвэл ажиллаж байна. Дуусахыг нь хүлээнэ үү."
 
 #: erpnext/controllers/accounts_controller.py:3932
 msgid "Cannot update rate as item {0} is already ordered or purchased against this quotation"
@@ -9324,7 +9324,7 @@ msgstr "{0} зүйлийг энэ үнийн саналын эсрэг аль х
 
 #: erpnext/accounts/doctype/payment_entry/payment_entry.py:1937
 msgid "Cannot {0} from {1} without any negative outstanding invoice"
-msgstr "{0} from {1} without any negative outstanding invoice боломжгүй"
+msgstr "Сөрөг үлдэгдэлтэй нэхэмжлэх байхгүй үед {1}-ээс {0} хийх боломжгүй."
 
 #. Label of the canonical_uri (Data) field in DocType 'Code List'
 #. Label of the canonical_uri (Data) field in DocType 'Common Code'
@@ -9758,23 +9758,23 @@ msgstr "Төлбөрийг таны сонголтоос хамааран бар
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json
 msgid "Chart Of Accounts"
-msgstr "Дансны график"
+msgstr "Дансны мод"
 
 #. Label of the chart_of_accounts (Select) field in DocType 'Company'
 #: erpnext/setup/doctype/company/company.json
 msgid "Chart Of Accounts Template"
-msgstr "Дансны графикийн загвар"
+msgstr "Дансны модны загвар"
 
 #. Label of the chart_preview (Section Break) field in DocType 'Chart of
 #. Accounts Importer'
 #: erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.json
 msgid "Chart Preview"
-msgstr "Диаграмыг урьдчилан харах"
+msgstr "Урьдчилан харах"
 
 #. Label of the chart_tree (HTML) field in DocType 'Chart of Accounts Importer'
 #: erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.json
 msgid "Chart Tree"
-msgstr "Диаграмын мод"
+msgstr "Мод бүтэц"
 
 #. Label of a Link in the Invoicing Workspace
 #. Label of the section_break_28 (Section Break) field in DocType 'Company'
@@ -9791,7 +9791,7 @@ msgstr "Диаграмын мод"
 #: erpnext/workspace_sidebar/accounts_setup.json
 #: erpnext/workspace_sidebar/invoicing.json
 msgid "Chart of Accounts"
-msgstr "Дансны ерөнхий дэвтэр"
+msgstr "Дансны мод"
 
 #. Name of a DocType
 #. Label of a Link in the Invoicing Workspace
@@ -9800,22 +9800,19 @@ msgstr "Дансны ерөнхий дэвтэр"
 #: erpnext/accounts/workspace/invoicing/invoicing.json
 #: erpnext/setup/workspace/home/home.json
 msgid "Chart of Accounts Importer"
-msgstr "Дансны график импортлогч"
+msgstr "Дансны мод импортлогч"
 
 #. Label of a Link in the Invoicing Workspace
 #. Label of a Workspace Sidebar Item
 #: erpnext/accounts/doctype/account/account_tree.js:191
 #: erpnext/accounts/doctype/cost_center/cost_center.js:41
 #: erpnext/accounts/workspace/invoicing/invoicing.json
-#: erpnext/workspace_sidebar/accounts_setup.json
 msgid "Chart of Cost Centers"
-msgstr "Зардлын төвүүдийн график"
+msgstr "Зардлын төвүүдийн бүтэц"
 
-#: erpnext/manufacturing/report/work_order_summary/work_order_summary.js:66
 msgid "Charts Based On"
 msgstr "Диаграм дээр үндэслэсэн"
 
-#. Label of the chassis_no (Data) field in DocType 'Vehicle'
 #: erpnext/setup/doctype/vehicle/vehicle.json
 msgid "Chassis No"
 msgstr "Явах эд ангийн дугаар"
@@ -13096,39 +13093,39 @@ msgstr "Зээлийн өдрүүд"
 
 #. Label of the credit_limits (Table) field in DocType 'Customer'
 #. Label of the credit_limit (Currency) field in DocType 'Customer Credit
-#. Limit'
+msgstr "Эхний мөрөнд төлбөрийн төрлийг 'On Previous Row Amount' эсвэл 'On Previous Row Total' гэж сонгох боломжгүй."
 #. Label of the credit_limit (Currency) field in DocType 'Company'
 #. Label of the credit_limits (Table) field in DocType 'Customer Group'
 #. Label of the section_credit_limit (Section Break) field in DocType 'Supplier
-#. Group'
+msgstr "Sales Order үүссэн тул Lost гэж тэмдэглэх боломжгүй."
 #: erpnext/accounts/report/accounts_receivable/accounts_receivable.html:36
 #: erpnext/selling/doctype/customer/customer.json
 #: erpnext/selling/doctype/customer_credit_limit/customer_credit_limit.json
-#: erpnext/selling/report/customer_credit_balance/customer_credit_balance.py:65
+msgstr "{0}-д Discount-ийг үндэслэн authorization тохируулах боломжгүй."
 #: erpnext/setup/doctype/company/company.json
 #: erpnext/setup/doctype/customer_group/customer_group.json
 #: erpnext/setup/doctype/supplier_group/supplier_group.json
-msgid "Credit Limit"
+msgstr "Нэг компанид олон Item Default тохируулах боломжгүй."
 msgstr "Зээлийн хязгаар"
 
 #: erpnext/selling/doctype/customer/customer.py:642
-msgid "Credit Limit Crossed"
+msgstr "Тоо хэмжээг хүргэсэн хэмжээнээс бага болгож тохируулах боломжгүй."
 msgstr "Зээлийн хязгаар давсан"
 
 #. Label of the accounts_transactions_settings_section (Section Break) field in
-#. DocType 'Accounts Settings'
+msgstr "Тоо хэмжээг хүлээн авсан хэмжээнээс бага болгож тохируулах боломжгүй."
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json
 msgid "Credit Limit Settings"
 msgstr "Зээлийн хязгаарын тохиргоо"
-
+msgstr "<b>{0}</b> талбарыг variant-уудад хуулбарлахаар тохируулах боломжгүй."
 #. Label of the credit_limit_section (Section Break) field in DocType
 #. 'Customer'
 #: erpnext/selling/doctype/customer/customer.json
-msgid "Credit Limit and Payment Terms"
+msgstr "Устгалтыг эхлүүлэх боломжгүй. Өөр {0} устгалт аль хэдийн дараалалд орсон эсвэл ажиллаж байна. Дуусахыг нь хүлээнэ үү."
 msgstr "Зээлийн хязгаар ба төлбөрийн нөхцөл"
 
 #: erpnext/accounts/doctype/process_statement_of_accounts/process_statement_of_accounts_accounts_receivable.html:50
-msgid "Credit Limit:"
+msgstr "Сөрөг үлдэгдэлтэй нэхэмжлэх байхгүй үед {1}-ээс {0} хийх боломжгүй."
 msgstr "Зээлийн хязгаар:"
 
 #. Label of the invoicing_settings_tab (Tab Break) field in DocType 'Accounts
@@ -35416,7 +35413,7 @@ msgstr "Plaid тохиргоо"
 
 #: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:227
 msgid "Plaid transactions sync error"
-msgstr "Plaid гүйлгээг синк хийх алдаа"
+msgstr "Plaid гүйлгээг синхрончлоход алдаа гарлаа"
 
 #. Label of the plan (Link) field in DocType 'Subscription Plan Detail'
 #: erpnext/accounts/doctype/subscription_plan_detail/subscription_plan_detail.json
@@ -52853,7 +52850,7 @@ msgstr "Plaid-тэй холбох явцад банкны данс үүсгэх�
 
 #: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:250
 msgid "There was an error syncing transactions."
-msgstr "Гүйлгээг синк хийхэд алдаа гарлаа."
+msgstr "Гүйлгээг синхрончлоход алдаа гарлаа."
 
 #: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:175
 msgid "There was an error updating Bank Account {} while linking with Plaid."

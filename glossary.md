@@ -11,12 +11,16 @@ appears here, use the listed translation — do not improvise alternatives.
 ## 1. Conventions
 
 ### 1.1 General rules
+
 - **UI labels** (field names, button labels, menu items) use **noun forms** — not verbs.  
   ✓ `Илгээх` (Submit)  ✗ `Оруулах` (which means "to enter/input")
 - **Error and warning messages** use complete sentences with a period at the end.
 - **Placeholders** `{0}`, `{1}`, `%(name)s` must be preserved exactly as-is.
 - **Capitalisation:** Follow the English source — if the English is title-case, use consistent Mongolian capitalisation. Do not ALL-CAPS Mongolian words.
 - **Abbreviations:** Keep technical abbreviations (`API`, `PDF`, `HTML`, `BOM`, `UOM`) in English — see §2 below.
+- **Do not leave English stems inside Mongolian grammar.** Strings like `Enter a title уу`, `Delete this ticket хийхийг та итгэлтэй байна уу?`, `Refresh session амжилтгүй боллоо` are invalid. Translate the full phrase, not just the suffix.
+- **Use one preferred Mongolian form consistently** for repeated technical nouns. In this glossary: `домен` is preferred over `домайн`; `диаграмм` over `диаграм`; `синхрончлох` / `синхрончлол` over bare `синк хийх` in user-facing text.
+- **Field labels ending in `ID` keep `ID`** unless the source explicitly means a numeric serial number (`Number`, `No.`). Example: `Email ID`, `GitHub ID`, `OAuth Client ID`.
 
 ### 1.2 Document lifecycle states
 ERPNext documents pass through states. Use these translations consistently:
@@ -46,6 +50,19 @@ ERPNext documents pass through states. Use these translations consistently:
 | Export | Экспорт хийх | |
 | Import | Импорт хийх | |
 
+### 1.4 Common message templates
+
+Use these sentence patterns for repeated UI strings. Do not translate them word-by-word.
+
+| English pattern | Монгол pattern | Notes |
+|-----------------|----------------|-------|
+| Are you sure you want to delete this ticket? | Энэ хүсэлтийг устгахдаа итгэлтэй байна уу? | Confirmation dialogs should be fully Mongolian. |
+| Enter a valid email address. | Хүчинтэй имэйл хаяг оруулна уу. | Use imperative Mongolian, not `Enter ... уу`. |
+| Select a user. | Хэрэглэгч сонгоно уу. | Same rule for `Select`, `Choose`, `Pick`. |
+| {0} not found. | {0} олдсонгүй. | Translate `{0}` when it is a normal UI noun. |
+| Failed to load {0}. | {0}-г ачаалж чадсангүй. | Prefer a natural Mongolian verb phrase over `Load {0} амжилтгүй боллоо`. |
+| Unable to update {0}. | {0}-г шинэчлэх боломжгүй. | Use `боломжгүй` only after a translated verb phrase. |
+
 ---
 
 ## 2. Do Not Translate
@@ -56,6 +73,7 @@ These terms **must stay in English** in all translations. Mongolian users in ERP
 |------|--------|
 | `API`, `REST`, `OAuth`, `LDAP`, `JWT`, `SSO` | Technical protocols — no accepted Mongolian equivalent |
 | `HTML`, `CSS`, `JavaScript`, `Python`, `JSON`, `CSV`, `PDF`, `XML` | File formats and languages |
+| `ID`, `URL`, `OAuth Client ID`, `Client Secret` | Technical identifiers and credentials |
 | `DocType` | Frappe-specific concept — translating would break documentation links |
 | `BOM`, `SKU`, `UOM`, `FIFO`, `POS` | Industry abbreviations used universally in ERP |
 | `DKIM`, `DMARC`, `SPF`, `SMTP`, `IMAP` | Email authentication standards |
@@ -87,9 +105,10 @@ These are the most common source of translation errors. The wrong choice changes
 | **Stock** (financial shares) | **Хувьцаа** | Equity shares in a company — rare in ERPNext context. |
 
 ### Leave vs. Departure
+
 | English | Монгол | When to use |
 |---------|--------|-------------|
-| **Leave** (HR) | **Чөлөо** | Approved absence from work (sick leave, annual leave). |
+| **Leave** (HR) | **Чөлөө** | Approved absence from work (sick leave, annual leave). |
 | **Leave** (to depart) | **Явах** | Action of leaving — not used in HR module labels. |
 
 ### Rate vs. Rating
@@ -152,7 +171,7 @@ These are the most common source of translation errors. The wrong choice changes
 | Budget | Төсөв | |
 | Budget Variance | Төсвийн зөрүү | |
 | Cash Flow | Мөнгөн урсгал | |
-| Chart of Accounts | Дансны ерөнхий дэвтэр | **Not** `Дансны график` |
+| Chart of Accounts | Дансны мод | Align with Odoo Mongolian; **not** `Дансны график` |
 | Closing Balance | Эцсийн үлдэгдэл | |
 | Cost Center | Зардлын төв | |
 | Cost of Goods Sold | Борлуулсан бүтээгдэхүүний өртөг | |
@@ -170,7 +189,7 @@ These are the most common source of translation errors. The wrong choice changes
 | General Ledger | Ерөнхий дэвтэр | |
 | Gross Profit | Нийт ашиг | |
 | Invoice | Нэхэмжлэх | |
-| Journal Entry | Журналын бичилт | |
+| Journal Entry | Ажил гүйлгээ | Align with Odoo Mongolian; `Journal Item` = `Журналын бичилт` |
 | Liabilities | Өр төлбөр | |
 | Net Profit | Цэвэр ашиг | |
 | Opening Balance | Эхний үлдэгдэл | |
@@ -246,6 +265,23 @@ These are the most common source of translation errors. The wrong choice changes
 | Valuation | Үнэлгээ | Inventory valuation method |
 | Warehouse | Агуулах | |
 
+### Common UI & Profile Fields
+
+| English | Монгол | Notes |
+|---------|--------|-------|
+| Chart | Диаграмм | Visual chart/widget; do not use `диаграм`. |
+| Dashboard Chart | Хяналтын самбарын диаграмм | |
+| Email ID | Email ID | Keep `ID`; do not translate as `Email дугаар`. |
+| First Name | Нэр | |
+| Full Name | Бүтэн нэр | Prefer this over mixed forms like `Full нэр`. |
+| Gantt | Гант | In labels like `Gantt View`; avoid `диаграммм`. |
+| Gantt View | Гант харагдац | |
+| GitHub ID | GitHub ID | Keep brand + `ID`. |
+| Last Name | Овог | Do not leave `Last нэр`. |
+| Session | Сесс | Technical login/session context. |
+| Sync | Синхрончлох / Синхрончлол | Verb / noun form. Avoid raw `синк хийх` in user-facing copy. |
+| View | Харагдац | Noun sense: saved view, list view, calendar view. Verb `View` = `Харах`. |
+
 ### HR & Payroll
 
 | English | Монгол | Notes |
@@ -265,10 +301,10 @@ These are the most common source of translation errors. The wrong choice changes
 | Income Tax Slab | Орлогын татварын шат | |
 | Job Applicant | Ажил горилогч | |
 | Job Opening | Ажлын байрны зар | |
-| Leave | Чөлөо | See §3 — HR absence, not departure |
+| Leave | Чөлөө | See §3 — HR absence, not departure |
 | Leave Allocation | Чөлөөний хуваарилалт | |
 | Leave Application | Чөлөөний өргөдөл | |
-| Leave Without Pay | Цалингүй чөлөо | |
+| Leave Without Pay | Цалингүй чөлөө | |
 | Notice Period | Мэдэгдлийн хугацаа | |
 | Overtime | Илүү цагийн ажил | |
 | Payroll | Цалин хөлс | The payroll process |
@@ -321,13 +357,15 @@ These are the most common source of translation errors. The wrong choice changes
 |---------|--------|-------|
 | Alias | Өөр нэр | Alternative address |
 | Attachment | Хавсралт | |
-| Domain | Домайн | |
+| Contact HTML | Холбоо барих HTML | Field/section label; not an instruction sentence. |
+| Domain | Домен | Preferred spelling; plural `доменууд`. |
 | Draft | Ноорог | See §3 — **not** `Төсөл` |
 | Inbox | Ирсэн хайрцаг | |
 | Mail Queue | Шуудангийн дараалал | |
 | Mailbox | Шуудангийн хайрцаг | |
 | Newsletter | Мэдээллийн товхимол | |
-| Root Domain Name | Үндсэн домайн нэр | |
+| Root Domain Name | Үндсэн домен нэр | |
+| Signup Domains | Бүртгэлийн доменууд | Domains allowed for signup/registration |
 | Signature | Гарын үсэг | Email signature |
 | Spam | Хог шуудан | |
 | Thread | Хэлхээ | Email conversation thread |

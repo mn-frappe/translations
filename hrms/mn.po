@@ -1148,19 +1148,19 @@ msgstr "4-р сар"
 
 #: frontend/src/components/FileUploaderView.vue:53
 msgid "Are you sure you want to delete the attachment"
-msgstr "Delete the attachment хийхийг та итгэлтэй байна уу?"
+msgstr "Хавсралтыг устгахдаа итгэлтэй байна уу?"
 
 #: frontend/src/components/FormView.vue:228
 msgid "Are you sure you want to delete the {0}"
-msgstr "Delete the {0} хийхийг та итгэлтэй байна уу?"
+msgstr "{0}-г устгахдаа итгэлтэй байна уу?"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip_list.js:19
 msgid "Are you sure you want to email the selected salary slips?"
-msgstr "Email the selected salary slips хийхийг та итгэлтэй байна уу?"
+msgstr "Сонгосон цалингийн хуудсуудыг имэйлээр илгээхдээ итгэлтэй байна уу?"
 
 #: hrms/hr/doctype/employee_referral/employee_referral.js:9
 msgid "Are you sure you want to reject the Employee Referral?"
-msgstr "Reject the employee referral хийхийг та итгэлтэй байна уу?"
+msgstr "Ажилтны санал болголтыг татгалзахдаа итгэлтэй байна уу?"
 
 #. Name of a DocType
 #: hrms/payroll/doctype/arrear/arrear.json
@@ -1733,7 +1733,7 @@ msgstr "Цагийг өөрчлөх боломжгүй"
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:323
 msgid "Cannot allocate leaves outside the allocation period {0} - {1}"
-msgstr "Allocate leaves outside the allocation period {0} - {1} боломжгүй"
+msgstr "{0} - {1} хуваарилалтын хугацаанаас гадуур чөлөө хуваарилах боломжгүй."
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:446
 msgid "Cannot allocate more leaves due to maximum leave allocation limit of {0} in leave policy assignment"
@@ -1745,19 +1745,19 @@ msgstr "{1} чөлөөний төрөл дэх {0}-ийн зөвшөөрөгдө
 
 #: hrms/api/roster.py:139
 msgid "Cannot break shift after end date"
-msgstr "Break shift after end date боломжгүй"
+msgstr "Дуусах огнооны дараа ээлжийг хуваах боломжгүй."
 
 #: hrms/api/roster.py:141
 msgid "Cannot break shift before start date"
-msgstr "Break shift before start date боломжгүй"
+msgstr "Эхлэх огнооноос өмнө ээлжийг хуваах боломжгүй."
 
 #: hrms/hr/doctype/shift_assignment/shift_assignment.py:70
 msgid "Cannot cancel Shift Assignment: {0} as it is linked to Attendance: {1}"
-msgstr "Cancel shift assignment: {0} as it is linked to attendance: {1} боломжгүй"
+msgstr "{0} ээлжийн хуваарилалтыг цуцлах боломжгүй. Энэ нь {1} ирцтэй холбогдсон байна."
 
 #: hrms/hr/doctype/shift_assignment/shift_assignment.py:53
 msgid "Cannot cancel Shift Assignment: {0} as it is linked to Employee Checkin: {1}"
-msgstr "Cancel shift assignment: {0} as it is linked to employee checkin: {1} боломжгүй"
+msgstr "{0} ээлжийн хуваарилалтыг цуцлах боломжгүй. Энэ нь {1} ажилтны check-in-тэй холбогдсон байна."
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:306
 msgid "Cannot create Salary Slip for Employee joining after Payroll Period"
@@ -1769,7 +1769,7 @@ msgstr "Цалингийн хугацаанаас өмнө гарсан ажил
 
 #: hrms/hr/doctype/job_applicant/job_applicant.py:49
 msgid "Cannot create a Job Applicant against a closed Job Opening"
-msgstr "Create a job applicant against a closed job opening боломжгүй"
+msgstr "Хаагдсан ажлын байрны зарт ажил горилогч үүсгэх боломжгүй."
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:201
 msgid "Cannot create or change transactions against an Appraisal Cycle with status {0}."
@@ -1777,23 +1777,23 @@ msgstr "{0} статустай Үнэлгээний мөчлөгийн эсрэ�
 
 #: hrms/hr/doctype/leave_application/leave_application.py:604
 msgid "Cannot find active Leave Period"
-msgstr "Find active leave period боломжгүй"
+msgstr "Идэвхтэй чөлөөний хугацаа олдсонгүй."
 
 #: hrms/hr/doctype/attendance/attendance.py:152
 msgid "Cannot mark attendance for an Inactive employee {0}"
-msgstr "Mark attendance for an inactive employee {0} боломжгүй"
+msgstr "Идэвхгүй {0} ажилтанд ирц бүртгэх боломжгүй."
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:72
 msgid "Cannot submit. Attendance is not marked for some employees."
-msgstr "Submit. attendance is not marked for some employees боломжгүй"
+msgstr "Батлах боломжгүй. Зарим ажилтны ирц бүртгэгдээгүй байна."
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:140
 msgid "Cannot update allocation for {0} after submission"
-msgstr "Update allocation for {0} after submission боломжгүй"
+msgstr "Баталсны дараа {0}-ийн хуваарилалтыг шинэчлэх боломжгүй."
 
 #: hrms/hr/doctype/goal/goal_list.js:101
 msgid "Cannot update status of Goal groups"
-msgstr "Update status of goal groups боломжгүй"
+msgstr "Зорилгын бүлгүүдийн төлөвийг шинэчлэх боломжгүй."
 
 #. Label of the carry_forward (Check) field in DocType 'Leave Control Panel'
 #. Label of the carry_forward_section (Section Break) field in DocType 'Leave
@@ -3928,31 +3928,31 @@ msgstr "Экспорт хийж байна..."
 
 #: hrms/hr/utils.py:932
 msgid "Failed to create/submit {0} for employees:"
-msgstr "Create/submit {0} for employees: амжилтгүй боллоо"
+msgstr "Ажилтнуудад зориулж {0}-г үүсгэх эсвэл батлах чадсангүй:"
 
 #: hrms/overrides/company.py:36
 msgid "Failed to delete defaults for country {0}."
-msgstr "Delete defaults for country {0} амжилтгүй боллоо"
+msgstr "{0} улсын өгөгдмөл тохиргоог устгаж чадсангүй."
 
 #: hrms/api/__init__.py:769
 msgid "Failed to download PDF: {0}"
-msgstr "Download pdf: {0} амжилтгүй боллоо"
+msgstr "PDF татаж чадсангүй: {0}"
 
 #: hrms/hr/doctype/interview/interview.py:117
 msgid "Failed to send the Interview Reschedule notification. Please configure your email account."
-msgstr "Send the interview reschedule notification. please configure your email account амжилтгүй боллоо"
+msgstr "Ярилцлагын хуваарь өөрчлөгдсөн тухай мэдэгдлийг илгээж чадсангүй. Имэйл хаягийн тохиргоогоо шалгана уу."
 
 #: hrms/overrides/company.py:49
 msgid "Failed to setup defaults for country {0}."
-msgstr "Setup defaults for country {0} амжилтгүй боллоо"
+msgstr "{0} улсын өгөгдмөл тохиргоог үүсгэж чадсангүй."
 
 #: hrms/hr/doctype/leave_policy_assignment/leave_policy_assignment.py:464
 msgid "Failed to submit some leave policy assignments:"
-msgstr "Submit some leave policy assignments: амжилтгүй боллоо"
+msgstr "Зарим чөлөөний бодлогын хуваарилалтыг баталж чадсангүй:"
 
 #: hrms/hr/doctype/interview/interview.py:208
 msgid "Failed to update the Job Applicant status"
-msgstr "Update the job applicant status амжилтгүй боллоо"
+msgstr "Ажил горилогчийн төлөвийг шинэчилж чадсангүй."
 
 #: hrms/public/js/utils/index.js:143
 msgid "Failed to {0} {1} for employees:"
@@ -6695,7 +6695,7 @@ msgstr "Нэмэлт зардал нэмээгүй"
 
 #: frontend/src/components/ExpenseAdvancesTable.vue:63
 msgid "No advances found"
-msgstr "advances олдсонгүй"
+msgstr "Урьдчилгаанууд олдсонгүй."
 
 #: hrms/payroll/doctype/gratuity/gratuity.py:281
 msgid "No applicable Earning component found in last salary slip for Gratuity Rule: {0}"
@@ -6720,7 +6720,7 @@ msgstr "Цалингийн хуудаснаас хоцрогдсон зүйл и
 #: hrms/payroll/doctype/arrear/arrear.py:407
 #: hrms/payroll/doctype/payroll_correction/payroll_correction.py:187
 msgid "No arrear details found"
-msgstr "arrear details олдсонгүй"
+msgstr "Хоцрогдлын дэлгэрэнгүй олдсонгүй."
 
 #: hrms/hr/doctype/overtime_slip/overtime_slip.py:164
 msgid "No attendance records found for employee {0} between {1} and {2}"
@@ -6732,7 +6732,7 @@ msgstr "Энэ шалгуурт ирцийн бүртгэл олдсонгүй."
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:64
 msgid "No attendance records found."
-msgstr "attendance records олдсонгүй"
+msgstr "Ирцийн бүртгэлүүд олдсонгүй."
 
 #: hrms/hr/doctype/attendance_request/attendance_request.py:40
 msgid "No attendance records to create"
@@ -6744,7 +6744,7 @@ msgstr "Цагийн өөрчлөлт олдсонгүй."
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:242
 msgid "No employees found"
-msgstr "employees олдсонгүй"
+msgstr "Ажилтнууд олдсонгүй."
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:225
 msgid "No employees found for the mentioned criteria:<br>Company: {0}<br> Currency: {1}<br>Payroll Payable Account: {2}"
@@ -6801,7 +6801,7 @@ msgstr "Дээрх сонгосон шалгуурын дагуу өгөх ца�
 
 #: frontend/src/views/salary_slip/Dashboard.vue:50
 msgid "No salary slips found"
-msgstr "salary slips олдсонгүй"
+msgstr "Цалингийн хуудсууд олдсонгүй."
 
 #: hrms/payroll/doctype/arrear/arrear.py:136
 msgid "No salary slips found for the selected employee from {0}"
