@@ -72,7 +72,7 @@ msgstr "Нэр"
 #: erpnext/public/js/bom_configurator/bom_configurator.bundle.js:144
 #: erpnext/public/js/bom_configurator/bom_configurator.bundle.js:185
 msgid " Phantom Item"
-msgstr "Phantom Item"
+msgstr "Фантом бараа"
 
 #: erpnext/accounts/report/item_wise_sales_register/item_wise_sales_register.py:602
 msgid " Rate"
@@ -611,7 +611,7 @@ msgstr ""
 
 #: erpnext/assets/doctype/asset/asset.py:541
 msgid "<b>Cannot create asset.</b><br><br>You're trying to create <b>{0} asset(s)</b> from {2} {3}.<br>However, only <b>{1} item(s)</b> were purchased and <b>{4} asset(s)</b> already exist against {5}."
-msgstr "<b>Хөрөнгө үүсгэх боломжгүй.</b><br><br>Та {2} {3}-с <b>{0} өмч(үүд)</b> үүсгэхийг оролдож байна.<br>Гэхдээ үүнийг зөвхөн <b>{1} худалдан авсан бөгөөд эдгээрийг __PH10</b> авсан1 <b>{4} өмч(үүд) </b> аль хэдийн {5}-ийн эсрэг байна."
+msgstr "<b>Хөрөнгө үүсгэх боломжгүй.</b><br><br>Та {2} {3}-с <b>{0} хөрөнгө</b> үүсгэхийг оролдож байна.<br>Гэхдээ зөвхөн <b>{1} бараа</b> худалдан авсан бөгөөд <b>{4} хөрөнгө</b> аль хэдийн {5}-д бүртгэгдсэн байна."
 
 #: erpnext/crm/doctype/appointment_booking_settings/appointment_booking_settings.py:59
 msgid "<b>From Time</b> cannot be later than <b>To Time</b> for {0}"
@@ -830,7 +830,7 @@ msgstr "<p>Нийтэлсэн огноо {0} нь дараах зүйлсийг 
 
 #: erpnext/stock/doctype/stock_settings/stock_settings.js:75
 msgid "<p>Price List Rate has not been set as editable in Selling Settings. In this scenario, setting <strong>Update Price List Based On</strong> to <strong>Price List Rate</strong> will prevent auto-updation of Item Price.</p>Are you sure you want to continue?"
-msgstr "<p>Price жагсаалтын ханшийг Борлуулалтын тохиргоонд засварлах боломжтой гэж тохируулаагүй байна. Энэ хувилбарт </strong>-д суурилсан <strong>Update үнийн жагсаалтыг <strong>Price List Rate</strong> болгон тохируулснаар барааны үнийг автоматаар шинэчлэхээс сэргийлнэ.</p> Та үргэлжлүүлэхдээ итгэлтэй байна уу?"
+msgstr "<p>Selling Settings дотор Price List Rate-ийг засварлах боломжтой гэж тохируулаагүй байна. Ийм нөхцөлд <strong>Update Price List Based On</strong>-ыг <strong>Price List Rate</strong> болгож тохируулбал Item Price автоматаар шинэчлэгдэхгүй.</p>Үргэлжлүүлэхдээ итгэлтэй байна уу?"
 
 #: erpnext/controllers/accounts_controller.py:2276
 msgid "<p>To allow over-billing, please set allowance in Accounts Settings.</p>"
@@ -1183,7 +1183,7 @@ msgstr "Хүлээн авсан тоо"
 #: erpnext/accounts/doctype/purchase_invoice_item/purchase_invoice_item.json
 #: erpnext/stock/doctype/purchase_receipt_item/purchase_receipt_item.json
 msgid "Accepted Qty in Stock UOM"
-msgstr "Stok UOM-д хүлээн зөвшөөрөгдсөн тоо хэмжээ"
+msgstr "Stock UOM дахь зөвшөөрөгдсөн тоо хэмжээ"
 
 #. Label of the qty (Float) field in DocType 'Purchase Receipt Item'
 #: erpnext/public/js/controllers/transaction.js:2924
@@ -2610,7 +2610,7 @@ msgstr "Захиалгын хөнгөлөлт нэмэх"
 #: erpnext/public/js/bom_configurator/bom_configurator.bundle.js:281
 #: erpnext/public/js/bom_configurator/bom_configurator.bundle.js:416
 msgid "Add Phantom Item"
-msgstr "Phantom Item нэмнэ үү"
+msgstr "Фантом бараа нэмнэ үү"
 
 #. Label of the add_quote (Check) field in DocType 'Email Digest'
 #: erpnext/setup/doctype/email_digest/email_digest.json
@@ -4347,7 +4347,7 @@ msgstr "{0} зүйлийн бүртгэл аль хэдийн байна"
 
 #: erpnext/accounts/doctype/pos_profile/pos_profile.py:132
 msgid "Already set default in pos profile {0} for user {1}, kindly disabled default"
-msgstr "Хэрэглэгч {1}-д зориулж pos profile {0}-д өгөгдмөл тохиргоог аль хэдийн тохируулсан, анхдагч тохиргоог идэвхгүй болгосон."
+msgstr "Хэрэглэгч {1}-ийн pos profile {0}-д анхдагч тохиргоо аль хэдийн байна. Анхдагч тохиргоог идэвхгүй болгоно уу."
 
 #: erpnext/stock/doctype/item/item.js:20
 msgid "Also you can't switch back to FIFO after setting the valuation method to Moving Average for this item."
@@ -5189,23 +5189,23 @@ msgstr "Байна"
 
 #: erpnext/public/js/utils/demo.js:17
 msgid "Are you sure you want to clear all demo data?"
-msgstr "Clear all demo data хийхийг та итгэлтэй байна уу?"
+msgstr "Бүх демо өгөгдлийг цэвэрлэхдээ итгэлтэй байна уу?"
 
 #: erpnext/public/js/bom_configurator/bom_configurator.bundle.js:480
 msgid "Are you sure you want to delete this Item?"
-msgstr "Delete this item хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ барааг устгахдаа итгэлтэй байна уу?"
 
 #: erpnext/edi/doctype/code_list/code_list.js:18
 msgid "Are you sure you want to delete {0}?<p>This action will also delete all associated Common Code documents.</p>"
-msgstr "Delete {0}?<p>this action will also delete all associated common code documents.</p> хийхийг та итгэлтэй байна уу?"
+msgstr "{0}-г устгахдаа итгэлтэй байна уу?<p>Энэ үйлдэл нь холбоотой бүх Common Code баримтуудыг мөн устгана.</p>"
 
 #: erpnext/accounts/doctype/subscription/subscription.js:75
 msgid "Are you sure you want to restart this subscription?"
-msgstr "Restart this subscription хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ захиалгыг дахин эхлүүлэхдээ итгэлтэй байна уу?"
 
 #: erpnext/accounts/doctype/budget/budget.js:82
 msgid "Are you sure you want to revise this budget? The current budget will be cancelled and a new draft will be created."
-msgstr "Revise this budget? the current budget will be cancelled and a new draft will be created хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ төсвийг шинэчлэн засварлахдаа итгэлтэй байна уу? Одоогийн төсөв цуцлагдаж, шинэ ноорог үүснэ."
 
 #. Label of the area (Float) field in DocType 'Location'
 #. Name of a UOM
@@ -9364,7 +9364,7 @@ msgstr "Хүчин чадлын төлөвлөлт (өдөр)"
 #. Label of the stock_capacity (Float) field in DocType 'Putaway Rule'
 #: erpnext/stock/doctype/putaway_rule/putaway_rule.json
 msgid "Capacity in Stock UOM"
-msgstr "Stok UOM дахь хүчин чадал"
+msgstr "Stock UOM дахь хүчин чадал"
 
 #: erpnext/stock/doctype/putaway_rule/putaway_rule.py:86
 msgid "Capacity must be greater than 0"
@@ -35186,11 +35186,11 @@ msgstr "{0} нөөцийн зүйлд Phantom BOM үүсгэх боломжгү�
 #: erpnext/manufacturing/doctype/bom/bom_item_preview.html:16
 #: erpnext/public/js/bom_configurator/bom_configurator.bundle.js:321
 msgid "Phantom Item"
-msgstr "Phantom Item"
+msgstr "Фантом бараа"
 
 #: erpnext/public/js/bom_configurator/bom_configurator.bundle.js:430
 msgid "Phantom Item is mandatory"
-msgstr "Phantom Item нь заавал байх ёстой"
+msgstr "Фантом бараа заавал байх ёстой"
 
 #: erpnext/setup/setup_wizard/operations/install_fixtures.py:234
 msgid "Pharmaceutical"

@@ -291,12 +291,12 @@ msgstr "<div class=\"alert\">Таны маягтыг алдагдуулж бол
 #. Introduction text of the request-data Web Form
 #: frappe/website/web_form/request_data/request_data.json
 msgid "<div class=\"ql-editor read-mode\"><p>Request a file containing your personally identifiable information (PII) that is saved on our system. The file will be in JSON format and is sent to you by email. If you would like to have your PII deleted from our system, please make a <a href=\"/request-to-delete-data\" rel=\"noopener noreferrer\">request to delete data</a>.</p></div>"
-msgstr "<div class=\"ql-editor read-mode\"><p>Манай системд хадгалагдсан таны хувийн мэдээллийг (PII) агуулсан файлыг хүсэх. Файл нь JSON форматтай байх бөгөөд танд имэйлээр илгээгдэх болно. Хэрэв та өөрийн PII-ээ манай системээс устгахыг хүсвэл <a href=\"/request-to-delete-data\" rel=\"noopener noreferrer\"></a>.</p></div> өгөгдлийг устгах хүсэлт гаргана уу."
+msgstr "<div class=\"ql-editor read-mode\"><p>Манай системд хадгалагдсан таны хувийн мэдээллийг (PII) агуулсан файлыг хүсэж болно. Файл нь JSON форматтай байх бөгөөд танд имэйлээр илгээгдэнэ. Хэрэв та өөрийн PII-ээ манай системээс устгахыг хүсвэл <a href=\"/request-to-delete-data\" rel=\"noopener noreferrer\">өгөгдөл устгах хүсэлт</a> гаргана уу.</p></div>"
 
 #. Introduction text of the request-to-delete-data Web Form
 #: frappe/website/web_form/request_to_delete_data/request_to_delete_data.json
 msgid "<div class=\"ql-editor read-mode\"><p>Send a request to delete your account and personally identifiable information (PII) that is stored on our system. You will receive an email to verify your request. Once the request is verified we will take care of deleting your PII. If you just want to check what PII we have stored, you can <a href=\"/request-data\" rel=\"noopener noreferrer\">request your data</a>.</p></div>"
-msgstr "<div class=\"ql-editor read-mode\"><p>Таны бүртгэл болон манай системд хадгалагдсан хувийн мэдээллийг (PII) устгах хүсэлтийг илгээнэ үү. Та хүсэлтээ баталгаажуулахын тулд имэйл хүлээн авах болно. Хүсэлтийг баталгаажуулсны дараа бид таны хувийн мэдээллийг устгахад анхаарах болно. Хэрэв та бидний ямар PII хадгалсныг шалгахыг хүсвэл <a href=\"/request-data\" rel=\"noopener noreferrer\">Өөрийн өгөгдөл</a>.</p></div> хүсэлт гаргаж болно."
+msgstr "<div class=\"ql-editor read-mode\"><p>Таны бүртгэл болон манай системд хадгалагдсан хувийн мэдээллийг (PII) устгах хүсэлтийг илгээнэ үү. Та хүсэлтээ баталгаажуулахын тулд имэйл хүлээн авна. Хүсэлтийг баталгаажуулсны дараа бид таны PII-г устгана. Хэрэв бид ямар PII хадгалсныг шалгахыг хүсвэл <a href=\"/request-data\" rel=\"noopener noreferrer\">өөрийн өгөгдлийг хүсэх</a> хүсэлт гаргаж болно.</p></div>"
 
 #. Content of the 'Help HTML' (HTML) field in DocType 'Document Naming
 #. Settings'
@@ -646,7 +646,7 @@ msgstr "{1}-д {0} нэртэй талбар аль хэдийн байна"
 
 #: frappe/core/doctype/file/file.py:312
 msgid "A file with same name {} already exists"
-msgstr "A file with same name {} аль хэдийн байна"
+msgstr "Ижил нэртэй файл {} аль хэдийн байна"
 
 #. Description of the 'Scopes' (Text) field in DocType 'OAuth Client'
 #: frappe/integrations/doctype/oauth_client/oauth_client.json
@@ -2524,87 +2524,87 @@ msgstr "Архивласан баганууд"
 
 #: frappe/core/doctype/user_invitation/user_invitation.js:18
 msgid "Are you sure you want to cancel the invitation?"
-msgstr "Cancel the invitation хийхийг та итгэлтэй байна уу?"
+msgstr "Урилгыг цуцлахдаа итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/list/list_view.js:2250
 msgid "Are you sure you want to clear the assignments?"
-msgstr "Clear the assignments хийхийг та итгэлтэй байна уу?"
+msgstr "Оноолтуудыг цэвэрлэхдээ итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/form/grid.js:319
 msgid "Are you sure you want to delete all {0} rows?"
-msgstr "Delete all {0} rows хийхийг та итгэлтэй байна уу?"
+msgstr "{0} мөрийг бүгдийг нь устгахдаа итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/form/controls/attach.js:38
 #: frappe/public/js/frappe/form/sidebar/attachments.js:135
 msgid "Are you sure you want to delete the attachment?"
-msgstr "Delete the attachment хийхийг та итгэлтэй байна уу?"
+msgstr "Хавсралтыг устгахдаа итгэлтэй байна уу?"
 
 #: frappe/public/js/form_builder/components/Section.vue:197
 msgctxt "Confirmation dialog message"
 msgid "Are you sure you want to delete the column? All the fields in the column will be moved to the previous column."
-msgstr "Delete the column? all the fields in the column will be moved to the previous column хийхийг та итгэлтэй байна уу?"
+msgstr "Баганыг устгахдаа итгэлтэй байна уу? Энэ баганад байгаа бүх талбар өмнөх багана руу шилжинэ."
 
 #: frappe/public/js/form_builder/components/Section.vue:126
 msgctxt "Confirmation dialog message"
 msgid "Are you sure you want to delete the section? All the columns along with fields in the section will be moved to the previous section."
-msgstr "Delete the section? all the columns along with fields in the section will be moved to the previous section хийхийг та итгэлтэй байна уу?"
+msgstr "Хэсгийг устгахдаа итгэлтэй байна уу? Хэсэг доторх бүх багана болон талбарууд өмнөх хэсэг рүү шилжинэ."
 
 #: frappe/public/js/form_builder/components/Tabs.vue:65
 msgctxt "Confirmation dialog message"
 msgid "Are you sure you want to delete the tab? All the sections along with fields in the tab will be moved to the previous tab."
-msgstr "Delete the tab? all the sections along with fields in the tab will be moved to the previous tab хийхийг та итгэлтэй байна уу?"
+msgstr "Табыг устгахдаа итгэлтэй байна уу? Таб доторх бүх хэсэг болон талбарууд өмнөх таб руу шилжинэ."
 
 #: frappe/public/js/frappe/web_form/web_form.js:199
 msgid "Are you sure you want to delete this record?"
-msgstr "Delete this record хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ бичлэгийг устгахдаа итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/web_form/web_form.js:187
 msgid "Are you sure you want to discard the changes?"
-msgstr "Discard the changes хийхийг та итгэлтэй байна уу?"
+msgstr "Өөрчлөлтүүдийг хэрэгсэхгүй болгохдоо итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/views/reports/query_report.js:1012
 msgid "Are you sure you want to generate a new report?"
-msgstr "Generate a new report хийхийг та итгэлтэй байна уу?"
+msgstr "Шинэ тайлан үүсгэхдээ итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/desk.js:381
 msgid "Are you sure you want to log out?"
-msgstr "Log out хийхийг та итгэлтэй байна уу?"
+msgstr "Системээс гарахдаа итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/form/toolbar.js:130
 msgid "Are you sure you want to merge {0} with {1}?"
-msgstr "Merge {0} with {1} хийхийг та итгэлтэй байна уу?"
+msgstr "{0}-г {1}-тэй нэгтгэхдээ итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/views/kanban/kanban_view.js:119
 msgid "Are you sure you want to proceed?"
-msgstr "Proceed хийхийг та итгэлтэй байна уу?"
+msgstr "Үргэлжлүүлэхдээ итгэлтэй байна уу?"
 
 #: frappe/core/doctype/rq_job/rq_job_list.js:34
 msgid "Are you sure you want to re-enable scheduler?"
-msgstr "Re-enable scheduler хийхийг та итгэлтэй байна уу?"
+msgstr "Төлөвлөгчийг дахин идэвхжүүлэхдээ итгэлтэй байна уу?"
 
 #: frappe/core/doctype/communication/communication.js:163
 msgid "Are you sure you want to relink this communication to {0}?"
-msgstr "Relink this communication to {0} хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ харилцааг {0}-той дахин холбохдоо итгэлтэй байна уу?"
 
 #: frappe/core/doctype/rq_job/rq_job_list.js:10
 msgid "Are you sure you want to remove all failed jobs?"
-msgstr "Remove all failed jobs хийхийг та итгэлтэй байна уу?"
+msgstr "Амжилтгүй бүх ажлыг устгахдаа итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/list/list_filter.js:74
 msgid "Are you sure you want to remove the {0} filter?"
-msgstr "Remove the {0} filter хийхийг та итгэлтэй байна уу?"
+msgstr "{0} шүүлтүүрийг устгахдаа итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/views/dashboard/dashboard_view.js:268
 msgid "Are you sure you want to reset all customizations?"
-msgstr "Reset all customizations хийхийг та итгэлтэй байна уу?"
+msgstr "Бүх өөрчлөн тохируулгыг анхны төлөвт нь оруулахдаа итгэлтэй байна уу?"
 
 #: frappe/workflow/doctype/workflow/workflow.js:126
 msgid "Are you sure you want to save this document?"
-msgstr "Save this document хийхийг та итгэлтэй байна уу?"
+msgstr "Энэ баримтыг хадгалахдаа итгэлтэй байна уу?"
 
 #: frappe/public/js/frappe/form/workflow.js:109
 msgid "Are you sure you want to {0}?"
-msgstr "{0} хийхийг та итгэлтэй байна уу?"
+msgstr "{0} хийхдээ итгэлтэй байна уу?"
 
 #: frappe/core/doctype/document_naming_rule/document_naming_rule.js:16
 #: frappe/core/doctype/user_permission/user_permission_list.js:165
